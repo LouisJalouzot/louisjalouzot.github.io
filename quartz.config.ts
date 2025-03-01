@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "louisjalouzot.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
