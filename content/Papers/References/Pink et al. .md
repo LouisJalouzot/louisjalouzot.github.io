@@ -14,7 +14,7 @@ generated: true
 key: 4DQ4Q2M8
 version: 2256
 itemType: conferencePaper
-title: Testing Memory Capabilities in Large Language Models with the...
+paperTitle: Testing Memory Capabilities in Large Language Models with the...
 language: en
 url: "https://openreview.net/forum?id=5P0FhJRslE&referrer=%5Bthe%20profile%20of%20Kenneth%20A.%20Norman%5D(%2Fprofile%3Fid%3D~Kenneth_A._Norman2)"
 accessDate: "2024-11-11T22:23:40Z"

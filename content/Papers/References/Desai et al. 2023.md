@@ -15,7 +15,7 @@ generated: true
 key: AD6VBDVP
 version: 2233
 itemType: journalArticle
-title: Hyperbolic Image-Text Representations
+paperTitle: Hyperbolic Image-Text Representations
 DOI: 10.48550/ARXIV.2304.09172
 url: "https://arxiv.org/abs/2304.09172"
 accessDate: "2024-06-03T19:08:08Z"

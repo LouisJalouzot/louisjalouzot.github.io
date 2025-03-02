@@ -11,7 +11,7 @@ generated: true
 key: FD32QV3C
 version: 2268
 itemType: conferencePaper
-title: "TopoNets: High Performing Vision and Language Models with Brain-Like Topography"
+paperTitle: "TopoNets: High Performing Vision and Language Models with Brain-Like Topography"
 shortTitle: TopoNets
 url: "https://www.semanticscholar.org/paper/TopoNets%3A-High-Performing-Vision-and-Language-with-Deb-Deb/73dd4c6a593f5efe7ae67cdf1bdd491295e37906"
 accessDate: "2025-02-11T03:55:07Z"

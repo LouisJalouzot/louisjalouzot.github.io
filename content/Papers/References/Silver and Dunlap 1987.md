@@ -9,7 +9,7 @@ generated: true
 key: TDQSKTYY
 version: 2245
 itemType: journalArticle
-title: "Averaging correlation coefficients: Should Fisher's z transformation be used?"
+paperTitle: "Averaging correlation coefficients: Should Fisher's z transformation be used?"
 publicationTitle: Journal of Applied Psychology
 volume: 72
 issue: 1

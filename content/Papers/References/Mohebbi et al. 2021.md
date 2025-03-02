@@ -9,7 +9,7 @@ generated: true
 key: SQ2GCQCH
 version: 2239
 itemType: journalArticle
-title: Exploring the Role of BERT Token Representations to Explain Sentence Probing Results
+paperTitle: Exploring the Role of BERT Token Representations to Explain Sentence Probing Results
 publicationTitle: Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing
 pages: 792-806
 language: en

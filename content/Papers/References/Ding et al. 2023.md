@@ -15,7 +15,7 @@ generated: true
 key: CH7GI5MW
 version: 2257
 itemType: journalArticle
-title: CausalLM is not optimal for in-context learning
+paperTitle: CausalLM is not optimal for in-context learning
 DOI: 10.48550/ARXIV.2308.06912
 url: "https://arxiv.org/abs/2308.06912"
 accessDate: "2024-11-20T00:04:01Z"

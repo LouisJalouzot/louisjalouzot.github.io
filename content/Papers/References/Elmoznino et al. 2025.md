@@ -16,7 +16,7 @@ generated: true
 key: SPEL82N3
 version: 2048
 itemType: preprint
-title: A Complexity-Based Theory of Compositionality
+paperTitle: A Complexity-Based Theory of Compositionality
 repository: arXiv
 archiveID: "arXiv:2410.14817"
 DOI: 10.48550/arXiv.2410.14817

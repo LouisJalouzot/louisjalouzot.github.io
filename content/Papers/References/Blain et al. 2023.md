@@ -14,7 +14,7 @@ generated: true
 key: ZRSXRN76
 version: 2243
 itemType: conferencePaper
-title: False Discovery Proportion control for aggregated Knockoffs
+paperTitle: False Discovery Proportion control for aggregated Knockoffs
 proceedingsTitle: NeurIPS 2023 – 37th Conference on Neural Information Processing Systems
 place: "New Orleans, United States"
 DOI: 10.48550/arXiv.2310.10373

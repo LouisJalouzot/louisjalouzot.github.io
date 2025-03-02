@@ -10,7 +10,7 @@ generated: true
 key: IMR4FHV3
 version: 2232
 itemType: journalArticle
-title: "Testing the Effectiveness of CNN and GNN and Exploring the Influence of Different Channels on Decoding Covert Speech from EEG Signals: CNN and GNN on Decoding Covert Speech from EEG Signals"
+paperTitle: "Testing the Effectiveness of CNN and GNN and Exploring the Influence of Different Channels on Decoding Covert Speech from EEG Signals: CNN and GNN on Decoding Covert Speech from EEG Signals"
 publicationTitle: The 12th International Conference on Computational Systems-Biology and Bioinformatics
 pages: 17-26
 language: en

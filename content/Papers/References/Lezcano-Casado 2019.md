@@ -12,7 +12,7 @@ generated: true
 key: 9FUZGK2V
 version: 2243
 itemType: preprint
-title: Trivializations for Gradient-Based Optimization on Manifolds
+paperTitle: Trivializations for Gradient-Based Optimization on Manifolds
 repository: arXiv
 archiveID: "arXiv:1909.09501"
 DOI: 10.48550/arXiv.1909.09501

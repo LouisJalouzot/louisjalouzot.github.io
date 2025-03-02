@@ -16,7 +16,7 @@ generated: true
 key: I749LXPU
 version: 2252
 itemType: journalArticle
-title: "Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"
+paperTitle: "Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"
 DOI: 10.48550/ARXIV.2205.01128
 shortTitle: Neurocompositional computing
 url: "https://arxiv.org/abs/2205.01128"

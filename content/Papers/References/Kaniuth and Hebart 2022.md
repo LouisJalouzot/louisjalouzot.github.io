@@ -9,7 +9,7 @@ generated: true
 key: ZX9Y487G
 version: 2263
 itemType: journalArticle
-title: "Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior"
+paperTitle: "Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior"
 publicationTitle: NeuroImage
 volume: 257
 pages: 119294

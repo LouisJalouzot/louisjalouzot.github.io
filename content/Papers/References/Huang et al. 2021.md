@@ -9,7 +9,7 @@ generated: true
 key: K5B83Q74
 version: 2255
 itemType: conferencePaper
-title: Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models
+paperTitle: Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models
 proceedingsTitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
 conferenceName: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
 place: Online

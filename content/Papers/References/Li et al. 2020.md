@@ -12,7 +12,7 @@ generated: true
 key: 4GQBS92P
 version: 2255
 itemType: journalArticle
-title: On the Sentence Embeddings from Pre-trained Language Models
+paperTitle: On the Sentence Embeddings from Pre-trained Language Models
 publicationTitle: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 pages: 9119-9130
 language: en

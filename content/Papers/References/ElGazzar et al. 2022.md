@@ -12,7 +12,7 @@ generated: true
 key: RQAHHLG3
 version: 2231
 itemType: journalArticle
-title: Benchmarking Graph Neural Networks for FMRI analysis
+paperTitle: Benchmarking Graph Neural Networks for FMRI analysis
 DOI: 10.48550/ARXIV.2211.08927
 url: "https://arxiv.org/abs/2211.08927"
 accessDate: "2024-06-24T16:26:38Z"

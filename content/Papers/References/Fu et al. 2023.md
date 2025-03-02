@@ -13,7 +13,7 @@ generated: true
 key: IIJ9Z8I3
 version: 2260
 itemType: journalArticle
-title: Truncated Laplace and Gaussian mechanisms of RDP
+paperTitle: Truncated Laplace and Gaussian mechanisms of RDP
 DOI: 10.48550/ARXIV.2309.12647
 url: "https://arxiv.org/abs/2309.12647"
 accessDate: "2024-12-01T21:12:37Z"

@@ -13,7 +13,7 @@ generated: true
 key: 5Q748PNC
 version: 2237
 itemType: journalArticle
-title: Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension
+paperTitle: Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension
 language: en
 DOI: 10.1101/2021.11.22.469596
 url: "http://biorxiv.org/lookup/doi/10.1101/2021.11.22.469596"

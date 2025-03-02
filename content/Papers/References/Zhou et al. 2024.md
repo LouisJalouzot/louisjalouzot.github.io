@@ -14,7 +14,7 @@ generated: true
 key: P5GZ5GQB
 version: 2249
 itemType: journalArticle
-title: Larger and more instructable language models become less reliable
+paperTitle: Larger and more instructable language models become less reliable
 publicationTitle: Nature
 journalAbbreviation: Nature
 language: en

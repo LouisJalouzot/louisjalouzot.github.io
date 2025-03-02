@@ -12,7 +12,7 @@ generated: true
 key: HGXFVA6J
 version: 2235
 itemType: journalArticle
-title: Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans
+paperTitle: Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans
 publicationTitle: Journal of Neural Engineering
 volume: 8
 issue: 4

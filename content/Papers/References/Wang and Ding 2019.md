@@ -10,7 +10,7 @@ generated: true
 key: JTLYJTBT
 version: 2263
 itemType: journalArticle
-title: Fast Approximation of Empirical Entropy via Subsampling
+paperTitle: Fast Approximation of Empirical Entropy via Subsampling
 publicationTitle: "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining"
 pages: 658-667
 language: en

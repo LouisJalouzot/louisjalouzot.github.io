@@ -19,7 +19,7 @@ generated: true
 key: IJYQP2VG
 version: 2235
 itemType: journalArticle
-title: Universal Neurons in GPT2 Language Models
+paperTitle: Universal Neurons in GPT2 Language Models
 DOI: 10.48550/ARXIV.2401.12181
 url: "https://arxiv.org/abs/2401.12181"
 accessDate: "2024-05-31T20:06:18Z"

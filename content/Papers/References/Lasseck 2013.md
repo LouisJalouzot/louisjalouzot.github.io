@@ -7,7 +7,7 @@ generated: true
 key: K23U8D46
 version: 2251
 itemType: conferencePaper
-title: "Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition"
+paperTitle: "Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition"
 shortTitle: Bird Song Classification in Field Recordings
 url: "https://www.semanticscholar.org/paper/Bird-Song-Classification-in-Field-Recordings%3A-for-*-Lasseck/95e0623c25126610014820dd7a04207a1fce900a"
 accessDate: "2024-10-11T08:34:32Z"

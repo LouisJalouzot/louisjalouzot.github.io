@@ -9,7 +9,7 @@ generated: true
 key: T5K4PCSV
 version: 2253
 itemType: journalArticle
-title: Logical Versus Analogical or Symbolic Versus Connectionist or Neat Versus Scruffy
+paperTitle: Logical Versus Analogical or Symbolic Versus Connectionist or Neat Versus Scruffy
 publicationTitle: AI Magazine
 volume: 12
 issue: 2

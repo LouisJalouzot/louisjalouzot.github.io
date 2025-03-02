@@ -682,7 +682,7 @@ generated: true
 key: ARUBNQA5
 version: 2047
 itemType: journalArticle
-title: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+paperTitle: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
 publicationTitle: ArXiv
 shortTitle: Gemini 1.5
 url: "https://www.semanticscholar.org/paper/Gemini-1.5%3A-Unlocking-multimodal-understanding-of-Reid-Savinov/c811bedbe8f4c21d0cba9f9175f7c2eb203284a7"

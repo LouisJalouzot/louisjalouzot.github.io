@@ -14,7 +14,7 @@ generated: true
 key: HAVHV9E8
 version: 2244
 itemType: preprint
-title: Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number
+paperTitle: Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number
 repository: arXiv
 archiveID: "arXiv:2310.15151"
 DOI: 10.48550/arXiv.2310.15151

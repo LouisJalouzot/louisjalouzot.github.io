@@ -10,7 +10,7 @@ generated: true
 key: HHCY9ET9
 version: 2237
 itemType: journalArticle
-title: "Language processing in brains and deep neural networks: computational convergence and its limits"
+paperTitle: "Language processing in brains and deep neural networks: computational convergence and its limits"
 language: en
 DOI: 10.1101/2020.07.03.186288
 shortTitle: Language processing in brains and deep neural networks

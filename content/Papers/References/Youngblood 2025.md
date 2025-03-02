@@ -9,7 +9,7 @@ generated: true
 key: A9YA8B9H
 version: 2270
 itemType: journalArticle
-title: Language-like efficiency in whale communication
+paperTitle: Language-like efficiency in whale communication
 publicationTitle: Science Advances
 volume: 11
 issue: 6

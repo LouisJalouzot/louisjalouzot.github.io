@@ -16,7 +16,7 @@ generated: true
 key: FFD9ZL9P
 version: 2262
 itemType: conferencePaper
-title: "Neural decoding from stereotactic EEG: accounting for electrode variability across subjects"
+paperTitle: "Neural decoding from stereotactic EEG: accounting for electrode variability across subjects"
 shortTitle: Neural decoding from stereotactic EEG
 url: "https://www.semanticscholar.org/paper/Neural-decoding-from-stereotactic-EEG%3A-accounting-Mentzelopoulos-Chatzipantazis/56fe18529ea9dc04f245149a8b9f06a896f6fc05"
 accessDate: "2024-12-17T13:48:44Z"

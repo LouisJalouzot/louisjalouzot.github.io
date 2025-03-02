@@ -15,7 +15,7 @@ generated: true
 key: A7WZDSQ3
 version: 2037
 itemType: preprint
-title: A phase transition between positional and semantic learning in a solvable model of dot-product attention
+paperTitle: A phase transition between positional and semantic learning in a solvable model of dot-product attention
 repository: arXiv
 archiveID: "arXiv:2402.03902"
 DOI: 10.48550/arXiv.2402.03902

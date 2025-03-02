@@ -13,7 +13,7 @@ generated: true
 key: LVLH4ZFT
 version: 2081
 itemType: journalArticle
-title: Listening in to perceived speech with contrastive learning
+paperTitle: Listening in to perceived speech with contrastive learning
 publicationTitle: Nature Machine Intelligence
 volume: 5
 issue: 11

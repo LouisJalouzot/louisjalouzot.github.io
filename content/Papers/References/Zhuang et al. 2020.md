@@ -23,7 +23,7 @@ generated: true
 key: J8L3LLA5
 version: 2037
 itemType: journalArticle
-title: A technical review of canonical correlation analysis for neuroscience applications
+paperTitle: A technical review of canonical correlation analysis for neuroscience applications
 publicationTitle: Human Brain Mapping
 volume: 41
 issue: 13

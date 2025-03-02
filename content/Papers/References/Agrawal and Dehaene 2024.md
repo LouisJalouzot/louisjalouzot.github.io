@@ -13,7 +13,7 @@ generated: true
 key: 25PT8KHC
 version: 2255
 itemType: journalArticle
-title: Cracking the neural code for word recognition in convolutional neural networks
+paperTitle: Cracking the neural code for word recognition in convolutional neural networks
 DOI: 10.48550/ARXIV.2403.06159
 url: "https://arxiv.org/abs/2403.06159"
 accessDate: "2024-11-06T10:33:35Z"

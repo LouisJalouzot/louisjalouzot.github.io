@@ -11,7 +11,7 @@ generated: true
 key: FSQFTTUM
 version: 2038
 itemType: journalArticle
-title: Mapping and modeling the semantic space of math concepts
+paperTitle: Mapping and modeling the semantic space of math concepts
 publicationTitle: Cognition
 volume: 254
 pages: 105971

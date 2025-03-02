@@ -16,7 +16,7 @@ generated: true
 key: TUAAI3N6
 version: 2257
 itemType: journalArticle
-title: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
+paperTitle: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
 DOI: 10.48550/ARXIV.2404.05961
 shortTitle: LLM2Vec
 url: "https://arxiv.org/abs/2404.05961"

@@ -15,7 +15,7 @@ generated: true
 key: WWE8YWEU
 version: 2263
 itemType: conferencePaper
-title: Decoding individual words from non-invasive brain recordings across 723 participants
+paperTitle: Decoding individual words from non-invasive brain recordings across 723 participants
 url: "https://www.semanticscholar.org/paper/Decoding-individual-words-from-non-invasive-brain-d'Ascoli-Bel/c81f6c09a99f8fa978be184982d9407202d3439b"
 accessDate: "2024-12-28T21:43:03Z"
 libraryCatalog: Semantic Scholar

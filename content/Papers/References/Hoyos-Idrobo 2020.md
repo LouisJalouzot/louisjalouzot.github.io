@@ -12,7 +12,7 @@ generated: true
 key: WRL7QLC3
 version: 2243
 itemType: preprint
-title: "Aligning Hyperbolic Representations: an Optimal Transport-based approach"
+paperTitle: "Aligning Hyperbolic Representations: an Optimal Transport-based approach"
 repository: arXiv
 archiveID: "arXiv:2012.01089"
 DOI: 10.48550/arXiv.2012.01089

@@ -17,7 +17,7 @@ generated: true
 key: IGSSCNX2
 version: 2246
 itemType: journalArticle
-title: Shared functional specialization in transformer-based language models and the human brain
+paperTitle: Shared functional specialization in transformer-based language models and the human brain
 language: en
 DOI: 10.1101/2022.06.08.495348
 url: "http://biorxiv.org/lookup/doi/10.1101/2022.06.08.495348"

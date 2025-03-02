@@ -24,7 +24,7 @@ generated: true
 key: P4S5LQHT
 version: 2248
 itemType: journalArticle
-title: A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
+paperTitle: A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
 publicationTitle: Neuron
 pages: S0896627324004604
 journalAbbreviation: Neuron

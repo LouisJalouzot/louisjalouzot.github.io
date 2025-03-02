@@ -23,7 +23,7 @@ generated: true
 key: EJH6WQEA
 version: 2238
 itemType: journalArticle
-title: "MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data"
+paperTitle: "MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data"
 DOI: 10.48550/ARXIV.2403.11207
 shortTitle: MindEye2
 url: "https://arxiv.org/abs/2403.11207"

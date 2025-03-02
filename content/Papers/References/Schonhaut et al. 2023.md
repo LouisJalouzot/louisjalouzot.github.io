@@ -11,7 +11,7 @@ generated: true
 key: FRPI6MBV
 version: 2237
 itemType: journalArticle
-title: A neural code for time and space in the human brain
+paperTitle: A neural code for time and space in the human brain
 publicationTitle: Cell Reports
 volume: 42
 issue: 11

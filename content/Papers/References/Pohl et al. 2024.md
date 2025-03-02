@@ -16,7 +16,7 @@ generated: true
 key: WHJYJTIA
 version: 2261
 itemType: conferencePaper
-title: Desiderata of evidence for representation in neuroscience
+paperTitle: Desiderata of evidence for representation in neuroscience
 url: "https://www.semanticscholar.org/paper/Desiderata-of-evidence-for-representation-in-Pohl-Walker/a0f2d12a10f27993ad97a1351fa0bdb5056ef1dd"
 accessDate: "2024-12-04T09:18:29Z"
 libraryCatalog: Semantic Scholar

@@ -15,7 +15,7 @@ generated: true
 key: NSCNVGZF
 version: 2253
 itemType: conferencePaper
-title: A generative framework to bridge data-driven models and scientific theories in language neuroscience
+paperTitle: A generative framework to bridge data-driven models and scientific theories in language neuroscience
 url: "https://www.semanticscholar.org/paper/A-generative-framework-to-bridge-data-driven-models-Antonello-Singh/5d0454b1e913770d8de136b7f1b7841f427462e0"
 accessDate: "2024-10-25T09:31:03Z"
 libraryCatalog: Semantic Scholar

@@ -10,7 +10,7 @@ generated: true
 key: EAGJRV2Z
 version: 2256
 itemType: conferencePaper
-title: "Physics of Language Models: Part 1, Learning Hierarchical Language Structures"
+paperTitle: "Physics of Language Models: Part 1, Learning Hierarchical Language Structures"
 shortTitle: Physics of Language Models
 url: "https://www.semanticscholar.org/paper/Physics-of-Language-Models%3A-Part-1%2C-Learning-Allen-Zhu-Li/656d40a68662ac480a6c56677f7fc12aad26a50e"
 accessDate: "2024-11-07T14:48:29Z"

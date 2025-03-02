@@ -7,7 +7,7 @@ generated: true
 key: PRYHGBQT
 version: 2245
 itemType: conferencePaper
-title: Cross-language structural priming in recurrent neural network language models
+paperTitle: Cross-language structural priming in recurrent neural network language models
 conferenceName: Annual Meeting of the Cognitive Science Society
 url: "https://www.semanticscholar.org/paper/Cross-language-structural-priming-in-recurrent-Frank/03fdef222c6a75caf09e5d5dc190ae55e0cfbbcc"
 accessDate: "2024-07-05T07:28:35Z"

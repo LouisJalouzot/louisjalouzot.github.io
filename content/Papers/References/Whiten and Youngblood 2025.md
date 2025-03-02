@@ -10,7 +10,7 @@ generated: true
 key: 72K9Q7S4
 version: 2269
 itemType: journalArticle
-title: Convergent evolution in whale and human vocal cultures
+paperTitle: Convergent evolution in whale and human vocal cultures
 publicationTitle: Science
 volume: 387
 issue: 6734

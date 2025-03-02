@@ -12,7 +12,7 @@ generated: true
 key: J3XBJDGC
 version: 2258
 itemType: journalArticle
-title: Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
+paperTitle: Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
 DOI: 10.48550/ARXIV.2405.18765
 url: "https://arxiv.org/abs/2405.18765"
 accessDate: "2024-11-25T09:12:58Z"

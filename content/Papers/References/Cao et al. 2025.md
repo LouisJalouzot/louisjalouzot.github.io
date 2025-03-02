@@ -23,7 +23,7 @@ generated: true
 key: YUDU7R8S
 version: 2047
 itemType: journalArticle
-title: A neuronal code for object representation and memory in the human amygdala and hippocampus
+paperTitle: A neuronal code for object representation and memory in the human amygdala and hippocampus
 publicationTitle: Nature Communications
 volume: 16
 issue: 1

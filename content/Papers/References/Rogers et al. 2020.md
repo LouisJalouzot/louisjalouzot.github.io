@@ -10,7 +10,7 @@ generated: true
 key: P7DAMG6H
 version: 2239
 itemType: journalArticle
-title: "A Primer in BERTology: What We Know About How BERT Works"
+paperTitle: "A Primer in BERTology: What We Know About How BERT Works"
 publicationTitle: Transactions of the Association for Computational Linguistics
 volume: 8
 pages: 842-866

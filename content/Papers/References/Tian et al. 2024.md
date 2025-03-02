@@ -14,7 +14,7 @@ generated: true
 key: TG63UVE2
 version: 2249
 itemType: journalArticle
-title: Mental programming of spatial sequences in working memory in the macaque frontal cortex
+paperTitle: Mental programming of spatial sequences in working memory in the macaque frontal cortex
 publicationTitle: Science
 volume: 385
 issue: 6716

@@ -12,7 +12,7 @@ generated: true
 key: NZRZJ9KS
 version: 2254
 itemType: journalArticle
-title: RNNs Implicitly Implement Tensor Product Representations
+paperTitle: RNNs Implicitly Implement Tensor Product Representations
 publicationTitle: ArXiv
 url: "https://www.semanticscholar.org/paper/RNNs-Implicitly-Implement-Tensor-Product-McCoy-Linzen/d3ded34ff3378aadaa9a7c10e51cef6d04391a86"
 accessDate: "2024-10-29T10:26:01Z"

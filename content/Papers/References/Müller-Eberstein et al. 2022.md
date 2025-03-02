@@ -12,7 +12,7 @@ generated: true
 key: C524QQFG
 version: 2250
 itemType: journalArticle
-title: Spectral Probing
+paperTitle: Spectral Probing
 DOI: 10.48550/ARXIV.2210.11860
 url: "https://arxiv.org/abs/2210.11860"
 accessDate: "2024-10-02T21:11:13Z"

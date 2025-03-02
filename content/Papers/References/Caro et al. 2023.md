@@ -22,7 +22,7 @@ generated: true
 key: F8QKN3RM
 version: 2262
 itemType: journalArticle
-title: "BrainLM: A foundation model for brain activity recordings"
+paperTitle: "BrainLM: A foundation model for brain activity recordings"
 language: en
 DOI: 10.1101/2023.09.12.557460
 shortTitle: BrainLM

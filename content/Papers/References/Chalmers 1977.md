@@ -9,7 +9,7 @@ generated: true
 key: S5YD4564
 version: 2262
 itemType: conferencePaper
-title: "What is this thing called science? - an assessment of the nature and status of science and its methods (2. ed.)"
+paperTitle: "What is this thing called science? - an assessment of the nature and status of science and its methods (2. ed.)"
 conferenceName: UQP nonfiction
 shortTitle: "What is this thing called science?"
 url: "https://www.semanticscholar.org/paper/What-is-this-thing-called-science-an-assessment-of-Chalmers/bb6d052808266c133b1b72e822dbdc1462518d3c"

@@ -15,7 +15,7 @@ generated: true
 key: M9BC4AJZ
 version: 2244
 itemType: preprint
-title: Characterizing and Measuring the Similarity of Neural Networks with Persistent Homology
+paperTitle: Characterizing and Measuring the Similarity of Neural Networks with Persistent Homology
 repository: arXiv
 archiveID: "arXiv:2101.07752"
 DOI: 10.48550/arXiv.2101.07752

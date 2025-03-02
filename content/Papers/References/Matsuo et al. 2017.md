@@ -10,7 +10,7 @@ generated: true
 key: 6HLRPZAB
 version: 2254
 itemType: journalArticle
-title: Transform invariant auto-encoder
+paperTitle: Transform invariant auto-encoder
 publicationTitle: 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 pages: 2359-2364
 DOI: 10.1109/IROS.2017.8206047

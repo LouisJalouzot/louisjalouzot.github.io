@@ -17,7 +17,7 @@ generated: true
 key: PA5J294R
 version: 2239
 itemType: preprint
-title: Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations
+paperTitle: Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations
 repository: arXiv
 archiveID: "arXiv:2402.11608"
 DOI: 10.48550/arXiv.2402.11608

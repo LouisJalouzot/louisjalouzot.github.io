@@ -14,7 +14,7 @@ generated: true
 key: FECSHITT
 version: 2265
 itemType: journalArticle
-title: "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units"
+paperTitle: "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units"
 DOI: 10.48550/ARXIV.2411.02280
 shortTitle: The LLM Language Network
 url: "https://arxiv.org/abs/2411.02280"

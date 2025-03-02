@@ -11,7 +11,7 @@ generated: true
 key: WS6SP3EY
 version: 2233
 itemType: conferencePaper
-title: Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
+paperTitle: Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
 conferenceName: International Conference on Machine Learning
 url: "https://www.semanticscholar.org/paper/Hyperbolic-Entailment-Cones-for-Learning-Embeddings-Ganea-B%C3%A9cigneul/a4e088a3d92f9299b6a8060c21a1082ecb251902"
 accessDate: "2024-06-03T19:07:30Z"

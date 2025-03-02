@@ -20,7 +20,7 @@ generated: true
 key: SSFFYXET
 version: 2257
 itemType: journalArticle
-title: Crafting Interpretable Embeddings by Asking LLMs Questions
+paperTitle: Crafting Interpretable Embeddings by Asking LLMs Questions
 DOI: 10.48550/ARXIV.2405.16714
 url: "https://arxiv.org/abs/2405.16714"
 accessDate: "2024-11-12T20:33:26Z"

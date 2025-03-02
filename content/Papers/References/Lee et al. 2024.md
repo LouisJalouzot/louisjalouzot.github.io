@@ -10,7 +10,7 @@ generated: true
 key: 88T289K7
 version: 2249
 itemType: journalArticle
-title: Efficient functional localization of language regions in the brain
+paperTitle: Efficient functional localization of language regions in the brain
 publicationTitle: NeuroImage
 volume: 285
 pages: 120489

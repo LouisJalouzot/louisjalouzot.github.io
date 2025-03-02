@@ -11,7 +11,7 @@ generated: true
 key: 9VULY4ZA
 version: 2261
 itemType: journalArticle
-title: Variation in the geometry of concept manifolds across human visual cortex
+paperTitle: Variation in the geometry of concept manifolds across human visual cortex
 language: en
 DOI: 10.1101/2024.11.26.625280
 url: "https://www.biorxiv.org/content/10.1101/2024.11.26.625280v1.full"

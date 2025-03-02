@@ -10,7 +10,7 @@ generated: true
 key: 3Y2YLDTE
 version: 2264
 itemType: journalArticle
-title: Efficient Approximate Algorithms for Empirical Entropy and Mutual Information
+paperTitle: Efficient Approximate Algorithms for Empirical Entropy and Mutual Information
 publicationTitle: Proceedings of the 2021 International Conference on Management of Data
 pages: 274-286
 language: en

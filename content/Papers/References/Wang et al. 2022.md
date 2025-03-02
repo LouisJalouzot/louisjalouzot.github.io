@@ -12,7 +12,7 @@ generated: true
 key: 3I5ICTJW
 version: 2267
 itemType: journalArticle
-title: A synchronized multimodal neuroimaging dataset for studying brain language processing
+paperTitle: A synchronized multimodal neuroimaging dataset for studying brain language processing
 publicationTitle: Scientific Data
 volume: 9
 issue: 1

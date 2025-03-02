@@ -12,7 +12,7 @@ generated: true
 key: J4DHR4LD
 version: 2233
 itemType: journalArticle
-title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
+paperTitle: "MixCo: Mix-up Contrastive Learning for Visual Representation"
 publicationTitle: ArXiv
 shortTitle: MixCo
 url: "https://www.semanticscholar.org/paper/MixCo%3A-Mix-up-Contrastive-Learning-for-Visual-Kim-Lee/3021152ab7540da7fd85baf2560568d8ef4a9b23"

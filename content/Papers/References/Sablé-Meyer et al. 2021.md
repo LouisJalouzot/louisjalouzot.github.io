@@ -14,7 +14,7 @@ generated: true
 key: NSNU2GIC
 version: 2250
 itemType: journalArticle
-title: "Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity"
+paperTitle: "Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity"
 publicationTitle: Proceedings of the National Academy of Sciences
 volume: 118
 issue: 16

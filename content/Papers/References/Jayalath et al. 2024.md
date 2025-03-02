@@ -14,7 +14,7 @@ generated: true
 key: 368ZRVIE
 version: 2259
 itemType: journalArticle
-title: "The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning"
+paperTitle: "The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning"
 DOI: 10.48550/ARXIV.2406.04328
 shortTitle: The Brain's Bitter Lesson
 url: "https://arxiv.org/abs/2406.04328"

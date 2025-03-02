@@ -11,7 +11,7 @@ generated: true
 key: 7LDNVBTY
 version: 2270
 itemType: journalArticle
-title: "Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming"
+paperTitle: "Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming"
 DOI: 10.48550/ARXIV.2208.12789
 shortTitle: Learning and Compositionality
 url: "https://arxiv.org/abs/2208.12789"

@@ -9,7 +9,7 @@ generated: true
 key: G9NLPVGU
 version: 2236
 itemType: journalArticle
-title: Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
+paperTitle: Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
 publicationTitle: Transactions of the Association for Computational Linguistics
 volume: 7
 pages: 597-610

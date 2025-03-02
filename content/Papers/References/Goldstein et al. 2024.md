@@ -31,7 +31,7 @@ generated: true
 key: WN47T926
 version: 2233
 itemType: journalArticle
-title: Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns
+paperTitle: Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns
 publicationTitle: Nature Communications
 volume: 15
 issue: 1

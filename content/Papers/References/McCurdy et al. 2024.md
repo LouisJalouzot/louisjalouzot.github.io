@@ -11,7 +11,7 @@ generated: true
 key: B745MNRV
 version: 2256
 itemType: conferencePaper
-title: "Toward Compositional Behavior in Neural Models: A Survey of Current Views"
+paperTitle: "Toward Compositional Behavior in Neural Models: A Survey of Current Views"
 conferenceName: Conference on Empirical Methods in Natural Language Processing
 shortTitle: Toward Compositional Behavior in Neural Models
 url: "https://www.semanticscholar.org/paper/Toward-Compositional-Behavior-in-Neural-Models%3A-A-McCurdy-Soulos/756ca2f52abf526d226507c9bbbf9417662c5fb1"

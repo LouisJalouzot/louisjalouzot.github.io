@@ -10,7 +10,7 @@ generated: true
 key: EN2V8BHK
 version: 2255
 itemType: conferencePaper
-title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+paperTitle: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 proceedingsTitle: Proceedings of the 2019 Conference of the North
 conferenceName: Proceedings of the 2019 Conference of the North
 place: "Minneapolis, Minnesota"

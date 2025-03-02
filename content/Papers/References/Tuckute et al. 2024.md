@@ -11,7 +11,7 @@ generated: true
 key: 5AAABEE7
 version: 2250
 itemType: journalArticle
-title: "Language in Brains, Minds, and Machines"
+paperTitle: "Language in Brains, Minds, and Machines"
 publicationTitle: Annual Review of Neuroscience
 volume: 47
 issue: 1

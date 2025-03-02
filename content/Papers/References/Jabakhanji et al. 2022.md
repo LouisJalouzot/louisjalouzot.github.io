@@ -14,7 +14,7 @@ generated: true
 key: D96NJTCR
 version: 2265
 itemType: journalArticle
-title: Limits of decoding mental states with fMRI
+paperTitle: Limits of decoding mental states with fMRI
 publicationTitle: Cortex
 volume: 149
 pages: 101-122

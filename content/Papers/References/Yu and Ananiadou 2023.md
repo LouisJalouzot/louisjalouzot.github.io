@@ -10,7 +10,7 @@ generated: true
 key: CV763ZVG
 version: 2247
 itemType: conferencePaper
-title: Neuron-Level Knowledge Attribution in Large Language Models
+paperTitle: Neuron-Level Knowledge Attribution in Large Language Models
 url: "https://www.semanticscholar.org/paper/Neuron-Level-Knowledge-Attribution-in-Large-Models-Yu-Ananiadou/9af3c1be7a4cfd38f10b9373e4623f4b64d467cd"
 accessDate: "2024-07-20T19:31:40Z"
 libraryCatalog: Semantic Scholar

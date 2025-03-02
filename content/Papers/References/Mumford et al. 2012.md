@@ -19,7 +19,7 @@ generated: true
 key: 69A6BXZ3
 version: 2037
 itemType: journalArticle
-title: Deconvolving BOLD activation in event-related designs for multivoxel pattern classification analyses
+paperTitle: Deconvolving BOLD activation in event-related designs for multivoxel pattern classification analyses
 publicationTitle: NeuroImage
 volume: 59
 issue: 3

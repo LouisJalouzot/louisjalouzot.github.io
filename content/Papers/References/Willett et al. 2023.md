@@ -19,7 +19,7 @@ generated: true
 key: LMWWL83R
 version: 2256
 itemType: journalArticle
-title: A high-performance speech neuroprosthesis
+paperTitle: A high-performance speech neuroprosthesis
 language: en
 DOI: 10.1101/2023.01.21.524489
 url: "http://biorxiv.org/lookup/doi/10.1101/2023.01.21.524489"

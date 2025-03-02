@@ -14,7 +14,7 @@ generated: true
 key: QRVNHW59
 version: 2241
 itemType: preprint
-title: "Is Cosine-Similarity of Embeddings Really About Similarity?"
+paperTitle: "Is Cosine-Similarity of Embeddings Really About Similarity?"
 DOI: 10.1145/3589335.3651526
 url: "http://arxiv.org/abs/2403.05440"
 accessDate: "2024-03-11T16:12:36Z"

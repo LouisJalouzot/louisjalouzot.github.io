@@ -13,7 +13,7 @@ generated: true
 key: BDZMN7S2
 version: 2260
 itemType: conferencePaper
-title: The Super Weight in Large Language Models
+paperTitle: The Super Weight in Large Language Models
 url: "https://www.semanticscholar.org/paper/The-Super-Weight-in-Large-Language-Models-Yu-Wang/2e5baf6b3a5bfdb5cd7d7ee450296fe222c7c225"
 accessDate: "2024-11-29T09:08:16Z"
 libraryCatalog: Semantic Scholar

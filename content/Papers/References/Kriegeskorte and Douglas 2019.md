@@ -10,7 +10,7 @@ generated: true
 key: K8WJGAZI
 version: 2242
 itemType: journalArticle
-title: Interpreting encoding and decoding models
+paperTitle: Interpreting encoding and decoding models
 publicationTitle: Current Opinion in Neurobiology
 volume: 55
 pages: 167-179

@@ -15,7 +15,7 @@ generated: true
 key: IDF8BQSF
 version: 2266
 itemType: journalArticle
-title: Decomposing dynamical subprocesses for compositional generalization
+paperTitle: Decomposing dynamical subprocesses for compositional generalization
 publicationTitle: Proceedings of the National Academy of Sciences
 volume: 121
 issue: 46

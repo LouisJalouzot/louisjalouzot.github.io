@@ -16,7 +16,7 @@ generated: true
 key: 5AXQYJCS
 version: 2241
 itemType: preprint
-title: "Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps"
+paperTitle: "Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps"
 repository: arXiv
 archiveID: "arXiv:2207.03380"
 DOI: 10.48550/arXiv.2207.03380

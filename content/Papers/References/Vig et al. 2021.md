@@ -20,7 +20,7 @@ generated: true
 key: 7L7ECSEZ
 version: 2037
 itemType: preprint
-title: "BERTology Meets Biology: Interpreting Attention in Protein Language Models"
+paperTitle: "BERTology Meets Biology: Interpreting Attention in Protein Language Models"
 repository: arXiv
 archiveID: "arXiv:2006.15222"
 DOI: 10.48550/arXiv.2006.15222

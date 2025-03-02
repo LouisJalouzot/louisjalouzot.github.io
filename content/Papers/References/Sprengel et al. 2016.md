@@ -10,7 +10,7 @@ generated: true
 key: KGFQFQDQ
 version: 2251
 itemType: conferencePaper
-title: Audio Based Bird Species Identification using Deep Learning Techniques
+paperTitle: Audio Based Bird Species Identification using Deep Learning Techniques
 conferenceName: Conference and Labs of the Evaluation Forum
 url: "https://www.semanticscholar.org/paper/Audio-Based-Bird-Species-Identification-using-Deep-Sprengel-Jaggi/42ffd303b6a8373300a965da4327439575d23131"
 accessDate: "2024-10-11T08:23:19Z"

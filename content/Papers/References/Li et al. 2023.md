@@ -17,7 +17,7 @@ generated: true
 key: Y6VWVVCY
 version: 2257
 itemType: journalArticle
-title: Label Supervised LLaMA Finetuning
+paperTitle: Label Supervised LLaMA Finetuning
 DOI: 10.48550/ARXIV.2310.01208
 url: "https://arxiv.org/abs/2310.01208"
 accessDate: "2024-11-13T14:38:52Z"

@@ -15,7 +15,7 @@ generated: true
 key: 3CU4FTKC
 version: 2239
 itemType: preprint
-title: Statistically Valid Variable Importance Assessment through Conditional Permutations
+paperTitle: Statistically Valid Variable Importance Assessment through Conditional Permutations
 repository: arXiv
 archiveID: "arXiv:2309.07593"
 DOI: 10.48550/arXiv.2309.07593

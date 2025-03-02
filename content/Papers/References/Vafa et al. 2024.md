@@ -15,7 +15,7 @@ generated: true
 key: Y6682U4Q
 version: 2253
 itemType: journalArticle
-title: Evaluating the World Model Implicit in a Generative Model
+paperTitle: Evaluating the World Model Implicit in a Generative Model
 DOI: 10.48550/ARXIV.2406.03689
 url: "https://arxiv.org/abs/2406.03689"
 accessDate: "2024-10-25T09:30:49Z"

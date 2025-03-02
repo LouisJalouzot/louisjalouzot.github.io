@@ -13,7 +13,7 @@ generated: true
 key: N2TA3UBH
 version: 2037
 itemType: preprint
-title: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
+paperTitle: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
 repository: arXiv
 archiveID: "arXiv:1906.01698"
 DOI: 10.48550/arXiv.1906.01698

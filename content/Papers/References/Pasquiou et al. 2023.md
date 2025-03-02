@@ -14,7 +14,7 @@ generated: true
 key: VDY3TIK9
 version: 2241
 itemType: preprint
-title: "Information-Restricted Neural Language Models Reveal Different Brain Regions' Sensitivity to Semantics, Syntax and Context"
+paperTitle: "Information-Restricted Neural Language Models Reveal Different Brain Regions' Sensitivity to Semantics, Syntax and Context"
 repository: arXiv
 archiveID: "arXiv:2302.14389"
 DOI: 10.48550/arXiv.2302.14389

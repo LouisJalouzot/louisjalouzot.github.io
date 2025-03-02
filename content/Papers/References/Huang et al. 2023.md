@@ -12,7 +12,7 @@ generated: true
 key: C3HL472K
 version: 2231
 itemType: journalArticle
-title: Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for Brain Functional Data
+paperTitle: Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for Brain Functional Data
 DOI: 10.48550/ARXIV.2302.09323
 url: "https://arxiv.org/abs/2302.09323"
 accessDate: "2024-06-24T16:39:31Z"

@@ -13,7 +13,7 @@ generated: true
 key: XXL8K7B2
 version: 2253
 itemType: journalArticle
-title: "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision"
+paperTitle: "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision"
 publicationTitle: ArXiv
 shortTitle: The Neuro-Symbolic Concept Learner
 url: "https://www.semanticscholar.org/paper/The-Neuro-Symbolic-Concept-Learner%3A-Interpreting-Mao-Gan/50f76736c3090c6effac25400e5e40cc0b7b5ad9"

@@ -14,7 +14,7 @@ generated: true
 key: CE8E3RN6
 version: 2246
 itemType: journalArticle
-title: "Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning"
+paperTitle: "Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning"
 DOI: 10.48550/ARXIV.2309.13439
 shortTitle: Finding Order in Chaos
 url: "https://arxiv.org/abs/2309.13439"

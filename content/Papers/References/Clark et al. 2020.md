@@ -10,7 +10,7 @@ generated: true
 key: M6KA2FGG
 version: 2257
 itemType: conferencePaper
-title: Transformers as Soft Reasoners over Language
+paperTitle: Transformers as Soft Reasoners over Language
 proceedingsTitle: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence
 conferenceName: "Twenty-Ninth International Joint Conference on Artificial Intelligence and Seventeenth Pacific Rim International Conference on Artificial Intelligence {IJCAI-PRICAI-20}"
 place: "Yokohama, Japan"

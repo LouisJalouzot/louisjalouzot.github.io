@@ -23,7 +23,7 @@ generated: true
 key: DLGHSJFK
 version: 2248
 itemType: journalArticle
-title: "Learning to (Learn at Test Time): RNNs with Expressive Hidden States"
+paperTitle: "Learning to (Learn at Test Time): RNNs with Expressive Hidden States"
 DOI: 10.48550/ARXIV.2407.04620
 shortTitle: Learning to (Learn at Test Time)
 url: "https://arxiv.org/abs/2407.04620"

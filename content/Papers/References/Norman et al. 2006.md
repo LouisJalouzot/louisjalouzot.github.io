@@ -11,7 +11,7 @@ generated: true
 key: Q6BGRWPV
 version: 1827
 itemType: journalArticle
-title: "Beyond mind-reading: multi-voxel pattern analysis of fMRI data"
+paperTitle: "Beyond mind-reading: multi-voxel pattern analysis of fMRI data"
 publicationTitle: Trends in Cognitive Sciences
 volume: 10
 issue: 9

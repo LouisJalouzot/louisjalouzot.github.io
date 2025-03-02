@@ -9,7 +9,7 @@ generated: true
 key: GD8IJKAR
 version: 2235
 itemType: conferencePaper
-title: "Do Neural Language Models Inferentially Compose Concepts the Way Humans Can?"
+paperTitle: "Do Neural Language Models Inferentially Compose Concepts the Way Humans Can?"
 conferenceName: International Conference on Language Resources and Evaluation
 url: "https://www.semanticscholar.org/paper/Do-Neural-Language-Models-Inferentially-Compose-the-Rodriguez-Wang/36a7b34b3887d10add71588b11f5c3d5928aef5b"
 accessDate: "2024-05-31T19:56:18Z"

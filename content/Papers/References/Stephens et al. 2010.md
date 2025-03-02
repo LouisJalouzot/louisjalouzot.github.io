@@ -11,7 +11,7 @@ generated: true
 key: PNZC8U3C
 version: 2247
 itemType: journalArticle
-title: Speaker–listener neural coupling underlies successful communication
+paperTitle: Speaker–listener neural coupling underlies successful communication
 publicationTitle: Proceedings of the National Academy of Sciences
 volume: 107
 issue: 32

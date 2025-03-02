@@ -12,7 +12,7 @@ generated: true
 key: 8AYGXYD6
 version: 2264
 itemType: journalArticle
-title: "ROSE: A Neurocomputational Architecture for Syntax"
+paperTitle: "ROSE: A Neurocomputational Architecture for Syntax"
 DOI: 10.48550/ARXIV.2303.08877
 shortTitle: ROSE
 url: "https://arxiv.org/abs/2303.08877"

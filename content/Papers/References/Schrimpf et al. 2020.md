@@ -16,7 +16,7 @@ generated: true
 key: 5IT48HGD
 version: 2237
 itemType: journalArticle
-title: "The neural architecture of language: Integrative modeling converges on predictive processing"
+paperTitle: "The neural architecture of language: Integrative modeling converges on predictive processing"
 language: en
 DOI: 10.1101/2020.06.26.174482
 shortTitle: The neural architecture of language

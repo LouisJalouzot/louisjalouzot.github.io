@@ -11,7 +11,7 @@ generated: true
 key: H7RU37G6
 version: 2251
 itemType: journalArticle
-title: "BirdNET: A deep learning solution for avian diversity monitoring"
+paperTitle: "BirdNET: A deep learning solution for avian diversity monitoring"
 publicationTitle: Ecological Informatics
 volume: 61
 pages: 101236

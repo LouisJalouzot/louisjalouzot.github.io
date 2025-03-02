@@ -21,7 +21,7 @@ generated: true
 key: 4AXGPNVM
 version: 2232
 itemType: journalArticle
-title: "FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation"
+paperTitle: "FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation"
 DOI: 10.48550/ARXIV.2205.12465
 shortTitle: FBNETGEN
 url: "https://arxiv.org/abs/2205.12465"

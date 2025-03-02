@@ -9,7 +9,7 @@ generated: true
 key: 99U2WWSZ
 version: 2262
 itemType: conferencePaper
-title: "Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations"
+paperTitle: "Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations"
 publisher: The MIT Press
 language: en
 DOI: 10.7551/mitpress/5236.001.0001

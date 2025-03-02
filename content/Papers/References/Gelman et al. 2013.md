@@ -14,7 +14,7 @@ generated: true
 key: X86EXQEK
 version: 2047
 itemType: conferencePaper
-title: Bayesian Data Analysis
+paperTitle: Bayesian Data Analysis
 publisher: Chapman and Hall/CRC
 language: en
 DOI: 10.1201/b16018

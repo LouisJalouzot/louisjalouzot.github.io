@@ -13,7 +13,7 @@ generated: true
 key: 8YGHPFGH
 version: 2260
 itemType: journalArticle
-title: Testing AI on language comprehension tasks reveals insensitivity to underlying meaning
+paperTitle: Testing AI on language comprehension tasks reveals insensitivity to underlying meaning
 publicationTitle: Scientific Reports
 volume: 14
 issue: 1

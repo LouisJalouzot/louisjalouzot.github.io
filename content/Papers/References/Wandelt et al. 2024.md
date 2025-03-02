@@ -14,7 +14,7 @@ generated: true
 key: HU9FT29C
 version: 2236
 itemType: journalArticle
-title: Representation of internal speech by single neurons in human supramarginal gyrus
+paperTitle: Representation of internal speech by single neurons in human supramarginal gyrus
 publicationTitle: Nature Human Behaviour
 journalAbbreviation: Nat Hum Behav
 language: en

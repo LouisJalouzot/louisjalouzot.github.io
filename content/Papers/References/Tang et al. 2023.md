@@ -11,7 +11,7 @@ generated: true
 key: SUMKIT6M
 version: 2240
 itemType: journalArticle
-title: Semantic reconstruction of continuous language from non-invasive brain recordings
+paperTitle: Semantic reconstruction of continuous language from non-invasive brain recordings
 publicationTitle: Nature Neuroscience
 volume: 26
 issue: 5

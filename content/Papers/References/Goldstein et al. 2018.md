@@ -12,7 +12,7 @@ generated: true
 key: K4GX7TBB
 version: 2248
 itemType: journalArticle
-title: Brain-to-brain coupling during handholding is associated with pain reduction
+paperTitle: Brain-to-brain coupling during handholding is associated with pain reduction
 publicationTitle: Proceedings of the National Academy of Sciences
 volume: 115
 issue: 11

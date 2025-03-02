@@ -9,7 +9,7 @@ generated: true
 key: CLTISBI5
 version: 2235
 itemType: conferencePaper
-title: "What Does BERT Learn about the Structure of Language?"
+paperTitle: "What Does BERT Learn about the Structure of Language?"
 proceedingsTitle: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
 conferenceName: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
 place: "Florence, Italy"

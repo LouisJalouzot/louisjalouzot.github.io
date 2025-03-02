@@ -29,7 +29,7 @@ generated: true
 key: APTYULG7
 version: 2263
 itemType: conferencePaper
-title: "Large Concept Models: Language Modeling in a Sentence Representation Space"
+paperTitle: "Large Concept Models: Language Modeling in a Sentence Representation Space"
 shortTitle: Large Concept Models
 url: "https://www.semanticscholar.org/paper/Large-Concept-Models%3A-Language-Modeling-in-a-Space-team-Barrault/ec81cfb3c35321a7aa1e4c0dfd1bbcf7c4b97ded"
 accessDate: "2024-12-24T14:36:31Z"

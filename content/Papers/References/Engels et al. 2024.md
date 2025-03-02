@@ -13,7 +13,7 @@ generated: true
 key: M635JMPU
 version: 2234
 itemType: conferencePaper
-title: Not All Language Model Features Are Linear
+paperTitle: Not All Language Model Features Are Linear
 url: "https://www.semanticscholar.org/paper/Not-All-Language-Model-Features-Are-Linear-Engels-Liao/3496e417dd6ab6ccb18b801158fc76e065fe266a"
 accessDate: "2024-05-31T20:34:10Z"
 libraryCatalog: Semantic Scholar

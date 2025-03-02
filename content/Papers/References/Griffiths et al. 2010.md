@@ -12,7 +12,7 @@ generated: true
 key: QDWJL7WK
 version: 2249
 itemType: journalArticle
-title: "Probabilistic models of cognition: exploring representations and inductive biases"
+paperTitle: "Probabilistic models of cognition: exploring representations and inductive biases"
 publicationTitle: Trends in Cognitive Sciences
 volume: 14
 issue: 8

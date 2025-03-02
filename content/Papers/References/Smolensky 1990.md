@@ -8,7 +8,7 @@ generated: true
 key: B3XAQ6V2
 version: 2248
 itemType: journalArticle
-title: Tensor product variable binding and the representation of symbolic structures in connectionist systems
+paperTitle: Tensor product variable binding and the representation of symbolic structures in connectionist systems
 publicationTitle: Artificial Intelligence
 volume: 46
 issue: 1-2

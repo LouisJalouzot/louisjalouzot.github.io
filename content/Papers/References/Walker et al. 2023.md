@@ -15,7 +15,7 @@ generated: true
 key: VE8XZQIK
 version: 2233
 itemType: journalArticle
-title: "Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields"
+paperTitle: "Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields"
 DOI: 10.48550/ARXIV.2306.02956
 shortTitle: Explicit Neural Surfaces
 url: "https://arxiv.org/abs/2306.02956"

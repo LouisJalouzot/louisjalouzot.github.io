@@ -11,7 +11,7 @@ generated: true
 key: ETI7CYWC
 version: 2125
 itemType: conferencePaper
-title: "Brain-Computer Interface Research: A State-of-the-Art Summary"
+paperTitle: "Brain-Computer Interface Research: A State-of-the-Art Summary"
 place: "Berlin, Heidelberg"
 publisher: Springer Berlin Heidelberg
 series: SpringerBriefs in Electrical and Computer Engineering

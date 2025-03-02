@@ -25,7 +25,7 @@ generated: true
 key: 2RBXG8SM
 version: 2261
 itemType: journalArticle
-title: Toy Models of Superposition
+paperTitle: Toy Models of Superposition
 DOI: 10.48550/ARXIV.2209.10652
 url: "https://arxiv.org/abs/2209.10652"
 accessDate: "2024-12-05T14:53:15Z"

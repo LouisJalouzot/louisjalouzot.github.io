@@ -9,7 +9,7 @@ generated: true
 key: BP6Q9AUJ
 version: 2249
 itemType: journalArticle
-title: "Connectionism and cognitive architecture: A critical analysis"
+paperTitle: "Connectionism and cognitive architecture: A critical analysis"
 publicationTitle: Cognition
 volume: 28
 issue: 1-2

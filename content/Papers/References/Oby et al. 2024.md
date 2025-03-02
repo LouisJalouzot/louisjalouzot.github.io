@@ -16,7 +16,7 @@ generated: true
 key: HFHCJIJ4
 version: 2266
 itemType: journalArticle
-title: Dynamical constraints on neural population activity
+paperTitle: Dynamical constraints on neural population activity
 language: en
 DOI: 10.1101/2024.01.03.573543
 url: "http://biorxiv.org/lookup/doi/10.1101/2024.01.03.573543"

@@ -11,7 +11,7 @@ generated: true
 key: SVW3VT2A
 version: 2234
 itemType: journalArticle
-title: Dynamic Brain Interactions during Picture Naming
+paperTitle: Dynamic Brain Interactions during Picture Naming
 publicationTitle: eneuro
 volume: 6
 issue: 4

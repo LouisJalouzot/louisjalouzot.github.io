@@ -15,7 +15,7 @@ generated: true
 key: AWDBPSS4
 version: 2243
 itemType: journalArticle
-title: Using deep neural networks to disentangle visual and semantic information in human perception and memory
+paperTitle: Using deep neural networks to disentangle visual and semantic information in human perception and memory
 publicationTitle: Nature Human Behaviour
 pages: 1-16
 journalAbbreviation: Nat Hum Behav

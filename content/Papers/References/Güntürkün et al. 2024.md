@@ -18,7 +18,7 @@ generated: true
 key: 3JHMNZ5H
 version: 2245
 itemType: journalArticle
-title: Why birds are smart
+paperTitle: Why birds are smart
 publicationTitle: Trends in Cognitive Sciences
 volume: 28
 issue: 3

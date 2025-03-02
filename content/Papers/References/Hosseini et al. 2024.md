@@ -14,7 +14,7 @@ generated: true
 key: UJZ5RAB9
 version: 2251
 itemType: journalArticle
-title: Artificial Neural Network Language Models Predict Human Brain Responses to Language Even After a Developmentally Realistic Amount of Training
+paperTitle: Artificial Neural Network Language Models Predict Human Brain Responses to Language Even After a Developmentally Realistic Amount of Training
 publicationTitle: Neurobiology of Language
 volume: 5
 issue: 1

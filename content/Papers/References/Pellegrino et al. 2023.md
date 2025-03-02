@@ -18,7 +18,7 @@ generated: true
 key: V2ZLRHXE
 version: 2039
 itemType: journalArticle
-title: Low Tensor Rank Learning of Neural Dynamics
+paperTitle: Low Tensor Rank Learning of Neural Dynamics
 DOI: 10.48550/ARXIV.2308.11567
 url: "https://arxiv.org/abs/2308.11567"
 accessDate: "2024-10-18T11:14:25Z"
