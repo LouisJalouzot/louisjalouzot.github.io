@@ -14,7 +14,7 @@ generated: true
 key: RCC3WQM4
 version: 2264
 itemType: conferencePaper
-title: Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
+paperTitle: Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
 publisher: arXiv
 DOI: 10.48550/ARXIV.2407.12056
 url: "https://arxiv.org/abs/2407.12056"

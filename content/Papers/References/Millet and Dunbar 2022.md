@@ -14,7 +14,7 @@ generated: true
 key: 2NTJ5629
 version: 2248
 itemType: journalArticle
-title: "Do self-supervised speech models develop human-like perception biases?"
+paperTitle: "Do self-supervised speech models develop human-like perception biases?"
 DOI: 10.48550/ARXIV.2205.15819
 url: "https://arxiv.org/abs/2205.15819"
 accessDate: "2024-09-21T09:24:16Z"

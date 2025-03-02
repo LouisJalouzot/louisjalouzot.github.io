@@ -25,7 +25,7 @@ generated: true
 key: ZTAZEDCC
 version: 2231
 itemType: journalArticle
-title: Deep reinforcement learning guided graph neural networks for brain network analysis
+paperTitle: Deep reinforcement learning guided graph neural networks for brain network analysis
 DOI: 10.48550/ARXIV.2203.10093
 url: "https://arxiv.org/abs/2203.10093"
 accessDate: "2024-06-24T16:43:04Z"

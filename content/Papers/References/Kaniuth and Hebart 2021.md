@@ -10,7 +10,7 @@ generated: true
 key: RV89ML45
 version: 2239
 itemType: preprint
-title: "Feature-reweighted RSA: A method for improving the fit between computational models, brains, and behavior"
+paperTitle: "Feature-reweighted RSA: A method for improving the fit between computational models, brains, and behavior"
 repository: bioRxiv
 DOI: 10.1101/2021.09.27.462005
 url: "https://www.biorxiv.org/content/10.1101/2021.09.27.462005v1"

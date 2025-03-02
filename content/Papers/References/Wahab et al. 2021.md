@@ -9,7 +9,7 @@ generated: true
 key: FG3P5TA9
 version: 2253
 itemType: conferencePaper
-title: "Neurosymbolic Spike Concept Learner towards Neuromorphic General Intelligence:"
+paperTitle: "Neurosymbolic Spike Concept Learner towards Neuromorphic General Intelligence:"
 proceedingsTitle: Proceedings of the 13th International Conference on Agents and Artificial Intelligence
 conferenceName: 13th International Conference on Agents and Artificial Intelligence
 place: "Online Streaming, --- Select a Country ---"

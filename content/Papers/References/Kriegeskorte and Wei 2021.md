@@ -13,7 +13,7 @@ generated: true
 key: S7GIXFKU
 version: 2037
 itemType: journalArticle
-title: Neural tuning and representational geometry
+paperTitle: Neural tuning and representational geometry
 publicationTitle: Nature Reviews Neuroscience
 volume: 22
 issue: 11

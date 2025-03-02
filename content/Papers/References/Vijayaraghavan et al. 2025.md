@@ -12,7 +12,7 @@ generated: true
 key: SFSSM2HY
 version: 2267
 itemType: journalArticle
-title: Development of compositionality through interactive learning of language and action of robots
+paperTitle: Development of compositionality through interactive learning of language and action of robots
 publicationTitle: Science Robotics
 volume: 10
 issue: 98

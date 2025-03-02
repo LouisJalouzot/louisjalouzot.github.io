@@ -9,7 +9,7 @@ generated: true
 key: 4WW5R9AR
 version: 2259
 itemType: journalArticle
-title: "SimCSE: Simple Contrastive Learning of Sentence Embeddings"
+paperTitle: "SimCSE: Simple Contrastive Learning of Sentence Embeddings"
 publicationTitle: Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing
 pages: 6894-6910
 language: en

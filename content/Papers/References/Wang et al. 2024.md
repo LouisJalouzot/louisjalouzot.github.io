@@ -12,7 +12,7 @@ generated: true
 key: 9CXMWGAL
 version: 2234
 itemType: conferencePaper
-title: "Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization"
+paperTitle: "Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization"
 shortTitle: Grokked Transformers are Implicit Reasoners
 url: "https://www.semanticscholar.org/paper/Grokked-Transformers-are-Implicit-Reasoners%3A-A-to-Wang-Yue/5b1120f547d3969afc49b4a094e874d568e53aca"
 accessDate: "2024-05-31T20:32:32Z"

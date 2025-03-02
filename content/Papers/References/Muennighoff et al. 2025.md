@@ -23,7 +23,7 @@ generated: true
 key: DY2U3AS9
 version: 2268
 itemType: conferencePaper
-title: "s1: Simple test-time scaling"
+paperTitle: "s1: Simple test-time scaling"
 shortTitle: s1
 url: "https://www.semanticscholar.org/paper/s1%3A-Simple-test-time-scaling-Muennighoff-Yang/ef8a8bd193b1a0a5e2c834a7a28869a2ec85bab7"
 accessDate: "2025-02-11T03:58:55Z"

@@ -18,7 +18,7 @@ generated: true
 key: 5JAVAYFG
 version: 2265
 itemType: journalArticle
-title: "Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models"
+paperTitle: "Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models"
 DOI: 10.48550/ARXIV.2310.17567
 shortTitle: Skill-Mix
 url: "https://arxiv.org/abs/2310.17567"

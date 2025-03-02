@@ -17,7 +17,7 @@ generated: true
 key: QM69BUHQ
 version: 2047
 itemType: journalArticle
-title: A comparative investigation of compositional syntax and semantics in DALL·E and young children
+paperTitle: A comparative investigation of compositional syntax and semantics in DALL·E and young children
 publicationTitle: "Social Sciences & Humanities Open"
 volume: 11
 pages: 101332

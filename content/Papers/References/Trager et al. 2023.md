@@ -14,7 +14,7 @@ generated: true
 key: VW3KSAYX
 version: 2259
 itemType: journalArticle
-title: "Linear Spaces of Meanings: Compositional Structures in Vision-Language Models"
+paperTitle: "Linear Spaces of Meanings: Compositional Structures in Vision-Language Models"
 publicationTitle: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 pages: 15349-15358
 DOI: 10.1109/ICCV51070.2023.01412

@@ -12,7 +12,7 @@ generated: true
 key: F8RFNYJU
 version: 2240
 itemType: journalArticle
-title: Data-driven HRF estimation for encoding and decoding models
+paperTitle: Data-driven HRF estimation for encoding and decoding models
 publicationTitle: NeuroImage
 volume: 104
 pages: 209-220

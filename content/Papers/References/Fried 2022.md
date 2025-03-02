@@ -8,7 +8,7 @@ generated: true
 key: QJYCCEBL
 version: 2238
 itemType: journalArticle
-title: Neurons as will and representation
+paperTitle: Neurons as will and representation
 publicationTitle: Nature Reviews Neuroscience
 volume: 23
 issue: 2

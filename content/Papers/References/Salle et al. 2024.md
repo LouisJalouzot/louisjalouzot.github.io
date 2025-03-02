@@ -14,7 +14,7 @@ generated: true
 key: H2DH3HCR
 version: 2247
 itemType: journalArticle
-title: "What Makes Two Language Models Think Alike?"
+paperTitle: "What Makes Two Language Models Think Alike?"
 DOI: 10.48550/ARXIV.2406.12620
 url: "https://arxiv.org/abs/2406.12620"
 accessDate: "2024-08-01T10:02:40Z"

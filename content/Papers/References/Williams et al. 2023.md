@@ -15,7 +15,7 @@ generated: true
 key: CRDFBMJC
 version: 2242
 itemType: preprint
-title: "New Bounds for Matrix Multiplication: from Alpha to Omega"
+paperTitle: "New Bounds for Matrix Multiplication: from Alpha to Omega"
 repository: arXiv
 archiveID: "arXiv:2307.07970"
 DOI: 10.48550/arXiv.2307.07970

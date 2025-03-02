@@ -12,7 +12,7 @@ generated: true
 key: GESXSKWB
 version: 2233
 itemType: journalArticle
-title: "mixup: Beyond Empirical Risk Minimization"
+paperTitle: "mixup: Beyond Empirical Risk Minimization"
 publicationTitle: ArXiv
 shortTitle: mixup
 url: "https://www.semanticscholar.org/paper/mixup%3A-Beyond-Empirical-Risk-Minimization-Zhang-Ciss%C3%A9/4feef0fd284feb1233399b400eb897f59ec92755"

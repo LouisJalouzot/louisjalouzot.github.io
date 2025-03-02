@@ -12,7 +12,7 @@ generated: true
 key: D7VVXDJN
 version: 2238
 itemType: journalArticle
-title: Natural speech reveals the semantic maps that tile human cerebral cortex
+paperTitle: Natural speech reveals the semantic maps that tile human cerebral cortex
 publicationTitle: Nature
 volume: 532
 issue: 7600

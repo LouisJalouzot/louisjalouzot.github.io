@@ -14,7 +14,7 @@ generated: true
 key: P34DV656
 version: 2246
 itemType: conferencePaper
-title: "Time Series Data Augmentation for Deep Learning: A Survey"
+paperTitle: "Time Series Data Augmentation for Deep Learning: A Survey"
 proceedingsTitle: Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence
 conferenceName: "Thirtieth International Joint Conference on Artificial Intelligence {IJCAI-21}"
 place: "Montreal, Canada"

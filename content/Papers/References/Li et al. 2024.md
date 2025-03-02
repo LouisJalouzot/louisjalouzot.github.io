@@ -14,7 +14,7 @@ generated: true
 key: M22CQLLU
 version: 2260
 itemType: conferencePaper
-title: "The Geometry of Concepts: Sparse Autoencoder Feature Structure"
+paperTitle: "The Geometry of Concepts: Sparse Autoencoder Feature Structure"
 shortTitle: The Geometry of Concepts
 url: "https://www.semanticscholar.org/paper/The-Geometry-of-Concepts%3A-Sparse-Autoencoder-Li-Michaud/f64f0b8d2b0886196aa38edff165f3797c76108a"
 accessDate: "2024-11-29T12:03:42Z"

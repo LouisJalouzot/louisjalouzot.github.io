@@ -12,7 +12,7 @@ generated: true
 key: PDH4D7E5
 version: 2240
 itemType: journalArticle
-title: An empirical evaluation of functional alignment using inter-subject decoding
+paperTitle: An empirical evaluation of functional alignment using inter-subject decoding
 publicationTitle: NeuroImage
 volume: 245
 pages: 118683

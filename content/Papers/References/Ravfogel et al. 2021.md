@@ -14,7 +14,7 @@ generated: true
 key: 6VN622XT
 version: 2244
 itemType: preprint
-title: Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction
+paperTitle: Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction
 repository: arXiv
 archiveID: "arXiv:2105.06965"
 DOI: 10.48550/arXiv.2105.06965

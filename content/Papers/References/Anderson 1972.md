@@ -9,7 +9,7 @@ generated: true
 key: YWUPXZU6
 version: 2260
 itemType: journalArticle
-title: "More Is Different: Broken symmetry and the nature of the hierarchical structure of science."
+paperTitle: "More Is Different: Broken symmetry and the nature of the hierarchical structure of science."
 publicationTitle: Science
 volume: 177
 issue: 4047

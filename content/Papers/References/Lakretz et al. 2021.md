@@ -12,7 +12,7 @@ generated: true
 key: IIEZGZ7Q
 version: 2131
 itemType: journalArticle
-title: Single-cell activity in human STG during perception of phonemes is organized according to manner of articulation
+paperTitle: Single-cell activity in human STG during perception of phonemes is organized according to manner of articulation
 publicationTitle: NeuroImage
 volume: 226
 pages: 117499

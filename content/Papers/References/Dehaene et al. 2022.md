@@ -12,7 +12,7 @@ generated: true
 key: HNLK8E8K
 version: 2249
 itemType: journalArticle
-title: "Symbols and mental programs: a hypothesis about human singularity"
+paperTitle: "Symbols and mental programs: a hypothesis about human singularity"
 publicationTitle: Trends in Cognitive Sciences
 volume: 26
 issue: 9

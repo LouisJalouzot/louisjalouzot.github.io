@@ -12,7 +12,7 @@ generated: true
 key: GPZ6LWHE
 version: 2252
 itemType: journalArticle
-title: Identification of perceived sentences using deep neural networks in EEG
+paperTitle: Identification of perceived sentences using deep neural networks in EEG
 publicationTitle: Journal of Neural Engineering
 journalAbbreviation: J. Neural Eng.
 DOI: 10.1088/1741-2552/ad88a3

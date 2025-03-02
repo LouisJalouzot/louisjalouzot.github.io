@@ -13,7 +13,7 @@ generated: true
 key: HUUULNJC
 version: 2269
 itemType: conferencePaper
-title: Demystifying Long Chain-of-Thought Reasoning in LLMs
+paperTitle: Demystifying Long Chain-of-Thought Reasoning in LLMs
 url: "https://www.semanticscholar.org/paper/Demystifying-Long-Chain-of-Thought-Reasoning-in-Yeo-Tong/45e1c99a1c8935bf137c0b51a08a03ffb6821993"
 accessDate: "2025-02-11T03:59:33Z"
 libraryCatalog: Semantic Scholar

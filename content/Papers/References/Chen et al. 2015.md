@@ -14,7 +14,7 @@ generated: true
 key: MPX9KCCE
 version: 2245
 itemType: conferencePaper
-title: A Reduced-Dimension fMRI Shared Response Model
+paperTitle: A Reduced-Dimension fMRI Shared Response Model
 conferenceName: Neural Information Processing Systems
 url: "https://www.semanticscholar.org/paper/A-Reduced-Dimension-fMRI-Shared-Response-Model-Chen-Chen/5cead56f3dd1b38bb2ab2f090a2b6aaa212cce1c"
 accessDate: "2024-07-08T18:27:31Z"

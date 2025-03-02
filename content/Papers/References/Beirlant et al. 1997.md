@@ -10,7 +10,7 @@ generated: true
 key: 9X5WQRRZ
 version: 2264
 itemType: conferencePaper
-title: Nonparametric entropy estimation. An overview
+paperTitle: Nonparametric entropy estimation. An overview
 url: "https://www.semanticscholar.org/paper/Nonparametric-entropy-estimation.-An-overview-Beirlant-Dudewicz/14ba9dccf06355d1c6478b843ccb8f56d7374409"
 accessDate: "2025-01-06T14:42:16Z"
 libraryCatalog: Semantic Scholar

@@ -20,7 +20,7 @@ generated: true
 key: DPTETKWX
 version: 2240
 itemType: journalArticle
-title: Aligning brain functions boosts the decoding of visual semantics in novel subjects
+paperTitle: Aligning brain functions boosts the decoding of visual semantics in novel subjects
 DOI: 10.48550/ARXIV.2312.06467
 url: "https://arxiv.org/abs/2312.06467"
 accessDate: "2024-03-17T19:06:03Z"

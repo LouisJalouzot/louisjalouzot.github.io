@@ -25,7 +25,7 @@ generated: true
 key: SSUXQG2V
 version: 2269
 itemType: journalArticle
-title: Discovering Symbolic Cognitive Models from Human and Animal Behavior
+paperTitle: Discovering Symbolic Cognitive Models from Human and Animal Behavior
 language: en
 DOI: 10.1101/2025.02.05.636732
 url: "http://biorxiv.org/lookup/doi/10.1101/2025.02.05.636732"

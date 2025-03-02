@@ -15,7 +15,7 @@ generated: true
 key: 2KNEN4RC
 version: 2258
 itemType: conferencePaper
-title: "$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources"
+paperTitle: "$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources"
 shortTitle: $100K or 100 Days
 url: "https://www.semanticscholar.org/paper/%24100K-or-100-Days%3A-Trade-offs-when-Pre-Training-Khandelwal-Yun/f61e081dc57d4fbf75977f7293627d5a402c0301"
 accessDate: "2024-11-25T09:05:28Z"

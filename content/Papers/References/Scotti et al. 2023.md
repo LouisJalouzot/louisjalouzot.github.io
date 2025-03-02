@@ -24,7 +24,7 @@ generated: true
 key: 7EABSVPU
 version: 2232
 itemType: journalArticle
-title: "Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors"
+paperTitle: "Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors"
 DOI: 10.48550/ARXIV.2305.18274
 shortTitle: Reconstructing the Mind's Eye
 url: "https://arxiv.org/abs/2305.18274"

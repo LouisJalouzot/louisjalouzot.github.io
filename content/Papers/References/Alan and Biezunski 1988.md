@@ -8,7 +8,7 @@ generated: true
 key: 49TKJ6L3
 version: 2262
 itemType: conferencePaper
-title: "Qu’est-ce que la science ? Récents développements en philosophie des sciences"
+paperTitle: "Qu’est-ce que la science ? Récents développements en philosophie des sciences"
 shortTitle: "Qu’est-ce que la science ?"
 url: "https://www.semanticscholar.org/paper/Qu%E2%80%99est-ce-que-la-science-R%C3%A9cents-d%C3%A9veloppements-en-Alan-Biezunski/b664bb79de1b991e15894a23165d2edab7d56faf"
 accessDate: "2024-12-05T15:56:04Z"

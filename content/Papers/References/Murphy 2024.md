@@ -10,7 +10,7 @@ generated: true
 key: 6BQKA5EX
 version: 2265
 itemType: journalArticle
-title: "Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax"
+paperTitle: "Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax"
 DOI: 10.48550/ARXIV.2412.01276
 shortTitle: Shadow of the (Hierarchical) Tree
 url: "https://arxiv.org/abs/2412.01276"

@@ -9,7 +9,7 @@ generated: true
 key: YR4RB5JT
 version: 2234
 itemType: journalArticle
-title: Discrete curvature and torsion from cross-ratios
+paperTitle: Discrete curvature and torsion from cross-ratios
 publicationTitle: Annali di Matematica Pura ed Applicata (1923 -)
 volume: 200
 issue: 5

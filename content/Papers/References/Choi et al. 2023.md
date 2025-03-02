@@ -19,7 +19,7 @@ generated: true
 key: T4DWHITZ
 version: 2231
 itemType: journalArticle
-title: A Generative Self-Supervised Framework using Functional Connectivity in fMRI Data
+paperTitle: A Generative Self-Supervised Framework using Functional Connectivity in fMRI Data
 DOI: 10.48550/ARXIV.2312.01994
 url: "https://arxiv.org/abs/2312.01994"
 accessDate: "2024-06-24T16:38:25Z"

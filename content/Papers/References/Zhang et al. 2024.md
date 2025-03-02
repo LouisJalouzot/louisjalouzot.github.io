@@ -19,7 +19,7 @@ generated: true
 key: D9JHV9PW
 version: 2258
 itemType: journalArticle
-title: Decoding Continuous Character-based Language from Non-invasive Brain Recordings
+paperTitle: Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 language: en
 DOI: 10.1101/2024.03.19.585656
 url: "http://biorxiv.org/lookup/doi/10.1101/2024.03.19.585656"

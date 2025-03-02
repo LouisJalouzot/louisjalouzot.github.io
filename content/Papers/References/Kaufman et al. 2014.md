@@ -14,7 +14,7 @@ generated: true
 key: KCBD3HNR
 version: 2258
 itemType: journalArticle
-title: "Cortical activity in the null space: permitting preparation without movement"
+paperTitle: "Cortical activity in the null space: permitting preparation without movement"
 publicationTitle: Nature Neuroscience
 volume: 17
 issue: 3

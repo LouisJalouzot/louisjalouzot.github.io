@@ -16,7 +16,7 @@ generated: true
 key: J5SX6ML8
 version: 2249
 itemType: journalArticle
-title: Neural populations in the language network differ in the size of their temporal receptive windows
+paperTitle: Neural populations in the language network differ in the size of their temporal receptive windows
 language: en
 DOI: 10.1101/2022.12.30.522216
 url: "http://biorxiv.org/lookup/doi/10.1101/2022.12.30.522216"

@@ -33,7 +33,7 @@ generated: true
 key: MTUT4MKY
 version: 2267
 itemType: journalArticle
-title: The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension
+paperTitle: The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension
 publicationTitle: Scientific Data
 volume: 8
 issue: 1

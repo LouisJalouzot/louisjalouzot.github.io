@@ -16,7 +16,7 @@ generated: true
 key: BL7MXHHK
 version: 2046
 itemType: journalArticle
-title: Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation
+paperTitle: Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation
 publicationTitle: Scientific Reports
 volume: 14
 issue: 1

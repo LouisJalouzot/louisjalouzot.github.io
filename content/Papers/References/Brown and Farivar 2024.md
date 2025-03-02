@@ -10,7 +10,7 @@ generated: true
 key: ZPAPX8SX
 version: 2244
 itemType: preprint
-title: The Topology of Representational Geometry
+paperTitle: The Topology of Representational Geometry
 repository: bioRxiv
 DOI: 10.1101/2024.02.16.579506
 url: "https://www.biorxiv.org/content/10.1101/2024.02.16.579506v1"

@@ -17,7 +17,7 @@ generated: true
 key: QFCK3MLF
 version: 2244
 itemType: preprint
-title: "Syntax-semantics interface: an algebraic model"
+paperTitle: "Syntax-semantics interface: an algebraic model"
 repository: arXiv
 archiveID: "arXiv:2311.06189"
 DOI: 10.48550/arXiv.2311.06189

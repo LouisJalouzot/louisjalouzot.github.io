@@ -10,7 +10,7 @@ generated: true
 key: KWIT7LAK
 version: 2252
 itemType: journalArticle
-title: Using artificial neural networks to ask ‘why’ questions of minds and brains
+paperTitle: Using artificial neural networks to ask ‘why’ questions of minds and brains
 publicationTitle: Trends in Neurosciences
 volume: 46
 issue: 3

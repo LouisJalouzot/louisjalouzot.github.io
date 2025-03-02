@@ -13,7 +13,7 @@ generated: true
 key: 3B3RMB5C
 version: 2254
 itemType: journalArticle
-title: Distilling Symbolic Priors for Concept Learning into Neural Networks
+paperTitle: Distilling Symbolic Priors for Concept Learning into Neural Networks
 DOI: 10.48550/ARXIV.2402.07035
 url: "https://arxiv.org/abs/2402.07035"
 accessDate: "2024-10-29T10:26:51Z"

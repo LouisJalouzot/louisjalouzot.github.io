@@ -13,7 +13,7 @@ generated: true
 key: 9AP8YKZM
 version: 2235
 itemType: journalArticle
-title: Towards reconstructing intelligible speech from the human auditory cortex
+paperTitle: Towards reconstructing intelligible speech from the human auditory cortex
 publicationTitle: Scientific Reports
 volume: 9
 issue: 1

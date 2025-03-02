@@ -14,7 +14,7 @@ generated: true
 key: YQLQBU8F
 version: 2269
 itemType: journalArticle
-title: Whale song shows language-like statistical structure
+paperTitle: Whale song shows language-like statistical structure
 publicationTitle: Science
 volume: 387
 issue: 6734

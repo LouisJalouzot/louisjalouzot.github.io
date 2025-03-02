@@ -20,7 +20,7 @@ generated: true
 key: SQ956B9V
 version: 2238
 itemType: journalArticle
-title: A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence
+paperTitle: A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence
 publicationTitle: Nature Neuroscience
 volume: 25
 issue: 1

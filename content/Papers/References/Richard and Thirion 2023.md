@@ -10,7 +10,7 @@ generated: true
 key: M7VKYJI2
 version: 2246
 itemType: journalArticle
-title: "FastSRM: A fast, memory efficient and identifiable implementation of the shared response model"
+paperTitle: "FastSRM: A fast, memory efficient and identifiable implementation of the shared response model"
 publicationTitle: Aperture Neuro
 volume: 3
 language: en

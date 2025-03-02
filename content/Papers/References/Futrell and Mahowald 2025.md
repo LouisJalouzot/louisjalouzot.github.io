@@ -10,7 +10,7 @@ generated: true
 key: DK9TAWLA
 version: 2045
 itemType: conferencePaper
-title: How Linguistics Learned to Stop Worrying and Love the Language Models
+paperTitle: How Linguistics Learned to Stop Worrying and Love the Language Models
 url: "https://www.semanticscholar.org/paper/How-Linguistics-Learned-to-Stop-Worrying-and-Love-Futrell-Mahowald/20eec26b32f8b696f80f0b14ebefa779b4b975e4"
 accessDate: "2025-01-29T16:56:03Z"
 libraryCatalog: Semantic Scholar

@@ -9,7 +9,7 @@ generated: true
 key: 9HTZWKWE
 version: 2232
 itemType: journalArticle
-title: "Graph Neural Network-Based EEG Classification: A Survey"
+paperTitle: "Graph Neural Network-Based EEG Classification: A Survey"
 publicationTitle: IEEE Transactions on Neural Systems and Rehabilitation Engineering
 volume: 32
 pages: 493-503

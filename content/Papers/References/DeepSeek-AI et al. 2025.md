@@ -206,7 +206,7 @@ generated: true
 key: 84AQA88U
 version: 2268
 itemType: conferencePaper
-title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+paperTitle: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
 shortTitle: DeepSeek-R1
 url: "https://www.semanticscholar.org/paper/DeepSeek-R1%3A-Incentivizing-Reasoning-Capability-in-DeepSeek-AI-Guo/34471a2fa18ea22efad5287cf4aeb18542c98a9b"
 accessDate: "2025-02-11T03:59:18Z"

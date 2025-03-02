@@ -36,7 +36,7 @@ generated: true
 key: IRNW9NPB
 version: 2107
 itemType: journalArticle
-title: A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
+paperTitle: A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
 language: en
 url: "https://www.cell.com/neuron/abstract/S0896-6273(24)00460-4"
 accessDate: "2025-02-26T11:12:33Z"

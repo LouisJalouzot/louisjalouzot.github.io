@@ -48,7 +48,7 @@ generated: true
 key: IKKP95E9
 version: 2243
 itemType: preprint
-title: Large language models surpass human experts in predicting neuroscience results
+paperTitle: Large language models surpass human experts in predicting neuroscience results
 repository: arXiv
 archiveID: "arXiv:2403.03230"
 url: "http://arxiv.org/abs/2403.03230"

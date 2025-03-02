@@ -14,7 +14,7 @@ generated: true
 key: QESBCP6T
 version: 2252
 itemType: conferencePaper
-title: "TopoLM: brain-like spatio-functional organization in a topographic language model"
+paperTitle: "TopoLM: brain-like spatio-functional organization in a topographic language model"
 shortTitle: TopoLM
 url: "https://www.semanticscholar.org/paper/TopoLM%3A-brain-like-spatio-functional-organization-a-Rathi-Mehrer/e96efde79b20f21f6403cff83dead50ec0cd53e3"
 accessDate: "2024-10-21T16:26:54Z"

@@ -13,7 +13,7 @@ generated: true
 key: 2GBY7R8K
 version: 2237
 itemType: journalArticle
-title: High-performance brain-to-text communication via handwriting
+paperTitle: High-performance brain-to-text communication via handwriting
 publicationTitle: Nature
 volume: 593
 issue: 7858

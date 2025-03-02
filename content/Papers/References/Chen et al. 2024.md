@@ -15,7 +15,7 @@ generated: true
 key: SY7VBR2P
 version: 2258
 itemType: journalArticle
-title: Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM
+paperTitle: Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM
 DOI: 10.48550/ARXIV.2405.07840
 url: "https://arxiv.org/abs/2405.07840"
 accessDate: "2024-11-25T09:12:25Z"

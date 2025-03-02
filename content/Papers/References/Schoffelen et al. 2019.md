@@ -14,7 +14,7 @@ generated: true
 key: TM6CFT54
 version: 2267
 itemType: journalArticle
-title: A 204-subject multimodal neuroimaging dataset to study language processing
+paperTitle: A 204-subject multimodal neuroimaging dataset to study language processing
 publicationTitle: Scientific Data
 volume: 6
 issue: 1

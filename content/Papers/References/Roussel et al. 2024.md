@@ -12,7 +12,7 @@ generated: true
 key: MQG4EEET
 version: 2236
 itemType: journalArticle
-title: Evidence for common spike-based temporal coding of overt and covert speech in pars triangularis of human Broca’s area
+paperTitle: Evidence for common spike-based temporal coding of overt and covert speech in pars triangularis of human Broca’s area
 language: en
 DOI: 10.1101/2024.03.21.586130
 url: "http://biorxiv.org/lookup/doi/10.1101/2024.03.21.586130"

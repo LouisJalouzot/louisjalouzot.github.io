@@ -21,7 +21,7 @@ generated: true
 key: PM8J23L6
 version: 2261
 itemType: journalArticle
-title: "Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2"
+paperTitle: "Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2"
 DOI: 10.48550/ARXIV.2408.05147
 shortTitle: Gemma Scope
 url: "https://arxiv.org/abs/2408.05147"

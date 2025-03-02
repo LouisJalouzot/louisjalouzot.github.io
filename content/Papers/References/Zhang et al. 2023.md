@@ -26,7 +26,7 @@ generated: true
 key: IN2YR6N4
 version: 2232
 itemType: journalArticle
-title: Decoding of human identity by computer vision and neuronal vision
+paperTitle: Decoding of human identity by computer vision and neuronal vision
 publicationTitle: Scientific Reports
 volume: 13
 issue: 1

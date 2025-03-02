@@ -21,7 +21,7 @@ generated: true
 key: CGM8YFCW
 version: 2241
 itemType: journalArticle
-title: Le Petit Prince multilingual naturalistic fMRI corpus
+paperTitle: Le Petit Prince multilingual naturalistic fMRI corpus
 publicationTitle: Scientific Data
 volume: 9
 issue: 1

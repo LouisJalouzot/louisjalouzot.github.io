@@ -11,7 +11,7 @@ generated: true
 key: XHHR63WF
 version: 2254
 itemType: journalArticle
-title: Thinking Like Transformers
+paperTitle: Thinking Like Transformers
 publicationTitle: ArXiv
 url: "https://www.semanticscholar.org/paper/Thinking-Like-Transformers-Weiss-Goldberg/0735fb79bf34698c1df4461a05ed51c232c412e4"
 accessDate: "2024-10-29T10:25:40Z"

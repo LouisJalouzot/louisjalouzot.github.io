@@ -9,7 +9,7 @@ generated: true
 key: 5JLJ9SDC
 version: 2236
 itemType: conferencePaper
-title: Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages
+paperTitle: Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages
 proceedingsTitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
 conferenceName: "Findings of the Association for Computational Linguistics: EMNLP 2022"
 place: "Abu Dhabi, United Arab Emirates"

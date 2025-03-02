@@ -13,7 +13,7 @@ generated: true
 key: VRES8IAI
 version: 2255
 itemType: journalArticle
-title: "Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models"
+paperTitle: "Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models"
 publicationTitle: "Findings of the Association for Computational Linguistics: ACL 2022"
 pages: 1864-1874
 language: en

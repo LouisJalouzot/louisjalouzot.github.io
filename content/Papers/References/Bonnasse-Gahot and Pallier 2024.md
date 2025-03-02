@@ -14,7 +14,7 @@ generated: true
 key: LNPD8AKV
 version: 2251
 itemType: journalArticle
-title: fMRI predictors based on language models of increasing complexity recover brain left lateralization
+paperTitle: fMRI predictors based on language models of increasing complexity recover brain left lateralization
 DOI: 10.48550/ARXIV.2405.17992
 url: "https://arxiv.org/abs/2405.17992"
 accessDate: "2024-10-14T13:42:58Z"

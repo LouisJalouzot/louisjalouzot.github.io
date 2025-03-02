@@ -15,7 +15,7 @@ generated: true
 key: C23MG55V
 version: 2268
 itemType: journalArticle
-title: Recurrent neural networks with transient trajectory explain working memory encoding mechanisms
+paperTitle: Recurrent neural networks with transient trajectory explain working memory encoding mechanisms
 publicationTitle: Communications Biology
 volume: 8
 issue: 1

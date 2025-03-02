@@ -11,7 +11,7 @@ generated: true
 key: N2FX52M4
 version: 2257
 itemType: journalArticle
-title: Neural representational geometry underlies few-shot concept learning
+paperTitle: Neural representational geometry underlies few-shot concept learning
 publicationTitle: Proceedings of the National Academy of Sciences
 volume: 119
 issue: 43

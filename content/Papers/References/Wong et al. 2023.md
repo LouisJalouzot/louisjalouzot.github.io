@@ -18,7 +18,7 @@ generated: true
 key: BQIRBM8K
 version: 2266
 itemType: journalArticle
-title: "From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought"
+paperTitle: "From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought"
 DOI: 10.48550/ARXIV.2306.12672
 shortTitle: From Word Models to World Models
 url: "https://arxiv.org/abs/2306.12672"

@@ -7,7 +7,7 @@ generated: true
 key: T2GWVA8T
 version: 2242
 itemType: journalArticle
-title: "Agency and Accountability: Ethical Considerations for Brain-Computer Interfaces"
+paperTitle: "Agency and Accountability: Ethical Considerations for Brain-Computer Interfaces"
 publicationTitle: The Rutgers journal of bioethics
 volume: 11
 pages: 9-20

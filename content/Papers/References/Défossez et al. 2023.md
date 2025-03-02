@@ -13,7 +13,7 @@ generated: true
 key: ZZIUBXYQ
 version: 2247
 itemType: journalArticle
-title: Decoding speech perception from non-invasive brain recordings
+paperTitle: Decoding speech perception from non-invasive brain recordings
 publicationTitle: Nature Machine Intelligence
 volume: 5
 issue: 10

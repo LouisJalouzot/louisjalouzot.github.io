@@ -1,48 +1,48 @@
 function addYamlField(key, value, indent = '') {
   if (value === undefined || value === null) {
-	return `${indent}${key}: null\n`;
+  return `${indent}${key}: null\n`;
   }
   
   if (typeof value === 'string') {
-	value = value.trim().replace(/\n/g, " ");
-	if (value.includes('\n') || value.match(/[:{}\[\],&*#?|<>=!%@`]/)) {
-	  return `${indent}${key}: "${value.replace(/"/g, '\\"')}"\n`;
-	}
-	return `${indent}${key}: ${value}\n`;
+  value = value.trim().replace(/\n/g, " ");
+  if (value.includes('\n') || value.match(/[:{}\[\],&*#?|<>=!%@`]/)) {
+    return `${indent}${key}: "${value.replace(/"/g, '\\"')}"\n`;
+  }
+  return `${indent}${key}: ${value}\n`;
   }
   
   if (typeof value === 'number' || typeof value === 'boolean') {
-	return `${indent}${key}: ${value}\n`;
+  return `${indent}${key}: ${value}\n`;
   }
   
   if (Array.isArray(value)) {
-	let result = `${indent}${key}:\n`;
-	value.forEach(item => {
-	  if (typeof item === 'string') {
-		item = item.trim().replace(/\n/g, " ");
-		if (item.includes('\n') || item.match(/[:{}\[\],&*#?|<>=!%@`]/)) {
-		  result += `${indent}  - "${item.replace(/"/g, '\\"')}"\n`;
-		} else {
-		  result += `${indent}  - ${item}\n`;
-		}
-	  } else if (typeof item === 'number' || typeof item === 'boolean' || item === null) {
-		result += `${indent}  - ${item}\n`;
-	  } else if (typeof item === 'object') {
-		result += `${indent}  -\n`;
-		for (const [k, v] of Object.entries(item)) {
-		  result += addYamlField(k, v, indent + '    ');
-		}
-	  }
-	});
-	return result;
+  let result = `${indent}${key}:\n`;
+  value.forEach(item => {
+    if (typeof item === 'string') {
+    item = item.trim().replace(/\n/g, " ");
+    if (item.includes('\n') || item.match(/[:{}\[\],&*#?|<>=!%@`]/)) {
+      result += `${indent}  - "${item.replace(/"/g, '\\"')}"\n`;
+    } else {
+      result += `${indent}  - ${item}\n`;
+    }
+    } else if (typeof item === 'number' || typeof item === 'boolean' || item === null) {
+    result += `${indent}  - ${item}\n`;
+    } else if (typeof item === 'object') {
+    result += `${indent}  -\n`;
+    for (const [k, v] of Object.entries(item)) {
+      result += addYamlField(k, v, indent + '    ');
+    }
+    }
+  });
+  return result;
   }
   
   if (typeof value === 'object') {
-	let result = `${indent}${key}:\n`;
-	for (const [k, v] of Object.entries(value)) {
-	  result += addYamlField(k, v, indent + '  ');
-	}
-	return result;
+  let result = `${indent}${key}:\n`;
+  for (const [k, v] of Object.entries(value)) {
+    result += addYamlField(k, v, indent + '  ');
+  }
+  return result;
   }
   
   return `${indent}${key}: ${value}\n`;
@@ -226,7 +226,7 @@ function getMonthFromName(name) {
 // Handle creators and convert to authors
 if (data.creators && Array.isArray(data.creators)) {
   const authors = data.creators.map(creator => {
-	return `${creator.lastName}, ${creator.firstName}`;
+  return `${creator.lastName}, ${creator.firstName}`;
   });
   n += addYamlField('authors', authors);
   delete data.creators;
@@ -240,12 +240,16 @@ delete data.children;
 n += addYamlField('generated', true);
 
 for (const [key, value] of Object.entries(data)) {
-	if (key === 'relations') continue;
-	if (value !== undefined && value !== null && value !== '') {
-		if (Array.isArray(value) && value.length === 0) continue;
-		if (typeof value === 'object' && Object.keys(value).length === 0) continue;
-		n += addYamlField(key, value);
-	}
+  if (key === 'relations') continue;
+  if (key === 'title') {
+    n += addYamlField('paperTitle', value);
+    continue;
+  }
+  if (value !== undefined && value !== null && value !== '') {
+    if (Array.isArray(value) && value.length === 0) continue;
+    if (typeof value === 'object' && Object.keys(value).length === 0) continue;
+    n += addYamlField(key, value);
+  }
 }
 
 // End frontmatter

@@ -11,7 +11,7 @@ generated: true
 key: B2Z3KF8S
 version: 2250
 itemType: journalArticle
-title: "Language Through a Prism: A Spectral Approach for Multiscale Language Representations"
+paperTitle: "Language Through a Prism: A Spectral Approach for Multiscale Language Representations"
 publicationTitle: ArXiv
 shortTitle: Language Through a Prism
 url: "https://www.semanticscholar.org/paper/Language-Through-a-Prism%3A-A-Spectral-Approach-for-Tamkin-Jurafsky/38d5e7774e79861315e043dc2dd764d051516d74"

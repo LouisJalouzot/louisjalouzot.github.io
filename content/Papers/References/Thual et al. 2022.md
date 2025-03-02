@@ -15,7 +15,7 @@ generated: true
 key: IR5UY9TI
 version: 2241
 itemType: conferencePaper
-title: Aligning individual brains with fused unbalanced Gromov Wasserstein
+paperTitle: Aligning individual brains with fused unbalanced Gromov Wasserstein
 conferenceName: Neural Information Processing Systems
 url: "https://www.semanticscholar.org/paper/Aligning-individual-brains-with-fused-unbalanced-Thual-Tran/d67dcbf457ce55336f5c6c5c4c996ca3fda0d477"
 accessDate: "2024-03-17T18:56:00Z"

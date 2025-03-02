@@ -10,7 +10,7 @@ generated: true
 key: DPU8R27A
 version: 2250
 itemType: conferencePaper
-title: "Multilingual Nonce Dependency Treebanks: Understanding how Language Models Represent and Process Syntactic Structure"
+paperTitle: "Multilingual Nonce Dependency Treebanks: Understanding how Language Models Represent and Process Syntactic Structure"
 proceedingsTitle: "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)"
 conferenceName: "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)"
 place: "Mexico City, Mexico"

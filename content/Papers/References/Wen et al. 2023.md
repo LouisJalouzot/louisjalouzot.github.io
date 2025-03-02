@@ -12,7 +12,7 @@ generated: true
 key: 8GW4NVA6
 version: 2252
 itemType: journalArticle
-title: One-shot entorhinal maps enable flexible navigation in novel environments
+paperTitle: One-shot entorhinal maps enable flexible navigation in novel environments
 language: en
 DOI: 10.1101/2023.09.07.556744
 url: "http://biorxiv.org/lookup/doi/10.1101/2023.09.07.556744"

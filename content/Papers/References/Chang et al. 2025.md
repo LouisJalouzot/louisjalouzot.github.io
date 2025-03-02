@@ -12,7 +12,7 @@ generated: true
 key: E87XTINA
 version: 2266
 itemType: journalArticle
-title: Imageless imagery in aphantasia revealed by early visual cortex decoding
+paperTitle: Imageless imagery in aphantasia revealed by early visual cortex decoding
 publicationTitle: Current Biology
 pages: S096098222401652X
 journalAbbreviation: Current Biology

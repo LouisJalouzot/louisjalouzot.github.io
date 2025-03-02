@@ -16,7 +16,7 @@ generated: true
 key: PRZKZVVV
 version: 2267
 itemType: conferencePaper
-title: "ICLR: In-Context Learning of Representations"
+paperTitle: "ICLR: In-Context Learning of Representations"
 shortTitle: ICLR
 url: "https://www.semanticscholar.org/paper/ICLR%3A-In-Context-Learning-of-Representations-Park-Lee/2e459745774062f1c930b645b0adc22d43e9bca9"
 accessDate: "2025-01-20T17:47:55Z"

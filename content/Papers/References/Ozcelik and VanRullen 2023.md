@@ -10,7 +10,7 @@ generated: true
 key: FI8EIY7J
 version: 2238
 itemType: journalArticle
-title: Natural scene reconstruction from fMRI signals using generative latent diffusion
+paperTitle: Natural scene reconstruction from fMRI signals using generative latent diffusion
 publicationTitle: Scientific Reports
 volume: 13
 issue: 1

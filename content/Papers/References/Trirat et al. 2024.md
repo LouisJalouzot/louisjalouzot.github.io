@@ -19,7 +19,7 @@ generated: true
 key: W9MBI8Y2
 version: 2246
 itemType: journalArticle
-title: "Universal Time-Series Representation Learning: A Survey"
+paperTitle: "Universal Time-Series Representation Learning: A Survey"
 DOI: 10.48550/ARXIV.2401.03717
 shortTitle: Universal Time-Series Representation Learning
 url: "https://arxiv.org/abs/2401.03717"

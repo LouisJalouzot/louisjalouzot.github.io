@@ -17,7 +17,7 @@ generated: true
 key: TZRJDKFX
 version: 2247
 itemType: journalArticle
-title: A natural language fMRI dataset for voxelwise encoding models
+paperTitle: A natural language fMRI dataset for voxelwise encoding models
 publicationTitle: Scientific Data
 volume: 10
 issue: 1

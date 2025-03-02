@@ -9,7 +9,7 @@ generated: true
 key: 78E34EHB
 version: 2263
 itemType: conferencePaper
-title: On seeing A's and seeing As
+paperTitle: On seeing A's and seeing As
 url: "https://www.semanticscholar.org/paper/On-seeing-A's-and-seeing-As-Hofstadter/f6a28b85d811ca5791d049fca45f872d12330259"
 accessDate: "2024-12-20T14:07:58Z"
 libraryCatalog: Semantic Scholar

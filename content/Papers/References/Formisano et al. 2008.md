@@ -12,7 +12,7 @@ generated: true
 key: P9XJJGR2
 version: 2047
 itemType: journalArticle
-title: "\"Who\" Is Saying \"What\"? Brain-Based Decoding of Human Voice and Speech"
+paperTitle: "\"Who\" Is Saying \"What\"? Brain-Based Decoding of Human Voice and Speech"
 publicationTitle: Science
 volume: 322
 issue: 5903

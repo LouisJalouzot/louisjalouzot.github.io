@@ -9,7 +9,7 @@ generated: true
 key: 7WLWAA9L
 version: 2268
 itemType: journalArticle
-title: Semantic language decoding across participants and stimulus modalities
+paperTitle: Semantic language decoding across participants and stimulus modalities
 publicationTitle: Current Biology
 pages: S0960982225000545
 journalAbbreviation: Current Biology

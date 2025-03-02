@@ -13,7 +13,7 @@ generated: true
 key: 54VWUBQC
 version: 2245
 itemType: journalArticle
-title: "Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming"
+paperTitle: "Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming"
 DOI: 10.48550/ARXIV.2405.09508
 shortTitle: Modeling Bilingual Sentence Processing
 url: "https://arxiv.org/abs/2405.09508"

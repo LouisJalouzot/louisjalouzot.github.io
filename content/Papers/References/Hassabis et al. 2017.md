@@ -11,7 +11,7 @@ generated: true
 key: BFGQKJP3
 version: 2242
 itemType: journalArticle
-title: Neuroscience-Inspired Artificial Intelligence
+paperTitle: Neuroscience-Inspired Artificial Intelligence
 publicationTitle: Neuron
 volume: 95
 issue: 2

@@ -7,7 +7,7 @@ generated: true
 key: CXWEQE6A
 version: 2252
 itemType: conferencePaper
-title: Language decoding from human brain activity via contrastive learning
+paperTitle: Language decoding from human brain activity via contrastive learning
 language: en
 url: "https://openreview.net/forum?id=rBQPJSPNsw#discussion"
 accessDate: "2024-10-15T08:13:35Z"

@@ -12,7 +12,7 @@ generated: true
 key: WIG4SQNK
 version: 2265
 itemType: journalArticle
-title: Representation and computation in visual working memory
+paperTitle: Representation and computation in visual working memory
 publicationTitle: Nature Human Behaviour
 volume: 8
 issue: 6
