@@ -19,8 +19,14 @@ Please build a full python pipeline implementing *Metric Learning Encoding Model
 > 	- Compute the *distances* between each pair of sentences/words with respect to each feature in the dataset
 > 		- Beware that features can be discrete or continuous and for some sentences/words, features can be unspecified (NaN value)
 > 		- Therefore for each pair we get a *feature distance vector*, vector of distances for each feature $D^F_{ij} = [D^f_{ij}]_f$
-> - Then learn a symmetric positive definite matrix W
+> - Then learn a symmetric positive definite matrix $W$ which will parameterize a norm on the feature distance vectors
+> 	- It should be optimized so that $||D^F_{ij}||_{W} = D^F_{ij} W D^F_{ij}$ is as close as possible to $D^N_{ij}$ (for the MSE
+> - Then compute *Permutation Feature Importance* on the Spearman correlation
+> 	- Therefore data should be split into train/test using cross validation on the sentences stratified with respect to their features
+> 	- Also output the average Feature Importances found and add significance testing
+> - Also project the sentence representations in 2D using UMAP
 
 Write simple, elegant and efficient code.
+It should leverage caching.
 It should be straightforward to launch the code on SLURM clusters.
-If I want to launch multiple experiments, the code 
+If I want to launch multiple experiments, the code should compute the dependency tree of all the functions for those experiments and optimize scheduling and avoid redundancy.
