@@ -251,20 +251,27 @@ for (const [key, value] of Object.entries(data)) {
 // End frontmatter
 n += '---\n\n';
 
-n += '>[!warning] Warning\n> This note should not be modified as it can be overwritten by the plugin which generated it.\n\n';
 
 // Add title as heading
 n += '> [!title] ' + data.title + '\n\n';
 
 // Add filename as link
 if (data.filename) {
-	n += `> [!example] File\n> [${data.filename}](/Papers/PDFs/${data.filename.replace(/ /g, '%20')}.pdf)\n\n`;
+  let fp = data.filename + ' - ';
+  fp += data.title
+  .replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '') // Remove illegal/problematic chars
+  .replace(/\s+/g, ' ')  // Replace multiple spaces with a single space
+  .replace(/^\s+|\s+$|\.*$/g, '') // Trim spaces and trailing periods
+  .trim();
+	n += `> [!example] File\n> [${fp}](/Papers/PDFs/${fp.replace(/ /g, '%20')}.pdf)\n\n`;
 }
 
 // Add abstract content
 if (abstractNote) {
-	n += '> [!abstract] Abstract\n> ' + abstractNote.split('\n').join('\n> ') + '\n\n';
+  n += '> [!abstract] Abstract\n> ' + abstractNote.split('\n').join('\n> ') + '\n\n';
 }
+
+n += '>[!warning] Warning\n> This note should not be modified as it can be overwritten by the plugin which generated it.\n\n';
 
 // Add notes content
 // if (children) {

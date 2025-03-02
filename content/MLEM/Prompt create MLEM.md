@@ -30,3 +30,6 @@ Write simple, elegant and efficient code.
 It should leverage caching.
 It should be straightforward to launch the code on SLURM clusters.
 If I want to launch multiple experiments, the code should compute the dependency tree of all the functions for those experiments and optimize scheduling and avoid redundancy.
+The code should be as simple and short as possible.
+Don't implement caching, solving dependency tree, or SLURM management, use well known libraries such as dask instead.
+Remember to write the requirements file.
