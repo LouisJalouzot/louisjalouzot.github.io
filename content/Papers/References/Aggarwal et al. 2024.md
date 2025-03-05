@@ -39,3 +39,4 @@ marker: "[🇿](zotero://select/library/items/RCC3WQM4)"
 
 >[!warning] Warning
 > This note should not be modified as it can be overwritten by the plugin which generated it.
+
