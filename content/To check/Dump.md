@@ -8,3 +8,5 @@ https://arxiv.org/abs/2502.18394?s=09
 reservoir computing (Xavier Hinaut)
 OP 1141
 ![](Attachments/Screenshot_20250303_224303_YouTube.jpg)https://www.neuromonster.org/
+https://eventosdiee.ucsp.edu.pe/mlss/
+https://arxiv.org/abs/2502.19249
