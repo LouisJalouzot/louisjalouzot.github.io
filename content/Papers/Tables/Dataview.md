@@ -1,6 +1,7 @@
 ---
 tags:
   - dataview
+publish: true
 ---
 # Test
 ```dataview
