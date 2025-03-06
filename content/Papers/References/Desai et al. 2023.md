@@ -28,12 +28,12 @@ dateAdded: "2024-06-03T19:08:08Z"
 dateModified: "2024-06-03T19:08:18Z"
 super_collections:
   - ERQKEKFA
+filename: Desai et al. 2023 - Hyperbolic Image-Text Representations.pdf
 marker: "[🇿](zotero://select/library/items/AD6VBDVP)"
 ---
-
 # Hyperbolic Image-Text Representations
 
-[PDF file](/Papers/PDFs/Desai%20et%20al.%202023undefined%20-%20Hyperbolic%20Image-Text%20Representations.pdf)
+[PDF file](/Papers/PDFs/Desai%20et%20al.%202023%20-%20Hyperbolic%20Image-Text%20Representations.pdf)
 
 > [!abstract] Abstract
 > Visual and linguistic concepts naturally organize themselves in a hierarchy, where a textual concept "dog" entails all images that contain dogs. Despite being intuitive, current large-scale vision and language models such as CLIP do not explicitly capture such hierarchy. We propose MERU, a contrastive model that yields hyperbolic representations of images and text. Hyperbolic spaces have suitable geometric properties to embed tree-like data, so MERU can better capture the underlying hierarchy in image-text datasets. Our results show that MERU learns a highly interpretable and structured representation space while being competitive with CLIP's performance on standard multi-modal tasks like image classification and image-text retrieval. Our code and models are available at https://www.github.com/facebookresearch/meru

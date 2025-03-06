@@ -34,12 +34,12 @@ dateAdded: "2024-11-25T09:06:10Z"
 dateModified: "2024-11-25T09:13:53Z"
 super_collections:
   - ERQKEKFA
+filename: "Kaufman et al. 2014 - Cortical activity in the null space: permitting preparation without movement.pdf"
 marker: "[🇿](zotero://select/library/items/KCBD3HNR)"
 ---
-
 # Cortical activity in the null space: permitting preparation without movement
 
-[PDF file](/Papers/PDFs/Kaufman%20et%20al.%202014undefined%20-%20Cortical%20activity%20in%20the%20null%20space%20permitting%20preparation%20without%20movement.pdf)
+[PDF file](/Papers/PDFs/Kaufman%20et%20al.%202014%20-%20Cortical%20activity%20in%20the%20null%20space:%20permitting%20preparation%20without%20movement.pdf)
 
 > [!abstract] Abstract
 > Brain areas directly involved in driving movement are active well before movement begins. Muscle activity is some readout of this neural activity, yet remains largely unchanged during preparation. Here the authors find that during movement preparation, changes in motor cortical activity cancel out at the level of population activity within dorsal premotor and primary motor cortex.

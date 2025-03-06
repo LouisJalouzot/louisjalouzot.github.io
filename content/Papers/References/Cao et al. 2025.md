@@ -42,12 +42,12 @@ dateAdded: "2025-02-23T21:14:26Z"
 dateModified: "2025-02-23T21:14:26Z"
 super_collections:
   - ERQKEKFA
+filename: Cao et al. 2025 - A neuronal code for object representation and memory in the human amygdala and hippocampus.pdf
 marker: "[🇿](zotero://select/library/items/YUDU7R8S)"
 ---
-
 # A neuronal code for object representation and memory in the human amygdala and hippocampus
 
-[PDF file](/Papers/PDFs/Cao%20et%20al.%202025undefined%20-%20A%20neuronal%20code%20for%20object%20representation%20and%20memory%20in%20the%20human%20amygdala%20and%20hippocampus.pdf)
+[PDF file](/Papers/PDFs/Cao%20et%20al.%202025%20-%20A%20neuronal%20code%20for%20object%20representation%20and%20memory%20in%20the%20human%20amygdala%20and%20hippocampus.pdf)
 
 > [!abstract] Abstract
 > How the brain encodes, recognizes, and memorizes general visual objects is a fundamental question in neuroscience. Here, we investigated the neural processes underlying visual object perception and memory by recording from 3173 single neurons in the human amygdala and hippocampus across four experiments. We employed both passive-viewing and recognition memory tasks involving a diverse range of naturalistic object stimuli. Our findings reveal a region-based feature code for general objects, where neurons exhibit receptive fields in the high-level visual feature space. This code can be validated by independent new stimuli and replicated across all experiments, including fixation-based analyses with large natural scenes. This region code explains the long-standing visual category selectivity, preferentially enhances memory of encoded stimuli, predicts memory performance, encodes image memorability, and exhibits intricate interplay with memory contexts. Together, region-based feature coding provides an important mechanism for visual object processing in the human brain.

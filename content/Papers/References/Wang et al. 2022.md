@@ -30,12 +30,12 @@ dateAdded: "2025-01-23T15:07:03Z"
 dateModified: "2025-01-23T15:07:21Z"
 super_collections:
   - ERQKEKFA
+filename: Wang et al. 2022 - A synchronized multimodal neuroimaging dataset for studying brain language processing.pdf
 marker: "[🇿](zotero://select/library/items/3I5ICTJW)"
 ---
-
 # A synchronized multimodal neuroimaging dataset for studying brain language processing
 
-[PDF file](/Papers/PDFs/Wang%20et%20al.%202022undefined%20-%20A%20synchronized%20multimodal%20neuroimaging%20dataset%20for%20studying%20brain%20language%20processing.pdf)
+[PDF file](/Papers/PDFs/Wang%20et%20al.%202022%20-%20A%20synchronized%20multimodal%20neuroimaging%20dataset%20for%20studying%20brain%20language%20processing.pdf)
 
 > [!abstract] Abstract
 > Abstract

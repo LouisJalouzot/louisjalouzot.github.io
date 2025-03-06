@@ -29,12 +29,12 @@ dateAdded: "2025-01-18T11:26:20Z"
 dateModified: "2025-01-18T11:27:32Z"
 super_collections:
   - ERQKEKFA
+filename: Chang et al. 2025 - Imageless imagery in aphantasia revealed by early visual cortex decoding.pdf
 marker: "[🇿](zotero://select/library/items/E87XTINA)"
 ---
-
 # Imageless imagery in aphantasia revealed by early visual cortex decoding
 
-[PDF file](/Papers/PDFs/Chang%20et%20al.%202025undefined%20-%20Imageless%20imagery%20in%20aphantasia%20revealed%20by%20early%20visual%20cortex%20decoding.pdf)
+[PDF file](/Papers/PDFs/Chang%20et%20al.%202025%20-%20Imageless%20imagery%20in%20aphantasia%20revealed%20by%20early%20visual%20cortex%20decoding.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Imageless imagery in aphantasia revealed by early visual cortex decoding" by Shuai Chang et al.

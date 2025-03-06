@@ -28,12 +28,12 @@ dateAdded: "2024-09-21T09:31:45Z"
 dateModified: "2024-09-21T09:31:51Z"
 super_collections:
   - ERQKEKFA
+filename: Smolensky 1990 - Tensor product variable binding and the representation of symbolic structures in connectionist systems.pdf
 marker: "[🇿](zotero://select/library/items/B3XAQ6V2)"
 ---
-
 # Tensor product variable binding and the representation of symbolic structures in connectionist systems
 
-[PDF file](/Papers/PDFs/Smolensky%201990undefined%20-%20Tensor%20product%20variable%20binding%20and%20the%20representation%20of%20symbolic%20structures%20in%20connectionist%20systems.pdf)
+[PDF file](/Papers/PDFs/Smolensky%201990%20-%20Tensor%20product%20variable%20binding%20and%20the%20representation%20of%20symbolic%20structures%20in%20connectionist%20systems.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems" by P. Smolensky

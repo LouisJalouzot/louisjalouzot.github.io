@@ -25,12 +25,12 @@ dateAdded: "2025-01-06T14:33:51Z"
 dateModified: "2025-01-06T14:34:07Z"
 super_collections:
   - ERQKEKFA
+filename: Wang and Ding 2019 - Fast Approximation of Empirical Entropy via Subsampling.pdf
 marker: "[🇿](zotero://select/library/items/JTLYJTBT)"
 ---
-
 # Fast Approximation of Empirical Entropy via Subsampling
 
-[PDF file](/Papers/PDFs/Wang%20and%20Ding%202019undefined%20-%20Fast%20Approximation%20of%20Empirical%20Entropy%20via%20Subsampling.pdf)
+[PDF file](/Papers/PDFs/Wang%20and%20Ding%202019%20-%20Fast%20Approximation%20of%20Empirical%20Entropy%20via%20Subsampling.pdf)
 
 > [!abstract] Abstract
 > Empirical entropy refers to the information entropy calculated from the empirical distribution of a dataset. It is a widely used aggregation function for knowledge discovery, as well as the foundation of other aggregation functions such as mutual information. However, computing the exact empirical entropy on a large-scale dataset can be expensive. Using a random subsample, we can compute an approximation of the empirical entropy efficiently. We derive probabilistic error bounds for the approximation, where the error bounds reduce in a near square root rate with respect to the subsample size. We further study two applications which can benefit from the error-bounded approximation: feature ranking and filtering based on mutual information. We develop algorithms to progressively subsample the dataset and return correct answers with high probability. The sample complexity of the algorithms is independent of data size. The empirical evaluation of our algorithms on large-scale real-world datasets demonstrates up to three orders of magnitude speedup over exact methods with \errrate\ error.

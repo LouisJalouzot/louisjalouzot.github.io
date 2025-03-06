@@ -28,12 +28,12 @@ dateAdded: "2024-10-07T14:40:23Z"
 dateModified: "2024-10-07T14:40:39Z"
 super_collections:
   - ERQKEKFA
+filename: Debray and Dehaene 2025 - Mapping and modeling the semantic space of math concepts.pdf
 marker: "[🇿](zotero://select/library/items/FSQFTTUM)"
 ---
-
 # Mapping and modeling the semantic space of math concepts
 
-[PDF file](/Papers/PDFs/Debray%20and%20Dehaene%202025undefined%20-%20Mapping%20and%20modeling%20the%20semantic%20space%20of%20math%20concepts.pdf)
+[PDF file](/Papers/PDFs/Debray%20and%20Dehaene%202025%20-%20Mapping%20and%20modeling%20the%20semantic%20space%20of%20math%20concepts.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Mapping and modeling the semantic space of math concepts" by Samuel Debray et al.

@@ -24,12 +24,12 @@ dateAdded: "2024-05-17T09:03:54Z"
 dateModified: "2024-05-17T09:04:06Z"
 super_collections:
   - ERQKEKFA
+filename: Roussel et al. 2024 - Evidence for common spike-based temporal coding of overt and covert speech in pars triangularis of human Broca’s area.pdf
 marker: "[🇿](zotero://select/library/items/MQG4EEET)"
 ---
-
 # Evidence for common spike-based temporal coding of overt and covert speech in pars triangularis of human Broca’s area
 
-[PDF file](/Papers/PDFs/Roussel%20et%20al.%202024undefined%20-%20Evidence%20for%20common%20spike-based%20temporal%20coding%20of%20overt%20and%20covert%20speech%20in%20pars%20triangularis%20of%20human%20Broca’s%20area.pdf)
+[PDF file](/Papers/PDFs/Roussel%20et%20al.%202024%20-%20Evidence%20for%20common%20spike-based%20temporal%20coding%20of%20overt%20and%20covert%20speech%20in%20pars%20triangularis%20of%20human%20Broca’s%20area.pdf)
 
 > [!abstract] Abstract
 > ABSTRACT

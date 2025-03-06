@@ -39,12 +39,12 @@ dateAdded: "2025-02-11T04:00:46Z"
 dateModified: "2025-02-11T04:07:40Z"
 super_collections:
   - ERQKEKFA
+filename: Castro et al. 2025 - Discovering Symbolic Cognitive Models from Human and Animal Behavior.pdf
 marker: "[🇿](zotero://select/library/items/SSUXQG2V)"
 ---
-
 # Discovering Symbolic Cognitive Models from Human and Animal Behavior
 
-[PDF file](/Papers/PDFs/Castro%20et%20al.%202025undefined%20-%20Discovering%20Symbolic%20Cognitive%20Models%20from%20Human%20and%20Animal%20Behavior.pdf)
+[PDF file](/Papers/PDFs/Castro%20et%20al.%202025%20-%20Discovering%20Symbolic%20Cognitive%20Models%20from%20Human%20and%20Animal%20Behavior.pdf)
 
 > [!abstract] Abstract
 > Symbolic models play a key role in cognitive science, expressing computationally precise hypotheses about how the brain implements a cognitive process. Identifying an appropriate model typically requires a great deal of effort and ingenuity on the part of a human scientist. Here, we adapt FunSearch Romera-Paredes et al. (2024), a recently developed tool that uses Large Language Models (LLMs) in an evolutionary algorithm, to automatically discover symbolic cognitive models that accurately capture human and animal behavior. We consider datasets from three species performing a classic reward-learning task that has been the focus of substantial modeling effort, and find that the discovered programs outperform state-of-the-art cognitive models for each. The discovered programs can readily be interpreted as hypotheses about human and animal cognition, instantiating interpretable symbolic learning and decision-making algorithms. Broadly, these results demonstrate the viability of using LLM-powered program synthesis to propose novel scientific hypotheses regarding mechanisms of human and animal cognition.

@@ -33,12 +33,12 @@ dateAdded: "2024-03-09T04:14:00Z"
 dateModified: "2025-02-25T17:37:02Z"
 super_collections:
   - ERQKEKFA
+filename: Stavisky and Wairagkar 2023 - Listening in to perceived speech with contrastive learning.pdf
 marker: "[🇿](zotero://select/library/items/LVLH4ZFT)"
 ---
-
 # Listening in to perceived speech with contrastive learning
 
-[PDF file](/Papers/PDFs/Stavisky%20and%20Wairagkar%202023undefined%20-%20Listening%20in%20to%20perceived%20speech%20with%20contrastive%20learning.pdf)
+[PDF file](/Papers/PDFs/Stavisky%20and%20Wairagkar%202023%20-%20Listening%20in%20to%20perceived%20speech%20with%20contrastive%20learning.pdf)
 
 > [!abstract] Abstract
 > New algorithms allow researchers to decode words the brain is hearing with a non-invasive method, outside the scalp.

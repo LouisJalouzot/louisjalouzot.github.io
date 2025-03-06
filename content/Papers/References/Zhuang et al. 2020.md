@@ -40,12 +40,12 @@ dateAdded: "2024-03-09T17:04:05Z"
 dateModified: "2024-04-21T09:54:51Z"
 super_collections:
   - ERQKEKFA
+filename: Zhuang et al. 2020 - A technical review of canonical correlation analysis for neuroscience applications.pdf
 marker: "[🇿](zotero://select/library/items/J8L3LLA5)"
 ---
-
 # A technical review of canonical correlation analysis for neuroscience applications
 
-[PDF file](/Papers/PDFs/Zhuang%20et%20al.%202020undefined%20-%20A%20technical%20review%20of%20canonical%20correlation%20analysis%20for%20neuroscience%20applications.pdf)
+[PDF file](/Papers/PDFs/Zhuang%20et%20al.%202020%20-%20A%20technical%20review%20of%20canonical%20correlation%20analysis%20for%20neuroscience%20applications.pdf)
 
 > [!abstract] Abstract
 > Collecting comprehensive data sets of the same subject has become a standard in neuroscience research and uncovering multivariate relationships among collected data sets have gained significant attentions in recent years. Canonical correlation analysis (CCA) is one of the powerful multivariate tools to jointly investigate relationships among multiple data sets, which can uncover disease or environmental effects in various modalities simultaneously and characterize changes during development, aging, and disease progressions comprehensively. In the past 10 years, despite an increasing number of studies have utilized CCA in multivariate analysis, simple conventional CCA dominates these applications. Multiple CCA-variant techniques have been proposed to improve the model performance; however, the complicated multivariate formulations and not well-known capabilities have delayed their wide applications. Therefore, in this study, a comprehensive review of CCA and its variant techniques is provided. Detailed technical formulation with analytical and numerical solutions, current applications in neuroscience research, and advantages and limitations of each CCA-related technique are discussed. Finally, a general guideline in how to select the most appropriate CCA-related technique based on the properties of available data sets and particularly targeted neuroscience questions is provided.

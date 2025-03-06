@@ -30,12 +30,12 @@ dateAdded: "2024-03-13T23:04:58Z"
 dateModified: "2024-04-21T09:54:50Z"
 super_collections:
   - 5D3NLYTP
+filename: "Guger et al. 2013 - Brain-Computer Interface Research: A State-of-the-Art Summary.pdf"
 marker: "[🇿](zotero://select/library/items/ETI7CYWC)"
 ---
-
 # Brain-Computer Interface Research: A State-of-the-Art Summary
 
-[PDF file](/Papers/PDFs/Guger%20et%20al.%202013undefined%20-%20Brain-Computer%20Interface%20Research%20A%20State-of-the-Art%20Summary.pdf)
+[PDF file](/Papers/PDFs/Guger%20et%20al.%202013%20-%20Brain-Computer%20Interface%20Research:%20A%20State-of-the-Art%20Summary.pdf)
 
 > [!abstract] Abstract
 > This book presents the latest research in brain-computer interface (BCI) systems. A BCI is a device that reads voluntary changes in brain activity, then translates these signals into a message or command in real-time. Early BCI work focused on providing communication for persons with severe movement disabilities. These patients have little or no ability to communicate in other ways, such as by speech, typing, or even most assistive technology (AT) systems meant for disabled users. For these patients, BCIs can provide the only means of communication. All BCIs involve four components:

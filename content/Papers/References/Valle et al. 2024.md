@@ -27,12 +27,12 @@ dateAdded: "2024-10-25T08:51:10Z"
 dateModified: "2024-10-25T08:54:18Z"
 super_collections:
   - ERQKEKFA
+filename: Valle et al. 2024 - Identification of perceived sentences using deep neural networks in EEG.pdf
 marker: "[🇿](zotero://select/library/items/GPZ6LWHE)"
 ---
-
 # Identification of perceived sentences using deep neural networks in EEG
 
-[PDF file](/Papers/PDFs/Valle%20et%20al.%202024undefined%20-%20Identification%20of%20perceived%20sentences%20using%20deep%20neural%20networks%20in%20EEG.pdf)
+[PDF file](/Papers/PDFs/Valle%20et%20al.%202024%20-%20Identification%20of%20perceived%20sentences%20using%20deep%20neural%20networks%20in%20EEG.pdf)
 
 > [!abstract] Abstract
 > Abstract

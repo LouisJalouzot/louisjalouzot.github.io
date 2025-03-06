@@ -29,12 +29,12 @@ dateAdded: "2024-10-09T09:02:51Z"
 dateModified: "2024-10-09T09:03:20Z"
 super_collections:
   - ERQKEKFA
+filename: "Tuckute et al. 2024 - Language in Brains, Minds, and Machines.pdf"
 marker: "[🇿](zotero://select/library/items/5AAABEE7)"
 ---
-
 # Language in Brains, Minds, and Machines
 
-[PDF file](/Papers/PDFs/Tuckute%20et%20al.%202024undefined%20-%20Language%20in%20Brains%20Minds%20and%20Machines.pdf)
+[PDF file](/Papers/PDFs/Tuckute%20et%20al.%202024%20-%20Language%20in%20Brains,%20Minds,%20and%20Machines.pdf)
 
 > [!abstract] Abstract
 > It has long been argued that only humans could produce and understand language. But now, for the first time, artificial language models (LMs) achieve this feat. Here we survey the new purchase LMs are providing on the question of how language is implemented in the brain. We discuss why, a priori, LMs might be expected to share similarities with the human language system. We then summarize evidence that LMs represent linguistic information similarly enough to humans to enable relatively accurate brain encoding and decoding during language processing. Finally, we examine which LM properties—their architecture, task performance, or training—are critical for capturing human neural responses to language and review studies using LMs as in silico model organisms for testing hypotheses about language. These ongoing investigations bring us closer to understanding the representations and processes that underlie our ability to comprehend sentences and express thoughts in language.

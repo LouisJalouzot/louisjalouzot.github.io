@@ -25,12 +25,12 @@ dateAdded: "2024-10-02T21:11:13Z"
 dateModified: "2024-10-02T21:11:33Z"
 super_collections:
   - ERQKEKFA
+filename: Müller-Eberstein et al. 2022 - Spectral Probing.pdf
 marker: "[🇿](zotero://select/library/items/C524QQFG)"
 ---
-
 # Spectral Probing
 
-[PDF file](/Papers/PDFs/Müller-Eberstein%20et%20al.%202022undefined%20-%20Spectral%20Probing.pdf)
+[PDF file](/Papers/PDFs/Müller-Eberstein%20et%20al.%202022%20-%20Spectral%20Probing.pdf)
 
 > [!abstract] Abstract
 > Linguistic information is encoded at varying timescales (subwords, phrases, etc.) and communicative levels, such as syntax and semantics. Contextualized embeddings have analogously been found to capture these phenomena at distinctive layers and frequencies. Leveraging these findings, we develop a fully learnable frequency filter to identify spectral profiles for any given task. It enables vastly more granular analyses than prior handcrafted filters, and improves on efficiency. After demonstrating the informativeness of spectral probing over manual filters in a monolingual setting, we investigate its multilingual characteristics across seven diverse NLP tasks in six languages. Our analyses identify distinctive spectral profiles which quantify cross-task similarity in a linguistically intuitive manner, while remaining consistent across languages-highlighting their potential as robust, lightweight task descriptors.

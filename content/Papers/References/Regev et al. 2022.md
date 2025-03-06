@@ -28,12 +28,12 @@ dateAdded: "2024-09-21T12:38:51Z"
 dateModified: "2024-09-21T12:39:03Z"
 super_collections:
   - ERQKEKFA
+filename: Regev et al. 2022 - Neural populations in the language network differ in the size of their temporal receptive windows.pdf
 marker: "[🇿](zotero://select/library/items/J5SX6ML8)"
 ---
-
 # Neural populations in the language network differ in the size of their temporal receptive windows
 
-[PDF file](/Papers/PDFs/Regev%20et%20al.%202022undefined%20-%20Neural%20populations%20in%20the%20language%20network%20differ%20in%20the%20size%20of%20their%20temporal%20receptive%20windows.pdf)
+[PDF file](/Papers/PDFs/Regev%20et%20al.%202022%20-%20Neural%20populations%20in%20the%20language%20network%20differ%20in%20the%20size%20of%20their%20temporal%20receptive%20windows.pdf)
 
 > [!abstract] Abstract
 > Abstract

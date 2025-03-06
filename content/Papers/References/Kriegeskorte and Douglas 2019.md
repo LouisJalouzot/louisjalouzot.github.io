@@ -27,12 +27,12 @@ dateAdded: "2024-03-10T22:29:15Z"
 dateModified: "2024-03-10T22:45:01Z"
 super_collections:
   - ERQKEKFA
+filename: Kriegeskorte and Douglas 2019 - Interpreting encoding and decoding models.pdf
 marker: "[🇿](zotero://select/library/items/K8WJGAZI)"
 ---
-
 # Interpreting encoding and decoding models
 
-[PDF file](/Papers/PDFs/Kriegeskorte%20and%20Douglas%202019undefined%20-%20Interpreting%20encoding%20and%20decoding%20models.pdf)
+[PDF file](/Papers/PDFs/Kriegeskorte%20and%20Douglas%202019%20-%20Interpreting%20encoding%20and%20decoding%20models.pdf)
 
 > [!abstract] Abstract
 > Encoding and decoding models are widely used in systems, cognitive, and computational neuroscience to make sense of brain-activity data. However, the interpretation of their results requires care. Decoding models can help reveal whether particular information is present in a brain region in a format the decoder can exploit. Encoding models make comprehensive predictions about representational spaces. In the context of sensory experiments, where stimuli are experimentally controlled, encoding models enable us to test and compare brain-computational theories. Encoding and decoding models typically include fitted linear-model components. Sometimes the weights of the fitted linear combinations are interpreted as reflecting, in an encoding model, the contribution of different sensory features to the representation or, in a decoding model, the contribution of different measured brain responses to a decoded feature. Such interpretations can be problematic when the predictor variables or their noise components are correlated and when priors (or penalties) are used to regularize the fit. Encoding and decoding models are evaluated in terms of their generalization performance. The correct interpretation depends on the level of generalization a model achieves (e.g. to new response measurements for the same stimuli, to new stimuli from the same population, or to stimuli from a different population). Significant decoding or encoding performance of a single model (at whatever level of generality) does not provide strong constraints for theory. Many models must be tested and inferentially compared for analyses to drive theoretical progress.

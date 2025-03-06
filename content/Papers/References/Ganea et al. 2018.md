@@ -22,12 +22,12 @@ dateAdded: "2024-06-03T19:07:30Z"
 dateModified: "2024-06-03T19:07:54Z"
 super_collections:
   - ERQKEKFA
+filename: Ganea et al. 2018 - Hyperbolic Entailment Cones for Learning Hierarchical Embeddings.pdf
 marker: "[🇿](zotero://select/library/items/WS6SP3EY)"
 ---
-
 # Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
 
-[PDF file](/Papers/PDFs/Ganea%20et%20al.%202018undefined%20-%20Hyperbolic%20Entailment%20Cones%20for%20Learning%20Hierarchical%20Embeddings.pdf)
+[PDF file](/Papers/PDFs/Ganea%20et%20al.%202018%20-%20Hyperbolic%20Entailment%20Cones%20for%20Learning%20Hierarchical%20Embeddings.pdf)
 
 > [!abstract] Abstract
 > Learning graph representations via low-dimensional embeddings that preserve relevant network properties is an important class of problems in machine learning. We here present a novel method to embed directed acyclic graphs. Following prior work, we first advocate for using hyperbolic spaces which provably model tree-like structures better than Euclidean geometry. Second, we view hierarchical relations as partial orders defined using a family of nested geodesically convex cones. We prove that these entailment cones admit an optimal shape with a closed form expression both in the Euclidean and hyperbolic spaces. Moreover, they canonically define the embedding learning process. Experiments show significant improvements of our method over strong recent baselines both in terms of representational capacity and generalization.

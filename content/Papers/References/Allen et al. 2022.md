@@ -39,12 +39,12 @@ dateAdded: "2024-04-23T10:14:38Z"
 dateModified: "2025-02-24T22:53:11Z"
 super_collections:
   - ERQKEKFA
+filename: Allen et al. 2022 - A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence.pdf
 marker: "[🇿](zotero://select/library/items/SQ956B9V)"
 ---
-
 # A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence
 
-[PDF file](/Papers/PDFs/Allen%20et%20al.%202022undefined%20-%20A%20massive%207T%20fMRI%20dataset%20to%20bridge%20cognitive%20neuroscience%20and%20artificial%20intelligence.pdf)
+[PDF file](/Papers/PDFs/Allen%20et%20al.%202022%20-%20A%20massive%207T%20fMRI%20dataset%20to%20bridge%20cognitive%20neuroscience%20and%20artificial%20intelligence.pdf)
 
 > [!abstract] Abstract
 > Extensive sampling of neural activity during rich cognitive phenomena is critical for robust understanding of brain function. Here we present the Natural Scenes Dataset (NSD), in which high-resolution functional magnetic resonance imaging responses to tens of thousands of richly annotated natural scenes were measured while participants performed a continuous recognition task. To optimize data quality, we developed and applied novel estimation and denoising techniques. Simple visual inspections of the NSD data reveal clear representational transformations along the ventral visual pathway. Further exemplifying the inferential power of the dataset, we used NSD to build and train deep neural network models that predict brain activity more accurately than state-of-the-art models from computer vision. NSD also includes substantial resting-state and diffusion data, enabling network neuroscience perspectives to constrain and enhance models of perception and memory. Given its unprecedented scale, quality and breadth, NSD opens new avenues of inquiry in cognitive neuroscience and artificial intelligence. The authors measured high-resolution fMRI activity from eight individuals who saw and memorized thousands of annotated natural images over 1 year. This massive dataset enables new paths of inquiry in cognitive neuroscience and artificial intelligence.

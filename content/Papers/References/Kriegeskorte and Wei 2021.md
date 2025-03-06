@@ -32,12 +32,12 @@ dateAdded: "2024-03-09T04:13:49Z"
 dateModified: "2024-04-21T09:54:51Z"
 super_collections:
   - ERQKEKFA
+filename: Kriegeskorte and Wei 2021 - Neural tuning and representational geometry.pdf
 marker: "[🇿](zotero://select/library/items/S7GIXFKU)"
 ---
-
 # Neural tuning and representational geometry
 
-[PDF file](/Papers/PDFs/Kriegeskorte%20and%20Wei%202021undefined%20-%20Neural%20tuning%20and%20representational%20geometry.pdf)
+[PDF file](/Papers/PDFs/Kriegeskorte%20and%20Wei%202021%20-%20Neural%20tuning%20and%20representational%20geometry.pdf)
 
 > [!abstract] Abstract
 > A central goal of neuroscience is to understand the representations formed by brain activity patterns and their connection to behaviour. The classic approach is to investigate how individual neurons encode stimuli and how their tuning determines the fidelity of the neural representation. Tuning analyses often use the Fisher information to characterize the sensitivity of neural responses to small changes of the stimulus. In recent decades, measurements of large populations of neurons have motivated a complementary approach, which focuses on the information available to linear decoders. The decodable information is captured by the geometry of the representational patterns in the multivariate response space. Here we review neural tuning and representational geometry with the goal of clarifying the relationship between them. The tuning induces the geometry, but different sets of tuned neurons can induce the same geometry. The geometry determines the Fisher information, the mutual information and the behavioural performance of an ideal observer in a range of psychophysical tasks. We argue that future studies can benefit from considering both tuning and geometry to understand neural codes and reveal the connections between stimuli, brain activity and behaviour.
