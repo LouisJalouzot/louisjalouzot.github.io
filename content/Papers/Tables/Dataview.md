@@ -11,7 +11,15 @@ FROM "Papers/References"
 ```
 
 
+
 # Testing
+```dataviewjs
+dv.table(
+  ["Title", "Status"],
+  dv.pages('"Papers/References"')
+    .map(p => [p.paperTitle, p.generated])
+);
+```
 
 
 
