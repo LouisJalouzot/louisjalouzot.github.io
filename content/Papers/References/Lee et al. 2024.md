@@ -28,12 +28,12 @@ dateAdded: "2024-09-26T13:49:02Z"
 dateModified: "2024-10-01T15:43:11Z"
 super_collections:
   - ERQKEKFA
+filename: Lee et al. 2024 - Efficient functional localization of language regions in the brain.pdf
 marker: "[🇿](zotero://select/library/items/88T289K7)"
 ---
-
 # Efficient functional localization of language regions in the brain
 
-[PDF file](/Papers/PDFs/Lee%20et%20al.%202024undefined%20-%20Efficient%20functional%20localization%20of%20language%20regions%20in%20the%20brain.pdf)
+[PDF file](/Papers/PDFs/Lee%20et%20al.%202024%20-%20Efficient%20functional%20localization%20of%20language%20regions%20in%20the%20brain.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Efficient functional localization of language regions in the brain" by Jayden Lee et al.

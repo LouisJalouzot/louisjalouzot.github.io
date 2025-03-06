@@ -19,12 +19,12 @@ dateAdded: "2024-12-20T14:07:58Z"
 dateModified: "2024-12-20T14:08:36Z"
 super_collections:
   - ERQKEKFA
+filename: Hofstadter 1995 - On seeing A's and seeing As.pdf
 marker: "[🇿](zotero://select/library/items/78E34EHB)"
 ---
-
 # On seeing A's and seeing As
 
-[PDF file](/Papers/PDFs/Hofstadter%201995undefined%20-%20On%20seeing%20A's%20and%20seeing%20As.pdf)
+[PDF file](/Papers/PDFs/Hofstadter%201995%20-%20On%20seeing%20A's%20and%20seeing%20As.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "On seeing A's and seeing As" by D. Hofstadter

@@ -1,13 +1,16 @@
 let fp = '';
 if (data.creators && data.creators.length > 0) {
-fp += data.creators[0]?.lastName;
-if (data.creators.length == 2) {
-	fp += ' and ';
-	fp += data.creators[1]?.lastName;
-} else if (data.creators.length > 2) {
-    fp += ' et al.';
+    fp += data.creators[0]?.lastName;
+    if (data.creators.length == 2) {
+        fp += ' and ';
+        fp += data.creators[1]?.lastName;
+    } else if (data.creators.length > 2) {
+        fp += ' et al.';
+    }
+    fp += ' ';
+} else {
+    throw new Error('No authors found for ' + data.title);
 }
-fp += ' ';
 if (data.date) {
     let year;
     // Try to extract a 4-digit year from the date string using regex
@@ -26,6 +29,6 @@ if (data.date) {
     }
     fp += year.toString();
 }
-data.filename = fp;
+let formatted_title = data.title;//.replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '').replace(/\s+/g, ' ').replace(/^\s+|\s+$|\.*$/g, '').trim();
+data.filename = fp + ' - ' + formatted_title + '.pdf';
 return 'Papers/References/' + fp;
-}

@@ -30,12 +30,12 @@ dateAdded: "2024-09-02T20:22:16Z"
 dateModified: "2024-09-02T20:22:16Z"
 super_collections:
   - ERQKEKFA
+filename: Lakretz et al. 2021 - Single-cell activity in human STG during perception of phonemes is organized according to manner of articulation.pdf
 marker: "[🇿](zotero://select/library/items/IIEZGZ7Q)"
 ---
-
 # Single-cell activity in human STG during perception of phonemes is organized according to manner of articulation
 
-[PDF file](/Papers/PDFs/Lakretz%20et%20al.%202021undefined%20-%20Single-cell%20activity%20in%20human%20STG%20during%20perception%20of%20phonemes%20is%20organized%20according%20to%20manner%20of%20articulation.pdf)
+[PDF file](/Papers/PDFs/Lakretz%20et%20al.%202021%20-%20Single-cell%20activity%20in%20human%20STG%20during%20perception%20of%20phonemes%20is%20organized%20according%20to%20manner%20of%20articulation.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Single-cell activity in human STG during perception of phonemes is organized according to manner of articulation" by Yair Lakretz et al.

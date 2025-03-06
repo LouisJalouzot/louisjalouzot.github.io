@@ -240,8 +240,6 @@ let abstractNote = data.abstractNote;
 delete data.abstractNote;
 let children = data.children;
 delete data.children;
-let filename = data.filename;
-delete data.filename;
 
 n += addYamlField('generated', true);
 
@@ -259,19 +257,14 @@ for (const [key, value] of Object.entries(data)) {
 }
 
 // End frontmatter
-n += '---\n\n';
+n += '---\n';
 
 
 // Add title as heading
 n += '# ' + data.title + '\n\n';
 
 // Add filename as link
-filename += data.filename + ' - ' + data.title
-	.replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '') // Remove illegal/problematic chars
-	.replace(/\s+/g, ' ')  // Replace multiple spaces with a single space
-	.replace(/^\s+|\s+$|\.*$/g, '') // Trim spaces and trailing periods
-	.trim();
-n += `[PDF file](/Papers/PDFs/${filename.replace(/ /g, '%20')}.pdf)\n\n`;
+n += `[PDF file](/Papers/PDFs/${data.filename.replace(/ /g, '%20')})\n\n`;
 
 // Add abstract content
 if (abstractNote) {

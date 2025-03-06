@@ -32,12 +32,12 @@ dateAdded: "2024-11-07T17:06:04Z"
 dateModified: "2024-11-07T17:06:21Z"
 super_collections:
   - ERQKEKFA
+filename: Willett et al. 2023 - A high-performance speech neuroprosthesis.pdf
 marker: "[🇿](zotero://select/library/items/LMWWL83R)"
 ---
-
 # A high-performance speech neuroprosthesis
 
-[PDF file](/Papers/PDFs/Willett%20et%20al.%202023undefined%20-%20A%20high-performance%20speech%20neuroprosthesis.pdf)
+[PDF file](/Papers/PDFs/Willett%20et%20al.%202023%20-%20A%20high-performance%20speech%20neuroprosthesis.pdf)
 
 > [!abstract] Abstract
 > Abstract

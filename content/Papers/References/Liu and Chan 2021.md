@@ -26,12 +26,12 @@ dateAdded: "2024-06-24T10:05:37Z"
 dateModified: "2024-06-24T10:14:43Z"
 super_collections:
   - ERQKEKFA
+filename: "Liu and Chan 2021 - Testing the Effectiveness of CNN and GNN and Exploring the Influence of Different Channels on Decoding Covert Speech from EEG Signals: CNN and GNN on Decoding Covert Speech from EEG Signals.pdf"
 marker: "[🇿](zotero://select/library/items/IMR4FHV3)"
 ---
-
 # Testing the Effectiveness of CNN and GNN and Exploring the Influence of Different Channels on Decoding Covert Speech from EEG Signals: CNN and GNN on Decoding Covert Speech from EEG Signals
 
-[PDF file](/Papers/PDFs/Liu%20and%20Chan%202021undefined%20-%20Testing%20the%20Effectiveness%20of%20CNN%20and%20GNN%20and%20Exploring%20the%20Influence%20of%20Different%20Channels%20on%20Decoding%20Covert%20Speech%20from%20EEG%20Signals%20CNN%20and%20GNN%20on%20Decoding%20Covert%20Speech%20from%20EEG%20Signals.pdf)
+[PDF file](/Papers/PDFs/Liu%20and%20Chan%202021%20-%20Testing%20the%20Effectiveness%20of%20CNN%20and%20GNN%20and%20Exploring%20the%20Influence%20of%20Different%20Channels%20on%20Decoding%20Covert%20Speech%20from%20EEG%20Signals:%20CNN%20and%20GNN%20on%20Decoding%20Covert%20Speech%20from%20EEG%20Signals.pdf)
 
 > [!abstract] Abstract
 > In this paper, the effectiveness of two deep learning models was tested and the significance of 62 different electroencephalogram (EEG) channels were explored on covert speech classification tasks using time series EEG signals. Experiments were done on the classification between the words “in” and “cooperate” from the ASU dataset and the classification between 11 different prompts from the KaraOne dataset. The types of deep learning models used are the 1D convolutional neural network (CNN) and the graphical neural network (GNN). Overall, the CNN model showed decent performance with an accuracy of around 80% on the classification between “in” and “cooperate”, while the GNN seemed to be unsuitable for time series data. By examining the accuracy of the CNN model trained on different EEG channels, the prefrontal and frontal regions appeared to be the most relevant to the performance of the model. Although this finding is noticeably different from various previous works, it could provide possible insights into the cortical activities behind covert speech.

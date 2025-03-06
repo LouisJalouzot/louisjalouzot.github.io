@@ -29,12 +29,12 @@ dateAdded: "2024-05-31T20:35:51Z"
 dateModified: "2024-05-31T20:36:24Z"
 super_collections:
   - ERQKEKFA
+filename: "Walker et al. 2023 - Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields.pdf"
 marker: "[🇿](zotero://select/library/items/VE8XZQIK)"
 ---
-
 # Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields
 
-[PDF file](/Papers/PDFs/Walker%20et%20al.%202023undefined%20-%20Explicit%20Neural%20Surfaces%20Learning%20Continuous%20Geometry%20With%20Deformation%20Fields.pdf)
+[PDF file](/Papers/PDFs/Walker%20et%20al.%202023%20-%20Explicit%20Neural%20Surfaces:%20Learning%20Continuous%20Geometry%20With%20Deformation%20Fields.pdf)
 
 > [!abstract] Abstract
 > We introduce Explicit Neural Surfaces (ENS), an efficient smooth surface representation that directly encodes topology with a deformation field from a known base domain. We apply this representation to reconstruct explicit surfaces from multiple views, where we use a series of neural deformation fields to progressively transform the base domain into a target shape. By using meshes as discrete surface proxies, we train the deformation fields through efficient differentiable rasterization. Using a fixed base domain allows us to have Laplace-Beltrami eigenfunctions as an intrinsic positional encoding alongside standard extrinsic Fourier features, with which our approach can capture fine surface details. Compared to implicit surfaces, ENS trains faster and has several orders of magnitude faster inference times. The explicit nature of our approach also allows higher-quality mesh extraction whilst maintaining competitive surface reconstruction performance and real-time capabilities.

@@ -24,12 +24,12 @@ accessDate: "2025-03-05T10:12:22Z"
 libraryCatalog: Semantic Scholar
 dateAdded: "2025-03-05T10:12:22Z"
 dateModified: "2025-03-05T10:12:22Z"
+filename: Lake and Baroni 2023 - Human-like systematic generalization through a meta-learning neural network.pdf
 marker: "[🇿](zotero://select/library/items/SQU4ZALA)"
 ---
-
 # Human-like systematic generalization through a meta-learning neural network
 
-[PDF file](/Papers/PDFs/Lake%20and%20Baroni%202023undefined%20-%20Human-like%20systematic%20generalization%20through%20a%20meta-learning%20neural%20network.pdf)
+[PDF file](/Papers/PDFs/Lake%20and%20Baroni%202023%20-%20Human-like%20systematic%20generalization%20through%20a%20meta-learning%20neural%20network.pdf)
 
 > [!abstract] Abstract
 > Abstract

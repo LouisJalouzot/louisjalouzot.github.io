@@ -34,12 +34,12 @@ dateAdded: "2025-02-11T14:05:48Z"
 dateModified: "2025-02-11T14:05:48Z"
 super_collections:
   - ERQKEKFA
+filename: Gordji-Nejad et al. 2024 - Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation.pdf
 marker: "[🇿](zotero://select/library/items/BL7MXHHK)"
 ---
-
 # Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation
 
-[PDF file](/Papers/PDFs/Gordji-Nejad%20et%20al.%202024undefined%20-%20Single%20dose%20creatine%20improves%20cognitive%20performance%20and%20induces%20changes%20in%20cerebral%20high%20energy%20phosphates%20during%20sleep%20deprivation.pdf)
+[PDF file](/Papers/PDFs/Gordji-Nejad%20et%20al.%202024%20-%20Single%20dose%20creatine%20improves%20cognitive%20performance%20and%20induces%20changes%20in%20cerebral%20high%20energy%20phosphates%20during%20sleep%20deprivation.pdf)
 
 > [!abstract] Abstract
 > Abstract

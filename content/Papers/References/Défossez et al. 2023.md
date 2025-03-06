@@ -31,12 +31,12 @@ dateAdded: "2024-09-16T09:45:28Z"
 dateModified: "2024-09-16T09:45:36Z"
 super_collections:
   - ERQKEKFA
+filename: Défossez et al. 2023 - Decoding speech perception from non-invasive brain recordings.pdf
 marker: "[🇿](zotero://select/library/items/ZZIUBXYQ)"
 ---
-
 # Decoding speech perception from non-invasive brain recordings
 
-[PDF file](/Papers/PDFs/Défossez%20et%20al.%202023undefined%20-%20Decoding%20speech%20perception%20from%20non-invasive%20brain%20recordings.pdf)
+[PDF file](/Papers/PDFs/Défossez%20et%20al.%202023%20-%20Decoding%20speech%20perception%20from%20non-invasive%20brain%20recordings.pdf)
 
 > [!abstract] Abstract
 > Abstract

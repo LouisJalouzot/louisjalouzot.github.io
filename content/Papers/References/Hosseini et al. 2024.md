@@ -31,12 +31,12 @@ dateAdded: "2024-10-10T13:38:20Z"
 dateModified: "2024-10-10T13:39:35Z"
 super_collections:
   - ERQKEKFA
+filename: Hosseini et al. 2024 - Artificial Neural Network Language Models Predict Human Brain Responses to Language Even After a Developmentally Realistic Amount of Training.pdf
 marker: "[🇿](zotero://select/library/items/UJZ5RAB9)"
 ---
-
 # Artificial Neural Network Language Models Predict Human Brain Responses to Language Even After a Developmentally Realistic Amount of Training
 
-[PDF file](/Papers/PDFs/Hosseini%20et%20al.%202024undefined%20-%20Artificial%20Neural%20Network%20Language%20Models%20Predict%20Human%20Brain%20Responses%20to%20Language%20Even%20After%20a%20Developmentally%20Realistic%20Amount%20of%20Training.pdf)
+[PDF file](/Papers/PDFs/Hosseini%20et%20al.%202024%20-%20Artificial%20Neural%20Network%20Language%20Models%20Predict%20Human%20Brain%20Responses%20to%20Language%20Even%20After%20a%20Developmentally%20Realistic%20Amount%20of%20Training.pdf)
 
 > [!abstract] Abstract
 > Abstract

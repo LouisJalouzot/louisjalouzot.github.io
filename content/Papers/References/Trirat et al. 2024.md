@@ -33,12 +33,12 @@ dateAdded: "2024-07-16T20:37:31Z"
 dateModified: "2024-07-16T20:37:36Z"
 super_collections:
   - ERQKEKFA
+filename: "Trirat et al. 2024 - Universal Time-Series Representation Learning: A Survey.pdf"
 marker: "[🇿](zotero://select/library/items/W9MBI8Y2)"
 ---
-
 # Universal Time-Series Representation Learning: A Survey
 
-[PDF file](/Papers/PDFs/Trirat%20et%20al.%202024undefined%20-%20Universal%20Time-Series%20Representation%20Learning%20A%20Survey.pdf)
+[PDF file](/Papers/PDFs/Trirat%20et%20al.%202024%20-%20Universal%20Time-Series%20Representation%20Learning:%20A%20Survey.pdf)
 
 > [!abstract] Abstract
 > Time-series data exists in every corner of real-world systems and services, ranging from satellites in the sky to wearable devices on human bodies. Learning representations by extracting and inferring valuable information from these time series is crucial for understanding the complex dynamics of particular phenomena and enabling informed decisions. With the learned representations, we can perform numerous downstream analyses more effectively. Among several approaches, deep learning has demonstrated remarkable performance in extracting hidden patterns and features from time-series data without manual feature engineering. This survey first presents a novel taxonomy based on three fundamental elements in designing state-of-the-art universal representation learning methods for time series. According to the proposed taxonomy, we comprehensively review existing studies and discuss their intuitions and insights into how these methods enhance the quality of learned representations. Finally, as a guideline for future studies, we summarize commonly used experimental setups and datasets and discuss several promising research directions. An up-to-date corresponding resource is available at https://github.com/itouchz/awesome-deep-time-series-representations.

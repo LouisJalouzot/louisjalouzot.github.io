@@ -32,12 +32,12 @@ dateAdded: "2024-03-08T18:41:20Z"
 dateModified: "2024-03-08T18:41:30Z"
 super_collections:
   - ERQKEKFA
+filename: "Marcolli et al. 2023 - Syntax-semantics interface: an algebraic model.pdf"
 marker: "[🇿](zotero://select/library/items/QFCK3MLF)"
 ---
-
 # Syntax-semantics interface: an algebraic model
 
-[PDF file](/Papers/PDFs/Marcolli%20et%20al.%202023undefined%20-%20Syntax-semantics%20interface%20an%20algebraic%20model.pdf)
+[PDF file](/Papers/PDFs/Marcolli%20et%20al.%202023%20-%20Syntax-semantics%20interface:%20an%20algebraic%20model.pdf)
 
 > [!abstract] Abstract
 > We extend our formulation of Merge and Minimalism in terms of Hopf algebras to an algebraic model of a syntactic-semantic interface. We show that methods adopted in the formulation of renormalization (extraction of meaningful physical values) in theoretical physics are relevant to describe the extraction of meaning from syntactic expressions. We show how this formulation relates to computational models of semantics and we answer some recent controversies about implications for generative linguistics of the current functioning of large language models.

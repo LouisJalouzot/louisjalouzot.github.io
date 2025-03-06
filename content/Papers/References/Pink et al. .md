@@ -25,12 +25,12 @@ dateAdded: "2024-11-11T22:23:40Z"
 dateModified: "2024-11-11T22:24:02Z"
 super_collections:
   - ERQKEKFA
+filename: Pink et al.  - Testing Memory Capabilities in Large Language Models with the....pdf
 marker: "[🇿](zotero://select/library/items/4DQ4Q2M8)"
 ---
-
 # Testing Memory Capabilities in Large Language Models with the...
 
-[PDF file](/Papers/PDFs/Pink%20et%20al.%20undefined%20-%20Testing%20Memory%20Capabilities%20in%20Large%20Language%20Models%20with%20the.pdf)
+[PDF file](/Papers/PDFs/Pink%20et%20al.%20%20-%20Testing%20Memory%20Capabilities%20in%20Large%20Language%20Models%20with%20the....pdf)
 
 > [!abstract] Abstract
 > Many benchmarks focus on evaluating Large Language Models (LLMs) on facts and semantic relations, primarily assessing their semantic memory. However, some memories in language are linked to their...

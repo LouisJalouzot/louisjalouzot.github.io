@@ -27,12 +27,12 @@ dateAdded: "2024-07-05T07:01:18Z"
 dateModified: "2024-07-05T07:01:26Z"
 super_collections:
   - ERQKEKFA
+filename: "Xiao et al. 2024 - Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming.pdf"
 marker: "[🇿](zotero://select/library/items/54VWUBQC)"
 ---
-
 # Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming
 
-[PDF file](/Papers/PDFs/Xiao%20et%20al.%202024undefined%20-%20Modeling%20Bilingual%20Sentence%20Processing%20Evaluating%20RNN%20and%20Transformer%20Architectures%20for%20Cross-Language%20Structural%20Priming.pdf)
+[PDF file](/Papers/PDFs/Xiao%20et%20al.%202024%20-%20Modeling%20Bilingual%20Sentence%20Processing:%20Evaluating%20RNN%20and%20Transformer%20Architectures%20for%20Cross-Language%20Structural%20Priming.pdf)
 
 > [!abstract] Abstract
 > This study evaluates the performance of Recurrent Neural Network (RNN) and Transformer in replicating cross-language structural priming: a key indicator of abstract grammatical representations in human language processing. Focusing on Chinese-English priming, which involves two typologically distinct languages, we examine how these models handle the robust phenomenon of structural priming, where exposure to a particular sentence structure increases the likelihood of selecting a similar structure subsequently. Additionally, we utilize large language models (LLM) to measure the cross-lingual structural priming effect. Our findings indicate that Transformer outperform RNN in generating primed sentence structures, challenging the conventional belief that human sentence processing primarily involves recurrent and immediate processing and suggesting a role for cue-based retrieval mechanisms. Overall, this work contributes to our understanding of how computational models may reflect human cognitive processes in multilingual contexts.

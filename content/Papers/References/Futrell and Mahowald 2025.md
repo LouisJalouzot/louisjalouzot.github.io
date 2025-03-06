@@ -20,12 +20,12 @@ dateAdded: "2025-01-29T16:56:03Z"
 dateModified: "2025-01-29T16:56:03Z"
 super_collections:
   - ERQKEKFA
+filename: Futrell and Mahowald 2025 - How Linguistics Learned to Stop Worrying and Love the Language Models.pdf
 marker: "[🇿](zotero://select/library/items/DK9TAWLA)"
 ---
-
 # How Linguistics Learned to Stop Worrying and Love the Language Models
 
-[PDF file](/Papers/PDFs/Futrell%20and%20Mahowald%202025undefined%20-%20How%20Linguistics%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Language%20Models.pdf)
+[PDF file](/Papers/PDFs/Futrell%20and%20Mahowald%202025%20-%20How%20Linguistics%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Language%20Models.pdf)
 
 > [!abstract] Abstract
 > Language models can produce fluent, grammatical text. Nonetheless, some maintain that language models don't really learn language and also that, even if they did, that would not be informative for the study of human learning and processing. On the other side, there have been claims that the success of LMs obviates the need for studying linguistic theory and structure. We argue that both extremes are wrong. LMs can contribute to fundamental questions about linguistic structure, language processing, and learning. They force us to rethink arguments about learning and are informative for major questions in linguistic theory. But they do not replace linguistic structure and theory. We offer an optimistic take on the relationship between language models and linguistics.

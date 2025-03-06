@@ -27,12 +27,12 @@ dateAdded: "2025-02-11T04:06:29Z"
 dateModified: "2025-02-11T04:07:37Z"
 super_collections:
   - ERQKEKFA
+filename: Youngblood 2025 - Language-like efficiency in whale communication.pdf
 marker: "[🇿](zotero://select/library/items/A9YA8B9H)"
 ---
-
 # Language-like efficiency in whale communication
 
-[PDF file](/Papers/PDFs/Youngblood%202025undefined%20-%20Language-like%20efficiency%20in%20whale%20communication.pdf)
+[PDF file](/Papers/PDFs/Youngblood%202025%20-%20Language-like%20efficiency%20in%20whale%20communication.pdf)
 
 > [!abstract] Abstract
 > Vocal communication systems in humans and other animals experience selection for efficiency—optimizing the benefits they convey relative to the costs of producing them. Two hallmarks of efficiency, Menzerath’s law and Zipf’s law of abbreviation, predict that longer sequences will consist of shorter elements and more frequent elements will be shorter, respectively. Here, we assessed the evidence for both laws in cetaceans by analyzing vocal sequences from 16 baleen and toothed whale species and comparing them to 51 human languages. Eleven whale species exhibit Menzerath’s law, sometimes with greater effect sizes than human speech. Two of the five whale species with categorized element types exhibit Zipf’s law of abbreviation. On average, whales also tend to shorten elements and intervals toward the end of sequences, although this varies by species. Overall, the results of this study suggest that the vocalizations of many cetacean species have undergone compression for increased efficiency in time.

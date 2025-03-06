@@ -26,12 +26,12 @@ dateAdded: "2024-10-29T10:26:51Z"
 dateModified: "2024-10-29T10:28:55Z"
 super_collections:
   - ERQKEKFA
+filename: Marinescu et al. 2024 - Distilling Symbolic Priors for Concept Learning into Neural Networks.pdf
 marker: "[🇿](zotero://select/library/items/3B3RMB5C)"
 ---
-
 # Distilling Symbolic Priors for Concept Learning into Neural Networks
 
-[PDF file](/Papers/PDFs/Marinescu%20et%20al.%202024undefined%20-%20Distilling%20Symbolic%20Priors%20for%20Concept%20Learning%20into%20Neural%20Networks.pdf)
+[PDF file](/Papers/PDFs/Marinescu%20et%20al.%202024%20-%20Distilling%20Symbolic%20Priors%20for%20Concept%20Learning%20into%20Neural%20Networks.pdf)
 
 > [!abstract] Abstract
 > Humans can learn new concepts from a small number of examples by drawing on their inductive biases. These inductive biases have previously been captured by using Bayesian models defined over symbolic hypothesis spaces. Is it possible to create a neural network that displays the same inductive biases? We show that inductive biases that enable rapid concept learning can be instantiated in artificial neural networks by distilling a prior distribution from a symbolic Bayesian model via meta-learning, an approach for extracting the common structure from a set of tasks. By generating the set of tasks used in meta-learning from the prior distribution of a Bayesian model, we are able to transfer that prior into a neural network. We use this approach to create a neural network with an inductive bias towards concepts expressed as short logical formulas. Analyzing results from previous behavioral experiments in which people learned logical concepts from a few examples, we find that our meta-trained models are highly aligned with human performance.

@@ -33,12 +33,12 @@ dateAdded: "2025-01-18T11:24:38Z"
 dateModified: "2025-01-18T11:27:34Z"
 super_collections:
   - ERQKEKFA
+filename: Luettgau et al. 2024 - Decomposing dynamical subprocesses for compositional generalization.pdf
 marker: "[🇿](zotero://select/library/items/IDF8BQSF)"
 ---
-
 # Decomposing dynamical subprocesses for compositional generalization
 
-[PDF file](/Papers/PDFs/Luettgau%20et%20al.%202024undefined%20-%20Decomposing%20dynamical%20subprocesses%20for%20compositional%20generalization.pdf)
+[PDF file](/Papers/PDFs/Luettgau%20et%20al.%202024%20-%20Decomposing%20dynamical%20subprocesses%20for%20compositional%20generalization.pdf)
 
 > [!abstract] Abstract
 > A striking feature of human cognition is an exceptional ability to rapidly adapt to novel situations. It is proposed this relies on abstracting and generalizing past experiences. While previous research has explored how humans detect and generalize single sequential processes, we have a limited understanding of how humans adapt to more naturalistic scenarios, for example, complex, multisubprocess environments. Here, we propose a candidate computational mechanism that posits compositional generalization of knowledge about subprocess dynamics. In two samples (

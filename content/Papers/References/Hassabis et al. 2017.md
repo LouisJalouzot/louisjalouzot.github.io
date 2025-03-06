@@ -30,12 +30,12 @@ dateAdded: "2024-03-11T15:12:34Z"
 dateModified: "2024-03-11T15:12:38Z"
 super_collections:
   - ERQKEKFA
+filename: Hassabis et al. 2017 - Neuroscience-Inspired Artificial Intelligence.pdf
 marker: "[🇿](zotero://select/library/items/BFGQKJP3)"
 ---
-
 # Neuroscience-Inspired Artificial Intelligence
 
-[PDF file](/Papers/PDFs/Hassabis%20et%20al.%202017undefined%20-%20Neuroscience-Inspired%20Artificial%20Intelligence.pdf)
+[PDF file](/Papers/PDFs/Hassabis%20et%20al.%202017%20-%20Neuroscience-Inspired%20Artificial%20Intelligence.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Neuroscience-Inspired Artificial Intelligence" by D. Hassabis et al.

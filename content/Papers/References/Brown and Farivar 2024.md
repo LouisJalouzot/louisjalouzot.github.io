@@ -25,12 +25,12 @@ dateAdded: "2024-03-09T04:09:56Z"
 dateModified: "2024-03-09T04:10:06Z"
 super_collections:
   - ERQKEKFA
+filename: Brown and Farivar 2024 - The Topology of Representational Geometry.pdf
 marker: "[🇿](zotero://select/library/items/ZPAPX8SX)"
 ---
-
 # The Topology of Representational Geometry
 
-[PDF file](/Papers/PDFs/Brown%20and%20Farivar%202024undefined%20-%20The%20Topology%20of%20Representational%20Geometry.pdf)
+[PDF file](/Papers/PDFs/Brown%20and%20Farivar%202024%20-%20The%20Topology%20of%20Representational%20Geometry.pdf)
 
 > [!abstract] Abstract
 > Representational similarity analysis (RSA) is a powerful tool for abstracting and then comparing neural representations across brains, regions, models and modalities. However, typical RSA analyses compares pairs of representational dissimilarities to judge similarity of two neural systems, and we argue that such methods can not capture the shape of representational spaces. By leveraging tools from computational topology, which can probe the shape of high-dimensional data, we augment RSA to be able to detect more subtle yet real differences and similarities of representational geometries. This new method could be used in conjunction with regular RSA in order to make new inferences about neural function.

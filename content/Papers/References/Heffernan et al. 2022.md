@@ -26,12 +26,12 @@ dateAdded: "2024-05-14T08:46:29Z"
 dateModified: "2024-05-14T08:46:33Z"
 super_collections:
   - ERQKEKFA
+filename: Heffernan et al. 2022 - Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages.pdf
 marker: "[🇿](zotero://select/library/items/5JLJ9SDC)"
 ---
-
 # Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages
 
-[PDF file](/Papers/PDFs/Heffernan%20et%20al.%202022undefined%20-%20Bitext%20Mining%20Using%20Distilled%20Sentence%20Representations%20for%20Low-Resource%20Languages.pdf)
+[PDF file](/Papers/PDFs/Heffernan%20et%20al.%202022%20-%20Bitext%20Mining%20Using%20Distilled%20Sentence%20Representations%20for%20Low-Resource%20Languages.pdf)
 
 > [!abstract] Abstract
 > Scaling multilingual representation learning beyond the hundred most frequent languages is challenging, in particular to cover the long tail of low-resource languages. A promising approach has been to train one-for-all multilingual models capable of cross-lingual transfer, but these models often suffer from insufficient capacity and interference between unrelated languages. Instead, we move away from this approach and focus on training multiple language (family) specific representations, but most prominently enable all languages to still be encoded in the same representational space. To achieve this, we focus on teacher-student training, allowing all encoders to be mutually compatible for bitext mining, and enabling fast learning of new languages. We introduce a new teacher-student training scheme which combines supervised and self-supervised training, allowing encoders to take advantage of monolingual training data, which is valuable in the low-resource setting. Our approach significantly outperforms the original LASER encoder. We study very low-resource languages and handle 50 African languages, many of which are not covered by any other model. For these languages, we train sentence encoders, mine bitexts, and validate the bitexts by training NMT systems.

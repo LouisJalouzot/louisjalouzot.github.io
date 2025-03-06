@@ -25,12 +25,12 @@ dateAdded: "2025-01-06T14:37:11Z"
 dateModified: "2025-01-06T14:37:32Z"
 super_collections:
   - ERQKEKFA
+filename: Chen and Wang 2021 - Efficient Approximate Algorithms for Empirical Entropy and Mutual Information.pdf
 marker: "[🇿](zotero://select/library/items/3Y2YLDTE)"
 ---
-
 # Efficient Approximate Algorithms for Empirical Entropy and Mutual Information
 
-[PDF file](/Papers/PDFs/Chen%20and%20Wang%202021undefined%20-%20Efficient%20Approximate%20Algorithms%20for%20Empirical%20Entropy%20and%20Mutual%20Information.pdf)
+[PDF file](/Papers/PDFs/Chen%20and%20Wang%202021%20-%20Efficient%20Approximate%20Algorithms%20for%20Empirical%20Entropy%20and%20Mutual%20Information.pdf)
 
 > [!abstract] Abstract
 > Empirical entropy is a classic concept in data mining and the foundation of many other important concepts like mutual information. However, computing the exact empirical entropy/mutual information on large datasets can be expensive. Some recent research work explores sampling techniques on the empirical entropy/mutual information to speed up the top-k and filtering queries. However, their solution still aims to return the exact answers to the queries, resulting in high computational costs. Motivated by this, in this work, we present approximate algorithms for the top-k queries and filtering queries on empirical entropy and empirical mutual information. The approximate algorithm allows user-specified tunable parameters to control the trade-off between the query efficiency and accuracy. We design effective stopping rules to return the approximate answers with improved query time. We further present theoretical analysis and show that our proposed solutions achieve improved time complexity over previous solutions. We experimentally evaluate our proposed algorithms on real datasets with up to 31M records and 179 attributes. Our experimental results show that the proposed algorithm consistently outperforms the state of the art in terms of computational efficiency, by an order of magnitude in most cases, while providing the same accurate result.

@@ -32,12 +32,12 @@ dateAdded: "2024-11-25T09:11:51Z"
 dateModified: "2024-11-25T09:13:48Z"
 super_collections:
   - ERQKEKFA
+filename: Zhang et al. 2024 - Decoding Continuous Character-based Language from Non-invasive Brain Recordings.pdf
 marker: "[🇿](zotero://select/library/items/D9JHV9PW)"
 ---
-
 # Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 
-[PDF file](/Papers/PDFs/Zhang%20et%20al.%202024undefined%20-%20Decoding%20Continuous%20Character-based%20Language%20from%20Non-invasive%20Brain%20Recordings.pdf)
+[PDF file](/Papers/PDFs/Zhang%20et%20al.%202024%20-%20Decoding%20Continuous%20Character-based%20Language%20from%20Non-invasive%20Brain%20Recordings.pdf)
 
 > [!abstract] Abstract
 > Abstract

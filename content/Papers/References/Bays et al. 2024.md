@@ -30,12 +30,12 @@ dateAdded: "2025-01-18T11:22:19Z"
 dateModified: "2025-01-18T11:27:39Z"
 super_collections:
   - ERQKEKFA
+filename: Bays et al. 2024 - Representation and computation in visual working memory.pdf
 marker: "[🇿](zotero://select/library/items/WIG4SQNK)"
 ---
-
 # Representation and computation in visual working memory
 
-[PDF file](/Papers/PDFs/Bays%20et%20al.%202024undefined%20-%20Representation%20and%20computation%20in%20visual%20working%20memory.pdf)
+[PDF file](/Papers/PDFs/Bays%20et%20al.%202024%20-%20Representation%20and%20computation%20in%20visual%20working%20memory.pdf)
 
 > [!abstract] Abstract
 > The ability to sustain internal representations of the sensory environment beyond immediate perception is a fundamental requirement of cognitive processing. In recent years, debates regarding the capacity and fidelity of the working memory (WM) system have advanced our understanding of the nature of these representations. In particular, there is growing recognition that WM representations are not merely imperfect copies of a perceived object or event. New experimental tools have revealed that observers possess richer information about the uncertainty in their memories and take advantage of environmental regularities to use limited memory resources optimally. Meanwhile, computational models of visuospatial WM formulated at different levels of implementation have converged on common principles relating capacity to variability and uncertainty. Here we review recent research on human WM from a computational perspective, including the neural mechanisms that support it.

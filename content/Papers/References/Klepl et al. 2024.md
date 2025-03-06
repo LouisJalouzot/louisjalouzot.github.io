@@ -27,12 +27,12 @@ dateAdded: "2024-06-24T15:55:34Z"
 dateModified: "2024-06-24T15:55:53Z"
 super_collections:
   - ERQKEKFA
+filename: "Klepl et al. 2024 - Graph Neural Network-Based EEG Classification: A Survey.pdf"
 marker: "[🇿](zotero://select/library/items/9HTZWKWE)"
 ---
-
 # Graph Neural Network-Based EEG Classification: A Survey
 
-[PDF file](/Papers/PDFs/Klepl%20et%20al.%202024undefined%20-%20Graph%20Neural%20Network-Based%20EEG%20Classification%20A%20Survey.pdf)
+[PDF file](/Papers/PDFs/Klepl%20et%20al.%202024%20-%20Graph%20Neural%20Network-Based%20EEG%20Classification:%20A%20Survey.pdf)
 
 > [!abstract] Abstract
 > Graph neural networks (GNN) are increasingly used to classify EEG for tasks such as emotion recognition, motor imagery and neurological diseases and disorders. A wide range of methods have been proposed to design GNN-based classifiers. Therefore, there is a need for a systematic review and categorisation of these approaches. We exhaustively search the published literature on this topic and derive several categories for comparison. These categories highlight the similarities and differences among the methods. The results suggest a prevalence of spectral graph convolutional layers over spatial. Additionally, we identify standard forms of node features, with the most popular being the raw EEG signal and differential entropy. Our results summarise the emerging trends in GNN-based approaches for EEG classification. Finally, we discuss several promising research directions, such as exploring the potential of transfer learning methods and appropriate modelling of cross-frequency interactions.

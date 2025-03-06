@@ -28,12 +28,12 @@ dateAdded: "2024-05-31T20:34:38Z"
 dateModified: "2024-05-31T20:34:47Z"
 super_collections:
   - ERQKEKFA
+filename: Müller and Vaxman 2021 - Discrete curvature and torsion from cross-ratios.pdf
 marker: "[🇿](zotero://select/library/items/YR4RB5JT)"
 ---
-
 # Discrete curvature and torsion from cross-ratios
 
-[PDF file](/Papers/PDFs/Müller%20and%20Vaxman%202021undefined%20-%20Discrete%20curvature%20and%20torsion%20from%20cross-ratios.pdf)
+[PDF file](/Papers/PDFs/Müller%20and%20Vaxman%202021%20-%20Discrete%20curvature%20and%20torsion%20from%20cross-ratios.pdf)
 
 > [!abstract] Abstract
 > Abstract
