@@ -38,14 +38,12 @@ dateAdded: "2024-04-23T10:13:33Z"
 dateModified: "2024-06-24T10:05:26Z"
 super_collections:
   - ERQKEKFA
-filename: Scotti et al. 2023
 marker: "[🇿](zotero://select/library/items/7EABSVPU)"
 ---
 
-> [!title] Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors
+# Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors
 
-> [!example] File
-> [Scotti et al. 2023 - Reconstructing the Mind's Eye fMRI-to-Image with Contrastive Learning and Diffusion Priors](/Papers/PDFs/Scotti%20et%20al.%202023%20-%20Reconstructing%20the%20Mind's%20Eye%20fMRI-to-Image%20with%20Contrastive%20Learning%20and%20Diffusion%20Priors.pdf)
+[PDF file](/Papers/PDFs/Scotti%20et%20al.%202023undefined%20-%20Reconstructing%20the%20Mind's%20Eye%20fMRI-to-Image%20with%20Contrastive%20Learning%20and%20Diffusion%20Priors.pdf)
 
 > [!abstract] Abstract
 > We present MindEye, a novel fMRI-to-image approach to retrieve and reconstruct viewed images from brain activity. Our model comprises two parallel submodules that are specialized for retrieval (using contrastive learning) and reconstruction (using a diffusion prior). MindEye can map fMRI brain activity to any high dimensional multimodal latent space, like CLIP image space, enabling image reconstruction using generative models that accept embeddings from this latent space. We comprehensively compare our approach with other existing methods, using both qualitative side-by-side comparisons and quantitative evaluations, and show that MindEye achieves state-of-the-art performance in both reconstruction and retrieval tasks. In particular, MindEye can retrieve the exact original image even among highly similar candidates indicating that its brain embeddings retain fine-grained image-specific information. This allows us to accurately retrieve images even from large-scale databases like LAION-5B. We demonstrate through ablations that MindEye's performance improvements over previous methods result from specialized submodules for retrieval and reconstruction, improved training techniques, and training models with orders of magnitude more parameters. Furthermore, we show that MindEye can better preserve low-level image features in the reconstructions by using img2img, with outputs from a separate autoencoder. All code is available on GitHub.

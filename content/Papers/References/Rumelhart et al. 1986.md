@@ -25,14 +25,12 @@ dateAdded: "2024-12-12T13:12:03Z"
 dateModified: "2024-12-12T13:12:10Z"
 super_collections:
   - 5D3NLYTP
-filename: Rumelhart et al. 1986
 marker: "[🇿](zotero://select/library/items/99U2WWSZ)"
 ---
 
-> [!title] Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations
+# Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations
 
-> [!example] File
-> [Rumelhart et al. 1986 - Parallel Distributed Processing Explorations in the Microstructure of Cognition Foundations](/Papers/PDFs/Rumelhart%20et%20al.%201986%20-%20Parallel%20Distributed%20Processing%20Explorations%20in%20the%20Microstructure%20of%20Cognition%20Foundations.pdf)
+[PDF file](/Papers/PDFs/Rumelhart%20et%20al.%201986undefined%20-%20Parallel%20Distributed%20Processing%20Explorations%20in%20the%20Microstructure%20of%20Cognition%20Foundations.pdf)
 
 > [!abstract] Abstract
 > The fundamental principles, basic mechanisms, and formal analyses involved in the development of parallel distributed processing (PDP) systems are presented in individual chapters contributed by leading experts. Topics examined include distributed representations, PDP models and general issues in cognitive science, feature discovery by competitive learning, the foundations of harmony theory, learning and relearning in Boltzmann machines, and learning internal representations by error propagation. Consideration is given to linear algebra in PDP, the logic of additive functions, resource requirements of standard and programmable nets, and the P3 parallel-network simulating system.

@@ -1,6 +1,6 @@
 ---
 year: 2025
-month: 2
+month: 1
 date: 2/2025
 authors:
   - "Tang, Jerry"
@@ -21,14 +21,12 @@ accessDate: "2025-03-05T15:31:30Z"
 libraryCatalog: Semantic Scholar
 dateAdded: "2025-03-05T15:31:30Z"
 dateModified: "2025-03-05T15:31:30Z"
-filename: Tang and Huth 2025
 marker: "[🇿](zotero://select/library/items/8D44NRVB)"
 ---
 
-> [!title] Semantic language decoding across participants and stimulus modalities
+# Semantic language decoding across participants and stimulus modalities
 
-> [!example] File
-> [Tang and Huth 2025 - Semantic language decoding across participants and stimulus modalities](/Papers/PDFs/Tang%20and%20Huth%202025%20-%20Semantic%20language%20decoding%20across%20participants%20and%20stimulus%20modalities.pdf)
+[PDF file](/Papers/PDFs/Tang%20and%20Huth%202025undefined%20-%20Semantic%20language%20decoding%20across%20participants%20and%20stimulus%20modalities.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Semantic language decoding across participants and stimulus modalities" by Jerry Tang et al.

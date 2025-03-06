@@ -1,6 +1,6 @@
 ---
 year: 2010
-month: 8
+month: 7
 date: 8/2010
 authors:
   - "Griffiths, Thomas L."
@@ -33,14 +33,12 @@ dateAdded: "2024-09-21T09:43:47Z"
 dateModified: "2024-09-21T09:43:51Z"
 super_collections:
   - ERQKEKFA
-filename: Griffiths et al. 2010
 marker: "[🇿](zotero://select/library/items/QDWJL7WK)"
 ---
 
-> [!title] Probabilistic models of cognition: exploring representations and inductive biases
+# Probabilistic models of cognition: exploring representations and inductive biases
 
-> [!example] File
-> [Griffiths et al. 2010 - Probabilistic models of cognition exploring representations and inductive biases](/Papers/PDFs/Griffiths%20et%20al.%202010%20-%20Probabilistic%20models%20of%20cognition%20exploring%20representations%20and%20inductive%20biases.pdf)
+[PDF file](/Papers/PDFs/Griffiths%20et%20al.%202010undefined%20-%20Probabilistic%20models%20of%20cognition%20exploring%20representations%20and%20inductive%20biases.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Probabilistic models of cognition: exploring representations and inductive biases" by T. Griffiths et al.

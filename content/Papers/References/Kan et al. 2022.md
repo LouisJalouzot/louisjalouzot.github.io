@@ -35,14 +35,12 @@ dateAdded: "2024-06-24T10:10:38Z"
 dateModified: "2024-06-24T10:10:55Z"
 super_collections:
   - ERQKEKFA
-filename: Kan et al. 2022
 marker: "[🇿](zotero://select/library/items/4AXGPNVM)"
 ---
 
-> [!title] FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation
+# FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation
 
-> [!example] File
-> [Kan et al. 2022 - FBNETGEN Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation](/Papers/PDFs/Kan%20et%20al.%202022%20-%20FBNETGEN%20Task-aware%20GNN-based%20fMRI%20Analysis%20via%20Functional%20Brain%20Network%20Generation.pdf)
+[PDF file](/Papers/PDFs/Kan%20et%20al.%202022undefined%20-%20FBNETGEN%20Task-aware%20GNN-based%20fMRI%20Analysis%20via%20Functional%20Brain%20Network%20Generation.pdf)
 
 > [!abstract] Abstract
 > Functional magnetic resonance imaging (fMRI) is one of the most common imaging modalities to investigate brain functions. Recent studies in neuroscience stress the great potential of functional brain networks constructed from fMRI data for clinical predictions. Traditional functional brain networks, however, are noisy and unaware of downstream prediction tasks, while also incompatible with the deep graph neural network (GNN) models. In order to fully unleash the power of GNNs in network-based fMRI analysis, we develop FBNETGEN, a task-aware and interpretable fMRI analysis framework via deep brain network generation. In particular, we formulate (1) prominent region of interest (ROI) features extraction, (2) brain networks generation, and (3) clinical predictions with GNNs, in an end-to-end trainable model under the guidance of particular prediction tasks. Along with the process, the key novel component is the graph generator which learns to transform raw time-series features into task-oriented brain networks. Our learnable graphs also provide unique interpretations by highlighting prediction-related brain regions. Comprehensive experiments on two datasets, i.e., the recently released and currently largest publicly available fMRI dataset Adolescent Brain Cognitive Development (ABCD), and the widely-used fMRI dataset PNC, prove the superior effectiveness and interpretability of FBNETGEN. The implementation is available at https://github.com/Wayfear/FBNETGEN.

@@ -1,6 +1,6 @@
 ---
 year: 2021
-month: 9
+month: 8
 day: 28
 date: 2021-09-28
 authors:
@@ -51,14 +51,12 @@ dateAdded: "2025-01-23T14:59:07Z"
 dateModified: "2025-01-23T14:59:20Z"
 super_collections:
   - ERQKEKFA
-filename: Nastase et al. 2021
 marker: "[🇿](zotero://select/library/items/MTUT4MKY)"
 ---
 
-> [!title] The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension
+# The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension
 
-> [!example] File
-> [Nastase et al. 2021 - The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension](/Papers/PDFs/Nastase%20et%20al.%202021%20-%20The%20“Narratives”%20fMRI%20dataset%20for%20evaluating%20models%20of%20naturalistic%20language%20comprehension.pdf)
+[PDF file](/Papers/PDFs/Nastase%20et%20al.%202021undefined%20-%20The%20“Narratives”%20fMRI%20dataset%20for%20evaluating%20models%20of%20naturalistic%20language%20comprehension.pdf)
 
 > [!abstract] Abstract
 > Abstract

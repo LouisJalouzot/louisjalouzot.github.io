@@ -1,6 +1,6 @@
 ---
 year: 2023
-month: 11
+month: 10
 date: 11/2023
 authors:
   - "Schonhaut, Daniel R."
@@ -30,14 +30,12 @@ dateAdded: "2024-04-26T09:49:55Z"
 dateModified: "2024-04-26T09:50:08Z"
 super_collections:
   - ERQKEKFA
-filename: Schonhaut et al. 2023
 marker: "[🇿](zotero://select/library/items/FRPI6MBV)"
 ---
 
-> [!title] A neural code for time and space in the human brain
+# A neural code for time and space in the human brain
 
-> [!example] File
-> [Schonhaut et al. 2023 - A neural code for time and space in the human brain](/Papers/PDFs/Schonhaut%20et%20al.%202023%20-%20A%20neural%20code%20for%20time%20and%20space%20in%20the%20human%20brain.pdf)
+[PDF file](/Papers/PDFs/Schonhaut%20et%20al.%202023undefined%20-%20A%20neural%20code%20for%20time%20and%20space%20in%20the%20human%20brain.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "A neural code for time and space in the human brain." by Daniel R. Schonhaut et al.

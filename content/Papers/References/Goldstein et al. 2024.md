@@ -1,6 +1,6 @@
 ---
 year: 2024
-month: 3
+month: 2
 day: 30
 date: 2024-03-30
 authors:
@@ -50,14 +50,12 @@ dateAdded: "2024-05-31T20:07:11Z"
 dateModified: "2025-02-26T11:08:31Z"
 super_collections:
   - ERQKEKFA
-filename: Goldstein et al. 2024
 marker: "[🇿](zotero://select/library/items/WN47T926)"
 ---
 
-> [!title] Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns
+# Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns
 
-> [!example] File
-> [Goldstein et al. 2024 - Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns](/Papers/PDFs/Goldstein%20et%20al.%202024%20-%20Alignment%20of%20brain%20embeddings%20and%20artificial%20contextual%20embeddings%20in%20natural%20language%20points%20to%20common%20geometric%20patterns.pdf)
+[PDF file](/Papers/PDFs/Goldstein%20et%20al.%202024undefined%20-%20Alignment%20of%20brain%20embeddings%20and%20artificial%20contextual%20embeddings%20in%20natural%20language%20points%20to%20common%20geometric%20patterns.pdf)
 
 > [!abstract] Abstract
 > Abstract

@@ -1,6 +1,6 @@
 ---
 year: 2023
-month: 8
+month: 7
 day: 23
 date: 2023-08-23
 authors:
@@ -35,14 +35,12 @@ dateAdded: "2024-09-02T20:33:47Z"
 dateModified: "2024-11-25T09:19:57Z"
 super_collections:
   - ERQKEKFA
-filename: LeBel et al. 2023
 marker: "[🇿](zotero://select/library/items/TZRJDKFX)"
 ---
 
-> [!title] A natural language fMRI dataset for voxelwise encoding models
+# A natural language fMRI dataset for voxelwise encoding models
 
-> [!example] File
-> [LeBel et al. 2023 - A natural language fMRI dataset for voxelwise encoding models](/Papers/PDFs/LeBel%20et%20al.%202023%20-%20A%20natural%20language%20fMRI%20dataset%20for%20voxelwise%20encoding%20models.pdf)
+[PDF file](/Papers/PDFs/LeBel%20et%20al.%202023undefined%20-%20A%20natural%20language%20fMRI%20dataset%20for%20voxelwise%20encoding%20models.pdf)
 
 > [!abstract] Abstract
 > Abstract

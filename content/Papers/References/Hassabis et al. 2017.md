@@ -1,6 +1,6 @@
 ---
 year: 2017
-month: 7
+month: 6
 date: 07/2017
 authors:
   - "Hassabis, Demis"
@@ -30,14 +30,12 @@ dateAdded: "2024-03-11T15:12:34Z"
 dateModified: "2024-03-11T15:12:38Z"
 super_collections:
   - ERQKEKFA
-filename: Hassabis et al. 2017
 marker: "[🇿](zotero://select/library/items/BFGQKJP3)"
 ---
 
-> [!title] Neuroscience-Inspired Artificial Intelligence
+# Neuroscience-Inspired Artificial Intelligence
 
-> [!example] File
-> [Hassabis et al. 2017 - Neuroscience-Inspired Artificial Intelligence](/Papers/PDFs/Hassabis%20et%20al.%202017%20-%20Neuroscience-Inspired%20Artificial%20Intelligence.pdf)
+[PDF file](/Papers/PDFs/Hassabis%20et%20al.%202017undefined%20-%20Neuroscience-Inspired%20Artificial%20Intelligence.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Neuroscience-Inspired Artificial Intelligence" by D. Hassabis et al.

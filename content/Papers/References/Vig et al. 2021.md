@@ -6,7 +6,7 @@ zoteroTags:
   - Quantitative Biology - Biomolecules
   - notion
 year: 2021
-month: 3
+month: 2
 day: 28
 date: 2021-03-28
 authors:
@@ -35,14 +35,12 @@ dateAdded: "2024-03-28T16:11:20Z"
 dateModified: "2024-03-28T16:11:24Z"
 super_collections:
   - ERQKEKFA
-filename: Vig et al. 2021
 marker: "[🇿](zotero://select/library/items/7L7ECSEZ)"
 ---
 
-> [!title] BERTology Meets Biology: Interpreting Attention in Protein Language Models
+# BERTology Meets Biology: Interpreting Attention in Protein Language Models
 
-> [!example] File
-> [Vig et al. 2021 - BERTology Meets Biology Interpreting Attention in Protein Language Models](/Papers/PDFs/Vig%20et%20al.%202021%20-%20BERTology%20Meets%20Biology%20Interpreting%20Attention%20in%20Protein%20Language%20Models.pdf)
+[PDF file](/Papers/PDFs/Vig%20et%20al.%202021undefined%20-%20BERTology%20Meets%20Biology%20Interpreting%20Attention%20in%20Protein%20Language%20Models.pdf)
 
 > [!abstract] Abstract
 > Transformer architectures have proven to learn useful representations for protein classification and generation tasks. However, these representations present challenges in interpretability. In this work, we demonstrate a set of methods for analyzing protein Transformer models through the lens of attention. We show that attention: (1) captures the folding structure of proteins, connecting amino acids that are far apart in the underlying sequence, but spatially close in the three-dimensional structure, (2) targets binding sites, a key functional component of proteins, and (3) focuses on progressively more complex biophysical properties with increasing layer depth. We find this behavior to be consistent across three Transformer architectures (BERT, ALBERT, XLNet) and two distinct protein datasets. We also present a three-dimensional visualization of the interaction between attention and protein structure. Code for visualization and analysis is available at https://github.com/salesforce/provis.

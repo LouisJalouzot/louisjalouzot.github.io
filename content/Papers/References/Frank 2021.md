@@ -18,14 +18,12 @@ dateAdded: "2024-07-05T07:28:35Z"
 dateModified: "2024-07-05T07:28:44Z"
 super_collections:
   - ERQKEKFA
-filename: Frank 2021
 marker: "[🇿](zotero://select/library/items/PRYHGBQT)"
 ---
 
-> [!title] Cross-language structural priming in recurrent neural network language models
+# Cross-language structural priming in recurrent neural network language models
 
-> [!example] File
-> [Frank 2021 - Cross-language structural priming in recurrent neural network language models](/Papers/PDFs/Frank%202021%20-%20Cross-language%20structural%20priming%20in%20recurrent%20neural%20network%20language%20models.pdf)
+[PDF file](/Papers/PDFs/Frank%202021undefined%20-%20Cross-language%20structural%20priming%20in%20recurrent%20neural%20network%20language%20models.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Cross-language structural priming in recurrent neural network language models" by Stefan Frank

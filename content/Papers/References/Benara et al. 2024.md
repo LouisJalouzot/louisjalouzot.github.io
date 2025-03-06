@@ -33,14 +33,12 @@ dateAdded: "2024-11-12T20:33:26Z"
 dateModified: "2024-11-12T20:33:37Z"
 super_collections:
   - ERQKEKFA
-filename: Benara et al. 2024
 marker: "[🇿](zotero://select/library/items/SSFFYXET)"
 ---
 
-> [!title] Crafting Interpretable Embeddings by Asking LLMs Questions
+# Crafting Interpretable Embeddings by Asking LLMs Questions
 
-> [!example] File
-> [Benara et al. 2024 - Crafting Interpretable Embeddings by Asking LLMs Questions](/Papers/PDFs/Benara%20et%20al.%202024%20-%20Crafting%20Interpretable%20Embeddings%20by%20Asking%20LLMs%20Questions.pdf)
+[PDF file](/Papers/PDFs/Benara%20et%20al.%202024undefined%20-%20Crafting%20Interpretable%20Embeddings%20by%20Asking%20LLMs%20Questions.pdf)
 
 > [!abstract] Abstract
 > Large language models (LLMs) have rapidly improved text embeddings for a growing array of natural-language processing tasks. However, their opaqueness and proliferation into scientific domains such as neuroscience have created a growing need for interpretability. Here, we ask whether we can obtain interpretable embeddings through LLM prompting. We introduce question-answering embeddings (QA-Emb), embeddings where each feature represents an answer to a yes/no question asked to an LLM. Training QA-Emb reduces to selecting a set of underlying questions rather than learning model weights.

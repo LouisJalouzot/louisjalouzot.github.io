@@ -26,14 +26,12 @@ dateAdded: "2024-10-31T16:54:10Z"
 dateModified: "2024-10-31T16:55:16Z"
 super_collections:
   - ERQKEKFA
-filename: Huang et al. 2021
 marker: "[🇿](zotero://select/library/items/K5B83Q74)"
 ---
 
-> [!title] Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models
+# Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models
 
-> [!example] File
-> [Huang et al. 2021 - Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models](/Papers/PDFs/Huang%20et%20al.%202021%20-%20Disentangling%20Semantics%20and%20Syntax%20in%20Sentence%20Embeddings%20with%20Pre-trained%20Language%20Models.pdf)
+[PDF file](/Papers/PDFs/Huang%20et%20al.%202021undefined%20-%20Disentangling%20Semantics%20and%20Syntax%20in%20Sentence%20Embeddings%20with%20Pre-trained%20Language%20Models.pdf)
 
 > [!abstract] Abstract
 > Pre-trained language models have achieved huge success on a wide range of NLP tasks. However, contextual representations from pre-trained models contain entangled semantic and syntactic information, and therefore cannot be directly used to derive useful semantic sentence embeddings for some tasks. Paraphrase pairs offer an effective way of learning the distinction between semantics and syntax, as they naturally share semantics and often vary in syntax. In this work, we present ParaBART, a semantic sentence embedding model that learns to disentangle semantics and syntax in sentence embeddings obtained by pre-trained language models. ParaBART is trained to perform syntax-guided paraphrasing, based on a source sentence that shares semantics with the target paraphrase, and a parse tree that specifies the target syntax. In this way, ParaBART learns disentangled semantic and syntactic representations from their respective inputs with separate encoders. Experiments in English show that ParaBART outperforms state-of-the-art sentence embedding models on unsupervised semantic similarity tasks. Additionally, we show that our approach can effectively remove syntactic information from semantic sentence embeddings, leading to better robustness against syntactic variation on downstream semantic tasks.

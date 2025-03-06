@@ -1,6 +1,6 @@
 ---
 year: 2024
-month: 1
+month: 0
 day: 3
 date: 2024-01-03
 authors:
@@ -29,14 +29,12 @@ dateAdded: "2025-01-18T11:26:03Z"
 dateModified: "2025-01-18T11:27:33Z"
 super_collections:
   - ERQKEKFA
-filename: Oby et al. 2024
 marker: "[🇿](zotero://select/library/items/HFHCJIJ4)"
 ---
 
-> [!title] Dynamical constraints on neural population activity
+# Dynamical constraints on neural population activity
 
-> [!example] File
-> [Oby et al. 2024 - Dynamical constraints on neural population activity](/Papers/PDFs/Oby%20et%20al.%202024%20-%20Dynamical%20constraints%20on%20neural%20population%20activity.pdf)
+[PDF file](/Papers/PDFs/Oby%20et%20al.%202024undefined%20-%20Dynamical%20constraints%20on%20neural%20population%20activity.pdf)
 
 > [!abstract] Abstract
 > Abstract

@@ -1,6 +1,6 @@
 ---
 year: 2024
-month: 12
+month: 11
 day: 7
 date: 7 December 2024
 authors:
@@ -23,14 +23,12 @@ dateAdded: "2024-12-12T14:43:12Z"
 dateModified: "2024-12-12T14:43:16Z"
 super_collections:
   - ERQKEKFA
-filename: Diego-Sim'on et al. 2024
 marker: "[🇿](zotero://select/library/items/8KCBEQKX)"
 ---
 
-> [!title] A polar coordinate system represents syntax in large language models
+# A polar coordinate system represents syntax in large language models
 
-> [!example] File
-> [Diego-Sim'on et al. 2024 - A polar coordinate system represents syntax in large language models](/Papers/PDFs/Diego-Sim'on%20et%20al.%202024%20-%20A%20polar%20coordinate%20system%20represents%20syntax%20in%20large%20language%20models.pdf)
+[PDF file](/Papers/PDFs/Diego-Sim'on%20et%20al.%202024undefined%20-%20A%20polar%20coordinate%20system%20represents%20syntax%20in%20large%20language%20models.pdf)
 
 > [!abstract] Abstract
 > Originally formalized with symbolic representations, syntactic trees may also be effectively represented in the activations of large language models (LLMs). Indeed, a 'Structural Probe' can find a subspace of neural activations, where syntactically related words are relatively close to one-another. However, this syntactic code remains incomplete: the distance between the Structural Probe word embeddings can represent the existence but not the type and direction of syntactic relations. Here, we hypothesize that syntactic relations are, in fact, coded by the relative direction between nearby embeddings. To test this hypothesis, we introduce a 'Polar Probe' trained to read syntactic relations from both the distance and the direction between word embeddings. Our approach reveals three main findings. First, our Polar Probe successfully recovers the type and direction of syntactic relations, and substantially outperforms the Structural Probe by nearly two folds. Second, we confirm that this polar coordinate system exists in a low-dimensional subspace of the intermediate layers of many LLMs and becomes increasingly precise in the latest frontier models. Third, we demonstrate with a new benchmark that similar syntactic relations are coded similarly across the nested levels of syntactic trees. Overall, this work shows that LLMs spontaneously learn a geometry of neural activations that explicitly represents the main symbolic structures of linguistic theory.

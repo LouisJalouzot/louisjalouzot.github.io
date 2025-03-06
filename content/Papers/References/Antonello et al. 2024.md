@@ -1,6 +1,6 @@
 ---
 year: 2024
-month: 10
+month: 9
 day: 1
 date: 1 October 2024
 authors:
@@ -25,14 +25,12 @@ dateAdded: "2024-10-25T09:31:03Z"
 dateModified: "2024-10-25T09:33:00Z"
 super_collections:
   - ERQKEKFA
-filename: Antonello et al. 2024
 marker: "[🇿](zotero://select/library/items/NSCNVGZF)"
 ---
 
-> [!title] A generative framework to bridge data-driven models and scientific theories in language neuroscience
+# A generative framework to bridge data-driven models and scientific theories in language neuroscience
 
-> [!example] File
-> [Antonello et al. 2024 - A generative framework to bridge data-driven models and scientific theories in language neuroscience](/Papers/PDFs/Antonello%20et%20al.%202024%20-%20A%20generative%20framework%20to%20bridge%20data-driven%20models%20and%20scientific%20theories%20in%20language%20neuroscience.pdf)
+[PDF file](/Papers/PDFs/Antonello%20et%20al.%202024undefined%20-%20A%20generative%20framework%20to%20bridge%20data-driven%20models%20and%20scientific%20theories%20in%20language%20neuroscience.pdf)
 
 > [!abstract] Abstract
 > Representations from large language models are highly effective at predicting BOLD fMRI responses to language stimuli. However, these representations are largely opaque: it is unclear what features of the language stimulus drive the response in each brain area. We present generative explanation-mediated validation, a framework for generating concise explanations of language selectivity in the brain and then validating those explanations in follow-up experiments that use synthetic stimuli. This approach is successful at explaining selectivity both in individual voxels and cortical regions of interest (ROIs).We show that explanatory accuracy is closely related to the predictive power and stability of the underlying statistical models. These results demonstrate that LLMs can be used to bridge the widening gap between data-driven models and formal scientific theories.

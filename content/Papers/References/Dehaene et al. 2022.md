@@ -1,6 +1,6 @@
 ---
 year: 2022
-month: 9
+month: 8
 date: 09/2022
 authors:
   - "Dehaene, Stanislas"
@@ -32,14 +32,12 @@ dateAdded: "2024-10-01T20:26:19Z"
 dateModified: "2024-10-01T20:31:15Z"
 super_collections:
   - ERQKEKFA
-filename: Dehaene et al. 2022
 marker: "[🇿](zotero://select/library/items/HNLK8E8K)"
 ---
 
-> [!title] Symbols and mental programs: a hypothesis about human singularity
+# Symbols and mental programs: a hypothesis about human singularity
 
-> [!example] File
-> [Dehaene et al. 2022 - Symbols and mental programs a hypothesis about human singularity](/Papers/PDFs/Dehaene%20et%20al.%202022%20-%20Symbols%20and%20mental%20programs%20a%20hypothesis%20about%20human%20singularity.pdf)
+[PDF file](/Papers/PDFs/Dehaene%20et%20al.%202022undefined%20-%20Symbols%20and%20mental%20programs%20a%20hypothesis%20about%20human%20singularity.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Symbols and mental programs: a hypothesis about human singularity" by S. Dehaene et al.

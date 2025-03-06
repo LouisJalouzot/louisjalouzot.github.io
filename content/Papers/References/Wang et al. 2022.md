@@ -1,6 +1,6 @@
 ---
 year: 2022
-month: 9
+month: 8
 day: 30
 date: 2022-09-30
 authors:
@@ -30,14 +30,12 @@ dateAdded: "2025-01-23T15:07:03Z"
 dateModified: "2025-01-23T15:07:21Z"
 super_collections:
   - ERQKEKFA
-filename: Wang et al. 2022
 marker: "[🇿](zotero://select/library/items/3I5ICTJW)"
 ---
 
-> [!title] A synchronized multimodal neuroimaging dataset for studying brain language processing
+# A synchronized multimodal neuroimaging dataset for studying brain language processing
 
-> [!example] File
-> [Wang et al. 2022 - A synchronized multimodal neuroimaging dataset for studying brain language processing](/Papers/PDFs/Wang%20et%20al.%202022%20-%20A%20synchronized%20multimodal%20neuroimaging%20dataset%20for%20studying%20brain%20language%20processing.pdf)
+[PDF file](/Papers/PDFs/Wang%20et%20al.%202022undefined%20-%20A%20synchronized%20multimodal%20neuroimaging%20dataset%20for%20studying%20brain%20language%20processing.pdf)
 
 > [!abstract] Abstract
 > Abstract

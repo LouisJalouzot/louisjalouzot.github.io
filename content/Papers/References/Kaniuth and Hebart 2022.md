@@ -1,6 +1,6 @@
 ---
 year: 2022
-month: 8
+month: 7
 date: 08/2022
 authors:
   - "Kaniuth, Philipp"
@@ -28,14 +28,12 @@ dateAdded: "2024-12-17T15:23:29Z"
 dateModified: "2024-12-17T15:23:49Z"
 super_collections:
   - ERQKEKFA
-filename: Kaniuth and Hebart 2022
 marker: "[🇿](zotero://select/library/items/ZX9Y487G)"
 ---
 
-> [!title] Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior
+# Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior
 
-> [!example] File
-> [Kaniuth and Hebart 2022 - Feature-reweighted representational similarity analysis A method for improving the fit between computational models brains and behavior](/Papers/PDFs/Kaniuth%20and%20Hebart%202022%20-%20Feature-reweighted%20representational%20similarity%20analysis%20A%20method%20for%20improving%20the%20fit%20between%20computational%20models%20brains%20and%20behavior.pdf)
+[PDF file](/Papers/PDFs/Kaniuth%20and%20Hebart%202022undefined%20-%20Feature-reweighted%20representational%20similarity%20analysis%20A%20method%20for%20improving%20the%20fit%20between%20computational%20models%20brains%20and%20behavior.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior" by Philipp Kaniuth et al.

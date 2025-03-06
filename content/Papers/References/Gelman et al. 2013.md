@@ -1,6 +1,6 @@
 ---
 year: 2013
-month: 11
+month: 10
 day: 27
 date: 2013-11-27
 authors:
@@ -29,14 +29,12 @@ dateAdded: "2025-02-20T23:04:52Z"
 dateModified: "2025-02-20T23:04:52Z"
 super_collections:
   - ERQKEKFA
-filename: Gelman et al. 2013
 marker: "[🇿](zotero://select/library/items/X86EXQEK)"
 ---
 
-> [!title] Bayesian Data Analysis
+# Bayesian Data Analysis
 
-> [!example] File
-> [Gelman et al. 2013 - Bayesian Data Analysis](/Papers/PDFs/Gelman%20et%20al.%202013%20-%20Bayesian%20Data%20Analysis.pdf)
+[PDF file](/Papers/PDFs/Gelman%20et%20al.%202013undefined%20-%20Bayesian%20Data%20Analysis.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Bayesian data analysis, third edition" by A. Gelman et al.

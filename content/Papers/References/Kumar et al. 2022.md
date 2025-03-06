@@ -1,6 +1,6 @@
 ---
 year: 2022
-month: 6
+month: 5
 day: 9
 date: 2022-06-09
 authors:
@@ -29,14 +29,12 @@ dateAdded: "2024-07-16T19:58:13Z"
 dateModified: "2024-07-16T19:58:19Z"
 super_collections:
   - ERQKEKFA
-filename: Kumar et al. 2022
 marker: "[🇿](zotero://select/library/items/IGSSCNX2)"
 ---
 
-> [!title] Shared functional specialization in transformer-based language models and the human brain
+# Shared functional specialization in transformer-based language models and the human brain
 
-> [!example] File
-> [Kumar et al. 2022 - Shared functional specialization in transformer-based language models and the human brain](/Papers/PDFs/Kumar%20et%20al.%202022%20-%20Shared%20functional%20specialization%20in%20transformer-based%20language%20models%20and%20the%20human%20brain.pdf)
+[PDF file](/Papers/PDFs/Kumar%20et%20al.%202022undefined%20-%20Shared%20functional%20specialization%20in%20transformer-based%20language%20models%20and%20the%20human%20brain.pdf)
 
 > [!abstract] Abstract
 > Abstract
