@@ -1,5 +1,0 @@
-| Title                          | Author                       | Year | Journal/Publisher                 | URL                              | Key Topics                                   |
-| ------------------------------ | ---------------------------- | ---- | --------------------------------- | -------------------------------- | -------------------------------------------- |
-| The Impact of AI on Education  | John Smith                   | 2023 | Journal of Educational Technology | https://example.com/ai-education | AI, Education, Technology                    |
-| A History of Quantum Mechanics | Marie Curie, Albert Einstein | 1925 | Physical Review                   | https://example.com/quantum      | Quantum Mechanics, Physics, History          |
-| Sustainable Urban Development  | Ken Yeang                    | 2020 | Routledge                         |                                  | Sustainability, Urban Planning, Architecture |
