@@ -1,6 +1,6 @@
 ---
 year: 2021
-month: 12
+month: 11
 date: 12/2021
 authors:
   - "Bazeille, Thomas"
@@ -30,14 +30,12 @@ dateAdded: "2024-03-17T19:00:52Z"
 dateModified: "2024-03-17T19:00:52Z"
 super_collections:
   - ERQKEKFA
-filename: Bazeille et al. 2021
 marker: "[🇿](zotero://select/library/items/PDH4D7E5)"
 ---
 
-> [!title] An empirical evaluation of functional alignment using inter-subject decoding
+# An empirical evaluation of functional alignment using inter-subject decoding
 
-> [!example] File
-> [Bazeille et al. 2021 - An empirical evaluation of functional alignment using inter-subject decoding](/Papers/PDFs/Bazeille%20et%20al.%202021%20-%20An%20empirical%20evaluation%20of%20functional%20alignment%20using%20inter-subject%20decoding.pdf)
+[PDF file](/Papers/PDFs/Bazeille%20et%20al.%202021undefined%20-%20An%20empirical%20evaluation%20of%20functional%20alignment%20using%20inter-subject%20decoding.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "An empirical evaluation of functional alignment using inter-subject decoding" by Thomas Bazeille et al.

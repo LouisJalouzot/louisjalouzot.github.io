@@ -33,14 +33,12 @@ dateAdded: "2024-03-17T19:06:03Z"
 dateModified: "2024-03-17T19:06:09Z"
 super_collections:
   - ERQKEKFA
-filename: Thual et al. 2023
 marker: "[🇿](zotero://select/library/items/DPTETKWX)"
 ---
 
-> [!title] Aligning brain functions boosts the decoding of visual semantics in novel subjects
+# Aligning brain functions boosts the decoding of visual semantics in novel subjects
 
-> [!example] File
-> [Thual et al. 2023 - Aligning brain functions boosts the decoding of visual semantics in novel subjects](/Papers/PDFs/Thual%20et%20al.%202023%20-%20Aligning%20brain%20functions%20boosts%20the%20decoding%20of%20visual%20semantics%20in%20novel%20subjects.pdf)
+[PDF file](/Papers/PDFs/Thual%20et%20al.%202023undefined%20-%20Aligning%20brain%20functions%20boosts%20the%20decoding%20of%20visual%20semantics%20in%20novel%20subjects.pdf)
 
 > [!abstract] Abstract
 > Deep learning is leading to major advances in the realm of brain decoding from functional Magnetic Resonance Imaging (fMRI). However, the large inter-subject variability in brain characteristics has limited most studies to train models on one subject at a time. Consequently, this approach hampers the training of deep learning models, which typically requires very large datasets. Here, we propose to boost brain decoding by aligning brain responses to videos and static images across subjects. Compared to the anatomically-aligned baseline, our method improves out-of-subject decoding performance by up to 75%. Moreover, it also outperforms classical single-subject approaches when fewer than 100 minutes of data is available for the tested subject. Furthermore, we propose a new multi-subject alignment method, which obtains comparable results to that of classical single-subject approaches while improving out-of-subject generalization. Finally, we show that this method aligns neural representations in accordance with brain anatomy. Overall, this study lays the foundations for leveraging extensive neuroimaging datasets and enhancing the decoding of individuals with a limited amount of brain recordings.

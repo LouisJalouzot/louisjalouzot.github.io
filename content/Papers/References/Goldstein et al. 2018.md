@@ -1,6 +1,6 @@
 ---
 year: 2018
-month: 3
+month: 2
 day: 13
 date: 2018-03-13
 authors:
@@ -29,14 +29,12 @@ dateAdded: "2024-09-16T13:11:03Z"
 dateModified: "2024-09-16T13:11:14Z"
 super_collections:
   - ERQKEKFA
-filename: Goldstein et al. 2018
 marker: "[🇿](zotero://select/library/items/K4GX7TBB)"
 ---
 
-> [!title] Brain-to-brain coupling during handholding is associated with pain reduction
+# Brain-to-brain coupling during handholding is associated with pain reduction
 
-> [!example] File
-> [Goldstein et al. 2018 - Brain-to-brain coupling during handholding is associated with pain reduction](/Papers/PDFs/Goldstein%20et%20al.%202018%20-%20Brain-to-brain%20coupling%20during%20handholding%20is%20associated%20with%20pain%20reduction.pdf)
+[PDF file](/Papers/PDFs/Goldstein%20et%20al.%202018undefined%20-%20Brain-to-brain%20coupling%20during%20handholding%20is%20associated%20with%20pain%20reduction.pdf)
 
 > [!abstract] Abstract
 > Significance

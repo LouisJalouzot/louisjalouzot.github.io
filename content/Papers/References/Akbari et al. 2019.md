@@ -1,6 +1,6 @@
 ---
 year: 2019
-month: 1
+month: 0
 day: 29
 date: 2019-01-29
 authors:
@@ -31,14 +31,12 @@ dateAdded: "2024-05-31T11:05:11Z"
 dateModified: "2024-05-31T11:05:22Z"
 super_collections:
   - ERQKEKFA
-filename: Akbari et al. 2019
 marker: "[🇿](zotero://select/library/items/9AP8YKZM)"
 ---
 
-> [!title] Towards reconstructing intelligible speech from the human auditory cortex
+# Towards reconstructing intelligible speech from the human auditory cortex
 
-> [!example] File
-> [Akbari et al. 2019 - Towards reconstructing intelligible speech from the human auditory cortex](/Papers/PDFs/Akbari%20et%20al.%202019%20-%20Towards%20reconstructing%20intelligible%20speech%20from%20the%20human%20auditory%20cortex.pdf)
+[PDF file](/Papers/PDFs/Akbari%20et%20al.%202019undefined%20-%20Towards%20reconstructing%20intelligible%20speech%20from%20the%20human%20auditory%20cortex.pdf)
 
 > [!abstract] Abstract
 > Abstract

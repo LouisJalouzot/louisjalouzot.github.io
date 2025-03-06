@@ -1,6 +1,6 @@
 ---
 year: 1995
-month: 7
+month: 6
 day: 1
 date: 1 July 1995
 authors:
@@ -19,14 +19,12 @@ dateAdded: "2024-12-20T14:07:58Z"
 dateModified: "2024-12-20T14:08:36Z"
 super_collections:
   - ERQKEKFA
-filename: Hofstadter 1995
 marker: "[🇿](zotero://select/library/items/78E34EHB)"
 ---
 
-> [!title] On seeing A's and seeing As
+# On seeing A's and seeing As
 
-> [!example] File
-> [Hofstadter 1995 - On seeing A's and seeing As](/Papers/PDFs/Hofstadter%201995%20-%20On%20seeing%20A's%20and%20seeing%20As.pdf)
+[PDF file](/Papers/PDFs/Hofstadter%201995undefined%20-%20On%20seeing%20A's%20and%20seeing%20As.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "On seeing A's and seeing As" by D. Hofstadter

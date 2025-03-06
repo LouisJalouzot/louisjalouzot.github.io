@@ -1,6 +1,6 @@
 ---
 year: 1988
-month: 3
+month: 2
 date: 3/1988
 authors:
   - "Fodor, Jerry A."
@@ -30,14 +30,12 @@ dateAdded: "2024-09-21T09:40:20Z"
 dateModified: "2024-09-21T09:40:25Z"
 super_collections:
   - ERQKEKFA
-filename: Fodor and Pylyshyn 1988
 marker: "[🇿](zotero://select/library/items/BP6Q9AUJ)"
 ---
 
-> [!title] Connectionism and cognitive architecture: A critical analysis
+# Connectionism and cognitive architecture: A critical analysis
 
-> [!example] File
-> [Fodor and Pylyshyn 1988 - Connectionism and cognitive architecture A critical analysis](/Papers/PDFs/Fodor%20and%20Pylyshyn%201988%20-%20Connectionism%20and%20cognitive%20architecture%20A%20critical%20analysis.pdf)
+[PDF file](/Papers/PDFs/Fodor%20and%20Pylyshyn%201988undefined%20-%20Connectionism%20and%20cognitive%20architecture%20A%20critical%20analysis.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Connectionism and cognitive architecture: A critical analysis" by J. Fodor et al.

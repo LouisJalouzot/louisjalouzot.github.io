@@ -1,6 +1,6 @@
 ---
 year: 2025
-month: 1
+month: 0
 day: 28
 date: 2025-01-28
 authors:
@@ -34,14 +34,12 @@ dateAdded: "2025-02-11T03:55:32Z"
 dateModified: "2025-02-24T22:36:53Z"
 super_collections:
   - ERQKEKFA
-filename: Liu et al. 2025
 marker: "[🇿](zotero://select/library/items/C23MG55V)"
 ---
 
-> [!title] Recurrent neural networks with transient trajectory explain working memory encoding mechanisms
+# Recurrent neural networks with transient trajectory explain working memory encoding mechanisms
 
-> [!example] File
-> [Liu et al. 2025 - Recurrent neural networks with transient trajectory explain working memory encoding mechanisms](/Papers/PDFs/Liu%20et%20al.%202025%20-%20Recurrent%20neural%20networks%20with%20transient%20trajectory%20explain%20working%20memory%20encoding%20mechanisms.pdf)
+[PDF file](/Papers/PDFs/Liu%20et%20al.%202025undefined%20-%20Recurrent%20neural%20networks%20with%20transient%20trajectory%20explain%20working%20memory%20encoding%20mechanisms.pdf)
 
 > [!abstract] Abstract
 > Whether working memory (WM) is encoded by persistent activity using attractors or by dynamic activity using transient trajectories has been debated for decades in both experimental and modeling studies, and a consensus has not been reached. Even though many recurrent neural networks (RNNs) have been proposed to simulate WM, most networks are designed to match respective experimental observations and show either transient or persistent activities. Those few which consider networks with both activity patterns have not attempted to directly compare their memory capabilities. In this study, we build transient-trajectory-based RNNs (TRNNs) and compare them to vanilla RNNs with more persistent activities. The TRNN incorporates biologically plausible modifications, including self-inhibition, sparse connection and hierarchical topology. Besides activity patterns resembling animal recordings and retained versatility to variable encoding time, TRNNs show better performance in delayed choice and spatial memory reinforcement learning tasks. Therefore, this study provides evidence supporting the transient activity theory to explain the WM mechanism from the model designing point of view.

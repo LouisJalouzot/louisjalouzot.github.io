@@ -1,6 +1,6 @@
 ---
 year: 2015
-month: 1
+month: 0
 date: 01/2015
 authors:
   - "Pedregosa, Fabian"
@@ -30,14 +30,12 @@ dateAdded: "2024-03-17T19:02:27Z"
 dateModified: "2024-03-17T19:02:35Z"
 super_collections:
   - ERQKEKFA
-filename: Pedregosa et al. 2015
 marker: "[🇿](zotero://select/library/items/F8RFNYJU)"
 ---
 
-> [!title] Data-driven HRF estimation for encoding and decoding models
+# Data-driven HRF estimation for encoding and decoding models
 
-> [!example] File
-> [Pedregosa et al. 2015 - Data-driven HRF estimation for encoding and decoding models](/Papers/PDFs/Pedregosa%20et%20al.%202015%20-%20Data-driven%20HRF%20estimation%20for%20encoding%20and%20decoding%20models.pdf)
+[PDF file](/Papers/PDFs/Pedregosa%20et%20al.%202015undefined%20-%20Data-driven%20HRF%20estimation%20for%20encoding%20and%20decoding%20models.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Data-driven HRF estimation for encoding and decoding models" by Fabian Pedregosa et al.

@@ -1,6 +1,6 @@
 ---
 year: 2021
-month: 11
+month: 10
 day: 23
 date: 2021-11-23
 authors:
@@ -25,14 +25,12 @@ dateAdded: "2024-05-07T23:15:49Z"
 dateModified: "2024-05-07T23:15:55Z"
 super_collections:
   - ERQKEKFA
-filename: Tikochinski et al. 2021
 marker: "[🇿](zotero://select/library/items/5Q748PNC)"
 ---
 
-> [!title] Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension
+# Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension
 
-> [!example] File
-> [Tikochinski et al. 2021 - Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension](/Papers/PDFs/Tikochinski%20et%20al.%202021%20-%20Fine-tuning%20of%20deep%20language%20models%20as%20a%20computational%20framework%20of%20modeling%20listeners’%20perspective%20during%20language%20comprehension.pdf)
+[PDF file](/Papers/PDFs/Tikochinski%20et%20al.%202021undefined%20-%20Fine-tuning%20of%20deep%20language%20models%20as%20a%20computational%20framework%20of%20modeling%20listeners’%20perspective%20during%20language%20comprehension.pdf)
 
 > [!abstract] Abstract
 > Abstract

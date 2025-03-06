@@ -1,6 +1,6 @@
 ---
 year: 2006
-month: 9
+month: 8
 date: 9/2006
 authors:
   - "Norman, Kenneth A."
@@ -28,14 +28,12 @@ rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
 deleted: 1
 dateAdded: "2025-02-21T10:21:53Z"
 dateModified: "2025-02-21T10:21:53Z"
-filename: Norman et al. 2006
 marker: "[🇿](zotero://select/library/items/Q6BGRWPV)"
 ---
 
-> [!title] Beyond mind-reading: multi-voxel pattern analysis of fMRI data
+# Beyond mind-reading: multi-voxel pattern analysis of fMRI data
 
-> [!example] File
-> [Norman et al. 2006 - Beyond mind-reading multi-voxel pattern analysis of fMRI data](/Papers/PDFs/Norman%20et%20al.%202006%20-%20Beyond%20mind-reading%20multi-voxel%20pattern%20analysis%20of%20fMRI%20data.pdf)
+[PDF file](/Papers/PDFs/Norman%20et%20al.%202006undefined%20-%20Beyond%20mind-reading%20multi-voxel%20pattern%20analysis%20of%20fMRI%20data.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Beyond mind-reading: multi-voxel pattern analysis of fMRI data" by K. Norman et al.

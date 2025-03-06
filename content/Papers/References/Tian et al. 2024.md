@@ -1,6 +1,6 @@
 ---
 year: 2024
-month: 9
+month: 8
 day: 27
 date: 2024-09-27
 authors:
@@ -32,14 +32,12 @@ dateAdded: "2024-10-01T15:40:32Z"
 dateModified: "2024-10-01T15:42:49Z"
 super_collections:
   - ERQKEKFA
-filename: Tian et al. 2024
 marker: "[🇿](zotero://select/library/items/TG63UVE2)"
 ---
 
-> [!title] Mental programming of spatial sequences in working memory in the macaque frontal cortex
+# Mental programming of spatial sequences in working memory in the macaque frontal cortex
 
-> [!example] File
-> [Tian et al. 2024 - Mental programming of spatial sequences in working memory in the macaque frontal cortex](/Papers/PDFs/Tian%20et%20al.%202024%20-%20Mental%20programming%20of%20spatial%20sequences%20in%20working%20memory%20in%20the%20macaque%20frontal%20cortex.pdf)
+[PDF file](/Papers/PDFs/Tian%20et%20al.%202024undefined%20-%20Mental%20programming%20of%20spatial%20sequences%20in%20working%20memory%20in%20the%20macaque%20frontal%20cortex.pdf)
 
 > [!abstract] Abstract
 > How the brain mentally sorts a series of items in a specific order within working memory (WM) remains largely unknown. We investigated mental sorting using high-throughput electrophysiological recordings in the frontal cortex of macaque monkeys, who memorized and sorted spatial sequences in forward or backward orders according to visual cues. We discovered that items at each ordinal rank in WM were encoded in separate rank-WM subspaces and then, depending on cues, were maintained or reordered between the subspaces, accompanied by two extra temporary subspaces in two operation steps. Furthermore, the cue activity served as an indexical signal to trigger sorting processes. Thus, we propose a complete conceptual framework, where the neural landscape transitions in frontal neural states underlie the symbolic system for mental programming of sequence WM.

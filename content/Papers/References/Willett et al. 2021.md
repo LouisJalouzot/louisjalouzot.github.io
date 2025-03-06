@@ -1,6 +1,6 @@
 ---
 year: 2021
-month: 5
+month: 4
 day: 13
 date: 2021-05-13
 authors:
@@ -31,14 +31,12 @@ dateAdded: "2024-05-02T08:41:56Z"
 dateModified: "2024-05-02T08:42:02Z"
 super_collections:
   - ERQKEKFA
-filename: Willett et al. 2021
 marker: "[🇿](zotero://select/library/items/2GBY7R8K)"
 ---
 
-> [!title] High-performance brain-to-text communication via handwriting
+# High-performance brain-to-text communication via handwriting
 
-> [!example] File
-> [Willett et al. 2021 - High-performance brain-to-text communication via handwriting](/Papers/PDFs/Willett%20et%20al.%202021%20-%20High-performance%20brain-to-text%20communication%20via%20handwriting.pdf)
+[PDF file](/Papers/PDFs/Willett%20et%20al.%202021undefined%20-%20High-performance%20brain-to-text%20communication%20via%20handwriting.pdf)
 
 > [!abstract] Abstract
 > Brain–computer interfaces (BCIs) can restore communication to people who have lost the ability to move or speak. So far, a major focus of BCI research has been on restoring gross motor skills, such as reaching and grasping1–5 or point-and-click typing with a computer cursor6,7. However, rapid sequences of highly dexterous behaviours, such as handwriting or touch typing, might enable faster rates of communication. Here we developed an intracortical BCI that decodes attempted handwriting movements from neural activity in the motor cortex and translates it to text in real time, using a recurrent neural network decoding approach. With this BCI, our study participant, whose hand was paralysed from spinal cord injury, achieved typing speeds of 90 characters per minute with 94.1% raw accuracy online, and greater than 99% accuracy offline with a general-purpose autocorrect. To our knowledge, these typing speeds exceed those reported for any other BCI, and are comparable to typical smartphone typing speeds of individuals in the age group of our participant (115 characters per minute)8. Finally, theoretical considerations explain why temporally complex movements, such as handwriting, may be fundamentally easier to decode than point-to-point movements. Our results open a new approach for BCIs and demonstrate the feasibility of accurately decoding rapid, dexterous movements years after paralysis. A brain–computer interface enables rapid communication through neural decoding of attempted handwriting movements in a person with paralysis.

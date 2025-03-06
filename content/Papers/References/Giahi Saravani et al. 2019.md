@@ -1,6 +1,6 @@
 ---
 year: 2019
-month: 7
+month: 6
 date: 07/2019
 authors:
   - "Giahi Saravani, Aram"
@@ -30,14 +30,12 @@ dateAdded: "2024-05-31T20:29:59Z"
 dateModified: "2024-05-31T20:30:08Z"
 super_collections:
   - ERQKEKFA
-filename: Giahi Saravani et al. 2019
 marker: "[🇿](zotero://select/library/items/SVW3VT2A)"
 ---
 
-> [!title] Dynamic Brain Interactions during Picture Naming
+# Dynamic Brain Interactions during Picture Naming
 
-> [!example] File
-> [Giahi Saravani et al. 2019 - Dynamic Brain Interactions during Picture Naming](/Papers/PDFs/Giahi%20Saravani%20et%20al.%202019%20-%20Dynamic%20Brain%20Interactions%20during%20Picture%20Naming.pdf)
+[PDF file](/Papers/PDFs/Giahi%20Saravani%20et%20al.%202019undefined%20-%20Dynamic%20Brain%20Interactions%20during%20Picture%20Naming.pdf)
 
 > [!abstract] Abstract
 > Abstract

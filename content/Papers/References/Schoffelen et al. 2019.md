@@ -1,6 +1,6 @@
 ---
 year: 2019
-month: 4
+month: 3
 day: 3
 date: 2019-04-03
 authors:
@@ -32,14 +32,12 @@ dateAdded: "2025-01-23T14:37:43Z"
 dateModified: "2025-01-23T14:40:50Z"
 super_collections:
   - ERQKEKFA
-filename: Schoffelen et al. 2019
 marker: "[🇿](zotero://select/library/items/TM6CFT54)"
 ---
 
-> [!title] A 204-subject multimodal neuroimaging dataset to study language processing
+# A 204-subject multimodal neuroimaging dataset to study language processing
 
-> [!example] File
-> [Schoffelen et al. 2019 - A 204-subject multimodal neuroimaging dataset to study language processing](/Papers/PDFs/Schoffelen%20et%20al.%202019%20-%20A%20204-subject%20multimodal%20neuroimaging%20dataset%20to%20study%20language%20processing.pdf)
+[PDF file](/Papers/PDFs/Schoffelen%20et%20al.%202019undefined%20-%20A%20204-subject%20multimodal%20neuroimaging%20dataset%20to%20study%20language%20processing.pdf)
 
 > [!abstract] Abstract
 > Abstract

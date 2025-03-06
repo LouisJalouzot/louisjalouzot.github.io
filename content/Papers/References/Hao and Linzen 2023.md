@@ -4,7 +4,7 @@ zoteroTags:
   - Computer Science - Computation and Language
   - Computer Science - Machine Learning
 year: 2023
-month: 10
+month: 9
 day: 23
 date: 2023-10-23
 authors:
@@ -28,14 +28,12 @@ dateAdded: "2024-03-09T03:59:04Z"
 dateModified: "2024-03-09T03:59:16Z"
 super_collections:
   - ERQKEKFA
-filename: Hao and Linzen 2023
 marker: "[🇿](zotero://select/library/items/HAVHV9E8)"
 ---
 
-> [!title] Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number
+# Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number
 
-> [!example] File
-> [Hao and Linzen 2023 - Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number](/Papers/PDFs/Hao%20and%20Linzen%202023%20-%20Verb%20Conjugation%20in%20Transformers%20Is%20Determined%20by%20Linear%20Encodings%20of%20Subject%20Number.pdf)
+[PDF file](/Papers/PDFs/Hao%20and%20Linzen%202023undefined%20-%20Verb%20Conjugation%20in%20Transformers%20Is%20Determined%20by%20Linear%20Encodings%20of%20Subject%20Number.pdf)
 
 > [!abstract] Abstract
 > Deep architectures such as Transformers are sometimes criticized for having uninterpretable "black-box" representations. We use causal intervention analysis to show that, in fact, some linguistic features are represented in a linear, interpretable format. Specifically, we show that BERT's ability to conjugate verbs relies on a linear encoding of subject number that can be manipulated with predictable effects on conjugation accuracy. This encoding is found in the subject position at the first layer and the verb position at the last layer, but distributed across positions at middle layers, particularly when there are multiple cues to subject number.

@@ -3,7 +3,7 @@ zoteroTags:
   - Computer Science - Artificial Intelligence
   - Quantitative Biology - Neurons and Cognition
 year: 2024
-month: 3
+month: 2
 day: 4
 date: 2024-03-04
 authors:
@@ -61,14 +61,12 @@ dateAdded: "2024-03-09T04:15:59Z"
 dateModified: "2024-03-09T04:16:15Z"
 super_collections:
   - ERQKEKFA
-filename: Luo et al. 2024
 marker: "[🇿](zotero://select/library/items/IKKP95E9)"
 ---
 
-> [!title] Large language models surpass human experts in predicting neuroscience results
+# Large language models surpass human experts in predicting neuroscience results
 
-> [!example] File
-> [Luo et al. 2024 - Large language models surpass human experts in predicting neuroscience results](/Papers/PDFs/Luo%20et%20al.%202024%20-%20Large%20language%20models%20surpass%20human%20experts%20in%20predicting%20neuroscience%20results.pdf)
+[PDF file](/Papers/PDFs/Luo%20et%20al.%202024undefined%20-%20Large%20language%20models%20surpass%20human%20experts%20in%20predicting%20neuroscience%20results.pdf)
 
 > [!abstract] Abstract
 > Scientific discoveries often hinge on synthesizing decades of research, a task that potentially outstrips human information processing capacities. Large language models (LLMs) offer a solution. LLMs trained on the vast scientific literature could potentially integrate noisy yet interrelated findings to forecast novel results better than human experts. To evaluate this possibility, we created BrainBench, a forward-looking benchmark for predicting neuroscience results. We find that LLMs surpass experts in predicting experimental outcomes. BrainGPT, an LLM we tuned on the neuroscience literature, performed better yet. Like human experts, when LLMs were confident in their predictions, they were more likely to be correct, which presages a future where humans and LLMs team together to make discoveries. Our approach is not neuroscience-specific and is transferable to other knowledge-intensive endeavors.

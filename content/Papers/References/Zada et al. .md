@@ -44,14 +44,12 @@ libraryCatalog: www.cell.com
 deleted: 1
 dateAdded: "2025-02-26T11:12:33Z"
 dateModified: "2025-02-26T11:12:33Z"
-filename: Zada et al.
 marker: "[🇿](zotero://select/library/items/IRNW9NPB)"
 ---
 
-> [!title] A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
+# A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
 
-> [!example] File
-> [Zada et al.  - A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations](/Papers/PDFs/Zada%20et%20al.%20%20-%20A%20shared%20model-based%20linguistic%20space%20for%20transmitting%20our%20thoughts%20from%20brain%20to%20brain%20in%20natural%20conversations.pdf)
+[PDF file](/Papers/PDFs/Zada%20et%20al.%20undefined%20-%20A%20shared%20model-based%20linguistic%20space%20for%20transmitting%20our%20thoughts%20from%20brain%20to%20brain%20in%20natural%20conversations.pdf)
 
 >[!warning] Warning
 > This note should not be modified as it can be overwritten by the plugin which generated it.

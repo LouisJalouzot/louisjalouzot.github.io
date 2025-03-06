@@ -1,6 +1,6 @@
 ---
 year: 2025
-month: 1
+month: 0
 day: 27
 date: 27 January 2025
 authors:
@@ -22,14 +22,12 @@ dateAdded: "2025-02-11T03:55:07Z"
 dateModified: "2025-02-11T04:07:46Z"
 super_collections:
   - ERQKEKFA
-filename: Deb et al. 2025
 marker: "[🇿](zotero://select/library/items/FD32QV3C)"
 ---
 
-> [!title] TopoNets: High Performing Vision and Language Models with Brain-Like Topography
+# TopoNets: High Performing Vision and Language Models with Brain-Like Topography
 
-> [!example] File
-> [Deb et al. 2025 - TopoNets High Performing Vision and Language Models with Brain-Like Topography](/Papers/PDFs/Deb%20et%20al.%202025%20-%20TopoNets%20High%20Performing%20Vision%20and%20Language%20Models%20with%20Brain-Like%20Topography.pdf)
+[PDF file](/Papers/PDFs/Deb%20et%20al.%202025undefined%20-%20TopoNets%20High%20Performing%20Vision%20and%20Language%20Models%20with%20Brain-Like%20Topography.pdf)
 
 > [!abstract] Abstract
 > Neurons in the brain are organized such that nearby cells tend to share similar functions. AI models lack this organization, and past efforts to introduce topography have often led to trade-offs between topography and task performance. In this work, we present TopoLoss, a new loss function that promotes spatially organized topographic representations in AI models without significantly sacrificing task performance. TopoLoss is highly adaptable and can be seamlessly integrated into the training of leading model architectures. We validate our method on both vision (ResNet-18, ResNet-50, ViT) and language models (GPT-Neo-125M, NanoGPT), collectively TopoNets. TopoNets are the highest-performing supervised topographic models to date, exhibiting brain-like properties such as localized feature processing, lower dimensionality, and increased efficiency. TopoNets also predict responses in the brain and replicate the key topographic signatures observed in the brain's visual and language cortices. Together, this work establishes a robust and generalizable framework for integrating topography into leading model architectures, advancing the development of high-performing models that more closely emulate the computational strategies of the human brain.

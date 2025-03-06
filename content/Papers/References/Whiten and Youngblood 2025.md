@@ -1,6 +1,6 @@
 ---
 year: 2025
-month: 2
+month: 1
 day: 7
 date: 2025-02-07
 authors:
@@ -28,14 +28,12 @@ dateAdded: "2025-02-11T04:05:11Z"
 dateModified: "2025-02-11T04:07:38Z"
 super_collections:
   - ERQKEKFA
-filename: Whiten and Youngblood 2025
 marker: "[🇿](zotero://select/library/items/72K9Q7S4)"
 ---
 
-> [!title] Convergent evolution in whale and human vocal cultures
+# Convergent evolution in whale and human vocal cultures
 
-> [!example] File
-> [Whiten and Youngblood 2025 - Convergent evolution in whale and human vocal cultures](/Papers/PDFs/Whiten%20and%20Youngblood%202025%20-%20Convergent%20evolution%20in%20whale%20and%20human%20vocal%20cultures.pdf)
+[PDF file](/Papers/PDFs/Whiten%20and%20Youngblood%202025undefined%20-%20Convergent%20evolution%20in%20whale%20and%20human%20vocal%20cultures.pdf)
 
 > [!abstract] Abstract
 > The complex songs of humpback whales conform to fundamental laws of language

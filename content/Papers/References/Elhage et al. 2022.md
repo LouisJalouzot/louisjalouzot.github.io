@@ -39,14 +39,12 @@ dateAdded: "2024-12-05T14:53:15Z"
 dateModified: "2024-12-05T14:53:21Z"
 super_collections:
   - ERQKEKFA
-filename: Elhage et al. 2022
 marker: "[🇿](zotero://select/library/items/2RBXG8SM)"
 ---
 
-> [!title] Toy Models of Superposition
+# Toy Models of Superposition
 
-> [!example] File
-> [Elhage et al. 2022 - Toy Models of Superposition](/Papers/PDFs/Elhage%20et%20al.%202022%20-%20Toy%20Models%20of%20Superposition.pdf)
+[PDF file](/Papers/PDFs/Elhage%20et%20al.%202022undefined%20-%20Toy%20Models%20of%20Superposition.pdf)
 
 > [!abstract] Abstract
 > Neural networks often pack many unrelated concepts into a single neuron - a puzzling phenomenon known as 'polysemanticity' which makes interpretability much more challenging. This paper provides a toy model where polysemanticity can be fully understood, arising as a result of models storing additional sparse features in "superposition." We demonstrate the existence of a phase change, a surprising connection to the geometry of uniform polytopes, and evidence of a link to adversarial examples. We also discuss potential implications for mechanistic interpretability.

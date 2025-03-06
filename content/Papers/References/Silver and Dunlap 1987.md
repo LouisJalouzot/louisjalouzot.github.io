@@ -1,6 +1,6 @@
 ---
 year: 1987
-month: 2
+month: 1
 date: 02/1987
 authors:
   - "Silver, N. Clayton"
@@ -28,14 +28,12 @@ dateAdded: "2024-07-04T13:45:26Z"
 dateModified: "2024-07-04T13:45:32Z"
 super_collections:
   - ERQKEKFA
-filename: Silver and Dunlap 1987
 marker: "[🇿](zotero://select/library/items/TDQSKTYY)"
 ---
 
-> [!title] Averaging correlation coefficients: Should Fisher's z transformation be used?
+# Averaging correlation coefficients: Should Fisher's z transformation be used?
 
-> [!example] File
-> [Silver and Dunlap 1987 - Averaging correlation coefficients Should Fisher's z transformation be used](/Papers/PDFs/Silver%20and%20Dunlap%201987%20-%20Averaging%20correlation%20coefficients%20Should%20Fisher's%20z%20transformation%20be%20used.pdf)
+[PDF file](/Papers/PDFs/Silver%20and%20Dunlap%201987undefined%20-%20Averaging%20correlation%20coefficients%20Should%20Fisher's%20z%20transformation%20be%20used.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Averaging Correlation Coefficients: Should Fishers z Transformation Be Used?" by N. C. Silver et al.

@@ -26,14 +26,12 @@ dateAdded: "2024-12-01T21:12:37Z"
 dateModified: "2024-12-01T21:12:42Z"
 super_collections:
   - ERQKEKFA
-filename: Fu et al. 2023
 marker: "[🇿](zotero://select/library/items/IIJ9Z8I3)"
 ---
 
-> [!title] Truncated Laplace and Gaussian mechanisms of RDP
+# Truncated Laplace and Gaussian mechanisms of RDP
 
-> [!example] File
-> [Fu et al. 2023 - Truncated Laplace and Gaussian mechanisms of RDP](/Papers/PDFs/Fu%20et%20al.%202023%20-%20Truncated%20Laplace%20and%20Gaussian%20mechanisms%20of%20RDP.pdf)
+[PDF file](/Papers/PDFs/Fu%20et%20al.%202023undefined%20-%20Truncated%20Laplace%20and%20Gaussian%20mechanisms%20of%20RDP.pdf)
 
 > [!abstract] Abstract
 > The Laplace mechanism and the Gaussian mechanism are primary mechanisms in differential privacy, widely applicable to many scenarios involving numerical data. However, due to the infinite-range random variables they generate, the Laplace and Gaussian mechanisms may return values that are semantically impossible, such as negative numbers. To address this issue, we have designed the truncated Laplace mechanism and Gaussian mechanism. For a given truncation interval [a, b], the truncated Gaussian mechanism ensures the same Renyi Differential Privacy (RDP) as the untruncated mechanism, regardless of the values chosen for the truncation interval [a, b]. Similarly, the truncated Laplace mechanism, for specified interval [a, b], maintains the same RDP as the untruncated mechanism. We provide the RDP expressions for each of them. We believe that our study can further enhance the utility of differential privacy in specific applications.

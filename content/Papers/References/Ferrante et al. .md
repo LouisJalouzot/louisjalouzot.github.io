@@ -18,14 +18,12 @@ dateAdded: "2024-10-15T08:13:35Z"
 dateModified: "2024-10-15T08:13:51Z"
 super_collections:
   - ERQKEKFA
-filename: Ferrante et al.
 marker: "[🇿](zotero://select/library/items/CXWEQE6A)"
 ---
 
-> [!title] Language decoding from human brain activity via contrastive learning
+# Language decoding from human brain activity via contrastive learning
 
-> [!example] File
-> [Ferrante et al.  - Language decoding from human brain activity via contrastive learning](/Papers/PDFs/Ferrante%20et%20al.%20%20-%20Language%20decoding%20from%20human%20brain%20activity%20via%20contrastive%20learning.pdf)
+[PDF file](/Papers/PDFs/Ferrante%20et%20al.%20undefined%20-%20Language%20decoding%20from%20human%20brain%20activity%20via%20contrastive%20learning.pdf)
 
 > [!abstract] Abstract
 > We propose a novel contrastive learning approach to decode brain activity into sentences by mapping fMRI recordings and text embeddings into a shared representational space. Using data from three...

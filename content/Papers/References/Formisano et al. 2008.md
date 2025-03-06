@@ -1,6 +1,6 @@
 ---
 year: 2008
-month: 11
+month: 10
 day: 7
 date: 2008-11-07
 authors:
@@ -31,14 +31,12 @@ dateAdded: "2025-02-21T10:25:10Z"
 dateModified: "2025-02-21T10:25:10Z"
 super_collections:
   - ERQKEKFA
-filename: Formisano et al. 2008
 marker: "[🇿](zotero://select/library/items/P9XJJGR2)"
 ---
 
-> [!title] "Who" Is Saying "What"? Brain-Based Decoding of Human Voice and Speech
+# "Who" Is Saying "What"? Brain-Based Decoding of Human Voice and Speech
 
-> [!example] File
-> [Formisano et al. 2008 - Who Is Saying What Brain-Based Decoding of Human Voice and Speech](/Papers/PDFs/Formisano%20et%20al.%202008%20-%20Who%20Is%20Saying%20What%20Brain-Based%20Decoding%20of%20Human%20Voice%20and%20Speech.pdf)
+[PDF file](/Papers/PDFs/Formisano%20et%20al.%202008undefined%20-%20Who%20Is%20Saying%20What%20Brain-Based%20Decoding%20of%20Human%20Voice%20and%20Speech.pdf)
 
 > [!abstract] Abstract
 > Can we decipher speech content (“what” is being said) and speaker identity (“who” is saying it) from observations of brain activity of a listener? Here, we combine functional magnetic resonance imaging with a data-mining algorithm and retrieve what and whom a person is listening to from the neural fingerprints that speech and voice signals elicit in the listener's auditory cortex. These cortical fingerprints are spatially distributed and insensitive to acoustic variations of the input so as to permit the brain-based recognition of learned speech from unknown speakers and of learned voices from previously unheard utterances. Our findings unravel the detailed cortical layout and computational properties of the neural populations at the basis of human speech recognition and speaker identification.

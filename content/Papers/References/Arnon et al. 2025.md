@@ -1,6 +1,6 @@
 ---
 year: 2025
-month: 2
+month: 1
 day: 7
 date: 2025-02-07
 authors:
@@ -32,14 +32,12 @@ dateAdded: "2025-02-11T04:02:33Z"
 dateModified: "2025-02-11T04:07:39Z"
 super_collections:
   - ERQKEKFA
-filename: Arnon et al. 2025
 marker: "[🇿](zotero://select/library/items/YQLQBU8F)"
 ---
 
-> [!title] Whale song shows language-like statistical structure
+# Whale song shows language-like statistical structure
 
-> [!example] File
-> [Arnon et al. 2025 - Whale song shows language-like statistical structure](/Papers/PDFs/Arnon%20et%20al.%202025%20-%20Whale%20song%20shows%20language-like%20statistical%20structure.pdf)
+[PDF file](/Papers/PDFs/Arnon%20et%20al.%202025undefined%20-%20Whale%20song%20shows%20language-like%20statistical%20structure.pdf)
 
 > [!abstract] Abstract
 > Humpback whale song is a culturally transmitted behavior. Human language, which is also culturally transmitted, has statistically coherent parts whose frequency distribution follows a power law. These properties facilitate learning and may therefore arise because of their contribution to the faithful transmission of language over multiple cultural generations. If so, we would expect to find them in other culturally transmitted systems. In this study, we applied methods based on infant speech segmentation to 8 years of humpback recordings, uncovering in whale song the same statistical structure that is a hallmark of human language. This commonality, in two evolutionarily distant species, points to the role of learning and cultural transmission in the emergence of properties thought to be unique to human language.

@@ -12,3 +12,4 @@ type: TODO
 - Wang NYU (neuro)
 - O'Reilly NYU (neuro)
 - Symbolic Vector Architecure (Elias Smith)
+- Willem Zuidema

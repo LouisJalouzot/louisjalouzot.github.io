@@ -20,14 +20,12 @@ dateAdded: "2025-01-06T14:42:16Z"
 dateModified: "2025-01-06T14:42:34Z"
 super_collections:
   - ERQKEKFA
-filename: Beirlant et al. 1997
 marker: "[🇿](zotero://select/library/items/9X5WQRRZ)"
 ---
 
-> [!title] Nonparametric entropy estimation. An overview
+# Nonparametric entropy estimation. An overview
 
-> [!example] File
-> [Beirlant et al. 1997 - Nonparametric entropy estimation. An overview](/Papers/PDFs/Beirlant%20et%20al.%201997%20-%20Nonparametric%20entropy%20estimation.%20An%20overview.pdf)
+[PDF file](/Papers/PDFs/Beirlant%20et%20al.%201997undefined%20-%20Nonparametric%20entropy%20estimation.%20An%20overview.pdf)
 
 > [!abstract] Abstract
 > We assume that H(f) is well-defined and is finite. The concept of differential entropy was introduced in Shannon’s original paper ([55]). Since then, entropy has been of great theoretical and applied interest. The basic properties ∗This research was supported by the Scientific Exchange Program between the Belgian Academy of Sciences and the Hungarian Academy of Sciences in the field of Mathematical Information Theory, and NATO Research Grant No. CRG 931030.

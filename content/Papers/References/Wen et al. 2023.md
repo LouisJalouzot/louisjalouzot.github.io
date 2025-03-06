@@ -1,6 +1,6 @@
 ---
 year: 2023
-month: 9
+month: 8
 day: 8
 date: 2023-09-08
 authors:
@@ -25,14 +25,12 @@ dateAdded: "2024-10-25T09:30:26Z"
 dateModified: "2024-10-25T09:33:10Z"
 super_collections:
   - ERQKEKFA
-filename: Wen et al. 2023
 marker: "[🇿](zotero://select/library/items/8GW4NVA6)"
 ---
 
-> [!title] One-shot entorhinal maps enable flexible navigation in novel environments
+# One-shot entorhinal maps enable flexible navigation in novel environments
 
-> [!example] File
-> [Wen et al. 2023 - One-shot entorhinal maps enable flexible navigation in novel environments](/Papers/PDFs/Wen%20et%20al.%202023%20-%20One-shot%20entorhinal%20maps%20enable%20flexible%20navigation%20in%20novel%20environments.pdf)
+[PDF file](/Papers/PDFs/Wen%20et%20al.%202023undefined%20-%20One-shot%20entorhinal%20maps%20enable%20flexible%20navigation%20in%20novel%20environments.pdf)
 
 > [!abstract] Abstract
 > Abstract

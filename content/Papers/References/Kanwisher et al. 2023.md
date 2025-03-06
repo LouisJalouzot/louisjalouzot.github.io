@@ -1,6 +1,6 @@
 ---
 year: 2023
-month: 3
+month: 2
 date: 03/2023
 authors:
   - "Kanwisher, Nancy"
@@ -29,14 +29,12 @@ dateAdded: "2024-10-25T09:28:47Z"
 dateModified: "2024-10-25T09:33:28Z"
 super_collections:
   - ERQKEKFA
-filename: Kanwisher et al. 2023
 marker: "[🇿](zotero://select/library/items/KWIT7LAK)"
 ---
 
-> [!title] Using artificial neural networks to ask ‘why’ questions of minds and brains
+# Using artificial neural networks to ask ‘why’ questions of minds and brains
 
-> [!example] File
-> [Kanwisher et al. 2023 - Using artificial neural networks to ask ‘why’ questions of minds and brains](/Papers/PDFs/Kanwisher%20et%20al.%202023%20-%20Using%20artificial%20neural%20networks%20to%20ask%20‘why’%20questions%20of%20minds%20and%20brains.pdf)
+[PDF file](/Papers/PDFs/Kanwisher%20et%20al.%202023undefined%20-%20Using%20artificial%20neural%20networks%20to%20ask%20‘why’%20questions%20of%20minds%20and%20brains.pdf)
 
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Using artificial neural networks to ask ‘why’ questions of minds and brains" by N. Kanwisher et al.

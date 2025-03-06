@@ -1,6 +1,6 @@
 ---
 year: 2023
-month: 12
+month: 11
 day: 19
 date: 19 December 2023
 authors:
@@ -20,14 +20,12 @@ dateAdded: "2024-07-20T19:31:40Z"
 dateModified: "2024-07-20T19:31:44Z"
 super_collections:
   - ERQKEKFA
-filename: Yu and Ananiadou 2023
 marker: "[🇿](zotero://select/library/items/CV763ZVG)"
 ---
 
-> [!title] Neuron-Level Knowledge Attribution in Large Language Models
+# Neuron-Level Knowledge Attribution in Large Language Models
 
-> [!example] File
-> [Yu and Ananiadou 2023 - Neuron-Level Knowledge Attribution in Large Language Models](/Papers/PDFs/Yu%20and%20Ananiadou%202023%20-%20Neuron-Level%20Knowledge%20Attribution%20in%20Large%20Language%20Models.pdf)
+[PDF file](/Papers/PDFs/Yu%20and%20Ananiadou%202023undefined%20-%20Neuron-Level%20Knowledge%20Attribution%20in%20Large%20Language%20Models.pdf)
 
 > [!abstract] Abstract
 > Identifying important neurons for final predictions is essential for understanding the mechanisms of large language models. Due to computational constraints, current attribution techniques struggle to operate at neuron level. In this paper, we propose a static method for pinpointing significant neurons for different outputs. Compared to seven other methods, our approach demonstrates superior performance across three metrics. Additionally, since most static methods typically only identify"value neurons"directly contributing to the final prediction, we introduce a static method for identifying"query neurons"which activate these"value neurons". Finally, we apply our methods to analyze the localization of six distinct types of knowledge across both attention and feed-forward network (FFN) layers. Our method and analysis are helpful for understanding the mechanisms of knowledge storage and set the stage for future research in knowledge editing. We will release our data and code on github.

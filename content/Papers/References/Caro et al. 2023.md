@@ -1,6 +1,6 @@
 ---
 year: 2023
-month: 9
+month: 8
 day: 13
 date: 2023-09-13
 authors:
@@ -36,14 +36,12 @@ dateAdded: "2024-12-13T09:48:39Z"
 dateModified: "2024-12-13T09:48:50Z"
 super_collections:
   - ERQKEKFA
-filename: Caro et al. 2023
 marker: "[🇿](zotero://select/library/items/F8QKN3RM)"
 ---
 
-> [!title] BrainLM: A foundation model for brain activity recordings
+# BrainLM: A foundation model for brain activity recordings
 
-> [!example] File
-> [Caro et al. 2023 - BrainLM A foundation model for brain activity recordings](/Papers/PDFs/Caro%20et%20al.%202023%20-%20BrainLM%20A%20foundation%20model%20for%20brain%20activity%20recordings.pdf)
+[PDF file](/Papers/PDFs/Caro%20et%20al.%202023undefined%20-%20BrainLM%20A%20foundation%20model%20for%20brain%20activity%20recordings.pdf)
 
 > [!abstract] Abstract
 > A
