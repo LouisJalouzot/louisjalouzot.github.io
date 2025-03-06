@@ -4,6 +4,9 @@ Frédérique Alexandre
 Nathanaël Fijalkow
 Mail C/Y/B 
 Mail Nüsse + validation cours
+Leila Webbe
+Toneva?
+Wilhelm Zudema
 > [!PDF|] [modalites_csi, p.7](PhD/CSI/modalites_csi.pdf#page=7&selection=59,0,79,27)
 > > 1. Désignation et composition 
 > > Sauf cas particulier, le comité de suivi individuel de chaque doctorant.e est mis en place lors de la première inscription en doctorant et au plus tard un mois avant la première réunion du comité. + L’école doctorale veille à ce que dans la mesure du possible, la composition du comité de suivi individuel du doctorant reste constante tout au long de son doctorat. * Les membres du comité de suivi individuel sont nommés par l’école doctorale, après avis du directeur ou de la directrice de thèse, en concertation avec le doctorant ou la doctorante. Le cas échéant, le comité de suivi peut être organisé en concertation avec l’employeur afin de mutualiser, si possible, les suivis réalisés par l’employeur et ceux réalisés par l’école doctorale.+ Chaque école doctorale peut
