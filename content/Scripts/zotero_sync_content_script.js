@@ -256,6 +256,8 @@ for (const [key, value] of Object.entries(data)) {
 	}
 }
 
+n += addYamlField('publish', true);
+
 // End frontmatter
 n += '---\n';
 
