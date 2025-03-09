@@ -6,8 +6,8 @@ authors:
   - "Tang, Jerry"
   - "Huth, Alexander G."
 generated: true
-key: 7WLWAA9L
-version: 2268
+key: 8D44NRVB
+version: 2311
 itemType: journalArticle
 paperTitle: Semantic language decoding across participants and stimulus modalities
 publicationTitle: Current Biology
@@ -17,17 +17,12 @@ language: en
 DOI: 10.1016/j.cub.2025.01.024
 ISSN: 09609822
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0960982225000545"
-accessDate: "2025-02-11T04:28:14Z"
+accessDate: "2025-03-05T15:31:30Z"
 libraryCatalog: Semantic Scholar
-deleted: 1
-collections:
-  - ERQKEKFA
-dateAdded: "2025-02-11T04:28:15Z"
-dateModified: "2025-02-11T04:28:57Z"
-super_collections:
-  - ERQKEKFA
+dateAdded: "2025-03-05T15:31:30Z"
+dateModified: "2025-03-05T15:31:30Z"
 filename: Tang and Huth 2025 - Semantic language decoding across participants and stimulus modalities.pdf
-marker: "[🇿](zotero://select/library/items/7WLWAA9L)"
+marker: "[🇿](zotero://select/library/items/8D44NRVB)"
 publish: true
 type: reference
 ---

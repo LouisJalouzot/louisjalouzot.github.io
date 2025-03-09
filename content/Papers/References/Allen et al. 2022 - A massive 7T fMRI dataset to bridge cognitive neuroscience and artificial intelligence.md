@@ -17,8 +17,8 @@ authors:
   - "Naselaris, Thomas"
   - "Kay, Kendrick"
 generated: true
-key: 3PFBSLFM
-version: 1840
+key: SQ956B9V
+version: 2238
 itemType: journalArticle
 paperTitle: A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence
 publicationTitle: Nature Neuroscience
@@ -30,13 +30,17 @@ language: en
 DOI: 10.1038/s41593-021-00962-x
 ISSN: "1097-6256, 1546-1726"
 url: "https://www.nature.com/articles/s41593-021-00962-x"
-accessDate: "2025-02-21T10:32:04Z"
+accessDate: "2024-04-23T10:14:38Z"
 libraryCatalog: Semantic Scholar
-deleted: 1
-dateAdded: "2025-02-21T10:32:04Z"
-dateModified: "2025-02-21T10:32:12Z"
+extra: "TLDR: The Natural Scenes Dataset (NSD), in which high-resolution functional magnetic resonance imaging responses to tens of thousands of richly annotated natural scenes were measured while participants performed a continuous recognition task, is presented."
+collections:
+  - ERQKEKFA
+dateAdded: "2024-04-23T10:14:38Z"
+dateModified: "2025-02-24T22:53:11Z"
+super_collections:
+  - ERQKEKFA
 filename: Allen et al. 2022 - A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence.pdf
-marker: "[🇿](zotero://select/library/items/3PFBSLFM)"
+marker: "[🇿](zotero://select/library/items/SQ956B9V)"
 publish: true
 type: reference
 ---

@@ -1,9 +1,7 @@
 ---
 zoteroTags:
-  - "FOS: Computer and information sciences"
-  - "FOS: Electrical engineering, electronic engineering, information engineering"
-  - Image and Video Processing (eess.IV)
-  - Machine Learning (cs.LG)
+  - Computer Science - Machine Learning
+  - Electrical Engineering and Systems Science - Image and Video Processing
 year: 2024
 date: 2024
 authors:
@@ -11,22 +9,24 @@ authors:
   - "Al-Shikhley, Liza"
   - "Thirion, Bertrand"
 generated: true
-key: RCC3WQM4
-version: 2264
-itemType: conferencePaper
+key: XCISFDD7
+version: 2094
+itemType: bookSection
 paperTitle: Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
-publisher: arXiv
-DOI: 10.48550/ARXIV.2407.12056
-url: "https://arxiv.org/abs/2407.12056"
-accessDate: "2025-01-17T10:12:30Z"
-libraryCatalog: Semantic Scholar
-rights: "arXiv.org perpetual, non-exclusive license"
-extra: "Version Number: 1"
-deleted: 1
-dateAdded: "2025-01-17T10:12:30Z"
-dateModified: "2025-01-17T10:12:57Z"
+volume: 15003
+pages: 35-45
+url: "http://arxiv.org/abs/2407.12056"
+accessDate: "2025-02-25T18:13:46Z"
+libraryCatalog: arXiv.org
+extra: "DOI: 10.1007/978-3-031-72384-1_4 arXiv:2407.12056 [eess]"
+collections:
+  - ERQKEKFA
+dateAdded: "2025-02-25T18:13:46Z"
+dateModified: "2025-02-25T18:13:48Z"
+super_collections:
+  - ERQKEKFA
 filename: Aggarwal et al. 2024 - Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding.pdf
-marker: "[🇿](zotero://select/library/items/RCC3WQM4)"
+marker: "[🇿](zotero://select/library/items/XCISFDD7)"
 publish: true
 type: reference
 ---
