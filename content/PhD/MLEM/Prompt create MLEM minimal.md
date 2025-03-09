@@ -37,9 +37,14 @@ Distances should be min-max scaled.
 
 ## mlem
 From the arrays *features_pdist* and *repr_pdist*, serialize them into arrays of dimension $p$ and $p,F$ where $p$ is the number of pairs.
-Use cross-validation, it should be possible to specify the number of folds.
+Then fit a Frac Ridge to predict *repr_pdist* from *features_pdist*.
+Then use Permutation Feature Importance to compute the importance of each feature in the prediction with respect to the Spearman correlation. It should be possible to specify the number of permutations (50 by defaults).
+Train and test splits should be determined through cross-validation, it should be possible to specify the number of folds (2 by defaults).
+Compute the significance of each Feature Importance and add FDR correction.
+Output the results in a pandas dataframe with meaningful columns. The user should have the possibility or not to give its *features* dataframe to this functions to have feature names in the output.
+Have a randomness seed for reproducability.
 
-# Constraints
+# Constraints 
 Have multiple levels of verbose available in the functions.
 Write simple, short, elegant and efficient code.
 Write complete documentation with NumPy style docstrings.
