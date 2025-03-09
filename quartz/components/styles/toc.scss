@@ -6,8 +6,14 @@
 
   overflow-y: hidden;
   flex: 0 1 auto;
-  &:has(button#toc.collapsed) {
+  &:has(button.toc-header.collapsed) {
     flex: 0 1 1.2rem;
+  }
+}
+
+@media all and not ($mobile) {
+  .toc-header {
+    display: flex;
   }
 }
 
@@ -38,7 +44,7 @@ button.toc-header {
   }
 }
 
-ul.toc-content.overflow {
+.toc-content {
   list-style: none;
   position: relative;
 

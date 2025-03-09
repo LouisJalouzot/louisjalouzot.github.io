@@ -69,8 +69,7 @@ export default ((opts?: Partial<Options>) => {
     <div class={classNames(displayClass, "toc")}>
       <button
         type="button"
-        id="toc"
-        class={fileData.collapseToc ? "collapsed" : ""}
+        class={fileData.collapseToc ? "collapsed toc-header" : "toc-header"}
         aria-controls="toc-content"
         aria-expanded={!fileData.collapseToc}
       >
@@ -90,7 +89,7 @@ export default ((opts?: Partial<Options>) => {
           <polyline points="6 9 12 15 18 9"></polyline>
         </svg>
       </button>
-      <div id="toc-content" class={fileData.collapseToc ? "collapsed" : ""}>
+      <div class={fileData.collapseToc ? "collapsed toc-content" : "toc-content"}>
         <OverflowList id="toc-ul">
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
@@ -111,7 +110,24 @@ const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzCompone
   if (!fileData.toc) {
     return null
   }
-  LegacyTableOfContents.css = legacyStyle
+  return (
+    <details class="toc" open={!fileData.collapseToc}>
+      <summary>
+        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+      </summary>
+      <ul>
+        {fileData.toc.map((tocEntry) => (
+          <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
+            <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+              {tocEntry.text}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </details>
+  )
+}
+LegacyTableOfContents.css = legacyStyle
 
   return layout === "modern" ? TableOfContents : LegacyTableOfContents
 }) satisfies QuartzComponentConstructor
