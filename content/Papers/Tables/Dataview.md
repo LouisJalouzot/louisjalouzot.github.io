@@ -1,6 +1,8 @@
 ---
 tags:
   - dataview
+cssclasses:
+  - cards
 ---
 # Test
 ```dataview
