@@ -1,3 +1,6 @@
+if (data.deleted && data.deleted === 1) {
+    return ""
+}
 let fp = '';
 if (data.creators && data.creators.length > 0) {
     fp += data.creators[0]?.lastName;

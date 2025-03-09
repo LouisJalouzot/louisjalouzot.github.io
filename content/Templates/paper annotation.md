@@ -1,11 +1,11 @@
 <%*
-if (app.vault.getAbstractFileByPath(`Annotations/${tp.file.title} Annotation.md`)) {
+if (app.vault.getAbstractFileByPath(`Papers/Notes/${tp.file.title}.md`)) {
   return;
 }
 
 let pdfLink = "";
 if (tp.frontmatter?.filename) {
-    const pdfPath = `Papers/PDFs/${tp.file.title} - ${tp.frontmatter.filename}.pdf`;
+    const pdfPath = `Papers/PDFs/${tp.file.title}.pdf`;
     if (app.vault.getAbstractFileByPath(pdfPath)) {
         const encodedPath = pdfPath.replace(/ /g, "%20");
         pdfLink = `[${pdfPath}](${encodedPath})`;
@@ -25,7 +25,7 @@ tags:
 **Year:** <% tp.frontmatter.year || "" %>
 **DOI:** <% tp.frontmatter.DOI || "" %>
 **URL:** <% tp.frontmatter.url || "" %>
-**PDF:** 
+**PDF:** <% tR += pdfLink %>
 <%*
 //This empty inline script block is needed because the template must return a string, and the frontmatter does this.
 %>
