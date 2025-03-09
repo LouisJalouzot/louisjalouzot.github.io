@@ -25,12 +25,12 @@ function toggleToc(this: HTMLElement) {
 }
 
 function setupToc() {
-  for (const toc of document.getElementsByClassName("toc")) {
-    const button = toc.querySelector(".toc-header")
-    const content = toc.querySelector(".toc-content")
-    if (!button || !content) return
-    button.addEventListener("click", toggleToc)
-    window.addCleanup(() => button.removeEventListener("click", toggleToc))
+  const toc = document.getElementById("toc")
+  if (toc) {
+    const content = toc.nextElementSibling as HTMLElement | undefined
+    if (!content) return
+    toc.addEventListener("click", toggleToc)
+    window.addCleanup(() => toc.removeEventListener("click", toggleToc))
   }
 }
 

@@ -5,27 +5,18 @@ const OverflowList = ({
   ...props
 }: JSX.HTMLAttributes<HTMLUListElement> & { id: string }) => {
   return (
-    <ul {...props} class={[props.class, "overflow"].filter(Boolean).join(" ")} id={props.id}>
+    <ul class="overflow" {...props}>
       {children}
       <li class="overflow-end" />
     </ul>
   )
 }
 
-let numExplorers = 0
-export default () => {
-  const id = `list-${numExplorers++}`
-
-  return {
-    OverflowList: (props: JSX.HTMLAttributes<HTMLUListElement>) => (
-      <OverflowList {...props} id={id} />
-    ),
-    overflowListAfterDOMLoaded: `
+OverflowList.afterDOMLoaded = (id: string) => `
 document.addEventListener("nav", (e) => {
   const observer = new IntersectionObserver((entries) => {
     for (const entry of entries) {
       const parentUl = entry.target.parentElement
-      if (!parentUl) return
       if (entry.isIntersecting) {
         parentUl.classList.remove("gradient-active")
       } else {
@@ -43,6 +34,6 @@ document.addEventListener("nav", (e) => {
   observer.observe(end)
   window.addCleanup(() => observer.disconnect())
 })
-`,
-  }
-}
+`
+
+export default OverflowList

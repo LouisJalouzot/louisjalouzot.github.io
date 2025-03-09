@@ -6,8 +6,7 @@ import { classNames } from "../util/lang"
 // @ts-ignore
 import script from "./scripts/toc.inline"
 import { i18n } from "../i18n"
-import OverflowListFactory from "./OverflowList"
-import { concatenateResources } from "../util/resources"
+import OverflowList from "./OverflowList"
 
 interface Options {
   layout: "modern" | "legacy"
@@ -66,19 +65,33 @@ export default ((opts?: Partial<Options>) => {
     )
   }
 
-  TableOfContents.css = modernStyle
-  TableOfContents.afterDOMLoaded = concatenateResources(script, overflowListAfterDOMLoaded)
-
-  const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
-    if (!fileData.toc) {
-      return null
-    }
-    return (
-      <details class="toc" open={!fileData.collapseToc}>
-        <summary>
-          <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
-        </summary>
-        <ul>
+  return (
+    <div class={classNames(displayClass, "toc")}>
+      <button
+        type="button"
+        id="toc"
+        class={fileData.collapseToc ? "collapsed" : ""}
+        aria-controls="toc-content"
+        aria-expanded={!fileData.collapseToc}
+      >
+        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="fold"
+        >
+          <polyline points="6 9 12 15 18 9"></polyline>
+        </svg>
+      </button>
+      <div id="toc-content" class={fileData.collapseToc ? "collapsed" : ""}>
+        <OverflowList id="toc-ul">
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
               <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
@@ -86,9 +99,17 @@ export default ((opts?: Partial<Options>) => {
               </a>
             </li>
           ))}
-        </ul>
-      </details>
-    )
+        </OverflowList>
+      </div>
+    </div>
+  )
+}
+TableOfContents.css = modernStyle
+TableOfContents.afterDOMLoaded = script + OverflowList.afterDOMLoaded("toc-ul")
+
+const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
+  if (!fileData.toc) {
+    return null
   }
   LegacyTableOfContents.css = legacyStyle
 

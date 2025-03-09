@@ -6,8 +6,7 @@ import script from "./scripts/explorer.inline"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { FileTrieNode } from "../util/fileTrie"
-import OverflowListFactory from "./OverflowList"
-import { concatenateResources } from "../util/resources"
+import OverflowList from "./OverflowList"
 
 type OrderEntries = "sort" | "filter" | "map"
 
@@ -24,7 +23,7 @@ export interface Options {
 
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   useSavedState: true,
   mapFn: (node) => {
     return node
@@ -75,7 +74,8 @@ export default ((userOpts?: Partial<Options>) => {
       >
         <button
           type="button"
-          class="explorer-toggle mobile-explorer hide-until-loaded"
+          id="mobile-explorer"
+          class="explorer-toggle hide-until-loaded"
           data-mobile={true}
           aria-controls="explorer-content"
         >
@@ -96,7 +96,8 @@ export default ((userOpts?: Partial<Options>) => {
         </button>
         <button
           type="button"
-          class="title-button explorer-toggle desktop-explorer"
+          id="desktop-explorer"
+          class="title-button explorer-toggle"
           data-mobile={false}
           aria-expanded={true}
         >
@@ -116,8 +117,8 @@ export default ((userOpts?: Partial<Options>) => {
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
         </button>
-        <div class="explorer-content" aria-expanded={false}>
-          <OverflowList class="explorer-ul" />
+        <div id="explorer-content" aria-expanded={false}>
+          <OverflowList id="explorer-ul" />
         </div>
         <template id="template-file">
           <li>
@@ -157,6 +158,6 @@ export default ((userOpts?: Partial<Options>) => {
   }
 
   Explorer.css = style
-  Explorer.afterDOMLoaded = concatenateResources(script, overflowListAfterDOMLoaded)
+  Explorer.afterDOMLoaded = script + OverflowList.afterDOMLoaded("explorer-ul")
   return Explorer
 }) satisfies QuartzComponentConstructor

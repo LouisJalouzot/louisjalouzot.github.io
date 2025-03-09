@@ -3,7 +3,7 @@ import style from "./styles/backlinks.scss"
 import { resolveRelative, simplifySlug } from "../util/path"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
-import OverflowListFactory from "./OverflowList"
+import OverflowList from "./OverflowList"
 
 interface BacklinksOptions {
   hideWhenEmpty: boolean
@@ -31,7 +31,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
     return (
       <div class={classNames(displayClass, "backlinks")}>
         <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
-        <OverflowList>
+        <OverflowList id="backlinks-ul">
           {backlinkFiles.length > 0 ? (
             backlinkFiles.map((f) => (
               <li>
@@ -49,7 +49,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   }
 
   Backlinks.css = style
-  Backlinks.afterDOMLoaded = overflowListAfterDOMLoaded
+  Backlinks.afterDOMLoaded = OverflowList.afterDOMLoaded("backlinks-ul")
 
   return Backlinks
 }) satisfies QuartzComponentConstructor
