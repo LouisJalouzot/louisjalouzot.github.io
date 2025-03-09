@@ -26,6 +26,7 @@ super_collections:
 filename: "Caucheteux and King 2020 - Language processing in brains and deep neural networks: computational convergence and its limits.pdf"
 marker: "[🇿](zotero://select/library/items/HHCY9ET9)"
 publish: true
+type: reference
 ---
 # Language processing in brains and deep neural networks: computational convergence and its limits
 

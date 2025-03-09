@@ -32,6 +32,7 @@ super_collections:
 filename: Stephens et al. 2010 - Speaker–listener neural coupling underlies successful communication.pdf
 marker: "[🇿](zotero://select/library/items/PNZC8U3C)"
 publish: true
+type: reference
 ---
 # Speaker–listener neural coupling underlies successful communication
 

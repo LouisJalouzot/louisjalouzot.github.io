@@ -36,6 +36,7 @@ super_collections:
 filename: Thual et al. 2023 - Aligning brain functions boosts the decoding of visual semantics in novel subjects.pdf
 marker: "[🇿](zotero://select/library/items/DPTETKWX)"
 publish: true
+type: reference
 ---
 # Aligning brain functions boosts the decoding of visual semantics in novel subjects
 

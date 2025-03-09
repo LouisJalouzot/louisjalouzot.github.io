@@ -27,6 +27,7 @@ super_collections:
 filename: "Davidoff 2020 - Agency and Accountability: Ethical Considerations for Brain-Computer Interfaces.pdf"
 marker: "[🇿](zotero://select/library/items/T2GWVA8T)"
 publish: true
+type: reference
 ---
 # Agency and Accountability: Ethical Considerations for Brain-Computer Interfaces
 

@@ -35,6 +35,7 @@ super_collections:
 filename: "Wong et al. 2023 - From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought.pdf"
 marker: "[🇿](zotero://select/library/items/BQIRBM8K)"
 publish: true
+type: reference
 ---
 # From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought
 

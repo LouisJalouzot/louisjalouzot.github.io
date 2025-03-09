@@ -30,6 +30,7 @@ super_collections:
 filename: Li et al. 2020 - On the Sentence Embeddings from Pre-trained Language Models.pdf
 marker: "[🇿](zotero://select/library/items/4GQBS92P)"
 publish: true
+type: reference
 ---
 # On the Sentence Embeddings from Pre-trained Language Models
 

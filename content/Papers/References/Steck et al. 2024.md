@@ -29,6 +29,7 @@ super_collections:
 filename: "Steck et al. 2024 - Is Cosine-Similarity of Embeddings Really About Similarity?.pdf"
 marker: "[🇿](zotero://select/library/items/QRVNHW59)"
 publish: true
+type: reference
 ---
 # Is Cosine-Similarity of Embeddings Really About Similarity?
 

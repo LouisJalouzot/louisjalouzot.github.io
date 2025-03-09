@@ -32,6 +32,7 @@ super_collections:
 filename: Cui et al. 2024 - A phase transition between positional and semantic learning in a solvable model of dot-product attention.pdf
 marker: "[🇿](zotero://select/library/items/A7WZDSQ3)"
 publish: true
+type: reference
 ---
 # A phase transition between positional and semantic learning in a solvable model of dot-product attention
 

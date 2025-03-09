@@ -26,6 +26,7 @@ super_collections:
 filename: Yu et al. 2024 - The Super Weight in Large Language Models.pdf
 marker: "[🇿](zotero://select/library/items/BDZMN7S2)"
 publish: true
+type: reference
 ---
 # The Super Weight in Large Language Models
 

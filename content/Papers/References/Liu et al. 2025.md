@@ -37,6 +37,7 @@ super_collections:
 filename: Liu et al. 2025 - Recurrent neural networks with transient trajectory explain working memory encoding mechanisms.pdf
 marker: "[🇿](zotero://select/library/items/C23MG55V)"
 publish: true
+type: reference
 ---
 # Recurrent neural networks with transient trajectory explain working memory encoding mechanisms
 

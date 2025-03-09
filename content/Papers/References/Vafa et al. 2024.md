@@ -31,6 +31,7 @@ super_collections:
 filename: Vafa et al. 2024 - Evaluating the World Model Implicit in a Generative Model.pdf
 marker: "[🇿](zotero://select/library/items/Y6682U4Q)"
 publish: true
+type: reference
 ---
 # Evaluating the World Model Implicit in a Generative Model
 

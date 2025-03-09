@@ -25,6 +25,7 @@ super_collections:
 filename: Ganea et al. 2018 - Hyperbolic Entailment Cones for Learning Hierarchical Embeddings.pdf
 marker: "[🇿](zotero://select/library/items/WS6SP3EY)"
 publish: true
+type: reference
 ---
 # Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
 

@@ -27,6 +27,7 @@ super_collections:
 filename: "Nikankin et al. 2024 - Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics.pdf"
 marker: "[🇿](zotero://select/library/items/JXZ7LLZ2)"
 publish: true
+type: reference
 ---
 # Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics
 

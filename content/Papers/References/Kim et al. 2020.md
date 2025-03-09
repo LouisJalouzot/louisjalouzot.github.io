@@ -27,6 +27,7 @@ super_collections:
 filename: "Kim et al. 2020 - MixCo: Mix-up Contrastive Learning for Visual Representation.pdf"
 marker: "[🇿](zotero://select/library/items/J4DHR4LD)"
 publish: true
+type: reference
 ---
 # MixCo: Mix-up Contrastive Learning for Visual Representation
 

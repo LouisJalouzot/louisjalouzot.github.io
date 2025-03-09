@@ -28,6 +28,7 @@ super_collections:
 filename: Wang and Ding 2019 - Fast Approximation of Empirical Entropy via Subsampling.pdf
 marker: "[🇿](zotero://select/library/items/JTLYJTBT)"
 publish: true
+type: reference
 ---
 # Fast Approximation of Empirical Entropy via Subsampling
 

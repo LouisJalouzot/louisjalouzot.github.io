@@ -33,6 +33,7 @@ super_collections:
 filename: "Guger et al. 2013 - Brain-Computer Interface Research: A State-of-the-Art Summary.pdf"
 marker: "[🇿](zotero://select/library/items/ETI7CYWC)"
 publish: true
+type: reference
 ---
 # Brain-Computer Interface Research: A State-of-the-Art Summary
 

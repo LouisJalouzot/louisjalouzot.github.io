@@ -28,6 +28,7 @@ super_collections:
 filename: ElGazzar et al. 2022 - Benchmarking Graph Neural Networks for FMRI analysis.pdf
 marker: "[🇿](zotero://select/library/items/RQAHHLG3)"
 publish: true
+type: reference
 ---
 # Benchmarking Graph Neural Networks for FMRI analysis
 

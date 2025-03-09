@@ -29,6 +29,7 @@ super_collections:
 filename: Fried 2022 - Neurons as will and representation.pdf
 marker: "[🇿](zotero://select/library/items/QJYCCEBL)"
 publish: true
+type: reference
 ---
 # Neurons as will and representation
 

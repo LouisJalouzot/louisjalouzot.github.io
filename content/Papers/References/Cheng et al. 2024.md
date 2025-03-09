@@ -28,6 +28,7 @@ super_collections:
 filename: Cheng et al. 2024 - Emergence of a High-Dimensional Abstraction Phase in Language Transformers.pdf
 marker: "[🇿](zotero://select/library/items/46N67X87)"
 publish: true
+type: reference
 ---
 # Emergence of a High-Dimensional Abstraction Phase in Language Transformers
 

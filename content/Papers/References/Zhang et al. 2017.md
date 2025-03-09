@@ -27,6 +27,7 @@ super_collections:
 filename: "Zhang et al. 2017 - mixup: Beyond Empirical Risk Minimization.pdf"
 marker: "[🇿](zotero://select/library/items/GESXSKWB)"
 publish: true
+type: reference
 ---
 # mixup: Beyond Empirical Risk Minimization
 

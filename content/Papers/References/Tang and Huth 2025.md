@@ -29,6 +29,7 @@ super_collections:
 filename: Tang and Huth 2025 - Semantic language decoding across participants and stimulus modalities.pdf
 marker: "[🇿](zotero://select/library/items/7WLWAA9L)"
 publish: true
+type: reference
 ---
 # Semantic language decoding across participants and stimulus modalities
 

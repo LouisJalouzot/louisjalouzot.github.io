@@ -32,6 +32,7 @@ super_collections:
 filename: Pei et al. 2011 - Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans.pdf
 marker: "[🇿](zotero://select/library/items/HGXFVA6J)"
 publish: true
+type: reference
 ---
 # Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans
 

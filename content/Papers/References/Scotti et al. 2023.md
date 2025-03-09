@@ -41,6 +41,7 @@ super_collections:
 filename: "Scotti et al. 2023 - Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors.pdf"
 marker: "[🇿](zotero://select/library/items/7EABSVPU)"
 publish: true
+type: reference
 ---
 # Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors
 

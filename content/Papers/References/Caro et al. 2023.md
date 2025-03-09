@@ -39,6 +39,7 @@ super_collections:
 filename: "Caro et al. 2023 - BrainLM: A foundation model for brain activity recordings.pdf"
 marker: "[🇿](zotero://select/library/items/F8QKN3RM)"
 publish: true
+type: reference
 ---
 # BrainLM: A foundation model for brain activity recordings
 

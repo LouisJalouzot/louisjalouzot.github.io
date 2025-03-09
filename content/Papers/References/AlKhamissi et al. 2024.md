@@ -31,6 +31,7 @@ super_collections:
 filename: "AlKhamissi et al. 2024 - The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units.pdf"
 marker: "[🇿](zotero://select/library/items/FECSHITT)"
 publish: true
+type: reference
 ---
 # The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units
 

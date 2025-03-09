@@ -27,6 +27,7 @@ super_collections:
 filename: Zekri et al. 2024 - Large Language Models as Markov Chains.pdf
 marker: "[🇿](zotero://select/library/items/PTJRG99N)"
 publish: true
+type: reference
 ---
 # Large Language Models as Markov Chains
 

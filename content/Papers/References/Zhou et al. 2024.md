@@ -32,6 +32,7 @@ super_collections:
 filename: Zhou et al. 2024 - Larger and more instructable language models become less reliable.pdf
 marker: "[🇿](zotero://select/library/items/P5GZ5GQB)"
 publish: true
+type: reference
 ---
 # Larger and more instructable language models become less reliable
 

@@ -28,6 +28,7 @@ super_collections:
 filename: Huang et al. 2023 - Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for Brain Functional Data.pdf
 marker: "[🇿](zotero://select/library/items/C3HL472K)"
 publish: true
+type: reference
 ---
 # Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for Brain Functional Data
 

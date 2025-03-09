@@ -28,6 +28,7 @@ super_collections:
 filename: Jiang et al. 2024 - Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI.pdf
 marker: "[🇿](zotero://select/library/items/J3XBJDGC)"
 publish: true
+type: reference
 ---
 # Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
 

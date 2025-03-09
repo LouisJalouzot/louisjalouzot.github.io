@@ -33,6 +33,7 @@ super_collections:
 filename: "Kahl et al. 2021 - BirdNET: A deep learning solution for avian diversity monitoring.pdf"
 marker: "[🇿](zotero://select/library/items/H7RU37G6)"
 publish: true
+type: reference
 ---
 # BirdNET: A deep learning solution for avian diversity monitoring
 

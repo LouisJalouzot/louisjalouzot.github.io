@@ -64,6 +64,7 @@ super_collections:
 filename: Luo et al. 2024 - Large language models surpass human experts in predicting neuroscience results.pdf
 marker: "[🇿](zotero://select/library/items/IKKP95E9)"
 publish: true
+type: reference
 ---
 # Large language models surpass human experts in predicting neuroscience results
 

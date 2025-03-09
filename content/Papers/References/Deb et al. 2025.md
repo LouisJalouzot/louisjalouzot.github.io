@@ -25,6 +25,7 @@ super_collections:
 filename: "Deb et al. 2025 - TopoNets: High Performing Vision and Language Models with Brain-Like Topography.pdf"
 marker: "[🇿](zotero://select/library/items/FD32QV3C)"
 publish: true
+type: reference
 ---
 # TopoNets: High Performing Vision and Language Models with Brain-Like Topography
 

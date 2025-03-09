@@ -1,4 +1,5 @@
 ---
 createdDate: <% tp.date.now("YYYY-MM-DD") %>
-publish: false
+publish: true
+tags:
 ---

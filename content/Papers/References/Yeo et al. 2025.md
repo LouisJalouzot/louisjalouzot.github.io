@@ -26,6 +26,7 @@ super_collections:
 filename: Yeo et al. 2025 - Demystifying Long Chain-of-Thought Reasoning in LLMs.pdf
 marker: "[🇿](zotero://select/library/items/HUUULNJC)"
 publish: true
+type: reference
 ---
 # Demystifying Long Chain-of-Thought Reasoning in LLMs
 

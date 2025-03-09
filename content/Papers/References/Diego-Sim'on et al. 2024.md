@@ -26,6 +26,7 @@ super_collections:
 filename: Diego-Sim'on et al. 2024 - A polar coordinate system represents syntax in large language models.pdf
 marker: "[🇿](zotero://select/library/items/8KCBEQKX)"
 publish: true
+type: reference
 ---
 # A polar coordinate system represents syntax in large language models
 

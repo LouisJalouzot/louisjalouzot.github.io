@@ -38,6 +38,7 @@ dateModified: "2025-02-21T10:32:12Z"
 filename: Allen et al. 2022 - A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence.pdf
 marker: "[🇿](zotero://select/library/items/3PFBSLFM)"
 publish: true
+type: reference
 ---
 # A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence
 

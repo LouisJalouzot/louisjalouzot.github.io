@@ -30,6 +30,7 @@ super_collections:
 filename: "Hoyos-Idrobo 2020 - Aligning Hyperbolic Representations: an Optimal Transport-based approach.pdf"
 marker: "[🇿](zotero://select/library/items/WRL7QLC3)"
 publish: true
+type: reference
 ---
 # Aligning Hyperbolic Representations: an Optimal Transport-based approach
 

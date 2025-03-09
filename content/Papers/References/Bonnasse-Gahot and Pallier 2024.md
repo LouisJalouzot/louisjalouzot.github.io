@@ -30,6 +30,7 @@ super_collections:
 filename: Bonnasse-Gahot and Pallier 2024 - fMRI predictors based on language models of increasing complexity recover brain left lateralization.pdf
 marker: "[🇿](zotero://select/library/items/LNPD8AKV)"
 publish: true
+type: reference
 ---
 # fMRI predictors based on language models of increasing complexity recover brain left lateralization
 

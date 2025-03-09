@@ -34,6 +34,7 @@ super_collections:
 filename: Défossez et al. 2023 - Decoding speech perception from non-invasive brain recordings.pdf
 marker: "[🇿](zotero://select/library/items/ZZIUBXYQ)"
 publish: true
+type: reference
 ---
 # Decoding speech perception from non-invasive brain recordings
 

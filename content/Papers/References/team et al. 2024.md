@@ -43,6 +43,7 @@ super_collections:
 filename: "team et al. 2024 - Large Concept Models: Language Modeling in a Sentence Representation Space.pdf"
 marker: "[🇿](zotero://select/library/items/APTYULG7)"
 publish: true
+type: reference
 ---
 # Large Concept Models: Language Modeling in a Sentence Representation Space
 

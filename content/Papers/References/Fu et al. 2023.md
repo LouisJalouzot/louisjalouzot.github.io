@@ -29,6 +29,7 @@ super_collections:
 filename: Fu et al. 2023 - Truncated Laplace and Gaussian mechanisms of RDP.pdf
 marker: "[🇿](zotero://select/library/items/IIJ9Z8I3)"
 publish: true
+type: reference
 ---
 # Truncated Laplace and Gaussian mechanisms of RDP
 

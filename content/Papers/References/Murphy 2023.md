@@ -29,6 +29,7 @@ super_collections:
 filename: "Murphy 2023 - ROSE: A Neurocomputational Architecture for Syntax.pdf"
 marker: "[🇿](zotero://select/library/items/8AYGXYD6)"
 publish: true
+type: reference
 ---
 # ROSE: A Neurocomputational Architecture for Syntax
 

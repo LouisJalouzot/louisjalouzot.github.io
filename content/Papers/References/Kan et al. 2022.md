@@ -38,6 +38,7 @@ super_collections:
 filename: "Kan et al. 2022 - FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation.pdf"
 marker: "[🇿](zotero://select/library/items/4AXGPNVM)"
 publish: true
+type: reference
 ---
 # FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation
 

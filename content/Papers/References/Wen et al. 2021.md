@@ -36,6 +36,7 @@ super_collections:
 filename: "Wen et al. 2021 - Time Series Data Augmentation for Deep Learning: A Survey.pdf"
 marker: "[🇿](zotero://select/library/items/P34DV656)"
 publish: true
+type: reference
 ---
 # Time Series Data Augmentation for Deep Learning: A Survey
 

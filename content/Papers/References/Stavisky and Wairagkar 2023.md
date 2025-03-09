@@ -36,6 +36,7 @@ super_collections:
 filename: Stavisky and Wairagkar 2023 - Listening in to perceived speech with contrastive learning.pdf
 marker: "[🇿](zotero://select/library/items/LVLH4ZFT)"
 publish: true
+type: reference
 ---
 # Listening in to perceived speech with contrastive learning
 

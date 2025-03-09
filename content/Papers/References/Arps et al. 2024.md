@@ -31,6 +31,7 @@ super_collections:
 filename: "Arps et al. 2024 - Multilingual Nonce Dependency Treebanks: Understanding how Language Models Represent and Process Syntactic Structure.pdf"
 marker: "[🇿](zotero://select/library/items/DPU8R27A)"
 publish: true
+type: reference
 ---
 # Multilingual Nonce Dependency Treebanks: Understanding how Language Models Represent and Process Syntactic Structure
 

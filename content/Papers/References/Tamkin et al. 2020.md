@@ -26,6 +26,7 @@ super_collections:
 filename: "Tamkin et al. 2020 - Language Through a Prism: A Spectral Approach for Multiscale Language Representations.pdf"
 marker: "[🇿](zotero://select/library/items/B2Z3KF8S)"
 publish: true
+type: reference
 ---
 # Language Through a Prism: A Spectral Approach for Multiscale Language Representations
 

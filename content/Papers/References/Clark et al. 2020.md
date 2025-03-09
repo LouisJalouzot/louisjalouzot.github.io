@@ -31,6 +31,7 @@ super_collections:
 filename: Clark et al. 2020 - Transformers as Soft Reasoners over Language.pdf
 marker: "[🇿](zotero://select/library/items/M6KA2FGG)"
 publish: true
+type: reference
 ---
 # Transformers as Soft Reasoners over Language
 

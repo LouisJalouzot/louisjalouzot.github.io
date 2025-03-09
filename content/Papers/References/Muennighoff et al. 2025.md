@@ -37,6 +37,7 @@ super_collections:
 filename: "Muennighoff et al. 2025 - s1: Simple test-time scaling.pdf"
 marker: "[🇿](zotero://select/library/items/DY2U3AS9)"
 publish: true
+type: reference
 ---
 # s1: Simple test-time scaling
 

@@ -35,6 +35,7 @@ super_collections:
 filename: Schoffelen et al. 2019 - A 204-subject multimodal neuroimaging dataset to study language processing.pdf
 marker: "[🇿](zotero://select/library/items/TM6CFT54)"
 publish: true
+type: reference
 ---
 # A 204-subject multimodal neuroimaging dataset to study language processing
 

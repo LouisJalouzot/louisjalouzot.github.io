@@ -23,6 +23,7 @@ super_collections:
 filename: Beirlant et al. 1997 - Nonparametric entropy estimation. An overview.pdf
 marker: "[🇿](zotero://select/library/items/9X5WQRRZ)"
 publish: true
+type: reference
 ---
 # Nonparametric entropy estimation. An overview
 

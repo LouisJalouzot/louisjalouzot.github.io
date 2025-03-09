@@ -29,6 +29,7 @@ super_collections:
 filename: Huang et al. 2021 - Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models.pdf
 marker: "[🇿](zotero://select/library/items/K5B83Q74)"
 publish: true
+type: reference
 ---
 # Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models
 

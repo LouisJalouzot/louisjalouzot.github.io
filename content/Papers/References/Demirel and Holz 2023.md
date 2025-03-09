@@ -31,6 +31,7 @@ super_collections:
 filename: "Demirel and Holz 2023 - Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning.pdf"
 marker: "[🇿](zotero://select/library/items/CE8E3RN6)"
 publish: true
+type: reference
 ---
 # Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning
 

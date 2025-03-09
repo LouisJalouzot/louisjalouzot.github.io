@@ -36,6 +36,7 @@ super_collections:
 filename: "Sablé-Meyer et al. 2021 - Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity.pdf"
 marker: "[🇿](zotero://select/library/items/NSNU2GIC)"
 publish: true
+type: reference
 ---
 # Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity
 

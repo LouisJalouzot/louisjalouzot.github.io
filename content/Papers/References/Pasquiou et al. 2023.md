@@ -31,6 +31,7 @@ super_collections:
 filename: "Pasquiou et al. 2023 - Information-Restricted Neural Language Models Reveal Different Brain Regions' Sensitivity to Semantics, Syntax and Context.pdf"
 marker: "[🇿](zotero://select/library/items/VDY3TIK9)"
 publish: true
+type: reference
 ---
 # Information-Restricted Neural Language Models Reveal Different Brain Regions' Sensitivity to Semantics, Syntax and Context
 

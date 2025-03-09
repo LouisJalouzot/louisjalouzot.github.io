@@ -25,6 +25,7 @@ super_collections:
 filename: Weiss et al. 2021 - Thinking Like Transformers.pdf
 marker: "[🇿](zotero://select/library/items/XHHR63WF)"
 publish: true
+type: reference
 ---
 # Thinking Like Transformers
 

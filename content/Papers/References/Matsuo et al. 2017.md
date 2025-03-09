@@ -27,6 +27,7 @@ super_collections:
 filename: Matsuo et al. 2017 - Transform invariant auto-encoder.pdf
 marker: "[🇿](zotero://select/library/items/6HLRPZAB)"
 publish: true
+type: reference
 ---
 # Transform invariant auto-encoder
 

@@ -26,6 +26,7 @@ super_collections:
 filename: Smolensky et al. 2024 - Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks.pdf
 marker: "[🇿](zotero://select/library/items/U52Z33TJ)"
 publish: true
+type: reference
 ---
 # Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks
 

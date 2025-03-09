@@ -31,6 +31,7 @@ super_collections:
 filename: "Kaniuth and Hebart 2022 - Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior.pdf"
 marker: "[🇿](zotero://select/library/items/ZX9Y487G)"
 publish: true
+type: reference
 ---
 # Feature-reweighted representational similarity analysis: A method for improving the fit between computational models, brains, and behavior
 
