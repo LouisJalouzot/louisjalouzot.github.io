@@ -32,7 +32,7 @@ const processReferences = async (params) => {
 
             // Create annotation file if it doesn't exist
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
-                const annotationContent = `---
+                let annotationContent = `---
 publish: true
 status: to read
 project:
@@ -43,10 +43,18 @@ tags:
 
 **Authors:** ${frontmatter.authors || "Unknown"}
 **Year:** ${frontmatter.year || ""}
-**DOI:** ${frontmatter.DOI || ""}
-**URL:** ${frontmatter.url || ""}
-**PDF:** [${file.basename}](Papers/PDFs/${frontmatter.filename?.replace(/ /g, '%20') || ""})
 `;
+
+                if (frontmatter.DOI) {
+                    annotationContent += `**DOI:** ${frontmatter.DOI}\n`;
+                }
+
+                if (frontmatter.url) {
+                    annotationContent += `**URL:** ${frontmatter.url}\n`;
+                }
+
+                annotationContent += `**PDF:** [${file.basename}](Papers/PDFs/${frontmatter.filename?.replace(/ /g, '%20') || ""})`;
+
                 await app.vault.create(annotationPath, annotationContent);
                 new Notice(`Created: ${annotationPath}`);
             }
