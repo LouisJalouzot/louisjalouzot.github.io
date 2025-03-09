@@ -147,7 +147,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
-  const sidebar = container.closest(".sidebar") as HTMLElement | null
+  const sidebar = container.closest(".sidebar") as HTMLElement
+  if (!sidebar) return
 
   const searchButton = searchElement.querySelector(".search-button") as HTMLButtonElement
   if (!searchButton) return
@@ -179,7 +180,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   function hideSearch() {
     container.classList.remove("active")
     searchBar.value = "" // clear the input when we dismiss the search
-    if (sidebar) sidebar.style.zIndex = ""
+    sidebar.style.zIndex = ""
     removeAllChildren(results)
     if (preview) {
       removeAllChildren(preview)
@@ -191,7 +192,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
-    if (sidebar) sidebar.style.zIndex = "1"
+    sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
   }
@@ -489,7 +490,7 @@ async function fillDocument(data: ContentIndex) {
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   const data = await fetchData
-  const searchElement = document.getElementsByClassName("search")
+  const searchElement = document.querySelectorAll(".search")
   for (const element of searchElement) {
     await setupSearch(element, currentSlug, data)
   }
