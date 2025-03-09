@@ -35,6 +35,7 @@ super_collections:
   - ERQKEKFA
 filename: Luettgau et al. 2024 - Decomposing dynamical subprocesses for compositional generalization.pdf
 marker: "[🇿](zotero://select/library/items/IDF8BQSF)"
+publish: true
 ---
 # Decomposing dynamical subprocesses for compositional generalization
 

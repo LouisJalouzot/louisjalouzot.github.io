@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: "Park et al. 2024 - ICLR: In-Context Learning of Representations.pdf"
 marker: "[🇿](zotero://select/library/items/PRZKZVVV)"
+publish: true
 ---
 # ICLR: In-Context Learning of Representations
 

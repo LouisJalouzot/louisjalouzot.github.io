@@ -46,6 +46,7 @@ super_collections:
   - ERQKEKFA
 filename: Zhang et al. 2023 - Decoding of human identity by computer vision and neuronal vision.pdf
 marker: "[🇿](zotero://select/library/items/IN2YR6N4)"
+publish: true
 ---
 # Decoding of human identity by computer vision and neuronal vision
 

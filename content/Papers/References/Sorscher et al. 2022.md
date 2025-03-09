@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Sorscher et al. 2022 - Neural representational geometry underlies few-shot concept learning.pdf
 marker: "[🇿](zotero://select/library/items/N2FX52M4)"
+publish: true
 ---
 # Neural representational geometry underlies few-shot concept learning
 

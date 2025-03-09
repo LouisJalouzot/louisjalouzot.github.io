@@ -38,6 +38,7 @@ super_collections:
   - ERQKEKFA
 filename: Mumford et al. 2012 - Deconvolving BOLD activation in event-related designs for multivoxel pattern classification analyses.pdf
 marker: "[🇿](zotero://select/library/items/69A6BXZ3)"
+publish: true
 ---
 # Deconvolving BOLD activation in event-related designs for multivoxel pattern classification analyses
 

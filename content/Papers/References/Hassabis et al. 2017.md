@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Hassabis et al. 2017 - Neuroscience-Inspired Artificial Intelligence.pdf
 marker: "[🇿](zotero://select/library/items/BFGQKJP3)"
+publish: true
 ---
 # Neuroscience-Inspired Artificial Intelligence
 

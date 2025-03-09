@@ -40,6 +40,7 @@ super_collections:
   - ERQKEKFA
 filename: Zhao et al. 2022 - Deep reinforcement learning guided graph neural networks for brain network analysis.pdf
 marker: "[🇿](zotero://select/library/items/ZTAZEDCC)"
+publish: true
 ---
 # Deep reinforcement learning guided graph neural networks for brain network analysis
 

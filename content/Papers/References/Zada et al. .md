@@ -46,6 +46,7 @@ dateAdded: "2025-02-26T11:12:33Z"
 dateModified: "2025-02-26T11:12:33Z"
 filename: Zada et al.  - A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations.pdf
 marker: "[🇿](zotero://select/library/items/IRNW9NPB)"
+publish: true
 ---
 # A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
 

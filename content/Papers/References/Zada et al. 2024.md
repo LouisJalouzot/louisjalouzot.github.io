@@ -44,6 +44,7 @@ super_collections:
   - ERQKEKFA
 filename: Zada et al. 2024 - A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations.pdf
 marker: "[🇿](zotero://select/library/items/P4S5LQHT)"
+publish: true
 ---
 # A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
 

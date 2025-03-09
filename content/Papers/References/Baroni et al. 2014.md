@@ -20,6 +20,7 @@ dateAdded: "2025-03-05T10:12:45Z"
 dateModified: "2025-03-05T10:12:45Z"
 filename: "Baroni et al. 2014 - Frege in Space: A Program of Compositional Distributional Semantics.pdf"
 marker: "[🇿](zotero://select/library/items/6XS5Z8GJ)"
+publish: true
 ---
 # Frege in Space: A Program of Compositional Distributional Semantics
 

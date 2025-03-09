@@ -33,6 +33,7 @@ super_collections:
   - ERQKEKFA
 filename: Akbari et al. 2019 - Towards reconstructing intelligible speech from the human auditory cortex.pdf
 marker: "[🇿](zotero://select/library/items/9AP8YKZM)"
+publish: true
 ---
 # Towards reconstructing intelligible speech from the human auditory cortex
 

@@ -33,6 +33,7 @@ super_collections:
   - ERQKEKFA
 filename: Willett et al. 2021 - High-performance brain-to-text communication via handwriting.pdf
 marker: "[🇿](zotero://select/library/items/2GBY7R8K)"
+publish: true
 ---
 # High-performance brain-to-text communication via handwriting
 

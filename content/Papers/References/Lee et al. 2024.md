@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: Lee et al. 2024 - Efficient functional localization of language regions in the brain.pdf
 marker: "[🇿](zotero://select/library/items/88T289K7)"
+publish: true
 ---
 # Efficient functional localization of language regions in the brain
 

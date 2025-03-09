@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: "Silver and Dunlap 1987 - Averaging correlation coefficients: Should Fisher's z transformation be used?.pdf"
 marker: "[🇿](zotero://select/library/items/TDQSKTYY)"
+publish: true
 ---
 # Averaging correlation coefficients: Should Fisher's z transformation be used?
 

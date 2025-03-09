@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Goldstein et al. 2018 - Brain-to-brain coupling during handholding is associated with pain reduction.pdf
 marker: "[🇿](zotero://select/library/items/K4GX7TBB)"
+publish: true
 ---
 # Brain-to-brain coupling during handholding is associated with pain reduction
 

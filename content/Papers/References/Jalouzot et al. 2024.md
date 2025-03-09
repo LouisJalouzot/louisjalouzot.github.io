@@ -33,6 +33,7 @@ super_collections:
   - ERQKEKFA
 filename: Jalouzot et al. 2024 - Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations.pdf
 marker: "[🇿](zotero://select/library/items/PA5J294R)"
+publish: true
 ---
 # Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations
 

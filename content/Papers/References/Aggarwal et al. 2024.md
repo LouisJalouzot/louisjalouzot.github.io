@@ -27,6 +27,7 @@ dateAdded: "2025-01-17T10:12:30Z"
 dateModified: "2025-01-17T10:12:57Z"
 filename: Aggarwal et al. 2024 - Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding.pdf
 marker: "[🇿](zotero://select/library/items/RCC3WQM4)"
+publish: true
 ---
 # Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
 

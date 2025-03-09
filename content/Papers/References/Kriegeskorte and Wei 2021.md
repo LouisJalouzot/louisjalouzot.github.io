@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: Kriegeskorte and Wei 2021 - Neural tuning and representational geometry.pdf
 marker: "[🇿](zotero://select/library/items/S7GIXFKU)"
+publish: true
 ---
 # Neural tuning and representational geometry
 

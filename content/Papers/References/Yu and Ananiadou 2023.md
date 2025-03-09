@@ -22,6 +22,7 @@ super_collections:
   - ERQKEKFA
 filename: Yu and Ananiadou 2023 - Neuron-Level Knowledge Attribution in Large Language Models.pdf
 marker: "[🇿](zotero://select/library/items/CV763ZVG)"
+publish: true
 ---
 # Neuron-Level Knowledge Attribution in Large Language Models
 

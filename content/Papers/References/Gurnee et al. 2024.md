@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: Gurnee et al. 2024 - Universal Neurons in GPT2 Language Models.pdf
 marker: "[🇿](zotero://select/library/items/IJYQP2VG)"
+publish: true
 ---
 # Universal Neurons in GPT2 Language Models
 

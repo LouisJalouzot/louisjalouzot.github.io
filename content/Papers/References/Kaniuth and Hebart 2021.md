@@ -24,6 +24,7 @@ dateAdded: "2024-03-28T16:20:34Z"
 dateModified: "2024-03-28T16:20:39Z"
 filename: "Kaniuth and Hebart 2021 - Feature-reweighted RSA: A method for improving the fit between computational models, brains, and behavior.pdf"
 marker: "[🇿](zotero://select/library/items/RV89ML45)"
+publish: true
 ---
 # Feature-reweighted RSA: A method for improving the fit between computational models, brains, and behavior
 

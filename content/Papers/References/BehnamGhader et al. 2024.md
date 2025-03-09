@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: "BehnamGhader et al. 2024 - LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders.pdf"
 marker: "[🇿](zotero://select/library/items/TUAAI3N6)"
+publish: true
 ---
 # LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders
 

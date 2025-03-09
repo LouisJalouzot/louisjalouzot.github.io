@@ -39,6 +39,7 @@ super_collections:
   - ERQKEKFA
 filename: "Scotti et al. 2024 - MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data.pdf"
 marker: "[🇿](zotero://select/library/items/EJH6WQEA)"
+publish: true
 ---
 # MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data
 

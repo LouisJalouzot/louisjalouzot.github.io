@@ -20,6 +20,7 @@ super_collections:
   - ERQKEKFA
 filename: "Lasseck 2013 - Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition.pdf"
 marker: "[🇿](zotero://select/library/items/K23U8D46)"
+publish: true
 ---
 # Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition
 

@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Bazeille et al. 2021 - An empirical evaluation of functional alignment using inter-subject decoding.pdf
 marker: "[🇿](zotero://select/library/items/PDH4D7E5)"
+publish: true
 ---
 # An empirical evaluation of functional alignment using inter-subject decoding
 

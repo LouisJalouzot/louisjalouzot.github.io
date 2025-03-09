@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: "Ni et al. 2022 - Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models.pdf"
 marker: "[🇿](zotero://select/library/items/VRES8IAI)"
+publish: true
 ---
 # Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models
 

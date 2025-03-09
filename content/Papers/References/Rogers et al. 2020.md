@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: "Rogers et al. 2020 - A Primer in BERTology: What We Know About How BERT Works.pdf"
 marker: "[🇿](zotero://select/library/items/P7DAMG6H)"
+publish: true
 ---
 # A Primer in BERTology: What We Know About How BERT Works
 

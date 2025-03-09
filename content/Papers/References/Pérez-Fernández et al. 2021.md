@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Pérez-Fernández et al. 2021 - Characterizing and Measuring the Similarity of Neural Networks with Persistent Homology.pdf
 marker: "[🇿](zotero://select/library/items/M9BC4AJZ)"
+publish: true
 ---
 # Characterizing and Measuring the Similarity of Neural Networks with Persistent Homology
 

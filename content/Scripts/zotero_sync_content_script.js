@@ -1,3 +1,7 @@
+if (!data || data.filename == ".trash/dump") {
+	return "";
+}
+
 function addYamlField(key, value, indent = '') {
 	if (value === undefined || value === null) {
 		return `${indent}${key}: null\n`;

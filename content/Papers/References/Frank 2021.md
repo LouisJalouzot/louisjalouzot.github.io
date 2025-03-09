@@ -20,6 +20,7 @@ super_collections:
   - ERQKEKFA
 filename: Frank 2021 - Cross-language structural priming in recurrent neural network language models.pdf
 marker: "[🇿](zotero://select/library/items/PRYHGBQT)"
+publish: true
 ---
 # Cross-language structural priming in recurrent neural network language models
 

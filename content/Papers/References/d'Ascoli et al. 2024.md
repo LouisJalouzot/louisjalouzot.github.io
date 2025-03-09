@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: d'Ascoli et al. 2024 - Decoding individual words from non-invasive brain recordings across 723 participants.pdf
 marker: "[🇿](zotero://select/library/items/WWE8YWEU)"
+publish: true
 ---
 # Decoding individual words from non-invasive brain recordings across 723 participants
 

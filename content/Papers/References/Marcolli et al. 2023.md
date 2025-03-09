@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: "Marcolli et al. 2023 - Syntax-semantics interface: an algebraic model.pdf"
 marker: "[🇿](zotero://select/library/items/QFCK3MLF)"
+publish: true
 ---
 # Syntax-semantics interface: an algebraic model
 

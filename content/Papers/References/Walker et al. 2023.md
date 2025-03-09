@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: "Walker et al. 2023 - Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields.pdf"
 marker: "[🇿](zotero://select/library/items/VE8XZQIK)"
+publish: true
 ---
 # Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields
 

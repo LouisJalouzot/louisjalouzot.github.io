@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Chang et al. 2025 - Imageless imagery in aphantasia revealed by early visual cortex decoding.pdf
 marker: "[🇿](zotero://select/library/items/E87XTINA)"
+publish: true
 ---
 # Imageless imagery in aphantasia revealed by early visual cortex decoding
 

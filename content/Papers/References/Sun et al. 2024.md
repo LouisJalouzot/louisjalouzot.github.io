@@ -39,6 +39,7 @@ super_collections:
   - ERQKEKFA
 filename: "Sun et al. 2024 - Learning to (Learn at Test Time): RNNs with Expressive Hidden States.pdf"
 marker: "[🇿](zotero://select/library/items/DLGHSJFK)"
+publish: true
 ---
 # Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 

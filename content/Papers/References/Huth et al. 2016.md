@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Huth et al. 2016 - Natural speech reveals the semantic maps that tile human cerebral cortex.pdf
 marker: "[🇿](zotero://select/library/items/D7VVXDJN)"
+publish: true
 ---
 # Natural speech reveals the semantic maps that tile human cerebral cortex
 

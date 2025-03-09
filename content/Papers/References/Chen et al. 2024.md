@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: Chen et al. 2024 - Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM.pdf
 marker: "[🇿](zotero://select/library/items/SY7VBR2P)"
+publish: true
 ---
 # Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM
 

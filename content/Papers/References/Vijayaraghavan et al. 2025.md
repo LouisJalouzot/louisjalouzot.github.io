@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Vijayaraghavan et al. 2025 - Development of compositionality through interactive learning of language and action of robots.pdf
 marker: "[🇿](zotero://select/library/items/SFSSM2HY)"
+publish: true
 ---
 # Development of compositionality through interactive learning of language and action of robots
 

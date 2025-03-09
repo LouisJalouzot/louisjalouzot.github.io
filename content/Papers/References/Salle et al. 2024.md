@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: "Salle et al. 2024 - What Makes Two Language Models Think Alike?.pdf"
 marker: "[🇿](zotero://select/library/items/H2DH3HCR)"
+publish: true
 ---
 # What Makes Two Language Models Think Alike?
 

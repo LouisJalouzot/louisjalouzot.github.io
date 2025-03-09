@@ -36,6 +36,7 @@ super_collections:
   - ERQKEKFA
 filename: "Kaufman et al. 2014 - Cortical activity in the null space: permitting preparation without movement.pdf"
 marker: "[🇿](zotero://select/library/items/KCBD3HNR)"
+publish: true
 ---
 # Cortical activity in the null space: permitting preparation without movement
 

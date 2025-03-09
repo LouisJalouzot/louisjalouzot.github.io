@@ -28,6 +28,7 @@ super_collections:
   - ERQKEKFA
 filename: Thual et al. 2022 - Aligning individual brains with fused unbalanced Gromov Wasserstein.pdf
 marker: "[🇿](zotero://select/library/items/IR5UY9TI)"
+publish: true
 ---
 # Aligning individual brains with fused unbalanced Gromov Wasserstein
 

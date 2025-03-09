@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: "Richard and Thirion 2023 - FastSRM: A fast, memory efficient and identifiable implementation of the shared response model.pdf"
 marker: "[🇿](zotero://select/library/items/M7VKYJI2)"
+publish: true
 ---
 # FastSRM: A fast, memory efficient and identifiable implementation of the shared response model
 

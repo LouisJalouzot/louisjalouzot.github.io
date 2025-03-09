@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: Pink et al.  - Testing Memory Capabilities in Large Language Models with the....pdf
 marker: "[🇿](zotero://select/library/items/4DQ4Q2M8)"
+publish: true
 ---
 # Testing Memory Capabilities in Large Language Models with the...
 

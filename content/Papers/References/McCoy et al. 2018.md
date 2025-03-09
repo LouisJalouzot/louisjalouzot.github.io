@@ -25,6 +25,7 @@ super_collections:
   - ERQKEKFA
 filename: McCoy et al. 2018 - RNNs Implicitly Implement Tensor Product Representations.pdf
 marker: "[🇿](zotero://select/library/items/NZRZJ9KS)"
+publish: true
 ---
 # RNNs Implicitly Implement Tensor Product Representations
 

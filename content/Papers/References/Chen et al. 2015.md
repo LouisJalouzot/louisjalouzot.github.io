@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: Chen et al. 2015 - A Reduced-Dimension fMRI Shared Response Model.pdf
 marker: "[🇿](zotero://select/library/items/MPX9KCCE)"
+publish: true
 ---
 # A Reduced-Dimension fMRI Shared Response Model
 

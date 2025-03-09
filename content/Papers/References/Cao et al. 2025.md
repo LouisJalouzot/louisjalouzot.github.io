@@ -44,6 +44,7 @@ super_collections:
   - ERQKEKFA
 filename: Cao et al. 2025 - A neuronal code for object representation and memory in the human amygdala and hippocampus.pdf
 marker: "[🇿](zotero://select/library/items/YUDU7R8S)"
+publish: true
 ---
 # A neuronal code for object representation and memory in the human amygdala and hippocampus
 

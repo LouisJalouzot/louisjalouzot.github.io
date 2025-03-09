@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 0
 date: 01/2025
@@ -9,7 +7,7 @@ authors:
   - "Dehaene, Stanislas"
 generated: true
 key: FSQFTTUM
-version: 2038
+version: 2250
 itemType: journalArticle
 paperTitle: Mapping and modeling the semantic space of math concepts
 publicationTitle: Cognition
@@ -22,6 +20,7 @@ ISSN: 00100277
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0010027724002579"
 accessDate: "2024-10-07T14:40:23Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-10-07T14:40:23Z"
@@ -30,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: Debray and Dehaene 2025 - Mapping and modeling the semantic space of math concepts.pdf
 marker: "[🇿](zotero://select/library/items/FSQFTTUM)"
+publish: true
 ---
 # Mapping and modeling the semantic space of math concepts
 

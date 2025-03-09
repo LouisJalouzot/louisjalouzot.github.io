@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: Ozcelik and VanRullen 2023 - Natural scene reconstruction from fMRI signals using generative latent diffusion.pdf
 marker: "[🇿](zotero://select/library/items/FI8EIY7J)"
+publish: true
 ---
 # Natural scene reconstruction from fMRI signals using generative latent diffusion
 

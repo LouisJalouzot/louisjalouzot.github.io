@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: "Mentzelopoulos et al. 2024 - Neural decoding from stereotactic EEG: accounting for electrode variability across subjects.pdf"
 marker: "[🇿](zotero://select/library/items/FFD9ZL9P)"
+publish: true
 ---
 # Neural decoding from stereotactic EEG: accounting for electrode variability across subjects
 

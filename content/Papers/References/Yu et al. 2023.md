@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: "Yu et al. 2023 - Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models.pdf"
 marker: "[🇿](zotero://select/library/items/5JAVAYFG)"
+publish: true
 ---
 # Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models
 

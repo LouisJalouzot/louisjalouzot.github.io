@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Wandelt et al. 2024 - Representation of internal speech by single neurons in human supramarginal gyrus.pdf
 marker: "[🇿](zotero://select/library/items/HU9FT29C)"
+publish: true
 ---
 # Representation of internal speech by single neurons in human supramarginal gyrus
 

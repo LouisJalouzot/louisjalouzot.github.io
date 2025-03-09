@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: Whiten and Youngblood 2025 - Convergent evolution in whale and human vocal cultures.pdf
 marker: "[🇿](zotero://select/library/items/72K9Q7S4)"
+publish: true
 ---
 # Convergent evolution in whale and human vocal cultures
 

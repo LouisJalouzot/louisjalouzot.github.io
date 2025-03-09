@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: Tian et al. 2024 - Mental programming of spatial sequences in working memory in the macaque frontal cortex.pdf
 marker: "[🇿](zotero://select/library/items/TG63UVE2)"
+publish: true
 ---
 # Mental programming of spatial sequences in working memory in the macaque frontal cortex
 

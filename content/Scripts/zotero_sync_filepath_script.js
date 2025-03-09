@@ -9,7 +9,8 @@ if (data.creators && data.creators.length > 0) {
     }
     fp += ' ';
 } else {
-    throw new Error('No authors found for ' + data.title);
+    data.filename = ".trash/dump";
+    return data.filename;
 }
 if (data.date) {
     let year;

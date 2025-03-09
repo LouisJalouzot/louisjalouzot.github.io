@@ -35,6 +35,7 @@ super_collections:
   - ERQKEKFA
 filename: "Trirat et al. 2024 - Universal Time-Series Representation Learning: A Survey.pdf"
 marker: "[🇿](zotero://select/library/items/W9MBI8Y2)"
+publish: true
 ---
 # Universal Time-Series Representation Learning: A Survey
 
