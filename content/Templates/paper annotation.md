@@ -1,11 +1,15 @@
 <%*
-// --- Check if the annotation file already exists ---
-const annotationFilePath = `Papers/Annotations/${tp.file.title}.md`;
-const annotationFile = app.vault.getAbstractFileByPath(annotationFilePath);
-if (annotationFile) {
-  // Annotation file already exists.  Do nothing and exit.
-  tR += "<!-- Annotation file already exists. -->";
+if (app.vault.getAbstractFileByPath(`Annotations/${tp.file.title} Annotation.md`)) {
   return;
+}
+
+let pdfLink = "";
+if (tp.frontmatter?.filename) {
+    const pdfPath = `Papers/PDFs/${tp.file.title} - ${tp.frontmatter.filename}.pdf`;
+    if (app.vault.getAbstractFileByPath(pdfPath)) {
+        const encodedPath = pdfPath.replace(/ /g, "%20");
+        pdfLink = `[${pdfPath}](${encodedPath})`;
+    }
 }
 %>
 ---

@@ -10,7 +10,7 @@ if (data.creators && data.creators.length > 0) {
     fp += ' ';
 } else {
     data.filename = ".trash/dump";
-    return data.filename;
+    return
 }
 if (data.date) {
     let year;
@@ -30,6 +30,7 @@ if (data.date) {
     }
     fp += year.toString();
 }
-let formatted_title = data.title;//.replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '').replace(/\s+/g, ' ').replace(/^\s+|\s+$|\.*$/g, '').trim();
-data.filename = fp + ' - ' + formatted_title + '.pdf';
-return 'Papers/References/' + fp;
+let formatted_title = data.title.replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '').replace(/\s+/g, ' ').replace(/^\s+|\s+$|\.*$/g, '').trim();
+formatted_title = fp + ' - ' + formatted_title;
+data.filename = formatted_title + '.pdf';
+return 'Papers/References/' + formatted_title;
