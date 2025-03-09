@@ -29,6 +29,7 @@ super_collections:
 filename: Pohl et al. 2024 - Desiderata of evidence for representation in neuroscience.pdf
 marker: "[🇿](zotero://select/library/items/WHJYJTIA)"
 publish: true
+type: reference
 ---
 # Desiderata of evidence for representation in neuroscience
 

@@ -23,6 +23,7 @@ super_collections:
 filename: Futrell and Mahowald 2025 - How Linguistics Learned to Stop Worrying and Love the Language Models.pdf
 marker: "[🇿](zotero://select/library/items/DK9TAWLA)"
 publish: true
+type: reference
 ---
 # How Linguistics Learned to Stop Worrying and Love the Language Models
 

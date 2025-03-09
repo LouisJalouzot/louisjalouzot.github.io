@@ -42,6 +42,7 @@ super_collections:
 filename: Elhage et al. 2022 - Toy Models of Superposition.pdf
 marker: "[🇿](zotero://select/library/items/2RBXG8SM)"
 publish: true
+type: reference
 ---
 # Toy Models of Superposition
 

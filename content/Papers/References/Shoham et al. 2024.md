@@ -36,6 +36,7 @@ super_collections:
 filename: Shoham et al. 2024 - Using deep neural networks to disentangle visual and semantic information in human perception and memory.pdf
 marker: "[🇿](zotero://select/library/items/AWDBPSS4)"
 publish: true
+type: reference
 ---
 # Using deep neural networks to disentangle visual and semantic information in human perception and memory
 

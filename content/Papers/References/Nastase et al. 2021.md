@@ -54,6 +54,7 @@ super_collections:
 filename: Nastase et al. 2021 - The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension.pdf
 marker: "[🇿](zotero://select/library/items/MTUT4MKY)"
 publish: true
+type: reference
 ---
 # The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension
 

@@ -30,6 +30,7 @@ super_collections:
 filename: Valle et al. 2024 - Identification of perceived sentences using deep neural networks in EEG.pdf
 marker: "[🇿](zotero://select/library/items/GPZ6LWHE)"
 publish: true
+type: reference
 ---
 # Identification of perceived sentences using deep neural networks in EEG
 

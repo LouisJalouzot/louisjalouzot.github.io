@@ -23,6 +23,7 @@ super_collections:
 filename: "Rodriguez et al. 2024 - Do Neural Language Models Inferentially Compose Concepts the Way Humans Can?.pdf"
 marker: "[🇿](zotero://select/library/items/GD8IJKAR)"
 publish: true
+type: reference
 ---
 # Do Neural Language Models Inferentially Compose Concepts the Way Humans Can?
 

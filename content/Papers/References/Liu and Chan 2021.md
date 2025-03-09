@@ -29,6 +29,7 @@ super_collections:
 filename: "Liu and Chan 2021 - Testing the Effectiveness of CNN and GNN and Exploring the Influence of Different Channels on Decoding Covert Speech from EEG Signals: CNN and GNN on Decoding Covert Speech from EEG Signals.pdf"
 marker: "[🇿](zotero://select/library/items/IMR4FHV3)"
 publish: true
+type: reference
 ---
 # Testing the Effectiveness of CNN and GNN and Exploring the Influence of Different Channels on Decoding Covert Speech from EEG Signals: CNN and GNN on Decoding Covert Speech from EEG Signals
 

@@ -28,6 +28,7 @@ super_collections:
 filename: "Mao et al. 2019 - The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision.pdf"
 marker: "[🇿](zotero://select/library/items/XXL8K7B2)"
 publish: true
+type: reference
 ---
 # The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision
 

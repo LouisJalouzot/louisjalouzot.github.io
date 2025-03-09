@@ -33,6 +33,7 @@ super_collections:
 filename: Li et al. 2023 - Label Supervised LLaMA Finetuning.pdf
 marker: "[🇿](zotero://select/library/items/Y6VWVVCY)"
 publish: true
+type: reference
 ---
 # Label Supervised LLaMA Finetuning
 

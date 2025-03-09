@@ -38,6 +38,7 @@ super_collections:
 filename: LeBel et al. 2023 - A natural language fMRI dataset for voxelwise encoding models.pdf
 marker: "[🇿](zotero://select/library/items/TZRJDKFX)"
 publish: true
+type: reference
 ---
 # A natural language fMRI dataset for voxelwise encoding models
 

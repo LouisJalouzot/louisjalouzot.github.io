@@ -29,6 +29,7 @@ super_collections:
 filename: Heffernan et al. 2022 - Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages.pdf
 marker: "[🇿](zotero://select/library/items/5JLJ9SDC)"
 publish: true
+type: reference
 ---
 # Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages
 

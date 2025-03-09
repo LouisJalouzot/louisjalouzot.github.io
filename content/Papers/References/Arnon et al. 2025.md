@@ -35,6 +35,7 @@ super_collections:
 filename: Arnon et al. 2025 - Whale song shows language-like statistical structure.pdf
 marker: "[🇿](zotero://select/library/items/YQLQBU8F)"
 publish: true
+type: reference
 ---
 # Whale song shows language-like statistical structure
 

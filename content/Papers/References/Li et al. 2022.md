@@ -44,6 +44,7 @@ super_collections:
 filename: Li et al. 2022 - Le Petit Prince multilingual naturalistic fMRI corpus.pdf
 marker: "[🇿](zotero://select/library/items/CGM8YFCW)"
 publish: true
+type: reference
 ---
 # Le Petit Prince multilingual naturalistic fMRI corpus
 

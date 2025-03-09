@@ -33,6 +33,7 @@ super_collections:
 filename: Bays et al. 2024 - Representation and computation in visual working memory.pdf
 marker: "[🇿](zotero://select/library/items/WIG4SQNK)"
 publish: true
+type: reference
 ---
 # Representation and computation in visual working memory
 

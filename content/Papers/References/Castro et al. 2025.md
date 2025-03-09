@@ -42,6 +42,7 @@ super_collections:
 filename: Castro et al. 2025 - Discovering Symbolic Cognitive Models from Human and Animal Behavior.pdf
 marker: "[🇿](zotero://select/library/items/SSUXQG2V)"
 publish: true
+type: reference
 ---
 # Discovering Symbolic Cognitive Models from Human and Animal Behavior
 

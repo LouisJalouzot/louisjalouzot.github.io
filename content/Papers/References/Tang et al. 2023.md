@@ -32,6 +32,7 @@ super_collections:
 filename: Tang et al. 2023 - Semantic reconstruction of continuous language from non-invasive brain recordings.pdf
 marker: "[🇿](zotero://select/library/items/SUMKIT6M)"
 publish: true
+type: reference
 ---
 # Semantic reconstruction of continuous language from non-invasive brain recordings
 

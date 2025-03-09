@@ -30,6 +30,7 @@ super_collections:
 filename: Kriegeskorte and Douglas 2019 - Interpreting encoding and decoding models.pdf
 marker: "[🇿](zotero://select/library/items/K8WJGAZI)"
 publish: true
+type: reference
 ---
 # Interpreting encoding and decoding models
 

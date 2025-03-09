@@ -36,6 +36,7 @@ super_collections:
 filename: Benara et al. 2024 - Crafting Interpretable Embeddings by Asking LLMs Questions.pdf
 marker: "[🇿](zotero://select/library/items/SSFFYXET)"
 publish: true
+type: reference
 ---
 # Crafting Interpretable Embeddings by Asking LLMs Questions
 

@@ -261,6 +261,7 @@ for (const [key, value] of Object.entries(data)) {
 }
 
 n += addYamlField('publish', true);
+n += addYamlField('type', 'reference');
 
 // End frontmatter
 n += '---\n';

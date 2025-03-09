@@ -30,6 +30,7 @@ super_collections:
 filename: "Millet and Dunbar 2022 - Do self-supervised speech models develop human-like perception biases?.pdf"
 marker: "[🇿](zotero://select/library/items/2NTJ5629)"
 publish: true
+type: reference
 ---
 # Do self-supervised speech models develop human-like perception biases?
 

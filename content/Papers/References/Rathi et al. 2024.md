@@ -28,6 +28,7 @@ super_collections:
 filename: "Rathi et al. 2024 - TopoLM: brain-like spatio-functional organization in a topographic language model.pdf"
 marker: "[🇿](zotero://select/library/items/QESBCP6T)"
 publish: true
+type: reference
 ---
 # TopoLM: brain-like spatio-functional organization in a topographic language model
 

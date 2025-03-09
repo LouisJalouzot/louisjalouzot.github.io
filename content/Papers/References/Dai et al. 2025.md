@@ -32,6 +32,7 @@ super_collections:
 filename: "Dai et al. 2025 - MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data.pdf"
 marker: "[🇿](zotero://select/library/items/MZPKT7KR)"
 publish: true
+type: reference
 ---
 # MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data
 

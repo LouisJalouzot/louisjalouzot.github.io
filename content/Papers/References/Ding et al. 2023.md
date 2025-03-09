@@ -31,6 +31,7 @@ super_collections:
 filename: Ding et al. 2023 - CausalLM is not optimal for in-context learning.pdf
 marker: "[🇿](zotero://select/library/items/CH7GI5MW)"
 publish: true
+type: reference
 ---
 # CausalLM is not optimal for in-context learning
 

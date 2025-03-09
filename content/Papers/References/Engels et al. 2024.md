@@ -26,6 +26,7 @@ super_collections:
 filename: Engels et al. 2024 - Not All Language Model Features Are Linear.pdf
 marker: "[🇿](zotero://select/library/items/M635JMPU)"
 publish: true
+type: reference
 ---
 # Not All Language Model Features Are Linear
 

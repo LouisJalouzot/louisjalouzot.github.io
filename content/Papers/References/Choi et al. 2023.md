@@ -35,6 +35,7 @@ super_collections:
 filename: Choi et al. 2023 - A Generative Self-Supervised Framework using Functional Connectivity in fMRI Data.pdf
 marker: "[🇿](zotero://select/library/items/T4DWHITZ)"
 publish: true
+type: reference
 ---
 # A Generative Self-Supervised Framework using Functional Connectivity in fMRI Data
 

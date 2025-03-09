@@ -35,6 +35,7 @@ super_collections:
 filename: Zhang et al. 2024 - Decoding Continuous Character-based Language from Non-invasive Brain Recordings.pdf
 marker: "[🇿](zotero://select/library/items/D9JHV9PW)"
 publish: true
+type: reference
 ---
 # Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 

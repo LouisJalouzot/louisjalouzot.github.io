@@ -31,6 +31,7 @@ super_collections:
 filename: Ravfogel et al. 2021 - Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction.pdf
 marker: "[🇿](zotero://select/library/items/6VN622XT)"
 publish: true
+type: reference
 ---
 # Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction
 

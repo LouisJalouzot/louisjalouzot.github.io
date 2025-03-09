@@ -31,6 +31,7 @@ super_collections:
 filename: "Wahab et al. 2021 - Neurosymbolic Spike Concept Learner towards Neuromorphic General Intelligence:.pdf"
 marker: "[🇿](zotero://select/library/items/FG3P5TA9)"
 publish: true
+type: reference
 ---
 # Neurosymbolic Spike Concept Learner towards Neuromorphic General Intelligence:
 

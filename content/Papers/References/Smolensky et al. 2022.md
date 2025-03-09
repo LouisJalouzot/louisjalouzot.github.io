@@ -33,6 +33,7 @@ super_collections:
 filename: "Smolensky et al. 2022 - Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems.pdf"
 marker: "[🇿](zotero://select/library/items/I749LXPU)"
 publish: true
+type: reference
 ---
 # Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems
 

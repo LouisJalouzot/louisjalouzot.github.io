@@ -33,6 +33,7 @@ super_collections:
 filename: "Pasquiou et al. 2022 - Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps.pdf"
 marker: "[🇿](zotero://select/library/items/5AXQYJCS)"
 publish: true
+type: reference
 ---
 # Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps
 

@@ -29,6 +29,7 @@ super_collections:
 filename: Marinescu et al. 2024 - Distilling Symbolic Priors for Concept Learning into Neural Networks.pdf
 marker: "[🇿](zotero://select/library/items/3B3RMB5C)"
 publish: true
+type: reference
 ---
 # Distilling Symbolic Priors for Concept Learning into Neural Networks
 

@@ -27,6 +27,7 @@ dateModified: "2025-03-07T17:35:02Z"
 filename: Park et al. 2023 - The Linear Representation Hypothesis and the Geometry of Large Language Models.pdf
 marker: "[🇿](zotero://select/library/items/MDG3HBCR)"
 publish: true
+type: reference
 ---
 # The Linear Representation Hypothesis and the Geometry of Large Language Models
 

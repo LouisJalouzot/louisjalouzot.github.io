@@ -28,6 +28,7 @@ super_collections:
 filename: Tikochinski et al. 2021 - Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension.pdf
 marker: "[🇿](zotero://select/library/items/5Q748PNC)"
 publish: true
+type: reference
 ---
 # Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension
 

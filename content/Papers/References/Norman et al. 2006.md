@@ -31,6 +31,7 @@ dateModified: "2025-02-21T10:21:53Z"
 filename: "Norman et al. 2006 - Beyond mind-reading: multi-voxel pattern analysis of fMRI data.pdf"
 marker: "[🇿](zotero://select/library/items/Q6BGRWPV)"
 publish: true
+type: reference
 ---
 # Beyond mind-reading: multi-voxel pattern analysis of fMRI data
 

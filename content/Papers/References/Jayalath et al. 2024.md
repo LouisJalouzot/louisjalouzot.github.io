@@ -31,6 +31,7 @@ super_collections:
 filename: "Jayalath et al. 2024 - The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning.pdf"
 marker: "[🇿](zotero://select/library/items/368ZRVIE)"
 publish: true
+type: reference
 ---
 # The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning
 

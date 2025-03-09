@@ -30,6 +30,7 @@ super_collections:
 filename: "Xiao et al. 2024 - Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming.pdf"
 marker: "[🇿](zotero://select/library/items/54VWUBQC)"
 publish: true
+type: reference
 ---
 # Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming
 

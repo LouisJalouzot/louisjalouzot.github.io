@@ -28,6 +28,7 @@ super_collections:
 filename: Müller-Eberstein et al. 2022 - Spectral Probing.pdf
 marker: "[🇿](zotero://select/library/items/C524QQFG)"
 publish: true
+type: reference
 ---
 # Spectral Probing
 

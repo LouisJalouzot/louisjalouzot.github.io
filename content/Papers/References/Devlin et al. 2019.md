@@ -27,6 +27,7 @@ dateModified: "2025-02-19T20:55:33Z"
 filename: "Devlin et al. 2019 - [No title found].pdf"
 marker: "[🇿](zotero://select/library/items/NRIARFY8)"
 publish: true
+type: reference
 ---
 # [No title found]
 

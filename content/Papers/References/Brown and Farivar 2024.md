@@ -28,6 +28,7 @@ super_collections:
 filename: Brown and Farivar 2024 - The Topology of Representational Geometry.pdf
 marker: "[🇿](zotero://select/library/items/ZPAPX8SX)"
 publish: true
+type: reference
 ---
 # The Topology of Representational Geometry
 

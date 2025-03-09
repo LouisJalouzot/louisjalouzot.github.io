@@ -31,6 +31,7 @@ super_collections:
 filename: Desai et al. 2023 - Hyperbolic Image-Text Representations.pdf
 marker: "[🇿](zotero://select/library/items/AD6VBDVP)"
 publish: true
+type: reference
 ---
 # Hyperbolic Image-Text Representations
 

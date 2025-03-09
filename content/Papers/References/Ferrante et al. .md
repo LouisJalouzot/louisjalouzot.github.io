@@ -21,6 +21,7 @@ super_collections:
 filename: Ferrante et al.  - Language decoding from human brain activity via contrastive learning.pdf
 marker: "[🇿](zotero://select/library/items/CXWEQE6A)"
 publish: true
+type: reference
 ---
 # Language decoding from human brain activity via contrastive learning
 

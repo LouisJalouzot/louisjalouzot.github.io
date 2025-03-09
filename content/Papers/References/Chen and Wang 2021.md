@@ -28,6 +28,7 @@ super_collections:
 filename: Chen and Wang 2021 - Efficient Approximate Algorithms for Empirical Entropy and Mutual Information.pdf
 marker: "[🇿](zotero://select/library/items/3Y2YLDTE)"
 publish: true
+type: reference
 ---
 # Efficient Approximate Algorithms for Empirical Entropy and Mutual Information
 

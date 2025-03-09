@@ -30,6 +30,7 @@ super_collections:
 filename: Debray and Dehaene 2025 - Mapping and modeling the semantic space of math concepts.pdf
 marker: "[🇿](zotero://select/library/items/FSQFTTUM)"
 publish: true
+type: reference
 ---
 # Mapping and modeling the semantic space of math concepts
 

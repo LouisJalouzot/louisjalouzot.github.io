@@ -36,6 +36,7 @@ super_collections:
 filename: "Griffiths et al. 2010 - Probabilistic models of cognition: exploring representations and inductive biases.pdf"
 marker: "[🇿](zotero://select/library/items/QDWJL7WK)"
 publish: true
+type: reference
 ---
 # Probabilistic models of cognition: exploring representations and inductive biases
 

@@ -28,6 +28,7 @@ super_collections:
 filename: Wen et al. 2023 - One-shot entorhinal maps enable flexible navigation in novel environments.pdf
 marker: "[🇿](zotero://select/library/items/8GW4NVA6)"
 publish: true
+type: reference
 ---
 # One-shot entorhinal maps enable flexible navigation in novel environments
 

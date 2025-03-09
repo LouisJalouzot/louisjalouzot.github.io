@@ -36,6 +36,7 @@ super_collections:
 filename: Murphy et al. 2025 - A comparative investigation of compositional syntax and semantics in DALL·E and young children.pdf
 marker: "[🇿](zotero://select/library/items/QM69BUHQ)"
 publish: true
+type: reference
 ---
 # A comparative investigation of compositional syntax and semantics in DALL·E and young children
 

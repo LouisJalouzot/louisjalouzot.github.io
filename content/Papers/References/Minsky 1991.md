@@ -31,6 +31,7 @@ super_collections:
 filename: Minsky 1991 - Logical Versus Analogical or Symbolic Versus Connectionist or Neat Versus Scruffy.pdf
 marker: "[🇿](zotero://select/library/items/T5K4PCSV)"
 publish: true
+type: reference
 ---
 # Logical Versus Analogical or Symbolic Versus Connectionist or Neat Versus Scruffy
 

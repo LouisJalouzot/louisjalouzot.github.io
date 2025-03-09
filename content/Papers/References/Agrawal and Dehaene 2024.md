@@ -29,6 +29,7 @@ super_collections:
 filename: Agrawal and Dehaene 2024 - Cracking the neural code for word recognition in convolutional neural networks.pdf
 marker: "[🇿](zotero://select/library/items/25PT8KHC)"
 publish: true
+type: reference
 ---
 # Cracking the neural code for word recognition in convolutional neural networks
 

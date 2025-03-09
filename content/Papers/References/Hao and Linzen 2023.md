@@ -31,6 +31,7 @@ super_collections:
 filename: Hao and Linzen 2023 - Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number.pdf
 marker: "[🇿](zotero://select/library/items/HAVHV9E8)"
 publish: true
+type: reference
 ---
 # Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number
 

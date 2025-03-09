@@ -34,6 +34,7 @@ super_collections:
 filename: "Formisano et al. 2008 - \"Who\" Is Saying \"What\"? Brain-Based Decoding of Human Voice and Speech.pdf"
 marker: "[🇿](zotero://select/library/items/P9XJJGR2)"
 publish: true
+type: reference
 ---
 # "Who" Is Saying "What"? Brain-Based Decoding of Human Voice and Speech
 

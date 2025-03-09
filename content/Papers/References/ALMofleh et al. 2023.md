@@ -34,6 +34,7 @@ super_collections:
 filename: "ALMofleh et al. 2023 - Brain Computer Interfaces: The Future of Communication Between the Brain and the External World.pdf"
 marker: "[🇿](zotero://select/library/items/QZLY2ESY)"
 publish: true
+type: reference
 ---
 # Brain Computer Interfaces: The Future of Communication Between the Brain and the External World
 

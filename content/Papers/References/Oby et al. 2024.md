@@ -32,6 +32,7 @@ super_collections:
 filename: Oby et al. 2024 - Dynamical constraints on neural population activity.pdf
 marker: "[🇿](zotero://select/library/items/HFHCJIJ4)"
 publish: true
+type: reference
 ---
 # Dynamical constraints on neural population activity
 

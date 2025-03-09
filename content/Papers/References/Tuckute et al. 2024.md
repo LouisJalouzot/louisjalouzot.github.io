@@ -32,6 +32,7 @@ super_collections:
 filename: "Tuckute et al. 2024 - Language in Brains, Minds, and Machines.pdf"
 marker: "[🇿](zotero://select/library/items/5AAABEE7)"
 publish: true
+type: reference
 ---
 # Language in Brains, Minds, and Machines
 

@@ -31,6 +31,7 @@ super_collections:
 filename: Müller and Vaxman 2021 - Discrete curvature and torsion from cross-ratios.pdf
 marker: "[🇿](zotero://select/library/items/YR4RB5JT)"
 publish: true
+type: reference
 ---
 # Discrete curvature and torsion from cross-ratios
 

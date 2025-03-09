@@ -37,6 +37,7 @@ super_collections:
 filename: "Vig et al. 2021 - BERTology Meets Biology: Interpreting Attention in Protein Language Models.pdf"
 marker: "[🇿](zotero://select/library/items/7L7ECSEZ)"
 publish: true
+type: reference
 ---
 # BERTology Meets Biology: Interpreting Attention in Protein Language Models
 
