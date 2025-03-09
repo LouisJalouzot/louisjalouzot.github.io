@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: "Fodor and Pylyshyn 1988 - Connectionism and cognitive architecture: A critical analysis.pdf"
 marker: "[🇿](zotero://select/library/items/BP6Q9AUJ)"
+publish: true
 ---
 # Connectionism and cognitive architecture: A critical analysis
 

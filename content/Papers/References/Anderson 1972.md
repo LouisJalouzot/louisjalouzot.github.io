@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: "Anderson 1972 - More Is Different: Broken symmetry and the nature of the hierarchical structure of science..pdf"
 marker: "[🇿](zotero://select/library/items/YWUPXZU6)"
+publish: true
 ---
 # More Is Different: Broken symmetry and the nature of the hierarchical structure of science.
 

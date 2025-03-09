@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Pedregosa et al. 2015 - Data-driven HRF estimation for encoding and decoding models.pdf
 marker: "[🇿](zotero://select/library/items/F8RFNYJU)"
+publish: true
 ---
 # Data-driven HRF estimation for encoding and decoding models
 

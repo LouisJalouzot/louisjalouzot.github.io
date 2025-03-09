@@ -27,6 +27,7 @@ dateAdded: "2025-03-03T20:37:25Z"
 dateModified: "2025-03-03T20:37:25Z"
 filename: Biesmans et al. 2017 - Auditory-Inspired Speech Envelope Extraction Methods for Improved EEG-Based Auditory Attention Detection in a Cocktail Party Scenario.pdf
 marker: "[🇿](zotero://select/library/items/NTK83EKL)"
+publish: true
 ---
 # Auditory-Inspired Speech Envelope Extraction Methods for Improved EEG-Based Auditory Attention Detection in a Cocktail Party Scenario
 

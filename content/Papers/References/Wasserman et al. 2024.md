@@ -24,6 +24,7 @@ super_collections:
   - ERQKEKFA
 filename: Wasserman et al. 2024 - Functional Brain-to-Brain Transformation with No Shared Data.pdf
 marker: "[🇿](zotero://select/library/items/2X9MGW3R)"
+publish: true
 ---
 # Functional Brain-to-Brain Transformation with No Shared Data
 

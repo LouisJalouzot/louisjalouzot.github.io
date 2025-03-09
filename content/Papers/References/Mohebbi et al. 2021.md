@@ -26,6 +26,7 @@ super_collections:
   - ERQKEKFA
 filename: Mohebbi et al. 2021 - Exploring the Role of BERT Token Representations to Explain Sentence Probing Results.pdf
 marker: "[🇿](zotero://select/library/items/SQ2GCQCH)"
+publish: true
 ---
 # Exploring the Role of BERT Token Representations to Explain Sentence Probing Results
 

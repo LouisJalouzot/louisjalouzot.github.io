@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: St-Yves et al. 2024 - Variation in the geometry of concept manifolds across human visual cortex.pdf
 marker: "[🇿](zotero://select/library/items/9VULY4ZA)"
+publish: true
 ---
 # Variation in the geometry of concept manifolds across human visual cortex
 

@@ -28,6 +28,7 @@ super_collections:
   - ERQKEKFA
 filename: Lezcano-Casado 2019 - Trivializations for Gradient-Based Optimization on Manifolds.pdf
 marker: "[🇿](zotero://select/library/items/9FUZGK2V)"
+publish: true
 ---
 # Trivializations for Gradient-Based Optimization on Manifolds
 

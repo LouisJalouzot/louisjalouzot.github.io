@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: Kriegeskorte and Douglas 2019 - Interpreting encoding and decoding models.pdf
 marker: "[🇿](zotero://select/library/items/K8WJGAZI)"
+publish: true
 ---
 # Interpreting encoding and decoding models
 

@@ -38,6 +38,7 @@ super_collections:
   - ERQKEKFA
 filename: Güntürkün et al. 2024 - Why birds are smart.pdf
 marker: "[🇿](zotero://select/library/items/3JHMNZ5H)"
+publish: true
 ---
 # Why birds are smart
 

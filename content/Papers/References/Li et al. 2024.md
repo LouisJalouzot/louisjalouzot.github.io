@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: "Li et al. 2024 - The Geometry of Concepts: Sparse Autoencoder Feature Structure.pdf"
 marker: "[🇿](zotero://select/library/items/M22CQLLU)"
+publish: true
 ---
 # The Geometry of Concepts: Sparse Autoencoder Feature Structure
 

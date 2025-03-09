@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Gelman et al. 2013 - Bayesian Data Analysis.pdf
 marker: "[🇿](zotero://select/library/items/X86EXQEK)"
+publish: true
 ---
 # Bayesian Data Analysis
 

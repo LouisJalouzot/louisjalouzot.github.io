@@ -33,6 +33,7 @@ super_collections:
   - ERQKEKFA
 filename: Pellegrino et al. 2023 - Low Tensor Rank Learning of Neural Dynamics.pdf
 marker: "[🇿](zotero://select/library/items/V2ZLRHXE)"
+publish: true
 ---
 # Low Tensor Rank Learning of Neural Dynamics
 

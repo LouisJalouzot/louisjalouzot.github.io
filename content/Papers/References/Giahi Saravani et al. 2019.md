@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: Giahi Saravani et al. 2019 - Dynamic Brain Interactions during Picture Naming.pdf
 marker: "[🇿](zotero://select/library/items/SVW3VT2A)"
+publish: true
 ---
 # Dynamic Brain Interactions during Picture Naming
 

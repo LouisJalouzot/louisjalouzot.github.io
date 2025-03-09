@@ -219,6 +219,7 @@ super_collections:
   - ERQKEKFA
 filename: "DeepSeek-AI et al. 2025 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf"
 marker: "[🇿](zotero://select/library/items/84AQA88U)"
+publish: true
 ---
 # DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
 

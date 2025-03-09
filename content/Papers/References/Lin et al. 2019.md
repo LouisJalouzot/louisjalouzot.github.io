@@ -30,6 +30,7 @@ super_collections:
   - ERQKEKFA
 filename: "Lin et al. 2019 - Open Sesame: Getting Inside BERT's Linguistic Knowledge.pdf"
 marker: "[🇿](zotero://select/library/items/N2TA3UBH)"
+publish: true
 ---
 # Open Sesame: Getting Inside BERT's Linguistic Knowledge
 

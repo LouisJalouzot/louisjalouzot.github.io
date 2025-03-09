@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Kumar et al. 2022 - Shared functional specialization in transformer-based language models and the human brain.pdf
 marker: "[🇿](zotero://select/library/items/IGSSCNX2)"
+publish: true
 ---
 # Shared functional specialization in transformer-based language models and the human brain
 

@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: Kanwisher et al. 2023 - Using artificial neural networks to ask ‘why’ questions of minds and brains.pdf
 marker: "[🇿](zotero://select/library/items/KWIT7LAK)"
+publish: true
 ---
 # Using artificial neural networks to ask ‘why’ questions of minds and brains
 

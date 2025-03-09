@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: "Dehaene et al. 2022 - Symbols and mental programs: a hypothesis about human singularity.pdf"
 marker: "[🇿](zotero://select/library/items/HNLK8E8K)"
+publish: true
 ---
 # Symbols and mental programs: a hypothesis about human singularity
 

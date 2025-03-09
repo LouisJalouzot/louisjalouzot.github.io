@@ -41,6 +41,7 @@ super_collections:
   - ERQKEKFA
 filename: Elhage et al. 2022 - Toy Models of Superposition.pdf
 marker: "[🇿](zotero://select/library/items/2RBXG8SM)"
+publish: true
 ---
 # Toy Models of Superposition
 

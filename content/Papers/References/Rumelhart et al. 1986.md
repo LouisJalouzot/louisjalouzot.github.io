@@ -27,6 +27,7 @@ super_collections:
   - 5D3NLYTP
 filename: "Rumelhart et al. 1986 - Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations.pdf"
 marker: "[🇿](zotero://select/library/items/99U2WWSZ)"
+publish: true
 ---
 # Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations
 

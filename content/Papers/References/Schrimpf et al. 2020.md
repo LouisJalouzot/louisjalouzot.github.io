@@ -31,6 +31,7 @@ super_collections:
   - ERQKEKFA
 filename: "Schrimpf et al. 2020 - The neural architecture of language: Integrative modeling converges on predictive processing.pdf"
 marker: "[🇿](zotero://select/library/items/5IT48HGD)"
+publish: true
 ---
 # The neural architecture of language: Integrative modeling converges on predictive processing
 

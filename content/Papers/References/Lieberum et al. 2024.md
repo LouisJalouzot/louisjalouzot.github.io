@@ -37,6 +37,7 @@ super_collections:
   - ERQKEKFA
 filename: "Lieberum et al. 2024 - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2.pdf"
 marker: "[🇿](zotero://select/library/items/PM8J23L6)"
+publish: true
 ---
 # Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2
 

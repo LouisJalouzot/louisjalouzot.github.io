@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: Willett et al. 2023 - A high-performance speech neuroprosthesis.pdf
 marker: "[🇿](zotero://select/library/items/LMWWL83R)"
+publish: true
 ---
 # A high-performance speech neuroprosthesis
 

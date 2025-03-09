@@ -25,6 +25,7 @@ super_collections:
   - ERQKEKFA
 filename: "Wang et al. 2024 - Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization.pdf"
 marker: "[🇿](zotero://select/library/items/9CXMWGAL)"
+publish: true
 ---
 # Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
 

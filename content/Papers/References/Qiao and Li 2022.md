@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: "Qiao and Li 2022 - Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming.pdf"
 marker: "[🇿](zotero://select/library/items/7LDNVBTY)"
+publish: true
 ---
 # Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming
 

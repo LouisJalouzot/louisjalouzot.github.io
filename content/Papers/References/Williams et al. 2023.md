@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: "Williams et al. 2023 - New Bounds for Matrix Multiplication: from Alpha to Omega.pdf"
 marker: "[🇿](zotero://select/library/items/CRDFBMJC)"
+publish: true
 ---
 # New Bounds for Matrix Multiplication: from Alpha to Omega
 

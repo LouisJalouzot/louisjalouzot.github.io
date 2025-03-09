@@ -26,6 +26,7 @@ super_collections:
   - ERQKEKFA
 filename: "Murphy 2024 - Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax.pdf"
 marker: "[🇿](zotero://select/library/items/6BQKA5EX)"
+publish: true
 ---
 # Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax
 

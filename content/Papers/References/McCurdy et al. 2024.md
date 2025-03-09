@@ -25,6 +25,7 @@ super_collections:
   - ERQKEKFA
 filename: "McCurdy et al. 2024 - Toward Compositional Behavior in Neural Models: A Survey of Current Views.pdf"
 marker: "[🇿](zotero://select/library/items/B745MNRV)"
+publish: true
 ---
 # Toward Compositional Behavior in Neural Models: A Survey of Current Views
 

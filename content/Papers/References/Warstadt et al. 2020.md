@@ -30,6 +30,7 @@ dateAdded: "2025-03-06T12:47:43Z"
 dateModified: "2025-03-06T12:47:43Z"
 filename: "Warstadt et al. 2020 - BLiMP: The Benchmark of Linguistic Minimal Pairs for English.pdf"
 marker: "[🇿](zotero://select/library/items/8H5AKMUZ)"
+publish: true
 ---
 # BLiMP: The Benchmark of Linguistic Minimal Pairs for English
 

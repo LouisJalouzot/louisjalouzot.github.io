@@ -23,6 +23,7 @@ super_collections:
   - ERQKEKFA
 filename: "Allen-Zhu and Li 2023 - Physics of Language Models: Part 1, Learning Hierarchical Language Structures.pdf"
 marker: "[🇿](zotero://select/library/items/EAGJRV2Z)"
+publish: true
 ---
 # Physics of Language Models: Part 1, Learning Hierarchical Language Structures
 

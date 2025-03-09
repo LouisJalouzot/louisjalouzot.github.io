@@ -28,6 +28,7 @@ super_collections:
   - ERQKEKFA
 filename: Artetxe and Schwenk 2019 - Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.pdf
 marker: "[🇿](zotero://select/library/items/G9NLPVGU)"
+publish: true
 ---
 # Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
 

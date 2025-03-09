@@ -21,6 +21,7 @@ super_collections:
   - ERQKEKFA
 filename: Hofstadter 1995 - On seeing A's and seeing As.pdf
 marker: "[🇿](zotero://select/library/items/78E34EHB)"
+publish: true
 ---
 # On seeing A's and seeing As
 

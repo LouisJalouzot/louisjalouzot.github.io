@@ -33,6 +33,7 @@ super_collections:
   - ERQKEKFA
 filename: Dentella et al. 2024 - Testing AI on language comprehension tasks reveals insensitivity to underlying meaning.pdf
 marker: "[🇿](zotero://select/library/items/8YGHPFGH)"
+publish: true
 ---
 # Testing AI on language comprehension tasks reveals insensitivity to underlying meaning
 

@@ -42,6 +42,7 @@ super_collections:
   - ERQKEKFA
 filename: Zhuang et al. 2020 - A technical review of canonical correlation analysis for neuroscience applications.pdf
 marker: "[🇿](zotero://select/library/items/J8L3LLA5)"
+publish: true
 ---
 # A technical review of canonical correlation analysis for neuroscience applications
 

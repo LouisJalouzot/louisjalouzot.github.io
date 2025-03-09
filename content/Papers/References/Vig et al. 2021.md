@@ -4,7 +4,6 @@ zoteroTags:
   - Computer Science - Machine Learning
   - I.2
   - Quantitative Biology - Biomolecules
-  - notion
 year: 2021
 month: 2
 day: 28
@@ -18,7 +17,7 @@ authors:
   - "Rajani, Nazneen Fatema"
 generated: true
 key: 7L7ECSEZ
-version: 2037
+version: 2240
 itemType: preprint
 paperTitle: "BERTology Meets Biology: Interpreting Attention in Protein Language Models"
 repository: arXiv
@@ -37,6 +36,7 @@ super_collections:
   - ERQKEKFA
 filename: "Vig et al. 2021 - BERTology Meets Biology: Interpreting Attention in Protein Language Models.pdf"
 marker: "[🇿](zotero://select/library/items/7L7ECSEZ)"
+publish: true
 ---
 # BERTology Meets Biology: Interpreting Attention in Protein Language Models
 

@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: Youngblood 2025 - Language-like efficiency in whale communication.pdf
 marker: "[🇿](zotero://select/library/items/A9YA8B9H)"
+publish: true
 ---
 # Language-like efficiency in whale communication
 

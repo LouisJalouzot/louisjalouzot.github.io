@@ -23,6 +23,7 @@ super_collections:
   - 5D3NLYTP
 filename: "Chalmers 1977 - What is this thing called science? - an assessment of the nature and status of science and its methods (2. ed.).pdf"
 marker: "[🇿](zotero://select/library/items/S5YD4564)"
+publish: true
 ---
 # What is this thing called science? - an assessment of the nature and status of science and its methods (2. ed.)
 

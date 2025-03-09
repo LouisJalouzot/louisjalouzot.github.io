@@ -52,6 +52,7 @@ super_collections:
   - ERQKEKFA
 filename: Goldstein et al. 2024 - Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns.pdf
 marker: "[🇿](zotero://select/library/items/WN47T926)"
+publish: true
 ---
 # Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns
 

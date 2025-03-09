@@ -28,6 +28,7 @@ super_collections:
   - ERQKEKFA
 filename: "Khandelwal et al. 2024 - $100K or 100 Days: Trade-offs when Pre-Training with Academic Resources.pdf"
 marker: "[🇿](zotero://select/library/items/2KNEN4RC)"
+publish: true
 ---
 # $100K or 100 Days: Trade-offs when Pre-Training with Academic Resources
 

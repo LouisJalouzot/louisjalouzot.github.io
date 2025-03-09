@@ -28,6 +28,7 @@ super_collections:
   - ERQKEKFA
 filename: "Jawahar et al. 2019 - What Does BERT Learn about the Structure of Language?.pdf"
 marker: "[🇿](zotero://select/library/items/CLTISBI5)"
+publish: true
 ---
 # What Does BERT Learn about the Structure of Language?
 

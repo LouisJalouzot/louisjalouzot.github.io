@@ -29,6 +29,7 @@ super_collections:
   - ERQKEKFA
 filename: "Klepl et al. 2024 - Graph Neural Network-Based EEG Classification: A Survey.pdf"
 marker: "[🇿](zotero://select/library/items/9HTZWKWE)"
+publish: true
 ---
 # Graph Neural Network-Based EEG Classification: A Survey
 

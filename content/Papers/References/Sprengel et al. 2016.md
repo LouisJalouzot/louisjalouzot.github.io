@@ -23,6 +23,7 @@ super_collections:
   - ERQKEKFA
 filename: Sprengel et al. 2016 - Audio Based Bird Species Identification using Deep Learning Techniques.pdf
 marker: "[🇿](zotero://select/library/items/KGFQFQDQ)"
+publish: true
 ---
 # Audio Based Bird Species Identification using Deep Learning Techniques
 

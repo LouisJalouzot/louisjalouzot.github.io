@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: Antonello et al. 2024 - A generative framework to bridge data-driven models and scientific theories in language neuroscience.pdf
 marker: "[🇿](zotero://select/library/items/NSCNVGZF)"
+publish: true
 ---
 # A generative framework to bridge data-driven models and scientific theories in language neuroscience
 

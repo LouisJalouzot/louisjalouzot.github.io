@@ -27,6 +27,7 @@ super_collections:
   - ERQKEKFA
 filename: "Gao et al. 2021 - SimCSE: Simple Contrastive Learning of Sentence Embeddings.pdf"
 marker: "[🇿](zotero://select/library/items/4WW5R9AR)"
+publish: true
 ---
 # SimCSE: Simple Contrastive Learning of Sentence Embeddings
 

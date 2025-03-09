@@ -34,6 +34,7 @@ super_collections:
   - ERQKEKFA
 filename: Jabakhanji et al. 2022 - Limits of decoding mental states with fMRI.pdf
 marker: "[🇿](zotero://select/library/items/D96NJTCR)"
+publish: true
 ---
 # Limits of decoding mental states with fMRI
 

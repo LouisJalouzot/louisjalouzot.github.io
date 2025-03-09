@@ -32,6 +32,7 @@ super_collections:
   - ERQKEKFA
 filename: "Trager et al. 2023 - Linear Spaces of Meanings: Compositional Structures in Vision-Language Models.pdf"
 marker: "[🇿](zotero://select/library/items/VW3KSAYX)"
+publish: true
 ---
 # Linear Spaces of Meanings: Compositional Structures in Vision-Language Models
 

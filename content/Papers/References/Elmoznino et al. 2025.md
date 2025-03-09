@@ -33,6 +33,7 @@ super_collections:
   - ERQKEKFA
 filename: Elmoznino et al. 2025 - A Complexity-Based Theory of Compositionality.pdf
 marker: "[🇿](zotero://select/library/items/SPEL82N3)"
+publish: true
 ---
 # A Complexity-Based Theory of Compositionality
 
