@@ -10,13 +10,15 @@ type: prompt
 ---
 # Goal
 Please write a full Python module.
+
 # Functionalities
 We will consider that the user has the following:
 - a set of $n$ stimuli (which we will not directly use)
 - high-dimensional embeddings of the stimuli
-	- A numpy array *repr* with dimension $n,h$
+	- A numpy array *repr* with dimensions $n,h$
 	- for instance, $h$ can be 768
 - theoretical features of the stimuli
+	- a pandas dataframe *features* with dimensions $n, F$
 	- 
 The module should give access to the 2 following functions:
 
