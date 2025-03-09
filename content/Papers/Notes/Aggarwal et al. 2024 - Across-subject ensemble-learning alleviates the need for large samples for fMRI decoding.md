@@ -1,7 +1,7 @@
 ---
 publish: true
 status: to read
-project:
+project: 
 type: annotation
 tags:
 ---

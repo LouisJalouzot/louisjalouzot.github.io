@@ -39,7 +39,7 @@ project:
 type: annotation
 tags:
 ---
-# Annotation for [${originalFileName}](${file.path.replace(/ /g, '%20')})
+# Annotation for [${originalFileName.split(" - ")[0]}](${file.path.replace(/ /g, '%20')})
 
 **Authors:** ${frontmatter.authors || "Unknown"}
 **Year:** ${frontmatter.year || ""}
@@ -54,9 +54,11 @@ tags:
             // Move reference file if destination doesn't exist
             if (!app.vault.getAbstractFileByPath(newReferencePath)) {
                 await app.vault.rename(file, newReferencePath);
+            } // Otherwise, delete the reference file
+            else {
+                await app.vault.delete(file);
             }
         }
-        new Notice("References Processed");
     } catch (error) {
         console.error("Error processing references:", error);
         new Notice(`Error: ${error.message}`);
