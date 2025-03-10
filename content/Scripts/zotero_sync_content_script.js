@@ -120,7 +120,7 @@ if (data.date) {
 				}
 
 				// Create a new date object
-				dateObj = new Date(year, month ? month - 1 : 0, day || 1);
+				dateObj = new Date(year, month || 1, day || 1);
 				break;
 			}
 		}
@@ -134,20 +134,16 @@ if (data.date) {
 		if (hasMonth) {
 			const month = dateObj.getMonth();
 			n += addYamlField('month', month);
-		} else {
-			dateObj.setMonth(0);
 		}
 
 		if (hasDay) {
 			const day = dateObj.getDate();
 			n += addYamlField('day', day);
-		} else {
-			dateObj.setDate(0);
 		}
 	}
 
-	// Add the original date string to the frontmatter
-	n += addYamlField('date', originalDateStr);
+	// Add full date format DD/MM/YYYY
+	n += addYamlField('date', dateObj.toISOString().split('T')[0]);
 	delete data.date;
 }
 

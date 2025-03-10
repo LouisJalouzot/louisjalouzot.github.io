@@ -34,7 +34,5 @@ if (data.date) {
     fp += year.toString();
 }
 let formatted_title = data.title.replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '').replace(/\s+/g, ' ').replace(/^\s+|\s+$|\.*$/g, '').trim();
-data.title = fp;
-formatted_title = fp + ' - ' + formatted_title;
-data.filename = formatted_title + '.pdf';
-return 'Temp/References/' + formatted_title;
+data.filename = fp + ' - ' + formatted_title + '.pdf';
+return 'Temp/References/' + fp + ' - ' + formatted_title.split(' ')[0];

@@ -19,7 +19,6 @@ const processReferences = async (params) => {
         const files = app.vault.getFiles().filter(file => file.path.startsWith("Temp/References"));
 
         if (files.length === 0) {
-            new Notice("No reference files found in Temp/References");
             return;
         }
 
@@ -33,7 +32,7 @@ const processReferences = async (params) => {
             // Create annotation file if it doesn't exist
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
                 let annotationContent = `---
-title: ${originalFileName.split(" - ")[0]}
+title: ${originalFileName}
 publish: true
 cssclasses:
   - list-cards
@@ -43,7 +42,7 @@ project:
 type: annotation
 tags:
 ---
-# Annotation for [${originalFileName.split(" - ")[0]}](Papers/References/${originalFileName.replace(/ /g, '%20')})
+# Annotation for [${originalFileName}](Papers/References/${encodeURIComponent(originalFileName)})
 
 > [!example]- Authors
 `;
@@ -52,11 +51,11 @@ tags:
                     if (Array.isArray(frontmatter.authors)) {
                         frontmatter.authors.forEach(author => {
                             const [lastName, firstName] = author.split(", ");
-                            annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName}%20${firstName})\n`;
+                            annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName.replace(/ /g, '%20')}%20${firstName.replace(/ /g, '%20')})\n`;
                         });
                     } else {
                         const [lastName, firstName] = frontmatter.authors.split(", ");
-                        annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName}%20${firstName})\n`;
+                        annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName.replace(/ /g, '%20')}%20${firstName.replace(/ /g, '%20')})\n`;
                     }
                 }
 
@@ -72,7 +71,9 @@ tags:
                     annotationContent += `**URL:** ${frontmatter.url}\n`;
                 }
 
-                annotationContent += `**PDF:** [${file.basename}](Papers/PDFs/${frontmatter.filename?.replace(/ /g, '%20') || ""})`;
+                // Safe PDF link generation
+                const pdfFilename = frontmatter.filename ? encodeURIComponent(frontmatter.filename) : "";
+                annotationContent += `**PDF:** [${file.basename}](Papers/PDFs/${pdfFilename})`;
 
                 annotationContent += `
 
