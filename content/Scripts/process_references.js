@@ -34,14 +34,32 @@ const processReferences = async (params) => {
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
                 let annotationContent = `---
 publish: true
+cssclasses:
+  - list-cards
 status: to read
+progress: to annotate
 project:
 type: annotation
 tags:
 ---
-# Annotation for [${originalFileName.split(" - ")[0]}](${file.path.replace(/ /g, '%20')})
+# Annotation for [${originalFileName.split(" - ")[0]}](Papers/References/${originalFileName.replace(/ /g, '%20')})
 
-**Authors:** ${frontmatter.authors || "Unknown"}
+> [!example]- Authors
+`;
+
+                if (frontmatter.authors) {
+                    if (Array.isArray(frontmatter.authors)) {
+                        frontmatter.authors.forEach(author => {
+                            const [lastName, firstName] = author.split(", ");
+                            annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName}%20${firstName})\n`;
+                        });
+                    } else {
+                        const [lastName, firstName] = frontmatter.authors.split(", ");
+                        annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName}%20${firstName})\n`;
+                    }
+                }
+
+                annotationContent += `
 **Year:** ${frontmatter.year || ""}
 `;
 
@@ -55,8 +73,28 @@ tags:
 
                 annotationContent += `**PDF:** [${file.basename}](Papers/PDFs/${frontmatter.filename?.replace(/ /g, '%20') || ""})`;
 
+                annotationContent += `
+
+# Highlights
+
+
+# Goal
+
+
+# Method
+
+
+# Results
+
+
+# Discussion
+
+
+# Questions
+
+`;
                 await app.vault.create(annotationPath, annotationContent);
-                new Notice(`Created: ${annotationPath}`);
+                new Notice(`Created: ${annotationPath} `);
             }
 
             // Move reference file if destination doesn't exist
@@ -69,7 +107,7 @@ tags:
         }
     } catch (error) {
         console.error("Error processing references:", error);
-        new Notice(`Error: ${error.message}`);
+        new Notice(`Error: ${error.message} `);
     }
 }
 
