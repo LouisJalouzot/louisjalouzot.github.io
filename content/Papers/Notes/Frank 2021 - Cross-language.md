@@ -12,7 +12,7 @@ tags:
 # Annotation for [Frank 2021 - Cross-language](Papers/References/Frank%202021%20-%20Cross-language)
 
 > [!example]- Authors
-> - [Frank, Stefan](Papers/People/Frank%20Stefan)
+> - [Frank, Stefan](Frank%2C%20Stefan)
 
 **Year:** 2021
 **URL:** https://www.semanticscholar.org/paper/Cross-language-structural-priming-in-recurrent-Frank/03fdef222c6a75caf09e5d5dc190ae55e0cfbbcc

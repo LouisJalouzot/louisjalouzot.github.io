@@ -12,9 +12,9 @@ tags:
 # Annotation for [Steck et al. 2024 - Is](Papers/References/Steck%20et%20al.%202024%20-%20Is)
 
 > [!example]- Authors
-> - [Steck, Harald](Papers/People/Steck%20Harald)
-> - [Ekanadham, Chaitanya](Papers/People/Ekanadham%20Chaitanya)
-> - [Kallus, Nathan](Papers/People/Kallus%20Nathan)
+> - [Steck, Harald](Steck%2C%20Harald)
+> - [Ekanadham, Chaitanya](Ekanadham%2C%20Chaitanya)
+> - [Kallus, Nathan](Kallus%2C%20Nathan)
 
 **Year:** 2024
 **DOI:** 10.1145/3589335.3651526

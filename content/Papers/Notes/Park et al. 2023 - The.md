@@ -12,9 +12,9 @@ tags:
 # Annotation for [Park et al. 2023 - The](Papers/References/Park%20et%20al.%202023%20-%20The)
 
 > [!example]- Authors
-> - [Park, Kiho](Papers/People/Park%20Kiho)
-> - [Choe, Yo Joong](Papers/People/Choe%20Yo%20Joong)
-> - [Veitch, Victor](Papers/People/Veitch%20Victor)
+> - [Park, Kiho](Park%2C%20Kiho)
+> - [Choe, Yo Joong](Choe%2C%20Yo%20Joong)
+> - [Veitch, Victor](Veitch%2C%20Victor)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2311.03658

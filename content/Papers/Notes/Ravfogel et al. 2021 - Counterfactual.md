@@ -12,10 +12,10 @@ tags:
 # Annotation for [Ravfogel et al. 2021 - Counterfactual](Papers/References/Ravfogel%20et%20al.%202021%20-%20Counterfactual)
 
 > [!example]- Authors
-> - [Ravfogel, Shauli](Papers/People/Ravfogel%20Shauli)
-> - [Prasad, Grusha](Papers/People/Prasad%20Grusha)
-> - [Linzen, Tal](Papers/People/Linzen%20Tal)
-> - [Goldberg, Yoav](Papers/People/Goldberg%20Yoav)
+> - [Ravfogel, Shauli](Ravfogel%2C%20Shauli)
+> - [Prasad, Grusha](Prasad%2C%20Grusha)
+> - [Linzen, Tal](Linzen%2C%20Tal)
+> - [Goldberg, Yoav](Goldberg%2C%20Yoav)
 
 **Year:** 2021
 **DOI:** 10.48550/arXiv.2105.06965

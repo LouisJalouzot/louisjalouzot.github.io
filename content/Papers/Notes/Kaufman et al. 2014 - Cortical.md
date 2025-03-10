@@ -12,10 +12,10 @@ tags:
 # Annotation for [Kaufman et al. 2014 - Cortical](Papers/References/Kaufman%20et%20al.%202014%20-%20Cortical)
 
 > [!example]- Authors
-> - [Kaufman, Matthew T.](Papers/People/Kaufman%20Matthew%20T.)
-> - [Churchland, Mark M.](Papers/People/Churchland%20Mark%20M.)
-> - [Ryu, Stephen I.](Papers/People/Ryu%20Stephen%20I.)
-> - [Shenoy, Krishna V.](Papers/People/Shenoy%20Krishna%20V.)
+> - [Kaufman, Matthew T.](Kaufman%2C%20Matthew%20T.)
+> - [Churchland, Mark M.](Churchland%2C%20Mark%20M.)
+> - [Ryu, Stephen I.](Ryu%2C%20Stephen%20I.)
+> - [Shenoy, Krishna V.](Shenoy%2C%20Krishna%20V.)
 
 **Year:** 2014
 **DOI:** 10.1038/nn.3643

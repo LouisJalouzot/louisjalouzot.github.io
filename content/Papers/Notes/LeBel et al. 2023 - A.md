@@ -12,15 +12,15 @@ tags:
 # Annotation for [LeBel et al. 2023 - A](Papers/References/LeBel%20et%20al.%202023%20-%20A)
 
 > [!example]- Authors
-> - [LeBel, Amanda](Papers/People/LeBel%20Amanda)
-> - [Wagner, Lauren](Papers/People/Wagner%20Lauren)
-> - [Jain, Shailee](Papers/People/Jain%20Shailee)
-> - [Adhikari-Desai, Aneesh](Papers/People/Adhikari-Desai%20Aneesh)
-> - [Gupta, Bhavin](Papers/People/Gupta%20Bhavin)
-> - [Morgenthal, Allyson](Papers/People/Morgenthal%20Allyson)
-> - [Tang, Jerry](Papers/People/Tang%20Jerry)
-> - [Xu, Lixiang](Papers/People/Xu%20Lixiang)
-> - [Huth, Alexander G.](Papers/People/Huth%20Alexander%20G.)
+> - [LeBel, Amanda](LeBel%2C%20Amanda)
+> - [Wagner, Lauren](Wagner%2C%20Lauren)
+> - [Jain, Shailee](Jain%2C%20Shailee)
+> - [Adhikari-Desai, Aneesh](Adhikari-Desai%2C%20Aneesh)
+> - [Gupta, Bhavin](Gupta%2C%20Bhavin)
+> - [Morgenthal, Allyson](Morgenthal%2C%20Allyson)
+> - [Tang, Jerry](Tang%2C%20Jerry)
+> - [Xu, Lixiang](Xu%2C%20Lixiang)
+> - [Huth, Alexander G.](Huth%2C%20Alexander%20G.)
 
 **Year:** 2023
 **DOI:** 10.1038/s41597-023-02437-z

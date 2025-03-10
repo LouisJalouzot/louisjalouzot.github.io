@@ -12,8 +12,8 @@ tags:
 # Annotation for [Artetxe and Schwenk 2019 - Massively](Papers/References/Artetxe%20and%20Schwenk%202019%20-%20Massively)
 
 > [!example]- Authors
-> - [Artetxe, Mikel](Papers/People/Artetxe%20Mikel)
-> - [Schwenk, Holger](Papers/People/Schwenk%20Holger)
+> - [Artetxe, Mikel](Artetxe%2C%20Mikel)
+> - [Schwenk, Holger](Schwenk%2C%20Holger)
 
 **Year:** 2019
 **DOI:** 10.1162/tacl_a_00288

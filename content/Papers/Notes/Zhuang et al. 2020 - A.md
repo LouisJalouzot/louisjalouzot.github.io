@@ -12,9 +12,9 @@ tags:
 # Annotation for [Zhuang et al. 2020 - A](Papers/References/Zhuang%20et%20al.%202020%20-%20A)
 
 > [!example]- Authors
-> - [Zhuang, Xiaowei](Papers/People/Zhuang%20Xiaowei)
-> - [Yang, Zhengshi](Papers/People/Yang%20Zhengshi)
-> - [Cordes, Dietmar](Papers/People/Cordes%20Dietmar)
+> - [Zhuang, Xiaowei](Zhuang%2C%20Xiaowei)
+> - [Yang, Zhengshi](Yang%2C%20Zhengshi)
+> - [Cordes, Dietmar](Cordes%2C%20Dietmar)
 
 **Year:** 2020
 **DOI:** 10.1002/hbm.25090

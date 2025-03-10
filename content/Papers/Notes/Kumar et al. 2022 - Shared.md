@@ -12,15 +12,15 @@ tags:
 # Annotation for [Kumar et al. 2022 - Shared](Papers/References/Kumar%20et%20al.%202022%20-%20Shared)
 
 > [!example]- Authors
-> - [Kumar, Sreejan](Papers/People/Kumar%20Sreejan)
-> - [Sumers, Theodore R.](Papers/People/Sumers%20Theodore%20R.)
-> - [Yamakoshi, Takateru](Papers/People/Yamakoshi%20Takateru)
-> - [Goldstein, Ariel](Papers/People/Goldstein%20Ariel)
-> - [Hasson, Uri](Papers/People/Hasson%20Uri)
-> - [Norman, Kenneth A.](Papers/People/Norman%20Kenneth%20A.)
-> - [Griffiths, Thomas L.](Papers/People/Griffiths%20Thomas%20L.)
-> - [Hawkins, Robert D.](Papers/People/Hawkins%20Robert%20D.)
-> - [Nastase, Samuel A.](Papers/People/Nastase%20Samuel%20A.)
+> - [Kumar, Sreejan](Kumar%2C%20Sreejan)
+> - [Sumers, Theodore R.](Sumers%2C%20Theodore%20R.)
+> - [Yamakoshi, Takateru](Yamakoshi%2C%20Takateru)
+> - [Goldstein, Ariel](Goldstein%2C%20Ariel)
+> - [Hasson, Uri](Hasson%2C%20Uri)
+> - [Norman, Kenneth A.](Norman%2C%20Kenneth%20A.)
+> - [Griffiths, Thomas L.](Griffiths%2C%20Thomas%20L.)
+> - [Hawkins, Robert D.](Hawkins%2C%20Robert%20D.)
+> - [Nastase, Samuel A.](Nastase%2C%20Samuel%20A.)
 
 **Year:** 2022
 **DOI:** 10.1101/2022.06.08.495348

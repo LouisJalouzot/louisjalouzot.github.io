@@ -12,9 +12,9 @@ tags:
 # Annotation for [Chamma et al. 2023 - Statistically](Papers/References/Chamma%20et%20al.%202023%20-%20Statistically)
 
 > [!example]- Authors
-> - [Chamma, Ahmad](Papers/People/Chamma%20Ahmad)
-> - [Engemann, Denis A.](Papers/People/Engemann%20Denis%20A.)
-> - [Thirion, Bertrand](Papers/People/Thirion%20Bertrand)
+> - [Chamma, Ahmad](Chamma%2C%20Ahmad)
+> - [Engemann, Denis A.](Engemann%2C%20Denis%20A.)
+> - [Thirion, Bertrand](Thirion%2C%20Bertrand)
 
 **Year:** 2023
 **DOI:** 10.48550/arXiv.2309.07593

@@ -12,14 +12,14 @@ tags:
 # Annotation for [Schrimpf et al. 2020 - The](Papers/References/Schrimpf%20et%20al.%202020%20-%20The)
 
 > [!example]- Authors
-> - [Schrimpf, Martin](Papers/People/Schrimpf%20Martin)
-> - [Blank, Idan](Papers/People/Blank%20Idan)
-> - [Tuckute, Greta](Papers/People/Tuckute%20Greta)
-> - [Kauf, Carina](Papers/People/Kauf%20Carina)
-> - [Hosseini, Eghbal A.](Papers/People/Hosseini%20Eghbal%20A.)
-> - [Kanwisher, Nancy](Papers/People/Kanwisher%20Nancy)
-> - [Tenenbaum, Joshua](Papers/People/Tenenbaum%20Joshua)
-> - [Fedorenko, Evelina](Papers/People/Fedorenko%20Evelina)
+> - [Schrimpf, Martin](Schrimpf%2C%20Martin)
+> - [Blank, Idan](Blank%2C%20Idan)
+> - [Tuckute, Greta](Tuckute%2C%20Greta)
+> - [Kauf, Carina](Kauf%2C%20Carina)
+> - [Hosseini, Eghbal A.](Hosseini%2C%20Eghbal%20A.)
+> - [Kanwisher, Nancy](Kanwisher%2C%20Nancy)
+> - [Tenenbaum, Joshua](Tenenbaum%2C%20Joshua)
+> - [Fedorenko, Evelina](Fedorenko%2C%20Evelina)
 
 **Year:** 2020
 **DOI:** 10.1101/2020.06.26.174482

@@ -12,17 +12,17 @@ tags:
 # Annotation for [Scotti et al. 2024 - MindEye2](Papers/References/Scotti%20et%20al.%202024%20-%20MindEye2)
 
 > [!example]- Authors
-> - [Scotti, Paul S.](Papers/People/Scotti%20Paul%20S.)
-> - [Tripathy, Mihir](Papers/People/Tripathy%20Mihir)
-> - [Villanueva, Cesar Kadir Torrico](Papers/People/Villanueva%20Cesar%20Kadir%20Torrico)
-> - [Kneeland, Reese](Papers/People/Kneeland%20Reese)
-> - [Chen, Tong](Papers/People/Chen%20Tong)
-> - [Narang, Ashutosh](Papers/People/Narang%20Ashutosh)
-> - [Santhirasegaran, Charan](Papers/People/Santhirasegaran%20Charan)
-> - [Xu, Jonathan](Papers/People/Xu%20Jonathan)
-> - [Naselaris, Thomas](Papers/People/Naselaris%20Thomas)
-> - [Norman, Kenneth A.](Papers/People/Norman%20Kenneth%20A.)
-> - [Abraham, Tanishq Mathew](Papers/People/Abraham%20Tanishq%20Mathew)
+> - [Scotti, Paul S.](Scotti%2C%20Paul%20S.)
+> - [Tripathy, Mihir](Tripathy%2C%20Mihir)
+> - [Villanueva, Cesar Kadir Torrico](Villanueva%2C%20Cesar%20Kadir%20Torrico)
+> - [Kneeland, Reese](Kneeland%2C%20Reese)
+> - [Chen, Tong](Chen%2C%20Tong)
+> - [Narang, Ashutosh](Narang%2C%20Ashutosh)
+> - [Santhirasegaran, Charan](Santhirasegaran%2C%20Charan)
+> - [Xu, Jonathan](Xu%2C%20Jonathan)
+> - [Naselaris, Thomas](Naselaris%2C%20Thomas)
+> - [Norman, Kenneth A.](Norman%2C%20Kenneth%20A.)
+> - [Abraham, Tanishq Mathew](Abraham%2C%20Tanishq%20Mathew)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2403.11207

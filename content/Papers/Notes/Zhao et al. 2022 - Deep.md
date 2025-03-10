@@ -12,18 +12,18 @@ tags:
 # Annotation for [Zhao et al. 2022 - Deep](Papers/References/Zhao%20et%20al.%202022%20-%20Deep)
 
 > [!example]- Authors
-> - [Zhao, Xusheng](Papers/People/Zhao%20Xusheng)
-> - [Wu, Jia](Papers/People/Wu%20Jia)
-> - [Peng, Hao](Papers/People/Peng%20Hao)
-> - [Beheshti, Amin](Papers/People/Beheshti%20Amin)
-> - [Monaghan, Jessica J. M.](Papers/People/Monaghan%20Jessica%20J.%20M.)
-> - [McAlpine, David](Papers/People/McAlpine%20David)
-> - [Hernandez-Perez, Heivet](Papers/People/Hernandez-Perez%20Heivet)
-> - [Dras, Mark](Papers/People/Dras%20Mark)
-> - [Dai, Qiong](Papers/People/Dai%20Qiong)
-> - [Li, Yangyang](Papers/People/Li%20Yangyang)
-> - [Yu, Philip S.](Papers/People/Yu%20Philip%20S.)
-> - [He, Lifang](Papers/People/He%20Lifang)
+> - [Zhao, Xusheng](Zhao%2C%20Xusheng)
+> - [Wu, Jia](Wu%2C%20Jia)
+> - [Peng, Hao](Peng%2C%20Hao)
+> - [Beheshti, Amin](Beheshti%2C%20Amin)
+> - [Monaghan, Jessica J. M.](Monaghan%2C%20Jessica%20J.%20M.)
+> - [McAlpine, David](McAlpine%2C%20David)
+> - [Hernandez-Perez, Heivet](Hernandez-Perez%2C%20Heivet)
+> - [Dras, Mark](Dras%2C%20Mark)
+> - [Dai, Qiong](Dai%2C%20Qiong)
+> - [Li, Yangyang](Li%2C%20Yangyang)
+> - [Yu, Philip S.](Yu%2C%20Philip%20S.)
+> - [He, Lifang](He%2C%20Lifang)
 
 **Year:** 2022
 **DOI:** 10.48550/ARXIV.2203.10093

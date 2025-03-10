@@ -12,8 +12,8 @@ tags:
 # Annotation for [Lake and Baroni 2023 - Human-like](Papers/References/Lake%20and%20Baroni%202023%20-%20Human-like)
 
 > [!example]- Authors
-> - [Lake, Brenden M.](Papers/People/Lake%20Brenden%20M.)
-> - [Baroni, Marco](Papers/People/Baroni%20Marco)
+> - [Lake, Brenden M.](Lake%2C%20Brenden%20M.)
+> - [Baroni, Marco](Baroni%2C%20Marco)
 
 **Year:** 2023
 **DOI:** 10.1038/s41586-023-06668-3

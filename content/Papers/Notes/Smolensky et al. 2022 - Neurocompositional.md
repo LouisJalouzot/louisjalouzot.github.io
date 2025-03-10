@@ -12,11 +12,11 @@ tags:
 # Annotation for [Smolensky et al. 2022 - Neurocompositional](Papers/References/Smolensky%20et%20al.%202022%20-%20Neurocompositional)
 
 > [!example]- Authors
-> - [Smolensky, Paul](Papers/People/Smolensky%20Paul)
-> - [McCoy, R. Thomas](Papers/People/McCoy%20R.%20Thomas)
-> - [Fernandez, Roland](Papers/People/Fernandez%20Roland)
-> - [Goldrick, Matthew](Papers/People/Goldrick%20Matthew)
-> - [Gao, Jianfeng](Papers/People/Gao%20Jianfeng)
+> - [Smolensky, Paul](Smolensky%2C%20Paul)
+> - [McCoy, R. Thomas](McCoy%2C%20R.%20Thomas)
+> - [Fernandez, Roland](Fernandez%2C%20Roland)
+> - [Goldrick, Matthew](Goldrick%2C%20Matthew)
+> - [Gao, Jianfeng](Gao%2C%20Jianfeng)
 
 **Year:** 2022
 **DOI:** 10.48550/ARXIV.2205.01128

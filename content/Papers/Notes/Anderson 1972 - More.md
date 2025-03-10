@@ -12,7 +12,7 @@ tags:
 # Annotation for [Anderson 1972 - More](Papers/References/Anderson%201972%20-%20More)
 
 > [!example]- Authors
-> - [Anderson, P. W.](Papers/People/Anderson%20P.%20W.)
+> - [Anderson, P. W.](Anderson%2C%20P.%20W.)
 
 **Year:** 1972
 **DOI:** 10.1126/science.177.4047.393

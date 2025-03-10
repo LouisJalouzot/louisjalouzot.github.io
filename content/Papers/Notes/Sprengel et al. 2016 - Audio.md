@@ -12,10 +12,10 @@ tags:
 # Annotation for [Sprengel et al. 2016 - Audio](Papers/References/Sprengel%20et%20al.%202016%20-%20Audio)
 
 > [!example]- Authors
-> - [Sprengel, Elias](Papers/People/Sprengel%20Elias)
-> - [Jaggi, Martin](Papers/People/Jaggi%20Martin)
-> - [Kilcher, Yannic](Papers/People/Kilcher%20Yannic)
-> - [Hofmann, Thomas](Papers/People/Hofmann%20Thomas)
+> - [Sprengel, Elias](Sprengel%2C%20Elias)
+> - [Jaggi, Martin](Jaggi%2C%20Martin)
+> - [Kilcher, Yannic](Kilcher%2C%20Yannic)
+> - [Hofmann, Thomas](Hofmann%2C%20Thomas)
 
 **Year:** 2016
 **URL:** https://www.semanticscholar.org/paper/Audio-Based-Bird-Species-Identification-using-Deep-Sprengel-Jaggi/42ffd303b6a8373300a965da4327439575d23131

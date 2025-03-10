@@ -12,11 +12,11 @@ tags:
 # Annotation for [Antonello et al. 2024 - How](Papers/References/Antonello%20et%20al.%202024%20-%20How)
 
 > [!example]- Authors
-> - [Antonello, Richard](Papers/People/Antonello%20Richard)
-> - [Sarma, Nihita](Papers/People/Sarma%20Nihita)
-> - [Tang, Jerry](Papers/People/Tang%20Jerry)
-> - [Song, Jiaru](Papers/People/Song%20Jiaru)
-> - [Huth, Alexander](Papers/People/Huth%20Alexander)
+> - [Antonello, Richard](Antonello%2C%20Richard)
+> - [Sarma, Nihita](Sarma%2C%20Nihita)
+> - [Tang, Jerry](Tang%2C%20Jerry)
+> - [Song, Jiaru](Song%2C%20Jiaru)
+> - [Huth, Alexander](Huth%2C%20Alexander)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2405.14055

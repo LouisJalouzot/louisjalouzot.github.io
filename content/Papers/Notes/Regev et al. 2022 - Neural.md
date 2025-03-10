@@ -12,14 +12,14 @@ tags:
 # Annotation for [Regev et al. 2022 - Neural](Papers/References/Regev%20et%20al.%202022%20-%20Neural)
 
 > [!example]- Authors
-> - [Regev, Tamar I.](Papers/People/Regev%20Tamar%20I.)
-> - [Casto, Colton](Papers/People/Casto%20Colton)
-> - [Hosseini, Eghbal A.](Papers/People/Hosseini%20Eghbal%20A.)
-> - [Adamek, Markus](Papers/People/Adamek%20Markus)
-> - [Ritaccio, Anthony L.](Papers/People/Ritaccio%20Anthony%20L.)
-> - [Willie, Jon T.](Papers/People/Willie%20Jon%20T.)
-> - [Brunner, Peter](Papers/People/Brunner%20Peter)
-> - [Fedorenko, Evelina](Papers/People/Fedorenko%20Evelina)
+> - [Regev, Tamar I.](Regev%2C%20Tamar%20I.)
+> - [Casto, Colton](Casto%2C%20Colton)
+> - [Hosseini, Eghbal A.](Hosseini%2C%20Eghbal%20A.)
+> - [Adamek, Markus](Adamek%2C%20Markus)
+> - [Ritaccio, Anthony L.](Ritaccio%2C%20Anthony%20L.)
+> - [Willie, Jon T.](Willie%2C%20Jon%20T.)
+> - [Brunner, Peter](Brunner%2C%20Peter)
+> - [Fedorenko, Evelina](Fedorenko%2C%20Evelina)
 
 **Year:** 2022
 **DOI:** 10.1101/2022.12.30.522216

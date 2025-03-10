@@ -12,10 +12,10 @@ tags:
 # Annotation for [Wang et al. 2022 - A](Papers/References/Wang%20et%20al.%202022%20-%20A)
 
 > [!example]- Authors
-> - [Wang, Shaonan](Papers/People/Wang%20Shaonan)
-> - [Zhang, Xiaohan](Papers/People/Zhang%20Xiaohan)
-> - [Zhang, Jiajun](Papers/People/Zhang%20Jiajun)
-> - [Zong, Chengqing](Papers/People/Zong%20Chengqing)
+> - [Wang, Shaonan](Wang%2C%20Shaonan)
+> - [Zhang, Xiaohan](Zhang%2C%20Xiaohan)
+> - [Zhang, Jiajun](Zhang%2C%20Jiajun)
+> - [Zong, Chengqing](Zong%2C%20Chengqing)
 
 **Year:** 2022
 **DOI:** 10.1038/s41597-022-01708-5

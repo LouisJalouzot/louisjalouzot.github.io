@@ -12,9 +12,9 @@ tags:
 # Annotation for [Gao et al. 2021 - SimCSE](Papers/References/Gao%20et%20al.%202021%20-%20SimCSE)
 
 > [!example]- Authors
-> - [Gao, Tianyu](Papers/People/Gao%20Tianyu)
-> - [Yao, Xingcheng](Papers/People/Yao%20Xingcheng)
-> - [Chen, Danqi](Papers/People/Chen%20Danqi)
+> - [Gao, Tianyu](Gao%2C%20Tianyu)
+> - [Yao, Xingcheng](Yao%2C%20Xingcheng)
+> - [Chen, Danqi](Chen%2C%20Danqi)
 
 **Year:** 2021
 **DOI:** 10.18653/v1/2021.emnlp-main.552

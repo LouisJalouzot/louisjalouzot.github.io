@@ -12,10 +12,10 @@ tags:
 # Annotation for [Tang et al. 2023 - Semantic](Papers/References/Tang%20et%20al.%202023%20-%20Semantic)
 
 > [!example]- Authors
-> - [Tang, Jerry](Papers/People/Tang%20Jerry)
-> - [LeBel, Amanda](Papers/People/LeBel%20Amanda)
-> - [Jain, Shailee](Papers/People/Jain%20Shailee)
-> - [Huth, Alexander G.](Papers/People/Huth%20Alexander%20G.)
+> - [Tang, Jerry](Tang%2C%20Jerry)
+> - [LeBel, Amanda](LeBel%2C%20Amanda)
+> - [Jain, Shailee](Jain%2C%20Shailee)
+> - [Huth, Alexander G.](Huth%2C%20Alexander%20G.)
 
 **Year:** 2023
 **DOI:** 10.1038/s41593-023-01304-9

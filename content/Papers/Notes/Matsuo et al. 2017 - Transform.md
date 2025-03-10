@@ -12,9 +12,9 @@ tags:
 # Annotation for [Matsuo et al. 2017 - Transform](Papers/References/Matsuo%20et%20al.%202017%20-%20Transform)
 
 > [!example]- Authors
-> - [Matsuo, Tadashi](Papers/People/Matsuo%20Tadashi)
-> - [Fukuhara, Hiroya](Papers/People/Fukuhara%20Hiroya)
-> - [Shimada, Nobutaka](Papers/People/Shimada%20Nobutaka)
+> - [Matsuo, Tadashi](Matsuo%2C%20Tadashi)
+> - [Fukuhara, Hiroya](Fukuhara%2C%20Hiroya)
+> - [Shimada, Nobutaka](Shimada%2C%20Nobutaka)
 
 **Year:** 2017
 **DOI:** 10.1109/IROS.2017.8206047

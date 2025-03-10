@@ -12,10 +12,10 @@ tags:
 # Annotation for [Cui et al. 2024 - A](Papers/References/Cui%20et%20al.%202024%20-%20A)
 
 > [!example]- Authors
-> - [Cui, Hugo](Papers/People/Cui%20Hugo)
-> - [Behrens, Freya](Papers/People/Behrens%20Freya)
-> - [Krzakala, Florent](Papers/People/Krzakala%20Florent)
-> - [Zdeborová, Lenka](Papers/People/Zdeborová%20Lenka)
+> - [Cui, Hugo](Cui%2C%20Hugo)
+> - [Behrens, Freya](Behrens%2C%20Freya)
+> - [Krzakala, Florent](Krzakala%2C%20Florent)
+> - [Zdeborová, Lenka](Zdeborov%C3%A1%2C%20Lenka)
 
 **Year:** 2024
 **DOI:** 10.48550/arXiv.2402.03902

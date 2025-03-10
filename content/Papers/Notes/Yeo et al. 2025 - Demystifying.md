@@ -12,11 +12,11 @@ tags:
 # Annotation for [Yeo et al. 2025 - Demystifying](Papers/References/Yeo%20et%20al.%202025%20-%20Demystifying)
 
 > [!example]- Authors
-> - [Yeo, Edward](Papers/People/Yeo%20Edward)
-> - [Tong, Yuxuan](Papers/People/Tong%20Yuxuan)
-> - [Niu, Morry](Papers/People/Niu%20Morry)
-> - [Neubig, Graham](Papers/People/Neubig%20Graham)
-> - [Yue, Xiang](Papers/People/Yue%20Xiang)
+> - [Yeo, Edward](Yeo%2C%20Edward)
+> - [Tong, Yuxuan](Tong%2C%20Yuxuan)
+> - [Niu, Morry](Niu%2C%20Morry)
+> - [Neubig, Graham](Neubig%2C%20Graham)
+> - [Yue, Xiang](Yue%2C%20Xiang)
 
 **Year:** 2025
 **URL:** https://www.semanticscholar.org/paper/Demystifying-Long-Chain-of-Thought-Reasoning-in-Yeo-Tong/45e1c99a1c8935bf137c0b51a08a03ffb6821993

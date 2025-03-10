@@ -12,14 +12,14 @@ tags:
 # Annotation for [Gordji-Nejad et al. 2024 - Single](Papers/References/Gordji-Nejad%20et%20al.%202024%20-%20Single)
 
 > [!example]- Authors
-> - [Gordji-Nejad, Ali](Papers/People/Gordji-Nejad%20Ali)
-> - [Matusch, Andreas](Papers/People/Matusch%20Andreas)
-> - [Kleedörfer, Sophie](Papers/People/Kleedörfer%20Sophie)
-> - [Jayeshkumar Patel, Harshal](Papers/People/Jayeshkumar%20Patel%20Harshal)
-> - [Drzezga, Alexander](Papers/People/Drzezga%20Alexander)
-> - [Elmenhorst, David](Papers/People/Elmenhorst%20David)
-> - [Binkofski, Ferdinand](Papers/People/Binkofski%20Ferdinand)
-> - [Bauer, Andreas](Papers/People/Bauer%20Andreas)
+> - [Gordji-Nejad, Ali](Gordji-Nejad%2C%20Ali)
+> - [Matusch, Andreas](Matusch%2C%20Andreas)
+> - [Kleedörfer, Sophie](Kleed%C3%B6rfer%2C%20Sophie)
+> - [Jayeshkumar Patel, Harshal](Jayeshkumar%20Patel%2C%20Harshal)
+> - [Drzezga, Alexander](Drzezga%2C%20Alexander)
+> - [Elmenhorst, David](Elmenhorst%2C%20David)
+> - [Binkofski, Ferdinand](Binkofski%2C%20Ferdinand)
+> - [Bauer, Andreas](Bauer%2C%20Andreas)
 
 **Year:** 2024
 **DOI:** 10.1038/s41598-024-54249-9

@@ -12,8 +12,8 @@ tags:
 # Annotation for [Richard and Thirion 2023 - FastSRM](Papers/References/Richard%20and%20Thirion%202023%20-%20FastSRM)
 
 > [!example]- Authors
-> - [Richard, Hugo](Papers/People/Richard%20Hugo)
-> - [Thirion, Bertrand](Papers/People/Thirion%20Bertrand)
+> - [Richard, Hugo](Richard%2C%20Hugo)
+> - [Thirion, Bertrand](Thirion%2C%20Bertrand)
 
 **Year:** 2023
 **DOI:** 10.52294/001c.87954

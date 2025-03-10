@@ -12,9 +12,9 @@ tags:
 # Annotation for [Marinescu et al. 2024 - Distilling](Papers/References/Marinescu%20et%20al.%202024%20-%20Distilling)
 
 > [!example]- Authors
-> - [Marinescu, Ioana](Papers/People/Marinescu%20Ioana)
-> - [McCoy, R. Thomas](Papers/People/McCoy%20R.%20Thomas)
-> - [Griffiths, Thomas L.](Papers/People/Griffiths%20Thomas%20L.)
+> - [Marinescu, Ioana](Marinescu%2C%20Ioana)
+> - [McCoy, R. Thomas](McCoy%2C%20R.%20Thomas)
+> - [Griffiths, Thomas L.](Griffiths%2C%20Thomas%20L.)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2402.07035

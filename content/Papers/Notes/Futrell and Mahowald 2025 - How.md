@@ -12,8 +12,8 @@ tags:
 # Annotation for [Futrell and Mahowald 2025 - How](Papers/References/Futrell%20and%20Mahowald%202025%20-%20How)
 
 > [!example]- Authors
-> - [Futrell, Richard](Papers/People/Futrell%20Richard)
-> - [Mahowald, Kyle](Papers/People/Mahowald%20Kyle)
+> - [Futrell, Richard](Futrell%2C%20Richard)
+> - [Mahowald, Kyle](Mahowald%2C%20Kyle)
 
 **Year:** 2025
 **URL:** https://www.semanticscholar.org/paper/How-Linguistics-Learned-to-Stop-Worrying-and-Love-Futrell-Mahowald/20eec26b32f8b696f80f0b14ebefa779b4b975e4

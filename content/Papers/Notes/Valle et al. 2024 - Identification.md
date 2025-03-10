@@ -12,10 +12,10 @@ tags:
 # Annotation for [Valle et al. 2024 - Identification](Papers/References/Valle%20et%20al.%202024%20-%20Identification)
 
 > [!example]- Authors
-> - [Valle, Carlos](Papers/People/Valle%20Carlos)
-> - [Mendez-Orellana, Carolina](Papers/People/Mendez-Orellana%20Carolina)
-> - [Herff, Christian](Papers/People/Herff%20Christian)
-> - [Rodriguez-Fernandez, Maria](Papers/People/Rodriguez-Fernandez%20Maria)
+> - [Valle, Carlos](Valle%2C%20Carlos)
+> - [Mendez-Orellana, Carolina](Mendez-Orellana%2C%20Carolina)
+> - [Herff, Christian](Herff%2C%20Christian)
+> - [Rodriguez-Fernandez, Maria](Rodriguez-Fernandez%2C%20Maria)
 
 **Year:** 2024
 **DOI:** 10.1088/1741-2552/ad88a3

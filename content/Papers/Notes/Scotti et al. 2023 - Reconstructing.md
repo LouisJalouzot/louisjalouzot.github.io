@@ -12,18 +12,18 @@ tags:
 # Annotation for [Scotti et al. 2023 - Reconstructing](Papers/References/Scotti%20et%20al.%202023%20-%20Reconstructing)
 
 > [!example]- Authors
-> - [Scotti, Paul S.](Papers/People/Scotti%20Paul%20S.)
-> - [Banerjee, Atmadeep](Papers/People/Banerjee%20Atmadeep)
-> - [Goode, Jimmie](Papers/People/Goode%20Jimmie)
-> - [Shabalin, Stepan](Papers/People/Shabalin%20Stepan)
-> - [Nguyen, Alex](Papers/People/Nguyen%20Alex)
-> - [Cohen, Ethan](Papers/People/Cohen%20Ethan)
-> - [Dempster, Aidan J.](Papers/People/Dempster%20Aidan%20J.)
-> - [Verlinde, Nathalie](Papers/People/Verlinde%20Nathalie)
-> - [Yundler, Elad](Papers/People/Yundler%20Elad)
-> - [Weisberg, David](Papers/People/Weisberg%20David)
-> - [Norman, Kenneth A.](Papers/People/Norman%20Kenneth%20A.)
-> - [Abraham, Tanishq Mathew](Papers/People/Abraham%20Tanishq%20Mathew)
+> - [Scotti, Paul S.](Scotti%2C%20Paul%20S.)
+> - [Banerjee, Atmadeep](Banerjee%2C%20Atmadeep)
+> - [Goode, Jimmie](Goode%2C%20Jimmie)
+> - [Shabalin, Stepan](Shabalin%2C%20Stepan)
+> - [Nguyen, Alex](Nguyen%2C%20Alex)
+> - [Cohen, Ethan](Cohen%2C%20Ethan)
+> - [Dempster, Aidan J.](Dempster%2C%20Aidan%20J.)
+> - [Verlinde, Nathalie](Verlinde%2C%20Nathalie)
+> - [Yundler, Elad](Yundler%2C%20Elad)
+> - [Weisberg, David](Weisberg%2C%20David)
+> - [Norman, Kenneth A.](Norman%2C%20Kenneth%20A.)
+> - [Abraham, Tanishq Mathew](Abraham%2C%20Tanishq%20Mathew)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2305.18274

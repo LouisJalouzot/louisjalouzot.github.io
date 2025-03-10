@@ -12,10 +12,10 @@ tags:
 # Annotation for [Elmoznino et al. 2025 - A](Papers/References/Elmoznino%20et%20al.%202025%20-%20A)
 
 > [!example]- Authors
-> - [Elmoznino, Eric](Papers/People/Elmoznino%20Eric)
-> - [Jiralerspong, Thomas](Papers/People/Jiralerspong%20Thomas)
-> - [Bengio, Yoshua](Papers/People/Bengio%20Yoshua)
-> - [Lajoie, Guillaume](Papers/People/Lajoie%20Guillaume)
+> - [Elmoznino, Eric](Elmoznino%2C%20Eric)
+> - [Jiralerspong, Thomas](Jiralerspong%2C%20Thomas)
+> - [Bengio, Yoshua](Bengio%2C%20Yoshua)
+> - [Lajoie, Guillaume](Lajoie%2C%20Guillaume)
 
 **Year:** 2025
 **DOI:** 10.48550/arXiv.2410.14817

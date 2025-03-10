@@ -12,7 +12,7 @@ tags:
 # Annotation for [Davidoff 2020 - Agency](Papers/References/Davidoff%202020%20-%20Agency)
 
 > [!example]- Authors
-> - [Davidoff, Erika J.](Papers/People/Davidoff%20Erika%20J.)
+> - [Davidoff, Erika J.](Davidoff%2C%20Erika%20J.)
 
 **Year:** 2020
 **URL:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7654969/

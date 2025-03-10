@@ -12,8 +12,8 @@ tags:
 # Annotation for [Whiten and Youngblood 2025 - Convergent](Papers/References/Whiten%20and%20Youngblood%202025%20-%20Convergent)
 
 > [!example]- Authors
-> - [Whiten, Andrew](Papers/People/Whiten%20Andrew)
-> - [Youngblood, Mason](Papers/People/Youngblood%20Mason)
+> - [Whiten, Andrew](Whiten%2C%20Andrew)
+> - [Youngblood, Mason](Youngblood%2C%20Mason)
 
 **Year:** 2025
 **DOI:** 10.1126/science.adv2318

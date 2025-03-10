@@ -12,9 +12,9 @@ tags:
 # Annotation for [Tuckute et al. 2024 - Language](Papers/References/Tuckute%20et%20al.%202024%20-%20Language)
 
 > [!example]- Authors
-> - [Tuckute, Greta](Papers/People/Tuckute%20Greta)
-> - [Kanwisher, Nancy](Papers/People/Kanwisher%20Nancy)
-> - [Fedorenko, Evelina](Papers/People/Fedorenko%20Evelina)
+> - [Tuckute, Greta](Tuckute%2C%20Greta)
+> - [Kanwisher, Nancy](Kanwisher%2C%20Nancy)
+> - [Fedorenko, Evelina](Fedorenko%2C%20Evelina)
 
 **Year:** 2024
 **DOI:** 10.1146/annurev-neuro-120623-101142

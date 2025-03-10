@@ -12,12 +12,12 @@ tags:
 # Annotation for [Yu et al. 2023 - Skill-Mix](Papers/References/Yu%20et%20al.%202023%20-%20Skill-Mix)
 
 > [!example]- Authors
-> - [Yu, Dingli](Papers/People/Yu%20Dingli)
-> - [Kaur, Simran](Papers/People/Kaur%20Simran)
-> - [Gupta, Arushi](Papers/People/Gupta%20Arushi)
-> - [Brown-Cohen, Jonah](Papers/People/Brown-Cohen%20Jonah)
-> - [Goyal, Anirudh](Papers/People/Goyal%20Anirudh)
-> - [Arora, Sanjeev](Papers/People/Arora%20Sanjeev)
+> - [Yu, Dingli](Yu%2C%20Dingli)
+> - [Kaur, Simran](Kaur%2C%20Simran)
+> - [Gupta, Arushi](Gupta%2C%20Arushi)
+> - [Brown-Cohen, Jonah](Brown-Cohen%2C%20Jonah)
+> - [Goyal, Anirudh](Goyal%2C%20Anirudh)
+> - [Arora, Sanjeev](Arora%2C%20Sanjeev)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2310.17567

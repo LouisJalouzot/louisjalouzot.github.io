@@ -12,7 +12,7 @@ tags:
 # Annotation for [Fried 2022 - Neurons](Papers/References/Fried%202022%20-%20Neurons)
 
 > [!example]- Authors
-> - [Fried, Itzhak](Papers/People/Fried%20Itzhak)
+> - [Fried, Itzhak](Fried%2C%20Itzhak)
 
 **Year:** 2022
 **DOI:** 10.1038/s41583-021-00543-8

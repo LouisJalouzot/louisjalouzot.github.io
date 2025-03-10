@@ -12,12 +12,12 @@ tags:
 # Annotation for [Schoffelen et al. 2019 - A](Papers/References/Schoffelen%20et%20al.%202019%20-%20A)
 
 > [!example]- Authors
-> - [Schoffelen, Jan-Mathijs](Papers/People/Schoffelen%20Jan-Mathijs)
-> - [Oostenveld, Robert](Papers/People/Oostenveld%20Robert)
-> - [Lam, Nietzsche H. L.](Papers/People/Lam%20Nietzsche%20H.%20L.)
-> - [Uddén, Julia](Papers/People/Uddén%20Julia)
-> - [Hultén, Annika](Papers/People/Hultén%20Annika)
-> - [Hagoort, Peter](Papers/People/Hagoort%20Peter)
+> - [Schoffelen, Jan-Mathijs](Schoffelen%2C%20Jan-Mathijs)
+> - [Oostenveld, Robert](Oostenveld%2C%20Robert)
+> - [Lam, Nietzsche H. L.](Lam%2C%20Nietzsche%20H.%20L.)
+> - [Uddén, Julia](Udd%C3%A9n%2C%20Julia)
+> - [Hultén, Annika](Hult%C3%A9n%2C%20Annika)
+> - [Hagoort, Peter](Hagoort%2C%20Peter)
 
 **Year:** 2019
 **DOI:** 10.1038/s41597-019-0020-y

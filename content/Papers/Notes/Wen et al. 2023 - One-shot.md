@@ -12,10 +12,10 @@ tags:
 # Annotation for [Wen et al. 2023 - One-shot](Papers/References/Wen%20et%20al.%202023%20-%20One-shot)
 
 > [!example]- Authors
-> - [Wen, John H.](Papers/People/Wen%20John%20H.)
-> - [Sorscher, Ben](Papers/People/Sorscher%20Ben)
-> - [Ganguli, Surya](Papers/People/Ganguli%20Surya)
-> - [Giocomo, Lisa M](Papers/People/Giocomo%20Lisa%20M)
+> - [Wen, John H.](Wen%2C%20John%20H.)
+> - [Sorscher, Ben](Sorscher%2C%20Ben)
+> - [Ganguli, Surya](Ganguli%2C%20Surya)
+> - [Giocomo, Lisa M](Giocomo%2C%20Lisa%20M)
 
 **Year:** 2023
 **DOI:** 10.1101/2023.09.07.556744

@@ -12,9 +12,9 @@ tags:
 # Annotation for [Rogers et al. 2020 - A](Papers/References/Rogers%20et%20al.%202020%20-%20A)
 
 > [!example]- Authors
-> - [Rogers, Anna](Papers/People/Rogers%20Anna)
-> - [Kovaleva, Olga](Papers/People/Kovaleva%20Olga)
-> - [Rumshisky, Anna](Papers/People/Rumshisky%20Anna)
+> - [Rogers, Anna](Rogers%2C%20Anna)
+> - [Kovaleva, Olga](Kovaleva%2C%20Olga)
+> - [Rumshisky, Anna](Rumshisky%2C%20Anna)
 
 **Year:** 2021
 **DOI:** 10.1162/tacl_a_00349

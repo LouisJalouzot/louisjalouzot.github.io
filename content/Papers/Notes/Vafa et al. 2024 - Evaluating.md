@@ -12,11 +12,11 @@ tags:
 # Annotation for [Vafa et al. 2024 - Evaluating](Papers/References/Vafa%20et%20al.%202024%20-%20Evaluating)
 
 > [!example]- Authors
-> - [Vafa, Keyon](Papers/People/Vafa%20Keyon)
-> - [Chen, Justin Y.](Papers/People/Chen%20Justin%20Y.)
-> - [Kleinberg, Jon](Papers/People/Kleinberg%20Jon)
-> - [Mullainathan, Sendhil](Papers/People/Mullainathan%20Sendhil)
-> - [Rambachan, Ashesh](Papers/People/Rambachan%20Ashesh)
+> - [Vafa, Keyon](Vafa%2C%20Keyon)
+> - [Chen, Justin Y.](Chen%2C%20Justin%20Y.)
+> - [Kleinberg, Jon](Kleinberg%2C%20Jon)
+> - [Mullainathan, Sendhil](Mullainathan%2C%20Sendhil)
+> - [Rambachan, Ashesh](Rambachan%2C%20Ashesh)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2406.03689

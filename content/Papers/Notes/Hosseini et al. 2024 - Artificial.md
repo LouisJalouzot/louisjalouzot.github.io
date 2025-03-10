@@ -12,12 +12,12 @@ tags:
 # Annotation for [Hosseini et al. 2024 - Artificial](Papers/References/Hosseini%20et%20al.%202024%20-%20Artificial)
 
 > [!example]- Authors
-> - [Hosseini, Eghbal A.](Papers/People/Hosseini%20Eghbal%20A.)
-> - [Schrimpf, Martin](Papers/People/Schrimpf%20Martin)
-> - [Zhang, Yian](Papers/People/Zhang%20Yian)
-> - [Bowman, Samuel](Papers/People/Bowman%20Samuel)
-> - [Zaslavsky, Noga](Papers/People/Zaslavsky%20Noga)
-> - [Fedorenko, Evelina](Papers/People/Fedorenko%20Evelina)
+> - [Hosseini, Eghbal A.](Hosseini%2C%20Eghbal%20A.)
+> - [Schrimpf, Martin](Schrimpf%2C%20Martin)
+> - [Zhang, Yian](Zhang%2C%20Yian)
+> - [Bowman, Samuel](Bowman%2C%20Samuel)
+> - [Zaslavsky, Noga](Zaslavsky%2C%20Noga)
+> - [Fedorenko, Evelina](Fedorenko%2C%20Evelina)
 
 **Year:** 2024
 **DOI:** 10.1162/nol_a_00137

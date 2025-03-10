@@ -12,7 +12,7 @@ tags:
 # Annotation for [Murphy 2023 - ROSE](Papers/References/Murphy%202023%20-%20ROSE)
 
 > [!example]- Authors
-> - [Murphy, Elliot](Papers/People/Murphy%20Elliot)
+> - [Murphy, Elliot](Murphy%2C%20Elliot)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2303.08877

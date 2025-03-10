@@ -12,7 +12,7 @@ tags:
 # Annotation for [Lasseck 2013 - Bird](Papers/References/Lasseck%202013%20-%20Bird)
 
 > [!example]- Authors
-> - [Lasseck, Mario](Papers/People/Lasseck%20Mario)
+> - [Lasseck, Mario](Lasseck%2C%20Mario)
 
 **Year:** 2013
 **URL:** https://www.semanticscholar.org/paper/Bird-Song-Classification-in-Field-Recordings%3A-for-*-Lasseck/95e0623c25126610014820dd7a04207a1fce900a

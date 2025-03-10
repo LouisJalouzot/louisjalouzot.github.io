@@ -12,10 +12,10 @@ tags:
 # Annotation for [Goldstein et al. 2018 - Brain-to-brain](Papers/References/Goldstein%20et%20al.%202018%20-%20Brain-to-brain)
 
 > [!example]- Authors
-> - [Goldstein, Pavel](Papers/People/Goldstein%20Pavel)
-> - [Weissman-Fogel, Irit](Papers/People/Weissman-Fogel%20Irit)
-> - [Dumas, Guillaume](Papers/People/Dumas%20Guillaume)
-> - [Shamay-Tsoory, Simone G.](Papers/People/Shamay-Tsoory%20Simone%20G.)
+> - [Goldstein, Pavel](Goldstein%2C%20Pavel)
+> - [Weissman-Fogel, Irit](Weissman-Fogel%2C%20Irit)
+> - [Dumas, Guillaume](Dumas%2C%20Guillaume)
+> - [Shamay-Tsoory, Simone G.](Shamay-Tsoory%2C%20Simone%20G.)
 
 **Year:** 2018
 **DOI:** 10.1073/pnas.1703643115

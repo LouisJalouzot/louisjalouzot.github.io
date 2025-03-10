@@ -12,14 +12,14 @@ tags:
 # Annotation for [Li et al. 2023 - Label](Papers/References/Li%20et%20al.%202023%20-%20Label)
 
 > [!example]- Authors
-> - [Li, Zongxi](Papers/People/Li%20Zongxi)
-> - [Li, Xianming](Papers/People/Li%20Xianming)
-> - [Liu, Yuzhang](Papers/People/Liu%20Yuzhang)
-> - [Xie, Haoran](Papers/People/Xie%20Haoran)
-> - [Li, Jing](Papers/People/Li%20Jing)
-> - [Wang, Fu-lee](Papers/People/Wang%20Fu-lee)
-> - [Li, Qing](Papers/People/Li%20Qing)
-> - [Zhong, Xiaoqin](Papers/People/Zhong%20Xiaoqin)
+> - [Li, Zongxi](Li%2C%20Zongxi)
+> - [Li, Xianming](Li%2C%20Xianming)
+> - [Liu, Yuzhang](Liu%2C%20Yuzhang)
+> - [Xie, Haoran](Xie%2C%20Haoran)
+> - [Li, Jing](Li%2C%20Jing)
+> - [Wang, Fu-lee](Wang%2C%20Fu-lee)
+> - [Li, Qing](Li%2C%20Qing)
+> - [Zhong, Xiaoqin](Zhong%2C%20Xiaoqin)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2310.01208

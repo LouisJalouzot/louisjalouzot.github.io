@@ -12,8 +12,8 @@ tags:
 # Annotation for [Millet and Dunbar 2022 - Do](Papers/References/Millet%20and%20Dunbar%202022%20-%20Do)
 
 > [!example]- Authors
-> - [Millet, Juliette](Papers/People/Millet%20Juliette)
-> - [Dunbar, Ewan](Papers/People/Dunbar%20Ewan)
+> - [Millet, Juliette](Millet%2C%20Juliette)
+> - [Dunbar, Ewan](Dunbar%2C%20Ewan)
 
 **Year:** 2022
 **DOI:** 10.48550/ARXIV.2205.15819

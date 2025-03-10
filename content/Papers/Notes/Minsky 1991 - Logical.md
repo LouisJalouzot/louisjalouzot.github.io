@@ -12,7 +12,7 @@ tags:
 # Annotation for [Minsky 1991 - Logical](Papers/References/Minsky%201991%20-%20Logical)
 
 > [!example]- Authors
-> - [Minsky, Marvin L.](Papers/People/Minsky%20Marvin%20L.)
+> - [Minsky, Marvin L.](Minsky%2C%20Marvin%20L.)
 
 **Year:** 1991
 **DOI:** 10.1609/aimag.v12i2.894

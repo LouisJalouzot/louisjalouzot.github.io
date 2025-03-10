@@ -12,11 +12,11 @@ tags:
 # Annotation for [Dentella et al. 2024 - Testing](Papers/References/Dentella%20et%20al.%202024%20-%20Testing)
 
 > [!example]- Authors
-> - [Dentella, Vittoria](Papers/People/Dentella%20Vittoria)
-> - [Günther, Fritz](Papers/People/Günther%20Fritz)
-> - [Murphy, Elliot](Papers/People/Murphy%20Elliot)
-> - [Marcus, Gary](Papers/People/Marcus%20Gary)
-> - [Leivada, Evelina](Papers/People/Leivada%20Evelina)
+> - [Dentella, Vittoria](Dentella%2C%20Vittoria)
+> - [Günther, Fritz](G%C3%BCnther%2C%20Fritz)
+> - [Murphy, Elliot](Murphy%2C%20Elliot)
+> - [Marcus, Gary](Marcus%2C%20Gary)
+> - [Leivada, Evelina](Leivada%2C%20Evelina)
 
 **Year:** 2024
 **DOI:** 10.1038/s41598-024-79531-8

@@ -12,10 +12,10 @@ tags:
 # Annotation for [Beirlant et al. 1997 - Nonparametric](Papers/References/Beirlant%20et%20al.%201997%20-%20Nonparametric)
 
 > [!example]- Authors
-> - [Beirlant, J.](Papers/People/Beirlant%20J.)
-> - [Dudewicz, E.](Papers/People/Dudewicz%20E.)
-> - [Györfi, L.](Papers/People/Györfi%20L.)
-> - [Denes, I.](Papers/People/Denes%20I.)
+> - [Beirlant, J.](Beirlant%2C%20J.)
+> - [Dudewicz, E.](Dudewicz%2C%20E.)
+> - [Györfi, L.](Gy%C3%B6rfi%2C%20L.)
+> - [Denes, I.](Denes%2C%20I.)
 
 **Year:** 1997
 **URL:** https://www.semanticscholar.org/paper/Nonparametric-entropy-estimation.-An-overview-Beirlant-Dudewicz/14ba9dccf06355d1c6478b843ccb8f56d7374409

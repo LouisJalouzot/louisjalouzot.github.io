@@ -12,8 +12,8 @@ tags:
 # Annotation for [Yu and Ananiadou 2023 - Neuron-Level](Papers/References/Yu%20and%20Ananiadou%202023%20-%20Neuron-Level)
 
 > [!example]- Authors
-> - [Yu, Zeping](Papers/People/Yu%20Zeping)
-> - [Ananiadou, Sophia](Papers/People/Ananiadou%20Sophia)
+> - [Yu, Zeping](Yu%2C%20Zeping)
+> - [Ananiadou, Sophia](Ananiadou%2C%20Sophia)
 
 **Year:** 2023
 **URL:** https://www.semanticscholar.org/paper/Neuron-Level-Knowledge-Attribution-in-Large-Models-Yu-Ananiadou/9af3c1be7a4cfd38f10b9373e4623f4b64d467cd

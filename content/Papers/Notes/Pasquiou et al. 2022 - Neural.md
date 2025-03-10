@@ -12,11 +12,11 @@ tags:
 # Annotation for [Pasquiou et al. 2022 - Neural](Papers/References/Pasquiou%20et%20al.%202022%20-%20Neural)
 
 > [!example]- Authors
-> - [Pasquiou, Alexandre](Papers/People/Pasquiou%20Alexandre)
-> - [Lakretz, Yair](Papers/People/Lakretz%20Yair)
-> - [Hale, John](Papers/People/Hale%20John)
-> - [Thirion, Bertrand](Papers/People/Thirion%20Bertrand)
-> - [Pallier, Christophe](Papers/People/Pallier%20Christophe)
+> - [Pasquiou, Alexandre](Pasquiou%2C%20Alexandre)
+> - [Lakretz, Yair](Lakretz%2C%20Yair)
+> - [Hale, John](Hale%2C%20John)
+> - [Thirion, Bertrand](Thirion%2C%20Bertrand)
+> - [Pallier, Christophe](Pallier%2C%20Christophe)
 
 **Year:** 2022
 **DOI:** 10.48550/arXiv.2207.03380

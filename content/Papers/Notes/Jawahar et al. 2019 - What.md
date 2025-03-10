@@ -12,9 +12,9 @@ tags:
 # Annotation for [Jawahar et al. 2019 - What](Papers/References/Jawahar%20et%20al.%202019%20-%20What)
 
 > [!example]- Authors
-> - [Jawahar, Ganesh](Papers/People/Jawahar%20Ganesh)
-> - [Sagot, Benoît](Papers/People/Sagot%20Benoît)
-> - [Seddah, Djamé](Papers/People/Seddah%20Djamé)
+> - [Jawahar, Ganesh](Jawahar%2C%20Ganesh)
+> - [Sagot, Benoît](Sagot%2C%20Beno%C3%AEt)
+> - [Seddah, Djamé](Seddah%2C%20Djam%C3%A9)
 
 **Year:** 2019
 **DOI:** 10.18653/v1/P19-1356

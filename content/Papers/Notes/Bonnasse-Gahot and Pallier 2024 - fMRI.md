@@ -12,8 +12,8 @@ tags:
 # Annotation for [Bonnasse-Gahot and Pallier 2024 - fMRI](Papers/References/Bonnasse-Gahot%20and%20Pallier%202024%20-%20fMRI)
 
 > [!example]- Authors
-> - [Bonnasse-Gahot, Laurent](Papers/People/Bonnasse-Gahot%20Laurent)
-> - [Pallier, Christophe](Papers/People/Pallier%20Christophe)
+> - [Bonnasse-Gahot, Laurent](Bonnasse-Gahot%2C%20Laurent)
+> - [Pallier, Christophe](Pallier%2C%20Christophe)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2405.17992

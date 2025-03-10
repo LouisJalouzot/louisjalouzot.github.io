@@ -12,9 +12,9 @@ tags:
 # Annotation for [Clark et al. 2020 - Transformers](Papers/References/Clark%20et%20al.%202020%20-%20Transformers)
 
 > [!example]- Authors
-> - [Clark, Peter](Papers/People/Clark%20Peter)
-> - [Tafjord, Oyvind](Papers/People/Tafjord%20Oyvind)
-> - [Richardson, Kyle](Papers/People/Richardson%20Kyle)
+> - [Clark, Peter](Clark%2C%20Peter)
+> - [Tafjord, Oyvind](Tafjord%2C%20Oyvind)
+> - [Richardson, Kyle](Richardson%2C%20Kyle)
 
 **Year:** 2020
 **DOI:** 10.24963/ijcai.2020/537

@@ -12,11 +12,11 @@ tags:
 # Annotation for [Akbari et al. 2019 - Towards](Papers/References/Akbari%20et%20al.%202019%20-%20Towards)
 
 > [!example]- Authors
-> - [Akbari, Hassan](Papers/People/Akbari%20Hassan)
-> - [Khalighinejad, Bahar](Papers/People/Khalighinejad%20Bahar)
-> - [Herrero, Jose L.](Papers/People/Herrero%20Jose%20L.)
-> - [Mehta, Ashesh D.](Papers/People/Mehta%20Ashesh%20D.)
-> - [Mesgarani, Nima](Papers/People/Mesgarani%20Nima)
+> - [Akbari, Hassan](Akbari%2C%20Hassan)
+> - [Khalighinejad, Bahar](Khalighinejad%2C%20Bahar)
+> - [Herrero, Jose L.](Herrero%2C%20Jose%20L.)
+> - [Mehta, Ashesh D.](Mehta%2C%20Ashesh%20D.)
+> - [Mesgarani, Nima](Mesgarani%2C%20Nima)
 
 **Year:** 2019
 **DOI:** 10.1038/s41598-018-37359-z

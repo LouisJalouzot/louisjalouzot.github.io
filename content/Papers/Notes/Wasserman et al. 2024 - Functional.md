@@ -12,10 +12,10 @@ tags:
 # Annotation for [Wasserman et al. 2024 - Functional](Papers/References/Wasserman%20et%20al.%202024%20-%20Functional)
 
 > [!example]- Authors
-> - [Wasserman, Navve](Papers/People/Wasserman%20Navve)
-> - [Beliy, Roman](Papers/People/Beliy%20Roman)
-> - [Urbach, Roy](Papers/People/Urbach%20Roy)
-> - [Irani, Michal](Papers/People/Irani%20Michal)
+> - [Wasserman, Navve](Wasserman%2C%20Navve)
+> - [Beliy, Roman](Beliy%2C%20Roman)
+> - [Urbach, Roy](Urbach%2C%20Roy)
+> - [Irani, Michal](Irani%2C%20Michal)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/Functional-Brain-to-Brain-Transformation-with-No-Wasserman-Beliy/b4aa934ef66817f71a33c1c97925ea8b2c1c9c74

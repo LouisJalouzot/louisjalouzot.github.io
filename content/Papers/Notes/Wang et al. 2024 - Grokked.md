@@ -12,10 +12,10 @@ tags:
 # Annotation for [Wang et al. 2024 - Grokked](Papers/References/Wang%20et%20al.%202024%20-%20Grokked)
 
 > [!example]- Authors
-> - [Wang, Boshi](Papers/People/Wang%20Boshi)
-> - [Yue, Xiang](Papers/People/Yue%20Xiang)
-> - [Su, Yu](Papers/People/Su%20Yu)
-> - [Sun, Huan](Papers/People/Sun%20Huan)
+> - [Wang, Boshi](Wang%2C%20Boshi)
+> - [Yue, Xiang](Yue%2C%20Xiang)
+> - [Su, Yu](Su%2C%20Yu)
+> - [Sun, Huan](Sun%2C%20Huan)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/Grokked-Transformers-are-Implicit-Reasoners%3A-A-to-Wang-Yue/5b1120f547d3969afc49b4a094e874d568e53aca

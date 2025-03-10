@@ -12,16 +12,16 @@ tags:
 # Annotation for [Muennighoff et al. 2025 - s1](Papers/References/Muennighoff%20et%20al.%202025%20-%20s1)
 
 > [!example]- Authors
-> - [Muennighoff, Niklas](Papers/People/Muennighoff%20Niklas)
-> - [Yang, Zitong](Papers/People/Yang%20Zitong)
-> - [Shi, Weijia](Papers/People/Shi%20Weijia)
-> - [Li, Xiang Lisa](Papers/People/Li%20Xiang%20Lisa)
-> - [Li, Fei-Fei](Papers/People/Li%20Fei-Fei)
-> - [Hajishirzi, Hanna](Papers/People/Hajishirzi%20Hanna)
-> - [Zettlemoyer, Luke S.](Papers/People/Zettlemoyer%20Luke%20S.)
-> - [Liang, Percy](Papers/People/Liang%20Percy)
-> - [Candes, Emmanuel J.](Papers/People/Candes%20Emmanuel%20J.)
-> - [Hashimoto, Tatsunori](Papers/People/Hashimoto%20Tatsunori)
+> - [Muennighoff, Niklas](Muennighoff%2C%20Niklas)
+> - [Yang, Zitong](Yang%2C%20Zitong)
+> - [Shi, Weijia](Shi%2C%20Weijia)
+> - [Li, Xiang Lisa](Li%2C%20Xiang%20Lisa)
+> - [Li, Fei-Fei](Li%2C%20Fei-Fei)
+> - [Hajishirzi, Hanna](Hajishirzi%2C%20Hanna)
+> - [Zettlemoyer, Luke S.](Zettlemoyer%2C%20Luke%20S.)
+> - [Liang, Percy](Liang%2C%20Percy)
+> - [Candes, Emmanuel J.](Candes%2C%20Emmanuel%20J.)
+> - [Hashimoto, Tatsunori](Hashimoto%2C%20Tatsunori)
 
 **Year:** 2025
 **URL:** https://www.semanticscholar.org/paper/s1%3A-Simple-test-time-scaling-Muennighoff-Yang/ef8a8bd193b1a0a5e2c834a7a28869a2ec85bab7

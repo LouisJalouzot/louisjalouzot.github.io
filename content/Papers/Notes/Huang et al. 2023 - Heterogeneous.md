@@ -12,9 +12,9 @@ tags:
 # Annotation for [Huang et al. 2023 - Heterogeneous](Papers/References/Huang%20et%20al.%202023%20-%20Heterogeneous)
 
 > [!example]- Authors
-> - [Huang, Jinghan](Papers/People/Huang%20Jinghan)
-> - [Chung, Moo K.](Papers/People/Chung%20Moo%20K.)
-> - [Qiu, Anqi](Papers/People/Qiu%20Anqi)
+> - [Huang, Jinghan](Huang%2C%20Jinghan)
+> - [Chung, Moo K.](Chung%2C%20Moo%20K.)
+> - [Qiu, Anqi](Qiu%2C%20Anqi)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2302.09323

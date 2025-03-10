@@ -12,13 +12,13 @@ tags:
 # Annotation for [Warstadt et al. 2020 - BLiMP](Papers/References/Warstadt%20et%20al.%202020%20-%20BLiMP)
 
 > [!example]- Authors
-> - [Warstadt, Alex](Papers/People/Warstadt%20Alex)
-> - [Parrish, Alicia](Papers/People/Parrish%20Alicia)
-> - [Liu, Haokun](Papers/People/Liu%20Haokun)
-> - [Mohananey, Anhad](Papers/People/Mohananey%20Anhad)
-> - [Peng, Wei](Papers/People/Peng%20Wei)
-> - [Wang, Sheng-Fu](Papers/People/Wang%20Sheng-Fu)
-> - [Bowman, Samuel R.](Papers/People/Bowman%20Samuel%20R.)
+> - [Warstadt, Alex](Warstadt%2C%20Alex)
+> - [Parrish, Alicia](Parrish%2C%20Alicia)
+> - [Liu, Haokun](Liu%2C%20Haokun)
+> - [Mohananey, Anhad](Mohananey%2C%20Anhad)
+> - [Peng, Wei](Peng%2C%20Wei)
+> - [Wang, Sheng-Fu](Wang%2C%20Sheng-Fu)
+> - [Bowman, Samuel R.](Bowman%2C%20Samuel%20R.)
 
 **Year:** 2021
 **DOI:** 10.1162/tacl_a_00321

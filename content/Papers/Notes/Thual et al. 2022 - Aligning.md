@@ -12,13 +12,13 @@ tags:
 # Annotation for [Thual et al. 2022 - Aligning](Papers/References/Thual%20et%20al.%202022%20-%20Aligning)
 
 > [!example]- Authors
-> - [Thual, Alexis](Papers/People/Thual%20Alexis)
-> - [Tran, Huy](Papers/People/Tran%20Huy)
-> - [Zemskova, T.](Papers/People/Zemskova%20T.)
-> - [Courty, N.](Papers/People/Courty%20N.)
-> - [Flamary, Rémi](Papers/People/Flamary%20Rémi)
-> - [Dehaene, S.](Papers/People/Dehaene%20S.)
-> - [Thirion, B.](Papers/People/Thirion%20B.)
+> - [Thual, Alexis](Thual%2C%20Alexis)
+> - [Tran, Huy](Tran%2C%20Huy)
+> - [Zemskova, T.](Zemskova%2C%20T.)
+> - [Courty, N.](Courty%2C%20N.)
+> - [Flamary, Rémi](Flamary%2C%20R%C3%A9mi)
+> - [Dehaene, S.](Dehaene%2C%20S.)
+> - [Thirion, B.](Thirion%2C%20B.)
 
 **Year:** 2022
 **URL:** https://www.semanticscholar.org/paper/Aligning-individual-brains-with-fused-unbalanced-Thual-Tran/d67dcbf457ce55336f5c6c5c4c996ca3fda0d477

@@ -12,9 +12,9 @@ tags:
 # Annotation for [ElGazzar et al. 2022 - Benchmarking](Papers/References/ElGazzar%20et%20al.%202022%20-%20Benchmarking)
 
 > [!example]- Authors
-> - [ElGazzar, Ahmed](Papers/People/ElGazzar%20Ahmed)
-> - [Thomas, Rajat](Papers/People/Thomas%20Rajat)
-> - [van Wingen, Guido](Papers/People/van%20Wingen%20Guido)
+> - [ElGazzar, Ahmed](ElGazzar%2C%20Ahmed)
+> - [Thomas, Rajat](Thomas%2C%20Rajat)
+> - [van Wingen, Guido](van%20Wingen%2C%20Guido)
 
 **Year:** 2022
 **DOI:** 10.48550/ARXIV.2211.08927

@@ -12,9 +12,9 @@ tags:
 # Annotation for [Caucheteux et al. 2023 - Evidence](Papers/References/Caucheteux%20et%20al.%202023%20-%20Evidence)
 
 > [!example]- Authors
-> - [Caucheteux, Charlotte](Papers/People/Caucheteux%20Charlotte)
-> - [Gramfort, Alexandre](Papers/People/Gramfort%20Alexandre)
-> - [King, Jean-Rémi](Papers/People/King%20Jean-Rémi)
+> - [Caucheteux, Charlotte](Caucheteux%2C%20Charlotte)
+> - [Gramfort, Alexandre](Gramfort%2C%20Alexandre)
+> - [King, Jean-Rémi](King%2C%20Jean-R%C3%A9mi)
 
 **Year:** 2023
 **DOI:** 10.1038/s41562-022-01516-2

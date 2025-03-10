@@ -12,10 +12,10 @@ tags:
 # Annotation for [AlKhamissi et al. 2024 - The](Papers/References/AlKhamissi%20et%20al.%202024%20-%20The)
 
 > [!example]- Authors
-> - [AlKhamissi, Badr](Papers/People/AlKhamissi%20Badr)
-> - [Tuckute, Greta](Papers/People/Tuckute%20Greta)
-> - [Bosselut, Antoine](Papers/People/Bosselut%20Antoine)
-> - [Schrimpf, Martin](Papers/People/Schrimpf%20Martin)
+> - [AlKhamissi, Badr](AlKhamissi%2C%20Badr)
+> - [Tuckute, Greta](Tuckute%2C%20Greta)
+> - [Bosselut, Antoine](Bosselut%2C%20Antoine)
+> - [Schrimpf, Martin](Schrimpf%2C%20Martin)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2411.02280

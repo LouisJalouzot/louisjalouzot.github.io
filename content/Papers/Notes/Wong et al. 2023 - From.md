@@ -12,13 +12,13 @@ tags:
 # Annotation for [Wong et al. 2023 - From](Papers/References/Wong%20et%20al.%202023%20-%20From)
 
 > [!example]- Authors
-> - [Wong, Lionel](Papers/People/Wong%20Lionel)
-> - [Grand, Gabriel](Papers/People/Grand%20Gabriel)
-> - [Lew, Alexander K.](Papers/People/Lew%20Alexander%20K.)
-> - [Goodman, Noah D.](Papers/People/Goodman%20Noah%20D.)
-> - [Mansinghka, Vikash K.](Papers/People/Mansinghka%20Vikash%20K.)
-> - [Andreas, Jacob](Papers/People/Andreas%20Jacob)
-> - [Tenenbaum, Joshua B.](Papers/People/Tenenbaum%20Joshua%20B.)
+> - [Wong, Lionel](Wong%2C%20Lionel)
+> - [Grand, Gabriel](Grand%2C%20Gabriel)
+> - [Lew, Alexander K.](Lew%2C%20Alexander%20K.)
+> - [Goodman, Noah D.](Goodman%2C%20Noah%20D.)
+> - [Mansinghka, Vikash K.](Mansinghka%2C%20Vikash%20K.)
+> - [Andreas, Jacob](Andreas%2C%20Jacob)
+> - [Tenenbaum, Joshua B.](Tenenbaum%2C%20Joshua%20B.)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2306.12672

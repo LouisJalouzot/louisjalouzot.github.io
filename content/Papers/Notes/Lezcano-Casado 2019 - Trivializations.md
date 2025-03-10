@@ -12,7 +12,7 @@ tags:
 # Annotation for [Lezcano-Casado 2019 - Trivializations](Papers/References/Lezcano-Casado%202019%20-%20Trivializations)
 
 > [!example]- Authors
-> - [Lezcano-Casado, Mario](Papers/People/Lezcano-Casado%20Mario)
+> - [Lezcano-Casado, Mario](Lezcano-Casado%2C%20Mario)
 
 **Year:** 2019
 **DOI:** 10.48550/arXiv.1909.09501

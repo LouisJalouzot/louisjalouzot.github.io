@@ -12,10 +12,10 @@ tags:
 # Annotation for [Bays et al. 2024 - Representation](Papers/References/Bays%20et%20al.%202024%20-%20Representation)
 
 > [!example]- Authors
-> - [Bays, Paul M.](Papers/People/Bays%20Paul%20M.)
-> - [Schneegans, Sebastian](Papers/People/Schneegans%20Sebastian)
-> - [Ma, Wei Ji](Papers/People/Ma%20Wei%20Ji)
-> - [Brady, Timothy F.](Papers/People/Brady%20Timothy%20F.)
+> - [Bays, Paul M.](Bays%2C%20Paul%20M.)
+> - [Schneegans, Sebastian](Schneegans%2C%20Sebastian)
+> - [Ma, Wei Ji](Ma%2C%20Wei%20Ji)
+> - [Brady, Timothy F.](Brady%2C%20Timothy%20F.)
 
 **Year:** 2024
 **DOI:** 10.1038/s41562-024-01871-2

@@ -12,9 +12,9 @@ tags:
 # Annotation for [Lin et al. 2019 - Open](Papers/References/Lin%20et%20al.%202019%20-%20Open)
 
 > [!example]- Authors
-> - [Lin, Yongjie](Papers/People/Lin%20Yongjie)
-> - [Tan, Yi Chern](Papers/People/Tan%20Yi%20Chern)
-> - [Frank, Robert](Papers/People/Frank%20Robert)
+> - [Lin, Yongjie](Lin%2C%20Yongjie)
+> - [Tan, Yi Chern](Tan%2C%20Yi%20Chern)
+> - [Frank, Robert](Frank%2C%20Robert)
 
 **Year:** 2019
 **DOI:** 10.48550/arXiv.1906.01698
