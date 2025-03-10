@@ -33,6 +33,7 @@ const processReferences = async (params) => {
             // Create annotation file if it doesn't exist
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
                 let annotationContent = `---
+title: ${originalFileName.split(" - ")[0]}
 publish: true
 cssclasses:
   - list-cards
