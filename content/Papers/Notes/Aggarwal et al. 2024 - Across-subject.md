@@ -1,14 +1,18 @@
 ---
 title: Aggarwal et al. 2024 - Across-subject
 paperTitle: Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
-authors: Aggarwal, Himanshu,Al-Shikhley, Liza,Thirion, Bertrand
+authors:
+  - Aggarwal, Himanshu,Al-Shikhley, Liza,Thirion, Bertrand
 publish: true
 cssclasses:
   - list-cards
-status: to read
-progress: to annotate
-project:
-type: annotation
+status:
+  - to read
+progress:
+  - to annotate
+project: []
+type:
+  - annotation
 tags:
 ---
 # Annotation for [Aggarwal et al. 2024 - Across-subject](Papers/References/Aggarwal%20et%20al.%202024%20-%20Across-subject)
