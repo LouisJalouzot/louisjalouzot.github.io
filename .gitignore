@@ -12,3 +12,4 @@ replit.nix
 **/.*/
 *.pdf
 !.github
+Temp
