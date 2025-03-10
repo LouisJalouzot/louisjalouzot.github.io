@@ -78,16 +78,16 @@ tags:
 # Highlights
 
 
-# Goal
+# Goal (yellow)
 
 
-# Method
+# Method (purple)
 
 
-# Results
+# Results (red)
 
 
-# Discussion
+# Discussion (blue)
 
 
 # Questions
