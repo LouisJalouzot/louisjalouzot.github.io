@@ -3,17 +3,8 @@ tags:
   - dataview
 cssclasses:
   - cards
+publish: true
 ---
-```dataview
-TABLE
-	paperTitle AS Title,
-	progress AS Progress
-FROM "Papers/Notes"
-SORT file.mtime DESC
-LIMIT 10
-```
-
-
 > [!multi-column]
 >
 >> [!important]+ Reading
@@ -41,16 +32,39 @@ LIMIT 10
 >> SORT file.mtime DESC
 >> LIMIT 20
 >> ```
->
+
+```dataviewjs
+const pages = dv.pages('"Papers/Notes"')
+    .where(p => p.status === "to read")
+    .sort(p => p.file.mtime, "desc");
+
+// Group by project
+const groupedPages = pages.groupBy(p => p.project || "No Project");
+
+for (const group of groupedPages) {
+    dv.header(3, group.key);
+    dv.table(
+        ["Title", "Progress", "Tags"],
+        group.rows.map(p => [
+            p.paperTitle,
+            p.progress,
+            p.tags
+        ])
+    );
+}
+```
+
+> [!multi-column]
+> 
 >> [!warning]+ To read
 >> ```dataview
->> TABLE
+>> TABLE WITHOUT ID
 >> 	paperTitle AS Title,
 >> 	progress AS Progress,
->> 	project AS Project,
 >> 	tags AS Tags
 >> FROM "Papers/Notes"
 >> WHERE status = "to read"
+>> GROUP BY project
 >> SORT file.mtime DESC
 >> LIMIT 20
 >> ```
@@ -63,7 +77,7 @@ LIMIT 10
 >> 	project AS Project,
 >> 	tags AS Tags
 >> FROM "Papers/Notes"
->> WHERE status = "to read"
+>> WHERE status = "to implement"
 >> SORT file.mtime DESC
 >> LIMIT 20
 >> ```
