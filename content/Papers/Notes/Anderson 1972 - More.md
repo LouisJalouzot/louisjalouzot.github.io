@@ -1,0 +1,38 @@
+---
+title: Anderson 1972 - More
+publish: true
+cssclasses:
+  - list-cards
+status: to read
+progress: to annotate
+project:
+type: annotation
+tags:
+---
+# Annotation for [Anderson 1972 - More](Papers/References/Anderson%201972%20-%20More)
+
+> [!example]- Authors
+> - [Anderson, P. W.](Papers/People/Anderson%20P.%20W.)
+
+**Year:** 1972
+**DOI:** 10.1126/science.177.4047.393
+**URL:** https://www.science.org/doi/10.1126/science.177.4047.393
+**PDF:** [Anderson 1972 - More](Papers/PDFs/Anderson%201972%20-%20More%20Is%20Different%20Broken%20symmetry%20and%20the%20nature%20of%20the%20hierarchical%20structure%20of%20science.pdf)
+
+# Highlights
+
+
+# Goal (yellow)
+
+
+# Method (purple)
+
+
+# Results (red)
+
+
+# Discussion (blue)
+
+
+# Questions
+
