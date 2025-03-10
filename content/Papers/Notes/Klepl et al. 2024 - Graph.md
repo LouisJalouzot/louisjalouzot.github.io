@@ -12,9 +12,9 @@ tags:
 # Annotation for [Klepl et al. 2024 - Graph](Papers/References/Klepl%20et%20al.%202024%20-%20Graph)
 
 > [!example]- Authors
-> - [Klepl, Dominik](Papers/People/Klepl%20Dominik)
-> - [Wu, Min](Papers/People/Wu%20Min)
-> - [He, Fei](Papers/People/He%20Fei)
+> - [Klepl, Dominik](Klepl%2C%20Dominik)
+> - [Wu, Min](Wu%2C%20Min)
+> - [He, Fei](He%2C%20Fei)
 
 **Year:** 2024
 **DOI:** 10.1109/TNSRE.2024.3355750

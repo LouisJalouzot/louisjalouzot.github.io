@@ -12,8 +12,8 @@ tags:
 # Annotation for [Wang and Ding 2019 - Fast](Papers/References/Wang%20and%20Ding%202019%20-%20Fast)
 
 > [!example]- Authors
-> - [Wang, Chi](Papers/People/Wang%20Chi)
-> - [Ding, Bailu](Papers/People/Ding%20Bailu)
+> - [Wang, Chi](Wang%2C%20Chi)
+> - [Ding, Bailu](Ding%2C%20Bailu)
 
 **Year:** 2019
 **DOI:** 10.1145/3292500.3330938

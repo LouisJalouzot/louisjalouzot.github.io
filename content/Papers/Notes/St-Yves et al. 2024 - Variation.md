@@ -12,9 +12,9 @@ tags:
 # Annotation for [St-Yves et al. 2024 - Variation](Papers/References/St-Yves%20et%20al.%202024%20-%20Variation)
 
 > [!example]- Authors
-> - [St-Yves, Ghislain](Papers/People/St-Yves%20Ghislain)
-> - [Kay, Kendrick](Papers/People/Kay%20Kendrick)
-> - [Naselaris, Thomas](Papers/People/Naselaris%20Thomas)
+> - [St-Yves, Ghislain](St-Yves%2C%20Ghislain)
+> - [Kay, Kendrick](Kay%2C%20Kendrick)
+> - [Naselaris, Thomas](Naselaris%2C%20Thomas)
 
 **Year:** 2024
 **DOI:** 10.1101/2024.11.26.625280

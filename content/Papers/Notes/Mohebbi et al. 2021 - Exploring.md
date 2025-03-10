@@ -12,9 +12,9 @@ tags:
 # Annotation for [Mohebbi et al. 2021 - Exploring](Papers/References/Mohebbi%20et%20al.%202021%20-%20Exploring)
 
 > [!example]- Authors
-> - [Mohebbi, Hosein](Papers/People/Mohebbi%20Hosein)
-> - [Modarressi, Ali](Papers/People/Modarressi%20Ali)
-> - [Pilehvar, Mohammad Taher](Papers/People/Pilehvar%20Mohammad%20Taher)
+> - [Mohebbi, Hosein](Mohebbi%2C%20Hosein)
+> - [Modarressi, Ali](Modarressi%2C%20Ali)
+> - [Pilehvar, Mohammad Taher](Pilehvar%2C%20Mohammad%20Taher)
 
 **Year:** 2021
 **DOI:** 10.18653/v1/2021.emnlp-main.61

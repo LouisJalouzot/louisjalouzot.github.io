@@ -12,11 +12,11 @@ tags:
 # Annotation for [Yu et al. 2024 - The](Papers/References/Yu%20et%20al.%202024%20-%20The)
 
 > [!example]- Authors
-> - [Yu, Mengxia](Papers/People/Yu%20Mengxia)
-> - [Wang, De](Papers/People/Wang%20De)
-> - [Shan, Qi](Papers/People/Shan%20Qi)
-> - [Reed, Colorado](Papers/People/Reed%20Colorado)
-> - [Wan, Alvin](Papers/People/Wan%20Alvin)
+> - [Yu, Mengxia](Yu%2C%20Mengxia)
+> - [Wang, De](Wang%2C%20De)
+> - [Shan, Qi](Shan%2C%20Qi)
+> - [Reed, Colorado](Reed%2C%20Colorado)
+> - [Wan, Alvin](Wan%2C%20Alvin)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/The-Super-Weight-in-Large-Language-Models-Yu-Wang/2e5baf6b3a5bfdb5cd7d7ee450296fe222c7c225

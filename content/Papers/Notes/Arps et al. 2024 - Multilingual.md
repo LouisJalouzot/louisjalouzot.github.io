@@ -12,10 +12,10 @@ tags:
 # Annotation for [Arps et al. 2024 - Multilingual](Papers/References/Arps%20et%20al.%202024%20-%20Multilingual)
 
 > [!example]- Authors
-> - [Arps, David](Papers/People/Arps%20David)
-> - [Kallmeyer, Laura](Papers/People/Kallmeyer%20Laura)
-> - [Samih, Younes](Papers/People/Samih%20Younes)
-> - [Sajjad, Hassan](Papers/People/Sajjad%20Hassan)
+> - [Arps, David](Arps%2C%20David)
+> - [Kallmeyer, Laura](Kallmeyer%2C%20Laura)
+> - [Samih, Younes](Samih%2C%20Younes)
+> - [Sajjad, Hassan](Sajjad%2C%20Hassan)
 
 **Year:** 2024
 **DOI:** 10.18653/v1/2024.naacl-long.433

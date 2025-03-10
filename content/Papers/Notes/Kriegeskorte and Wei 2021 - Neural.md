@@ -12,8 +12,8 @@ tags:
 # Annotation for [Kriegeskorte and Wei 2021 - Neural](Papers/References/Kriegeskorte%20and%20Wei%202021%20-%20Neural)
 
 > [!example]- Authors
-> - [Kriegeskorte, Nikolaus](Papers/People/Kriegeskorte%20Nikolaus)
-> - [Wei, Xue-Xin](Papers/People/Wei%20Xue-Xin)
+> - [Kriegeskorte, Nikolaus](Kriegeskorte%2C%20Nikolaus)
+> - [Wei, Xue-Xin](Wei%2C%20Xue-Xin)
 
 **Year:** 2021
 **DOI:** 10.1038/s41583-021-00502-3

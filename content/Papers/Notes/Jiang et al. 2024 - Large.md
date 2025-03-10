@@ -12,9 +12,9 @@ tags:
 # Annotation for [Jiang et al. 2024 - Large](Papers/References/Jiang%20et%20al.%202024%20-%20Large)
 
 > [!example]- Authors
-> - [Jiang, Wei-Bang](Papers/People/Jiang%20Wei-Bang)
-> - [Zhao, Li-Ming](Papers/People/Zhao%20Li-Ming)
-> - [Lu, Bao-Liang](Papers/People/Lu%20Bao-Liang)
+> - [Jiang, Wei-Bang](Jiang%2C%20Wei-Bang)
+> - [Zhao, Li-Ming](Zhao%2C%20Li-Ming)
+> - [Lu, Bao-Liang](Lu%2C%20Bao-Liang)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2405.18765

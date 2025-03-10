@@ -12,11 +12,11 @@ tags:
 # Annotation for [Chen et al. 2024 - Open-vocabulary](Papers/References/Chen%20et%20al.%202024%20-%20Open-vocabulary)
 
 > [!example]- Authors
-> - [Chen, Xiaoyu](Papers/People/Chen%20Xiaoyu)
-> - [Du, Changde](Papers/People/Du%20Changde)
-> - [Liu, Che](Papers/People/Liu%20Che)
-> - [Wang, Yizhe](Papers/People/Wang%20Yizhe)
-> - [He, Huiguang](Papers/People/He%20Huiguang)
+> - [Chen, Xiaoyu](Chen%2C%20Xiaoyu)
+> - [Du, Changde](Du%2C%20Changde)
+> - [Liu, Che](Liu%2C%20Che)
+> - [Wang, Yizhe](Wang%2C%20Yizhe)
+> - [He, Huiguang](He%2C%20Huiguang)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2405.07840

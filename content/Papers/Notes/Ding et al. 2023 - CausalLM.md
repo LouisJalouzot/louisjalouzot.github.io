@@ -12,11 +12,11 @@ tags:
 # Annotation for [Ding et al. 2023 - CausalLM](Papers/References/Ding%20et%20al.%202023%20-%20CausalLM)
 
 > [!example]- Authors
-> - [Ding, Nan](Papers/People/Ding%20Nan)
-> - [Levinboim, Tomer](Papers/People/Levinboim%20Tomer)
-> - [Wu, Jialin](Papers/People/Wu%20Jialin)
-> - [Goodman, Sebastian](Papers/People/Goodman%20Sebastian)
-> - [Soricut, Radu](Papers/People/Soricut%20Radu)
+> - [Ding, Nan](Ding%2C%20Nan)
+> - [Levinboim, Tomer](Levinboim%2C%20Tomer)
+> - [Wu, Jialin](Wu%2C%20Jialin)
+> - [Goodman, Sebastian](Goodman%2C%20Sebastian)
+> - [Soricut, Radu](Soricut%2C%20Radu)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2308.06912

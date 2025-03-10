@@ -12,7 +12,7 @@ tags:
 # Annotation for [Murphy 2024 - Shadow](Papers/References/Murphy%202024%20-%20Shadow)
 
 > [!example]- Authors
-> - [Murphy, Elliot](Papers/People/Murphy%20Elliot)
+> - [Murphy, Elliot](Murphy%2C%20Elliot)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2412.01276

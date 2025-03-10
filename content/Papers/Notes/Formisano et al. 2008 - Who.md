@@ -12,10 +12,10 @@ tags:
 # Annotation for [Formisano et al. 2008 - Who](Papers/References/Formisano%20et%20al.%202008%20-%20Who)
 
 > [!example]- Authors
-> - [Formisano, Elia](Papers/People/Formisano%20Elia)
-> - [De Martino, Federico](Papers/People/De%20Martino%20Federico)
-> - [Bonte, Milene](Papers/People/Bonte%20Milene)
-> - [Goebel, Rainer](Papers/People/Goebel%20Rainer)
+> - [Formisano, Elia](Formisano%2C%20Elia)
+> - [De Martino, Federico](De%20Martino%2C%20Federico)
+> - [Bonte, Milene](Bonte%2C%20Milene)
+> - [Goebel, Rainer](Goebel%2C%20Rainer)
 
 **Year:** 2008
 **DOI:** 10.1126/science.1164318

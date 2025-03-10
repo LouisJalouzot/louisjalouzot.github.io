@@ -12,8 +12,8 @@ tags:
 # Annotation for [Stavisky and Wairagkar 2023 - Listening](Papers/References/Stavisky%20and%20Wairagkar%202023%20-%20Listening)
 
 > [!example]- Authors
-> - [Stavisky, Sergey D.](Papers/People/Stavisky%20Sergey%20D.)
-> - [Wairagkar, Maitreyee](Papers/People/Wairagkar%20Maitreyee)
+> - [Stavisky, Sergey D.](Stavisky%2C%20Sergey%20D.)
+> - [Wairagkar, Maitreyee](Wairagkar%2C%20Maitreyee)
 
 **Year:** 2023
 **DOI:** 10.1038/s42256-023-00742-1

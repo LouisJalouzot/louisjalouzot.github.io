@@ -12,9 +12,9 @@ tags:
 # Annotation for [Huang et al. 2021 - Disentangling](Papers/References/Huang%20et%20al.%202021%20-%20Disentangling)
 
 > [!example]- Authors
-> - [Huang, James Y.](Papers/People/Huang%20James%20Y.)
-> - [Huang, Kuan-Hao](Papers/People/Huang%20Kuan-Hao)
-> - [Chang, Kai-Wei](Papers/People/Chang%20Kai-Wei)
+> - [Huang, James Y.](Huang%2C%20James%20Y.)
+> - [Huang, Kuan-Hao](Huang%2C%20Kuan-Hao)
+> - [Chang, Kai-Wei](Chang%2C%20Kai-Wei)
 
 **Year:** 2021
 **DOI:** 10.18653/v1/2021.naacl-main.108

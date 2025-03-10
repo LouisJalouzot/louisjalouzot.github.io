@@ -12,8 +12,8 @@ tags:
 # Annotation for [Tang and Huth 2025 - Semantic](Papers/References/Tang%20and%20Huth%202025%20-%20Semantic)
 
 > [!example]- Authors
-> - [Tang, Jerry](Papers/People/Tang%20Jerry)
-> - [Huth, Alexander G.](Papers/People/Huth%20Alexander%20G.)
+> - [Tang, Jerry](Tang%2C%20Jerry)
+> - [Huth, Alexander G.](Huth%2C%20Alexander%20G.)
 
 **Year:** 2025
 **DOI:** 10.1016/j.cub.2025.01.024

@@ -12,13 +12,13 @@ tags:
 # Annotation for [Thual et al. 2023 - Aligning](Papers/References/Thual%20et%20al.%202023%20-%20Aligning)
 
 > [!example]- Authors
-> - [Thual, Alexis](Papers/People/Thual%20Alexis)
-> - [Benchetrit, Yohann](Papers/People/Benchetrit%20Yohann)
-> - [Geilert, Felix](Papers/People/Geilert%20Felix)
-> - [Rapin, Jérémy](Papers/People/Rapin%20Jérémy)
-> - [Makarov, Iurii](Papers/People/Makarov%20Iurii)
-> - [Banville, Hubert](Papers/People/Banville%20Hubert)
-> - [King, Jean-Rémi](Papers/People/King%20Jean-Rémi)
+> - [Thual, Alexis](Thual%2C%20Alexis)
+> - [Benchetrit, Yohann](Benchetrit%2C%20Yohann)
+> - [Geilert, Felix](Geilert%2C%20Felix)
+> - [Rapin, Jérémy](Rapin%2C%20J%C3%A9r%C3%A9my)
+> - [Makarov, Iurii](Makarov%2C%20Iurii)
+> - [Banville, Hubert](Banville%2C%20Hubert)
+> - [King, Jean-Rémi](King%2C%20Jean-R%C3%A9mi)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2312.06467

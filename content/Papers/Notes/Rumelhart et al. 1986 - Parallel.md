@@ -12,9 +12,9 @@ tags:
 # Annotation for [Rumelhart et al. 1986 - Parallel](Papers/References/Rumelhart%20et%20al.%201986%20-%20Parallel)
 
 > [!example]- Authors
-> - [Rumelhart, David E.](Papers/People/Rumelhart%20David%20E.)
-> - [McClelland, James L.](Papers/People/McClelland%20James%20L.)
-> - [undefined, undefined](Papers/People/undefined%20undefined)
+> - [Rumelhart, David E.](Rumelhart%2C%20David%20E.)
+> - [McClelland, James L.](McClelland%2C%20James%20L.)
+> - [undefined, undefined](undefined%2C%20undefined)
 
 **Year:** 1986
 **DOI:** 10.7551/mitpress/5236.001.0001

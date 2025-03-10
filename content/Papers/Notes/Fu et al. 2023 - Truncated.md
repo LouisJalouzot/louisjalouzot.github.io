@@ -12,10 +12,10 @@ tags:
 # Annotation for [Fu et al. 2023 - Truncated](Papers/References/Fu%20et%20al.%202023%20-%20Truncated)
 
 > [!example]- Authors
-> - [Fu, Jie](Papers/People/Fu%20Jie)
-> - [Sun, Zhiyu](Papers/People/Sun%20Zhiyu)
-> - [Liu, Haitao](Papers/People/Liu%20Haitao)
-> - [Chen, Zhili](Papers/People/Chen%20Zhili)
+> - [Fu, Jie](Fu%2C%20Jie)
+> - [Sun, Zhiyu](Sun%2C%20Zhiyu)
+> - [Liu, Haitao](Liu%2C%20Haitao)
+> - [Chen, Zhili](Chen%2C%20Zhili)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2309.12647

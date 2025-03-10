@@ -12,13 +12,13 @@ tags:
 # Annotation for [Wen et al. 2021 - Time](Papers/References/Wen%20et%20al.%202021%20-%20Time)
 
 > [!example]- Authors
-> - [Wen, Qingsong](Papers/People/Wen%20Qingsong)
-> - [Sun, Liang](Papers/People/Sun%20Liang)
-> - [Yang, Fan](Papers/People/Yang%20Fan)
-> - [Song, Xiaomin](Papers/People/Song%20Xiaomin)
-> - [Gao, Jingkun](Papers/People/Gao%20Jingkun)
-> - [Wang, Xue](Papers/People/Wang%20Xue)
-> - [Xu, Huan](Papers/People/Xu%20Huan)
+> - [Wen, Qingsong](Wen%2C%20Qingsong)
+> - [Sun, Liang](Sun%2C%20Liang)
+> - [Yang, Fan](Yang%2C%20Fan)
+> - [Song, Xiaomin](Song%2C%20Xiaomin)
+> - [Gao, Jingkun](Gao%2C%20Jingkun)
+> - [Wang, Xue](Wang%2C%20Xue)
+> - [Xu, Huan](Xu%2C%20Huan)
 
 **Year:** 2021
 **DOI:** 10.24963/ijcai.2021/631

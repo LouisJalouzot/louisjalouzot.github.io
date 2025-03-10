@@ -12,8 +12,8 @@ tags:
 # Annotation for [Chen and Wang 2021 - Efficient](Papers/References/Chen%20and%20Wang%202021%20-%20Efficient)
 
 > [!example]- Authors
-> - [Chen, Xingguang](Papers/People/Chen%20Xingguang)
-> - [Wang, Sibo](Papers/People/Wang%20Sibo)
+> - [Chen, Xingguang](Chen%2C%20Xingguang)
+> - [Wang, Sibo](Wang%2C%20Sibo)
 
 **Year:** 2021
 **DOI:** 10.1145/3448016.3457255

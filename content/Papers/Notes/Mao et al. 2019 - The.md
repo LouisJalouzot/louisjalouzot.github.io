@@ -12,11 +12,11 @@ tags:
 # Annotation for [Mao et al. 2019 - The](Papers/References/Mao%20et%20al.%202019%20-%20The)
 
 > [!example]- Authors
-> - [Mao, Jiayuan](Papers/People/Mao%20Jiayuan)
-> - [Gan, Chuang](Papers/People/Gan%20Chuang)
-> - [Kohli, Pushmeet](Papers/People/Kohli%20Pushmeet)
-> - [Tenenbaum, J.](Papers/People/Tenenbaum%20J.)
-> - [Wu, Jiajun](Papers/People/Wu%20Jiajun)
+> - [Mao, Jiayuan](Mao%2C%20Jiayuan)
+> - [Gan, Chuang](Gan%2C%20Chuang)
+> - [Kohli, Pushmeet](Kohli%2C%20Pushmeet)
+> - [Tenenbaum, J.](Tenenbaum%2C%20J.)
+> - [Wu, Jiajun](Wu%2C%20Jiajun)
 
 **Year:** 2019
 **URL:** https://www.semanticscholar.org/paper/The-Neuro-Symbolic-Concept-Learner%3A-Interpreting-Mao-Gan/50f76736c3090c6effac25400e5e40cc0b7b5ad9

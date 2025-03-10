@@ -12,8 +12,8 @@ tags:
 # Annotation for [Liu and Chan 2021 - Testing](Papers/References/Liu%20and%20Chan%202021%20-%20Testing)
 
 > [!example]- Authors
-> - [Liu, Serena](Papers/People/Liu%20Serena)
-> - [Chan, Jonathan](Papers/People/Chan%20Jonathan)
+> - [Liu, Serena](Liu%2C%20Serena)
+> - [Chan, Jonathan](Chan%2C%20Jonathan)
 
 **Year:** 2021
 **DOI:** 10.1145/3486713.3486733

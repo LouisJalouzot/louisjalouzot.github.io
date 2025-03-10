@@ -12,10 +12,10 @@ tags:
 # Annotation for [Devlin et al. 2019 - BERT](Papers/References/Devlin%20et%20al.%202019%20-%20BERT)
 
 > [!example]- Authors
-> - [Devlin, Jacob](Papers/People/Devlin%20Jacob)
-> - [Chang, Ming-Wei](Papers/People/Chang%20Ming-Wei)
-> - [Lee, Kenton](Papers/People/Lee%20Kenton)
-> - [Toutanova, Kristina](Papers/People/Toutanova%20Kristina)
+> - [Devlin, Jacob](Devlin%2C%20Jacob)
+> - [Chang, Ming-Wei](Chang%2C%20Ming-Wei)
+> - [Lee, Kenton](Lee%2C%20Kenton)
+> - [Toutanova, Kristina](Toutanova%2C%20Kristina)
 
 **Year:** 2019
 **DOI:** 10.18653/v1/N19-1423

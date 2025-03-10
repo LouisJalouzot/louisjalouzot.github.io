@@ -12,8 +12,8 @@ tags:
 # Annotation for [Kaniuth and Hebart 2021 - Feature-reweighted](Papers/References/Kaniuth%20and%20Hebart%202021%20-%20Feature-reweighted)
 
 > [!example]- Authors
-> - [Kaniuth, Philipp](Papers/People/Kaniuth%20Philipp)
-> - [Hebart, Martin N.](Papers/People/Hebart%20Martin%20N.)
+> - [Kaniuth, Philipp](Kaniuth%2C%20Philipp)
+> - [Hebart, Martin N.](Hebart%2C%20Martin%20N.)
 
 **Year:** 2021
 **DOI:** 10.1101/2021.09.27.462005

@@ -12,9 +12,9 @@ tags:
 # Annotation for [Heffernan et al. 2022 - Bitext](Papers/References/Heffernan%20et%20al.%202022%20-%20Bitext)
 
 > [!example]- Authors
-> - [Heffernan, Kevin](Papers/People/Heffernan%20Kevin)
-> - [Çelebi, Onur](Papers/People/Çelebi%20Onur)
-> - [Schwenk, Holger](Papers/People/Schwenk%20Holger)
+> - [Heffernan, Kevin](Heffernan%2C%20Kevin)
+> - [Çelebi, Onur](%C3%87elebi%2C%20Onur)
+> - [Schwenk, Holger](Schwenk%2C%20Holger)
 
 **Year:** 2022
 **DOI:** 10.18653/v1/2022.findings-emnlp.154

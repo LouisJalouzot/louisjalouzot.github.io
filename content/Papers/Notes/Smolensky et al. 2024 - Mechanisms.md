@@ -12,11 +12,11 @@ tags:
 # Annotation for [Smolensky et al. 2024 - Mechanisms](Papers/References/Smolensky%20et%20al.%202024%20-%20Mechanisms)
 
 > [!example]- Authors
-> - [Smolensky, P.](Papers/People/Smolensky%20P.)
-> - [Fernandez, Roland](Papers/People/Fernandez%20Roland)
-> - [Zhou, Zhenghao Herbert](Papers/People/Zhou%20Zhenghao%20Herbert)
-> - [Opper, Mattia](Papers/People/Opper%20Mattia)
-> - [Gao, Jianfeng](Papers/People/Gao%20Jianfeng)
+> - [Smolensky, P.](Smolensky%2C%20P.)
+> - [Fernandez, Roland](Fernandez%2C%20Roland)
+> - [Zhou, Zhenghao Herbert](Zhou%2C%20Zhenghao%20Herbert)
+> - [Opper, Mattia](Opper%2C%20Mattia)
+> - [Gao, Jianfeng](Gao%2C%20Jianfeng)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/Mechanisms-of-Symbol-Processing-for-In-Context-in-Smolensky-Fernandez/2c2f17ac628b241091c2057739aa408287e2956d

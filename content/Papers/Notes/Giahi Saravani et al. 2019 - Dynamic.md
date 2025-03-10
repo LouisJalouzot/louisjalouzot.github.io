@@ -12,10 +12,10 @@ tags:
 # Annotation for [Giahi Saravani et al. 2019 - Dynamic](Papers/References/Giahi%20Saravani%20et%20al.%202019%20-%20Dynamic)
 
 > [!example]- Authors
-> - [Giahi Saravani, Aram](Papers/People/Giahi%20Saravani%20Aram)
-> - [Forseth, Kiefer J.](Papers/People/Forseth%20Kiefer%20J.)
-> - [Tandon, Nitin](Papers/People/Tandon%20Nitin)
-> - [Pitkow, Xaq](Papers/People/Pitkow%20Xaq)
+> - [Giahi Saravani, Aram](Giahi%20Saravani%2C%20Aram)
+> - [Forseth, Kiefer J.](Forseth%2C%20Kiefer%20J.)
+> - [Tandon, Nitin](Tandon%2C%20Nitin)
+> - [Pitkow, Xaq](Pitkow%2C%20Xaq)
 
 **Year:** 2019
 **DOI:** 10.1523/ENEURO.0472-18.2019

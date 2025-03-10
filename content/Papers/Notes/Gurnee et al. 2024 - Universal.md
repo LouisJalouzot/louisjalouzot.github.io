@@ -12,14 +12,14 @@ tags:
 # Annotation for [Gurnee et al. 2024 - Universal](Papers/References/Gurnee%20et%20al.%202024%20-%20Universal)
 
 > [!example]- Authors
-> - [Gurnee, Wes](Papers/People/Gurnee%20Wes)
-> - [Horsley, Theo](Papers/People/Horsley%20Theo)
-> - [Guo, Zifan Carl](Papers/People/Guo%20Zifan%20Carl)
-> - [Kheirkhah, Tara Rezaei](Papers/People/Kheirkhah%20Tara%20Rezaei)
-> - [Sun, Qinyi](Papers/People/Sun%20Qinyi)
-> - [Hathaway, Will](Papers/People/Hathaway%20Will)
-> - [Nanda, Neel](Papers/People/Nanda%20Neel)
-> - [Bertsimas, Dimitris](Papers/People/Bertsimas%20Dimitris)
+> - [Gurnee, Wes](Gurnee%2C%20Wes)
+> - [Horsley, Theo](Horsley%2C%20Theo)
+> - [Guo, Zifan Carl](Guo%2C%20Zifan%20Carl)
+> - [Kheirkhah, Tara Rezaei](Kheirkhah%2C%20Tara%20Rezaei)
+> - [Sun, Qinyi](Sun%2C%20Qinyi)
+> - [Hathaway, Will](Hathaway%2C%20Will)
+> - [Nanda, Neel](Nanda%2C%20Neel)
+> - [Bertsimas, Dimitris](Bertsimas%2C%20Dimitris)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2401.12181

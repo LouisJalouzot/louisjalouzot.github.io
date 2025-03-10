@@ -12,8 +12,8 @@ tags:
 # Annotation for [Ozcelik and VanRullen 2023 - Natural](Papers/References/Ozcelik%20and%20VanRullen%202023%20-%20Natural)
 
 > [!example]- Authors
-> - [Ozcelik, Furkan](Papers/People/Ozcelik%20Furkan)
-> - [VanRullen, Rufin](Papers/People/VanRullen%20Rufin)
+> - [Ozcelik, Furkan](Ozcelik%2C%20Furkan)
+> - [VanRullen, Rufin](VanRullen%2C%20Rufin)
 
 **Year:** 2023
 **DOI:** 10.1038/s41598-023-42891-8

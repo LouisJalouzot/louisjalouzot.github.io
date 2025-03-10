@@ -12,11 +12,11 @@ tags:
 # Annotation for [McCurdy et al. 2024 - Toward](Papers/References/McCurdy%20et%20al.%202024%20-%20Toward)
 
 > [!example]- Authors
-> - [McCurdy, Kate](Papers/People/McCurdy%20Kate)
-> - [Soulos, Paul](Papers/People/Soulos%20Paul)
-> - [Smolensky, P.](Papers/People/Smolensky%20P.)
-> - [Fernandez, Roland](Papers/People/Fernandez%20Roland)
-> - [Gao, Jianfeng](Papers/People/Gao%20Jianfeng)
+> - [McCurdy, Kate](McCurdy%2C%20Kate)
+> - [Soulos, Paul](Soulos%2C%20Paul)
+> - [Smolensky, P.](Smolensky%2C%20P.)
+> - [Fernandez, Roland](Fernandez%2C%20Roland)
+> - [Gao, Jianfeng](Gao%2C%20Jianfeng)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/Toward-Compositional-Behavior-in-Neural-Models%3A-A-McCurdy-Soulos/756ca2f52abf526d226507c9bbbf9417662c5fb1

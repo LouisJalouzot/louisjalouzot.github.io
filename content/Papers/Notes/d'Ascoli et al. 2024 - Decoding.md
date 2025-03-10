@@ -12,13 +12,13 @@ tags:
 # Annotation for [d'Ascoli et al. 2024 - Decoding](Papers/References/d'Ascoli%20et%20al.%202024%20-%20Decoding)
 
 > [!example]- Authors
-> - [d'Ascoli, St'ephane](Papers/People/d'Ascoli%20St'ephane)
-> - [Bel, Corentin](Papers/People/Bel%20Corentin)
-> - [Rapin, Jérémy](Papers/People/Rapin%20Jérémy)
-> - [Banville, Hubert J.](Papers/People/Banville%20Hubert%20J.)
-> - [Benchetrit, Yohann](Papers/People/Benchetrit%20Yohann)
-> - [Pallier, Christophe](Papers/People/Pallier%20Christophe)
-> - [King, Jean-Rémi](Papers/People/King%20Jean-Rémi)
+> - [d'Ascoli, St'ephane](d'Ascoli%2C%20St'ephane)
+> - [Bel, Corentin](Bel%2C%20Corentin)
+> - [Rapin, Jérémy](Rapin%2C%20J%C3%A9r%C3%A9my)
+> - [Banville, Hubert J.](Banville%2C%20Hubert%20J.)
+> - [Benchetrit, Yohann](Benchetrit%2C%20Yohann)
+> - [Pallier, Christophe](Pallier%2C%20Christophe)
+> - [King, Jean-Rémi](King%2C%20Jean-R%C3%A9mi)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/Decoding-individual-words-from-non-invasive-brain-d'Ascoli-Bel/c81f6c09a99f8fa978be184982d9407202d3439b

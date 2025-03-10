@@ -12,10 +12,10 @@ tags:
 # Annotation for [Pei et al. 2011 - Decoding](Papers/References/Pei%20et%20al.%202011%20-%20Decoding)
 
 > [!example]- Authors
-> - [Pei, Xiaomei](Papers/People/Pei%20Xiaomei)
-> - [Barbour, Dennis L](Papers/People/Barbour%20Dennis%20L)
-> - [Leuthardt, Eric C](Papers/People/Leuthardt%20Eric%20C)
-> - [Schalk, Gerwin](Papers/People/Schalk%20Gerwin)
+> - [Pei, Xiaomei](Pei%2C%20Xiaomei)
+> - [Barbour, Dennis L](Barbour%2C%20Dennis%20L)
+> - [Leuthardt, Eric C](Leuthardt%2C%20Eric%20C)
+> - [Schalk, Gerwin](Schalk%2C%20Gerwin)
 
 **Year:** 2011
 **DOI:** 10.1088/1741-2560/8/4/046028

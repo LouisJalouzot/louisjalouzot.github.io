@@ -12,17 +12,17 @@ tags:
 # Annotation for [Zhang et al. 2024 - Decoding](Papers/References/Zhang%20et%20al.%202024%20-%20Decoding)
 
 > [!example]- Authors
-> - [Zhang, Cenyuan](Papers/People/Zhang%20Cenyuan)
-> - [Zheng, Xiaoqing](Papers/People/Zheng%20Xiaoqing)
-> - [Yin, Ruicheng](Papers/People/Yin%20Ruicheng)
-> - [Geng, Shujie](Papers/People/Geng%20Shujie)
-> - [Xu, Jianhan](Papers/People/Xu%20Jianhan)
-> - [Gao, Xuan](Papers/People/Gao%20Xuan)
-> - [Lv, Changze](Papers/People/Lv%20Changze)
-> - [Ling, Zixuan](Papers/People/Ling%20Zixuan)
-> - [Huang, Xuanjing](Papers/People/Huang%20Xuanjing)
-> - [Cao, Miao](Papers/People/Cao%20Miao)
-> - [Feng, Jianfeng](Papers/People/Feng%20Jianfeng)
+> - [Zhang, Cenyuan](Zhang%2C%20Cenyuan)
+> - [Zheng, Xiaoqing](Zheng%2C%20Xiaoqing)
+> - [Yin, Ruicheng](Yin%2C%20Ruicheng)
+> - [Geng, Shujie](Geng%2C%20Shujie)
+> - [Xu, Jianhan](Xu%2C%20Jianhan)
+> - [Gao, Xuan](Gao%2C%20Xuan)
+> - [Lv, Changze](Lv%2C%20Changze)
+> - [Ling, Zixuan](Ling%2C%20Zixuan)
+> - [Huang, Xuanjing](Huang%2C%20Xuanjing)
+> - [Cao, Miao](Cao%2C%20Miao)
+> - [Feng, Jianfeng](Feng%2C%20Jianfeng)
 
 **Year:** 2024
 **DOI:** 10.1101/2024.03.19.585656

@@ -12,9 +12,9 @@ tags:
 # Annotation for [Tamkin et al. 2020 - Language](Papers/References/Tamkin%20et%20al.%202020%20-%20Language)
 
 > [!example]- Authors
-> - [Tamkin, Alex](Papers/People/Tamkin%20Alex)
-> - [Jurafsky, Dan](Papers/People/Jurafsky%20Dan)
-> - [Goodman, Noah D.](Papers/People/Goodman%20Noah%20D.)
+> - [Tamkin, Alex](Tamkin%2C%20Alex)
+> - [Jurafsky, Dan](Jurafsky%2C%20Dan)
+> - [Goodman, Noah D.](Goodman%2C%20Noah%20D.)
 
 **Year:** 2020
 **URL:** https://www.semanticscholar.org/paper/Language-Through-a-Prism%3A-A-Spectral-Approach-for-Tamkin-Jurafsky/38d5e7774e79861315e043dc2dd764d051516d74

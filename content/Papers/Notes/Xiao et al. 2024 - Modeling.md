@@ -12,9 +12,9 @@ tags:
 # Annotation for [Xiao et al. 2024 - Modeling](Papers/References/Xiao%20et%20al.%202024%20-%20Modeling)
 
 > [!example]- Authors
-> - [Xiao, Bushi](Papers/People/Xiao%20Bushi)
-> - [Gao, Chao](Papers/People/Gao%20Chao)
-> - [Zhang, Demi](Papers/People/Zhang%20Demi)
+> - [Xiao, Bushi](Xiao%2C%20Bushi)
+> - [Gao, Chao](Gao%2C%20Chao)
+> - [Zhang, Demi](Zhang%2C%20Demi)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2405.09508

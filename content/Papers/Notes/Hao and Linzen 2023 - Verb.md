@@ -12,8 +12,8 @@ tags:
 # Annotation for [Hao and Linzen 2023 - Verb](Papers/References/Hao%20and%20Linzen%202023%20-%20Verb)
 
 > [!example]- Authors
-> - [Hao, Sophie](Papers/People/Hao%20Sophie)
-> - [Linzen, Tal](Papers/People/Linzen%20Tal)
+> - [Hao, Sophie](Hao%2C%20Sophie)
+> - [Linzen, Tal](Linzen%2C%20Tal)
 
 **Year:** 2023
 **DOI:** 10.48550/arXiv.2310.15151

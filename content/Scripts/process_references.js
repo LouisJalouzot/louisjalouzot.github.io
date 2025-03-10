@@ -33,6 +33,8 @@ const processReferences = async (params) => {
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
                 let annotationContent = `---
 title: ${originalFileName}
+paperTitle: ${frontmatter.paperTitle || ""}
+authors: ${frontmatter.authors || ""}
 publish: true
 cssclasses:
   - list-cards
@@ -48,15 +50,9 @@ tags:
 `;
 
                 if (frontmatter.authors) {
-                    if (Array.isArray(frontmatter.authors)) {
-                        frontmatter.authors.forEach(author => {
-                            const [lastName, firstName] = author.split(", ");
-                            annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName.replace(/ /g, '%20')}%20${firstName.replace(/ /g, '%20')})\n`;
-                        });
-                    } else {
-                        const [lastName, firstName] = frontmatter.authors.split(", ");
-                        annotationContent += `> - [${lastName}, ${firstName}](Papers/People/${lastName.replace(/ /g, '%20')}%20${firstName.replace(/ /g, '%20')})\n`;
-                    }
+                    frontmatter.authors.forEach(author => {
+                        annotationContent += `> - [${author}](${encodeURIComponent(author)})\n`;
+                    })
                 }
 
                 annotationContent += `

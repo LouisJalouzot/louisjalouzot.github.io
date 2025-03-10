@@ -12,11 +12,11 @@ tags:
 # Annotation for [Huth et al. 2016 - Natural](Papers/References/Huth%20et%20al.%202016%20-%20Natural)
 
 > [!example]- Authors
-> - [Huth, Alexander G.](Papers/People/Huth%20Alexander%20G.)
-> - [De Heer, Wendy A.](Papers/People/De%20Heer%20Wendy%20A.)
-> - [Griffiths, Thomas L.](Papers/People/Griffiths%20Thomas%20L.)
-> - [Theunissen, Frédéric E.](Papers/People/Theunissen%20Frédéric%20E.)
-> - [Gallant, Jack L.](Papers/People/Gallant%20Jack%20L.)
+> - [Huth, Alexander G.](Huth%2C%20Alexander%20G.)
+> - [De Heer, Wendy A.](De%20Heer%2C%20Wendy%20A.)
+> - [Griffiths, Thomas L.](Griffiths%2C%20Thomas%20L.)
+> - [Theunissen, Frédéric E.](Theunissen%2C%20Fr%C3%A9d%C3%A9ric%20E.)
+> - [Gallant, Jack L.](Gallant%2C%20Jack%20L.)
 
 **Year:** 2016
 **DOI:** 10.1038/nature17637

@@ -12,8 +12,8 @@ tags:
 # Annotation for [Brown and Farivar 2024 - The](Papers/References/Brown%20and%20Farivar%202024%20-%20The)
 
 > [!example]- Authors
-> - [Brown, Shael](Papers/People/Brown%20Shael)
-> - [Farivar, Reza](Papers/People/Farivar%20Reza)
+> - [Brown, Shael](Brown%2C%20Shael)
+> - [Farivar, Reza](Farivar%2C%20Reza)
 
 **Year:** 2024
 **DOI:** 10.1101/2024.02.16.579506

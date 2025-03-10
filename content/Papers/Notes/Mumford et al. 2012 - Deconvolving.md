@@ -12,10 +12,10 @@ tags:
 # Annotation for [Mumford et al. 2012 - Deconvolving](Papers/References/Mumford%20et%20al.%202012%20-%20Deconvolving)
 
 > [!example]- Authors
-> - [Mumford, Jeanette A.](Papers/People/Mumford%20Jeanette%20A.)
-> - [Turner, Benjamin O.](Papers/People/Turner%20Benjamin%20O.)
-> - [Ashby, F. Gregory](Papers/People/Ashby%20F.%20Gregory)
-> - [Poldrack, Russell A.](Papers/People/Poldrack%20Russell%20A.)
+> - [Mumford, Jeanette A.](Mumford%2C%20Jeanette%20A.)
+> - [Turner, Benjamin O.](Turner%2C%20Benjamin%20O.)
+> - [Ashby, F. Gregory](Ashby%2C%20F.%20Gregory)
+> - [Poldrack, Russell A.](Poldrack%2C%20Russell%20A.)
 
 **Year:** 2012
 **DOI:** 10.1016/j.neuroimage.2011.08.076

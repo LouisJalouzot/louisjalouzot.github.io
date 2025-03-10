@@ -12,12 +12,12 @@ tags:
 # Annotation for [Li et al. 2024 - The](Papers/References/Li%20et%20al.%202024%20-%20The)
 
 > [!example]- Authors
-> - [Li, Yuxiao](Papers/People/Li%20Yuxiao)
-> - [Michaud, Eric J.](Papers/People/Michaud%20Eric%20J.)
-> - [Baek, David D.](Papers/People/Baek%20David%20D.)
-> - [Engels, Joshua](Papers/People/Engels%20Joshua)
-> - [Sun, Xiaoqing](Papers/People/Sun%20Xiaoqing)
-> - [Tegmark, Max](Papers/People/Tegmark%20Max)
+> - [Li, Yuxiao](Li%2C%20Yuxiao)
+> - [Michaud, Eric J.](Michaud%2C%20Eric%20J.)
+> - [Baek, David D.](Baek%2C%20David%20D.)
+> - [Engels, Joshua](Engels%2C%20Joshua)
+> - [Sun, Xiaoqing](Sun%2C%20Xiaoqing)
+> - [Tegmark, Max](Tegmark%2C%20Max)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/The-Geometry-of-Concepts%3A-Sparse-Autoencoder-Li-Michaud/f64f0b8d2b0886196aa38edff165f3797c76108a

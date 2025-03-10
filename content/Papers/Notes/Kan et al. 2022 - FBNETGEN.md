@@ -12,11 +12,11 @@ tags:
 # Annotation for [Kan et al. 2022 - FBNETGEN](Papers/References/Kan%20et%20al.%202022%20-%20FBNETGEN)
 
 > [!example]- Authors
-> - [Kan, Xuan](Papers/People/Kan%20Xuan)
-> - [Cui, Hejie](Papers/People/Cui%20Hejie)
-> - [Lukemire, Joshua](Papers/People/Lukemire%20Joshua)
-> - [Guo, Ying](Papers/People/Guo%20Ying)
-> - [Yang, Carl](Papers/People/Yang%20Carl)
+> - [Kan, Xuan](Kan%2C%20Xuan)
+> - [Cui, Hejie](Cui%2C%20Hejie)
+> - [Lukemire, Joshua](Lukemire%2C%20Joshua)
+> - [Guo, Ying](Guo%2C%20Ying)
+> - [Yang, Carl](Yang%2C%20Carl)
 
 **Year:** 2022
 **DOI:** 10.48550/ARXIV.2205.12465

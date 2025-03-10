@@ -12,13 +12,13 @@ tags:
 # Annotation for [Benara et al. 2024 - Crafting](Papers/References/Benara%20et%20al.%202024%20-%20Crafting)
 
 > [!example]- Authors
-> - [Benara, Vinamra](Papers/People/Benara%20Vinamra)
-> - [Singh, Chandan](Papers/People/Singh%20Chandan)
-> - [Morris, John X.](Papers/People/Morris%20John%20X.)
-> - [Antonello, Richard](Papers/People/Antonello%20Richard)
-> - [Stoica, Ion](Papers/People/Stoica%20Ion)
-> - [Huth, Alexander G.](Papers/People/Huth%20Alexander%20G.)
-> - [Gao, Jianfeng](Papers/People/Gao%20Jianfeng)
+> - [Benara, Vinamra](Benara%2C%20Vinamra)
+> - [Singh, Chandan](Singh%2C%20Chandan)
+> - [Morris, John X.](Morris%2C%20John%20X.)
+> - [Antonello, Richard](Antonello%2C%20Richard)
+> - [Stoica, Ion](Stoica%2C%20Ion)
+> - [Huth, Alexander G.](Huth%2C%20Alexander%20G.)
+> - [Gao, Jianfeng](Gao%2C%20Jianfeng)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2405.16714

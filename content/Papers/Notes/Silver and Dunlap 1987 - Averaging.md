@@ -12,8 +12,8 @@ tags:
 # Annotation for [Silver and Dunlap 1987 - Averaging](Papers/References/Silver%20and%20Dunlap%201987%20-%20Averaging)
 
 > [!example]- Authors
-> - [Silver, N. Clayton](Papers/People/Silver%20N.%20Clayton)
-> - [Dunlap, William P.](Papers/People/Dunlap%20William%20P.)
+> - [Silver, N. Clayton](Silver%2C%20N.%20Clayton)
+> - [Dunlap, William P.](Dunlap%2C%20William%20P.)
 
 **Year:** 1987
 **DOI:** 10.1037/0021-9010.72.1.146

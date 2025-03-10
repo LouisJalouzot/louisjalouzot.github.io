@@ -12,7 +12,7 @@ tags:
 # Annotation for [Chalmers 1977 - What](Papers/References/Chalmers%201977%20-%20What)
 
 > [!example]- Authors
-> - [Chalmers, A.](Papers/People/Chalmers%20A.)
+> - [Chalmers, A.](Chalmers%2C%20A.)
 
 **Year:** 1977
 **URL:** https://www.semanticscholar.org/paper/What-is-this-thing-called-science-an-assessment-of-Chalmers/bb6d052808266c133b1b72e822dbdc1462518d3c

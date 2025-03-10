@@ -12,13 +12,13 @@ tags:
 # Annotation for [Liu et al. 2025 - Recurrent](Papers/References/Liu%20et%20al.%202025%20-%20Recurrent)
 
 > [!example]- Authors
-> - [Liu, Chenghao](Papers/People/Liu%20Chenghao)
-> - [Jia, Shuncheng](Papers/People/Jia%20Shuncheng)
-> - [Liu, Hongxing](Papers/People/Liu%20Hongxing)
-> - [Zhao, Xuanle](Papers/People/Zhao%20Xuanle)
-> - [Li, Chengyu T.](Papers/People/Li%20Chengyu%20T.)
-> - [Xu, Bo](Papers/People/Xu%20Bo)
-> - [Zhang, Tielin](Papers/People/Zhang%20Tielin)
+> - [Liu, Chenghao](Liu%2C%20Chenghao)
+> - [Jia, Shuncheng](Jia%2C%20Shuncheng)
+> - [Liu, Hongxing](Liu%2C%20Hongxing)
+> - [Zhao, Xuanle](Zhao%2C%20Xuanle)
+> - [Li, Chengyu T.](Li%2C%20Chengyu%20T.)
+> - [Xu, Bo](Xu%2C%20Bo)
+> - [Zhang, Tielin](Zhang%2C%20Tielin)
 
 **Year:** 2025
 **DOI:** 10.1038/s42003-024-07282-3

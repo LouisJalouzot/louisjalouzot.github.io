@@ -12,7 +12,7 @@ tags:
 # Annotation for [Youngblood 2025 - Language-like](Papers/References/Youngblood%202025%20-%20Language-like)
 
 > [!example]- Authors
-> - [Youngblood, Mason](Papers/People/Youngblood%20Mason)
+> - [Youngblood, Mason](Youngblood%2C%20Mason)
 
 **Year:** 2025
 **DOI:** 10.1126/sciadv.ads6014

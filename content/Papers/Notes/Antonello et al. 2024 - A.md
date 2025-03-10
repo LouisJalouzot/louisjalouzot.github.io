@@ -12,13 +12,13 @@ tags:
 # Annotation for [Antonello et al. 2024 - A](Papers/References/Antonello%20et%20al.%202024%20-%20A)
 
 > [!example]- Authors
-> - [Antonello, Richard](Papers/People/Antonello%20Richard)
-> - [Singh, Chandan](Papers/People/Singh%20Chandan)
-> - [Jain, Shailee](Papers/People/Jain%20Shailee)
-> - [Hsu, Aliyah R.](Papers/People/Hsu%20Aliyah%20R.)
-> - [Gao, Jianfeng](Papers/People/Gao%20Jianfeng)
-> - [Yu, Bin](Papers/People/Yu%20Bin)
-> - [Huth, Alexander](Papers/People/Huth%20Alexander)
+> - [Antonello, Richard](Antonello%2C%20Richard)
+> - [Singh, Chandan](Singh%2C%20Chandan)
+> - [Jain, Shailee](Jain%2C%20Shailee)
+> - [Hsu, Aliyah R.](Hsu%2C%20Aliyah%20R.)
+> - [Gao, Jianfeng](Gao%2C%20Jianfeng)
+> - [Yu, Bin](Yu%2C%20Bin)
+> - [Huth, Alexander](Huth%2C%20Alexander)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/A-generative-framework-to-bridge-data-driven-models-Antonello-Singh/5d0454b1e913770d8de136b7f1b7841f427462e0

@@ -12,8 +12,8 @@ tags:
 # Annotation for [Demirel and Holz 2023 - Finding](Papers/References/Demirel%20and%20Holz%202023%20-%20Finding)
 
 > [!example]- Authors
-> - [Demirel, Berken Utku](Papers/People/Demirel%20Berken%20Utku)
-> - [Holz, Christian](Papers/People/Holz%20Christian)
+> - [Demirel, Berken Utku](Demirel%2C%20Berken%20Utku)
+> - [Holz, Christian](Holz%2C%20Christian)
 
 **Year:** 2023
 **DOI:** 10.48550/ARXIV.2309.13439

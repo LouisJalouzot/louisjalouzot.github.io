@@ -12,9 +12,9 @@ tags:
 # Annotation for [Ferrante et al.  - Language](Papers/References/Ferrante%20et%20al.%20%20-%20Language)
 
 > [!example]- Authors
-> - [Ferrante, Matteo](Papers/People/Ferrante%20Matteo)
-> - [Toschi, Nicola](Papers/People/Toschi%20Nicola)
-> - [Huth, Alexander](Papers/People/Huth%20Alexander)
+> - [Ferrante, Matteo](Ferrante%2C%20Matteo)
+> - [Toschi, Nicola](Toschi%2C%20Nicola)
+> - [Huth, Alexander](Huth%2C%20Alexander)
 
 **Year:** 
 **URL:** https://openreview.net/forum?id=rBQPJSPNsw#discussion

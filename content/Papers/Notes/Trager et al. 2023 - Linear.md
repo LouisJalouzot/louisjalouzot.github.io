@@ -12,12 +12,12 @@ tags:
 # Annotation for [Trager et al. 2023 - Linear](Papers/References/Trager%20et%20al.%202023%20-%20Linear)
 
 > [!example]- Authors
-> - [Trager, Matthew](Papers/People/Trager%20Matthew)
-> - [Perera, Pramuditha](Papers/People/Perera%20Pramuditha)
-> - [Zancato, Luca](Papers/People/Zancato%20Luca)
-> - [Achille, Alessandro](Papers/People/Achille%20Alessandro)
-> - [Bhatia, Parminder](Papers/People/Bhatia%20Parminder)
-> - [Soatto, Stefano](Papers/People/Soatto%20Stefano)
+> - [Trager, Matthew](Trager%2C%20Matthew)
+> - [Perera, Pramuditha](Perera%2C%20Pramuditha)
+> - [Zancato, Luca](Zancato%2C%20Luca)
+> - [Achille, Alessandro](Achille%2C%20Alessandro)
+> - [Bhatia, Parminder](Bhatia%2C%20Parminder)
+> - [Soatto, Stefano](Soatto%2C%20Stefano)
 
 **Year:** 2023
 **DOI:** 10.1109/ICCV51070.2023.01412

@@ -12,8 +12,8 @@ tags:
 # Annotation for [Agrawal and Dehaene 2024 - Cracking](Papers/References/Agrawal%20and%20Dehaene%202024%20-%20Cracking)
 
 > [!example]- Authors
-> - [Agrawal, Aakash](Papers/People/Agrawal%20Aakash)
-> - [Dehaene, Stanislas](Papers/People/Dehaene%20Stanislas)
+> - [Agrawal, Aakash](Agrawal%2C%20Aakash)
+> - [Dehaene, Stanislas](Dehaene%2C%20Stanislas)
 
 **Year:** 2024
 **DOI:** 10.48550/ARXIV.2403.06159

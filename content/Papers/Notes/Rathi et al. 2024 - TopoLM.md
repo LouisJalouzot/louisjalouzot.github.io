@@ -12,12 +12,12 @@ tags:
 # Annotation for [Rathi et al. 2024 - TopoLM](Papers/References/Rathi%20et%20al.%202024%20-%20TopoLM)
 
 > [!example]- Authors
-> - [Rathi, Neil](Papers/People/Rathi%20Neil)
-> - [Mehrer, Johannes](Papers/People/Mehrer%20Johannes)
-> - [AlKhamissi, Badr](Papers/People/AlKhamissi%20Badr)
-> - [Binhuraib, T.](Papers/People/Binhuraib%20T.)
-> - [Blauch, Nicholas M.](Papers/People/Blauch%20Nicholas%20M.)
-> - [Schrimpf, Martin](Papers/People/Schrimpf%20Martin)
+> - [Rathi, Neil](Rathi%2C%20Neil)
+> - [Mehrer, Johannes](Mehrer%2C%20Johannes)
+> - [AlKhamissi, Badr](AlKhamissi%2C%20Badr)
+> - [Binhuraib, T.](Binhuraib%2C%20T.)
+> - [Blauch, Nicholas M.](Blauch%2C%20Nicholas%20M.)
+> - [Schrimpf, Martin](Schrimpf%2C%20Martin)
 
 **Year:** 2024
 **URL:** https://www.semanticscholar.org/paper/TopoLM%3A-brain-like-spatio-functional-organization-a-Rathi-Mehrer/e96efde79b20f21f6403cff83dead50ec0cd53e3

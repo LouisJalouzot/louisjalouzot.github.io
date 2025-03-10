@@ -12,10 +12,10 @@ tags:
 # Annotation for [Vijayaraghavan et al. 2025 - Development](Papers/References/Vijayaraghavan%20et%20al.%202025%20-%20Development)
 
 > [!example]- Authors
-> - [Vijayaraghavan, Prasanna](Papers/People/Vijayaraghavan%20Prasanna)
-> - [Queißer, Jeffrey Frederic](Papers/People/Queißer%20Jeffrey%20Frederic)
-> - [Flores, Sergio Verduzco](Papers/People/Flores%20Sergio%20Verduzco)
-> - [Tani, Jun](Papers/People/Tani%20Jun)
+> - [Vijayaraghavan, Prasanna](Vijayaraghavan%2C%20Prasanna)
+> - [Queißer, Jeffrey Frederic](Quei%C3%9Fer%2C%20Jeffrey%20Frederic)
+> - [Flores, Sergio Verduzco](Flores%2C%20Sergio%20Verduzco)
+> - [Tani, Jun](Tani%2C%20Jun)
 
 **Year:** 2025
 **DOI:** 10.1126/scirobotics.adp0751

@@ -12,10 +12,10 @@ tags:
 # Annotation for [Pasquiou et al. 2023 - Information-Restricted](Papers/References/Pasquiou%20et%20al.%202023%20-%20Information-Restricted)
 
 > [!example]- Authors
-> - [Pasquiou, Alexandre](Papers/People/Pasquiou%20Alexandre)
-> - [Lakretz, Yair](Papers/People/Lakretz%20Yair)
-> - [Thirion, Bertrand](Papers/People/Thirion%20Bertrand)
-> - [Pallier, Christophe](Papers/People/Pallier%20Christophe)
+> - [Pasquiou, Alexandre](Pasquiou%2C%20Alexandre)
+> - [Lakretz, Yair](Lakretz%2C%20Yair)
+> - [Thirion, Bertrand](Thirion%2C%20Bertrand)
+> - [Pallier, Christophe](Pallier%2C%20Christophe)
 
 **Year:** 2023
 **DOI:** 10.48550/arXiv.2302.14389

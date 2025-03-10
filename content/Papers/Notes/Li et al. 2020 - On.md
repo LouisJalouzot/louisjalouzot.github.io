@@ -12,12 +12,12 @@ tags:
 # Annotation for [Li et al. 2020 - On](Papers/References/Li%20et%20al.%202020%20-%20On)
 
 > [!example]- Authors
-> - [Li, Bohan](Papers/People/Li%20Bohan)
-> - [Zhou, Hao](Papers/People/Zhou%20Hao)
-> - [He, Junxian](Papers/People/He%20Junxian)
-> - [Wang, Mingxuan](Papers/People/Wang%20Mingxuan)
-> - [Yang, Yiming](Papers/People/Yang%20Yiming)
-> - [Li, Lei](Papers/People/Li%20Lei)
+> - [Li, Bohan](Li%2C%20Bohan)
+> - [Zhou, Hao](Zhou%2C%20Hao)
+> - [He, Junxian](He%2C%20Junxian)
+> - [Wang, Mingxuan](Wang%2C%20Mingxuan)
+> - [Yang, Yiming](Yang%2C%20Yiming)
+> - [Li, Lei](Li%2C%20Lei)
 
 **Year:** 2020
 **DOI:** 10.18653/v1/2020.emnlp-main.733

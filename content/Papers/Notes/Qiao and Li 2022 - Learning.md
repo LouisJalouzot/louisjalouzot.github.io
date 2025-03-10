@@ -12,8 +12,8 @@ tags:
 # Annotation for [Qiao and Li 2022 - Learning](Papers/References/Qiao%20and%20Li%202022%20-%20Learning)
 
 > [!example]- Authors
-> - [Qiao, Ximing](Papers/People/Qiao%20Ximing)
-> - [Li, Hai](Papers/People/Li%20Hai)
+> - [Qiao, Ximing](Qiao%2C%20Ximing)
+> - [Li, Hai](Li%2C%20Hai)
 
 **Year:** 2022
 **DOI:** 10.48550/ARXIV.2208.12789

@@ -12,10 +12,10 @@ tags:
 # Annotation for [Kim et al. 2020 - MixCo](Papers/References/Kim%20et%20al.%202020%20-%20MixCo)
 
 > [!example]- Authors
-> - [Kim, Sungnyun](Papers/People/Kim%20Sungnyun)
-> - [Lee, Gihun](Papers/People/Lee%20Gihun)
-> - [Bae, Sangmin](Papers/People/Bae%20Sangmin)
-> - [Yun, Seyoung](Papers/People/Yun%20Seyoung)
+> - [Kim, Sungnyun](Kim%2C%20Sungnyun)
+> - [Lee, Gihun](Lee%2C%20Gihun)
+> - [Bae, Sangmin](Bae%2C%20Sangmin)
+> - [Yun, Seyoung](Yun%2C%20Seyoung)
 
 **Year:** 2020
 **URL:** https://www.semanticscholar.org/paper/MixCo%3A-Mix-up-Contrastive-Learning-for-Visual-Kim-Lee/3021152ab7540da7fd85baf2560568d8ef4a9b23

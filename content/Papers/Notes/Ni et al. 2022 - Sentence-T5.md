@@ -12,13 +12,13 @@ tags:
 # Annotation for [Ni et al. 2022 - Sentence-T5](Papers/References/Ni%20et%20al.%202022%20-%20Sentence-T5)
 
 > [!example]- Authors
-> - [Ni, Jianmo](Papers/People/Ni%20Jianmo)
-> - [Hernandez Abrego, Gustavo](Papers/People/Hernandez%20Abrego%20Gustavo)
-> - [Constant, Noah](Papers/People/Constant%20Noah)
-> - [Ma, Ji](Papers/People/Ma%20Ji)
-> - [Hall, Keith](Papers/People/Hall%20Keith)
-> - [Cer, Daniel](Papers/People/Cer%20Daniel)
-> - [Yang, Yinfei](Papers/People/Yang%20Yinfei)
+> - [Ni, Jianmo](Ni%2C%20Jianmo)
+> - [Hernandez Abrego, Gustavo](Hernandez%20Abrego%2C%20Gustavo)
+> - [Constant, Noah](Constant%2C%20Noah)
+> - [Ma, Ji](Ma%2C%20Ji)
+> - [Hall, Keith](Hall%2C%20Keith)
+> - [Cer, Daniel](Cer%2C%20Daniel)
+> - [Yang, Yinfei](Yang%2C%20Yinfei)
 
 **Year:** 2022
 **DOI:** 10.18653/v1/2022.findings-acl.146

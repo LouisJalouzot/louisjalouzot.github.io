@@ -12,12 +12,12 @@ tags:
 # Annotation for [Tian et al. 2024 - Mental](Papers/References/Tian%20et%20al.%202024%20-%20Mental)
 
 > [!example]- Authors
-> - [Tian, Zhenghe](Papers/People/Tian%20Zhenghe)
-> - [Chen, Jingwen](Papers/People/Chen%20Jingwen)
-> - [Zhang, Cong](Papers/People/Zhang%20Cong)
-> - [Min, Bin](Papers/People/Min%20Bin)
-> - [Xu, Bo](Papers/People/Xu%20Bo)
-> - [Wang, Liping](Papers/People/Wang%20Liping)
+> - [Tian, Zhenghe](Tian%2C%20Zhenghe)
+> - [Chen, Jingwen](Chen%2C%20Jingwen)
+> - [Zhang, Cong](Zhang%2C%20Cong)
+> - [Min, Bin](Min%2C%20Bin)
+> - [Xu, Bo](Xu%2C%20Bo)
+> - [Wang, Liping](Wang%2C%20Liping)
 
 **Year:** 2024
 **DOI:** 10.1126/science.adp6091
