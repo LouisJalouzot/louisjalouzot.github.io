@@ -3,11 +3,15 @@ title: Smolensky et al. 2024 - Mechanisms
 publish: true
 cssclasses:
   - list-cards
-status: to read
-progress: to annotate
-project:
-type: annotation
+status:
+  - reading
+progress:
+  - to annotate
+project: 
+type:
+  - annotation
 tags:
+  - symbolism
 ---
 # Annotation for [Smolensky et al. 2024 - Mechanisms](Papers/References/Smolensky%20et%20al.%202024%20-%20Mechanisms)
 

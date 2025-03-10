@@ -3,10 +3,14 @@ title: Warstadt et al. 2020 - BLiMP
 publish: true
 cssclasses:
   - list-cards
-status: to read
-progress: to annotate
+status:
+  - to read
+progress:
+  - to annotate
 project:
-type: annotation
+  - MLEM
+type:
+  - annotation
 tags:
 ---
 # Annotation for [Warstadt et al. 2020 - BLiMP](Papers/References/Warstadt%20et%20al.%202020%20-%20BLiMP)
