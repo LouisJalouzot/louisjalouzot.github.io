@@ -37,9 +37,9 @@ Distances should be min-max scaled.
 
 ## mlem
 From the arrays *features_pdist* and *repr_pdist*, serialize them into arrays of dimension $p$ and $p,F$ where $p$ is the number of pairs.
-Then fit a Frac Ridge to predict *repr_pdist* from *features_pdist*.
+Then fit a Ridge regression with positive coefficients to predict *repr_pdist* from *features_pdist*.
 Then use Permutation Feature Importance to compute the importance of each feature in the prediction with respect to the Spearman correlation. It should be possible to specify the number of permutations (50 by defaults).
-Train and test splits should be determined through cross-validation, it should be possible to specify the number of folds (2 by defaults).
+There should be nested cross validation. The outer one (2 folds by default) on which to compute Permutation Feature Importance and the inner one (3 folds by default) on which to validate the Ridge $\alpha$ parameter (it should explore a log space of 15 $\alpha$ values between $10^{-8}$ and $10^3$). It should be possible to specify both numbers of folds.
 Compute the significance of each Feature Importance and add FDR correction.
 Output the results in a pandas dataframe with meaningful columns. The user should have the possibility or not to give its *features* dataframe to this functions to have feature names in the output.
 Have a randomness seed for reproducability.
@@ -49,4 +49,4 @@ Have multiple levels of verbose available in the functions.
 Write simple, short, elegant and efficient code.
 Write complete documentation with NumPy style docstrings.
 Write a full python module that can be installed with pip directly from Github. It should support Python 3.13 down to at least Python 3.9.
-Write a comprehensive yet compact readme. It should be possible for new users to easily install and play around with the module in their code.
+Write a compact readme. It should be possible for new users to easily install and play around with the module in their code.
