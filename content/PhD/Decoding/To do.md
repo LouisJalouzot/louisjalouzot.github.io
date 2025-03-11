@@ -1,5 +1,8 @@
 ---
-type: TODO
+type:
+  - TODO
+project:
+  - Decoding
 ---
 - [x] Run somewhere (oom)
 ```bash

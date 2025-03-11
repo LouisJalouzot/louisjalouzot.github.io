@@ -54,6 +54,8 @@ publish: true
 >> }
 >> ```
 
+<br>
+
 > [!multi-column]
 > 
 >> [!warning]+ To read
@@ -69,7 +71,7 @@ publish: true
 >>     dv.header(3, group.key);
 >>     dv.table(
 >>         ["Title", "Progress", "Tags"],
->>         group.rows.map(p => [
+>>         group.rows.slice(0, 20).map(p => [
 >>             p.file.link,
 >>             p.paperTitle,
 >>             p.progress,

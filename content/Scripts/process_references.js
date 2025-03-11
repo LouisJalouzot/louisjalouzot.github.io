@@ -19,6 +19,7 @@ const processReferences = async (params) => {
         const files = app.vault.getFiles().filter(file => file.path.startsWith("Temp/References"));
 
         if (files.length === 0) {
+            new Notice("No reference files found in Temp/References");
             return;
         }
 
@@ -32,30 +33,15 @@ const processReferences = async (params) => {
             // Create annotation file if it doesn't exist
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
                 let annotationContent = `---
-title: ${originalFileName}
-paperTitle: "${frontmatter.paperTitle || ""}"
-authors: ${frontmatter.authors || ""}
 publish: true
-cssclasses:
-  - list-cards
-type: annotation
-project:
-tags:
 status: to read
-progress: to annotate
+project:
+type: annotation
+tags:
 ---
-# Annotation for [${originalFileName}](Papers/References/${encodeURIComponent(originalFileName)})
+# Annotation for [${originalFileName.split(" - ")[0]}](${file.path.replace(/ /g, '%20')})
 
-> [!example]- Authors
-`;
-
-                if (frontmatter.authors) {
-                    frontmatter.authors.forEach(author => {
-                        annotationContent += `> - [${author}](${encodeURIComponent(author)})\n`;
-                    })
-                }
-
-                annotationContent += `
+**Authors:** ${frontmatter.authors || "Unknown"}
 **Year:** ${frontmatter.year || ""}
 `;
 
@@ -67,35 +53,10 @@ progress: to annotate
                     annotationContent += `**URL:** ${frontmatter.url}\n`;
                 }
 
-                // Safe PDF link generation
-                const pdfFilename = frontmatter.filename ? encodeURIComponent(frontmatter.filename) : "";
-                annotationContent += `**PDF:** [${file.basename}](Papers/PDFs/${pdfFilename})`;
+                annotationContent += `**PDF:** [${file.basename}](Papers/PDFs/${frontmatter.filename?.replace(/ /g, '%20') || ""})`;
 
-                annotationContent += `
-
-# Highlights
-
-
-# Goal (yellow)
-
-
-# Method (purple)
-
-
-# Data (purple)
-
-
-# Results (red)
-
-
-# Discussion (blue)
-
-
-# Questions
-
-`;
                 await app.vault.create(annotationPath, annotationContent);
-                new Notice(`Created: ${annotationPath} `);
+                new Notice(`Created: ${annotationPath}`);
             }
 
             // Move reference file if destination doesn't exist
@@ -108,7 +69,7 @@ progress: to annotate
         }
     } catch (error) {
         console.error("Error processing references:", error);
-        new Notice(`Error: ${error.message} `);
+        new Notice(`Error: ${error.message}`);
     }
 }
 
