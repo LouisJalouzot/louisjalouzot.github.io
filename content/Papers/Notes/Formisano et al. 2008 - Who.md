@@ -1,6 +1,6 @@
 ---
 title: Formisano et al. 2008 - Who
-paperTitle: ""Who" Is Saying "What"? Brain-Based Decoding of Human Voice and Speech"
+paperTitle: "'Who' Is Saying 'What? Brain-Based Decoding of Human Voice and Speech"
 authors: Formisano, Elia,De Martino, Federico,Bonte, Milene,Goebel, Rainer
 publish: true
 cssclasses:
@@ -11,7 +11,7 @@ tags:
 status: to read
 progress: to annotate
 ---
-# Annotation for [Formisano et al. 2008 - Who](Papers/References/Formisano%20et%20al.%202008%20-%20Who)
+'# Annotation for [Formisano et al. 2008 - Who](Papers/References/Formisano%20et%20al.%202008%20-%20Who)
 
 > [!abstract] "Who" Is Saying "What"? Brain-Based Decoding of Human Voice and Speech
 

@@ -57,6 +57,56 @@ publish: true
 <br>
 
 > [!multi-column]
+>
+>> [!important]+ To review
+>> ```dataviewjs
+>> const pages = dv.pages('"Papers/Notes"')
+>>     .where(p => p.status === "to review")
+>>     .sort(p => p.file.mtime, "desc");
+>> 
+>> // Group by project
+>> const groupedPages = pages.groupBy(p => p.project || "No Project");
+>> 
+>> for (const group of groupedPages) {
+>>     dv.header(3, group.key);
+>>     dv.table(
+>>         ["Title", "Progress", "Tags"],
+>>         group.rows.map(p => [
+>>             p.file.link,
+>>             p.paperTitle,
+>>             p.progress,
+>>             p.tags
+>>         ])
+>>     );
+>> }
+>> ```
+>
+>> [!error]+ To implement
+>> ```dataviewjs
+>> const pages = dv.pages('"Papers/Notes"')
+>>     .where(p => p.status === "to implement")
+>>     .sort(p => p.file.mtime, "desc");
+>> 
+>> // Group by project
+>> const groupedPages = pages.groupBy(p => p.project || "No Project");
+>> 
+>> for (const group of groupedPages) {
+>>     dv.header(3, group.key);
+>>     dv.table(
+>>         ["Title", "Progress", "Tags"],
+>>         group.rows.map(p => [
+>>             p.file.link,
+>>             p.paperTitle,
+>>             p.progress,
+>>             p.tags
+>>         ])
+>>     );
+>> }
+>> ```
+
+<br>
+
+> [!multi-column]
 > 
 >> [!warning]+ To read
 >> ```dataviewjs
@@ -81,10 +131,10 @@ publish: true
 >> }
 >> ```
 >
->> [!note]+ To implement
+>> [!quote]+ Read
 >> ```dataviewjs
 >> const pages = dv.pages('"Papers/Notes"')
->>     .where(p => p.status === "to implement")
+>>     .where(p => p.status === "read")
 >>     .sort(p => p.file.mtime, "desc");
 >> 
 >> // Group by project
@@ -94,7 +144,7 @@ publish: true
 >>     dv.header(3, group.key);
 >>     dv.table(
 >>         ["Title", "Progress", "Tags"],
->>         group.rows.map(p => [
+>>         group.rows.slice(0, 20).map(p => [
 >>             p.file.link,
 >>             p.paperTitle,
 >>             p.progress,
