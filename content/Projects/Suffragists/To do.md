@@ -1,3 +1,4 @@
+# 2025-03-11
 - [x] VfW 98: page 7 table missing, reprompt
 - [x] VfW 99: page 7 missing events because city name on previous page
 - [x] Idea: prompt 2 pages by 2 pages and remove duplicates
