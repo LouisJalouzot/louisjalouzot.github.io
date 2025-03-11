@@ -33,16 +33,16 @@ const processReferences = async (params) => {
             if (!app.vault.getAbstractFileByPath(annotationPath)) {
                 let annotationContent = `---
 title: ${originalFileName}
-paperTitle: ${frontmatter.paperTitle || ""}
+paperTitle: "${frontmatter.paperTitle || ""}"
 authors: ${frontmatter.authors || ""}
 publish: true
 cssclasses:
   - list-cards
+type: annotation
+project:
+tags:
 status: to read
 progress: to annotate
-project:
-type: annotation
-tags:
 ---
 # Annotation for [${originalFileName}](Papers/References/${encodeURIComponent(originalFileName)})
 
@@ -80,6 +80,9 @@ tags:
 
 
 # Method (purple)
+
+
+# Data (purple)
 
 
 # Results (red)
