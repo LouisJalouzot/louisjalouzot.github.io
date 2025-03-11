@@ -9,7 +9,7 @@ type:
 # VfW 98
 Page 7
 ![[Pasted image 20250311140334.png]]
-- > 138 meetings in the table (104 found in last prompting)
+- > 138 meetings in the table (127 found in last prompting)
 
 # VfW 100
 ~213 meetings
