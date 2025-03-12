@@ -1,14 +1,17 @@
 ---
 title: Salle et al. 2024 - What
-paperTitle: "What Makes Two Language Models Think Alike?"
-authors: Salle, Jeanne,Jalouzot, Louis,Lan, Nur,Chemla, Emmanuel,Lakretz, Yair
+paperTitle: What Makes Two Language Models Think Alike?
+authors:
+  - Salle, Jeanne,Jalouzot, Louis,Lan, Nur,Chemla, Emmanuel,Lakretz, Yair
 publish: true
 cssclasses:
   - list-cards
-type: annotation
+type:
+  - annotation
 project:
-tags:
-status: to read
+  - MLEM
+tags: 
+status: reading
 progress: to annotate
 ---
 # Annotation for [Salle et al. 2024 - What](Papers/References/Salle%20et%20al.%202024%20-%20What)
@@ -31,6 +34,12 @@ progress: to annotate
 
 
 # Goal (yellow)
+
+> [!PDF|yellow] [[Salle et al. 2024 - What Makes Two Language Models Think Alike.pdf#page=1&selection=21,0,23,6&color=yellow|Salle et al. 2024 - What Makes Two Language Models Think Alike, p.1]]
+> > Do architectural differences significantly affect the way models represent and process language?
+> 
+> 
+
 
 
 # Method (purple)
