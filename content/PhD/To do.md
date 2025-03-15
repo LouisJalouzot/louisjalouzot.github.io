@@ -1,6 +1,7 @@
 ---
 type: TODO
 ---
+#MLEM
 - Build diapo general outline of PhD
 # To read
 ## Brain dynamics/discreteness
