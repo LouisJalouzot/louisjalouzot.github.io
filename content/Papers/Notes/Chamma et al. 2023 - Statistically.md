@@ -1,14 +1,18 @@
 ---
 title: Chamma et al. 2023 - Statistically
-paperTitle: "Statistically Valid Variable Importance Assessment through Conditional Permutations"
-authors: Chamma, Ahmad,Engemann, Denis A.,Thirion, Bertrand
+paperTitle: Statistically Valid Variable Importance Assessment through Conditional Permutations
+authors:
+  - Chamma, Ahmad,Engemann, Denis A.,Thirion, Bertrand
 publish: true
 cssclasses:
   - list-cards
-type: annotation
+type:
+  - annotation
 project:
+  - MLEM
 tags:
-status: to read
+  - FeatureImportance
+status: read
 progress: to annotate
 ---
 # Annotation for [Chamma et al. 2023 - Statistically](Papers/References/Chamma%20et%20al.%202023%20-%20Statistically)
