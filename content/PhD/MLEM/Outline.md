@@ -8,6 +8,8 @@ type:
   - Outline
 ---
 # Feature Importance
+## Conditional Permutation Importance
+[[Papers/Notes/Chamma et al. 2023 - Statistically|Chamma et al. 2023 - Statistically]]
 ## Shapley values
-c.f. [paper](Papers/Notes/Lundberg%20and%20Lee%202017%20-%20A)
+c.f. [[Papers/Notes/Lundberg and Lee 2017 - A|Lundberg and Lee 2017 - A]]
 c.f. [Github](https://github.com/shap/shap)
