@@ -34,7 +34,7 @@ progress: to annotate
 > ![[Attachments/Lobo et al. 2025 - Sobol-CPI a Doubly Robust Conditional Permutation Importance Statistic.webp]]
 > [[Lobo et al. 2025 - Sobol-CPI a Doubly Robust Conditional Permutation Importance Statistic.pdf#page=2&rect=301,520,547,588&color=red|Lobo et al. 2025 - Sobol-CPI a Doubly Robust Conditional Permutation Importance Statistic, p.2]]
 
-Builds upon [[Papers/Notes/Chamma et al. 2023 - Statistically|Chamma et al. 2023 - Statistically]] (guarantees of CPI with MSE)
+Builds upon [[Papers/Notes/Chamma et al. 2023 - Statistically|Chamma et al. 2023 - Statistically]] (guarantees of CPI with MSE only)
 
 
 > [!PDF|red] [[Lobo et al. 2025 - Sobol-CPI a Doubly Robust Conditional Permutation Importance Statistic.pdf#page=3&selection=213,10,224,62&color=red|Lobo et al. 2025 - Sobol-CPI a Doubly Robust Conditional Permutation Importance Statistic, p.3]]
