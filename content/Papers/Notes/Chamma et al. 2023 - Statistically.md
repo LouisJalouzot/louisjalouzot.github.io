@@ -55,6 +55,14 @@ progress: to annotate
 > [!PDF|red] [[Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.pdf#page=1&selection=35,23,41,14&color=red|Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations, p.1]]
 > > We show theoretically and empirically that CPI overcomes the limitations of standard permutation importance by providing accurate type-I error control.
 
+⚠️
+> [!PDF|red] [[Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.pdf#page=3&selection=302,0,306,66&color=red|Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations, p.3]]
+> > The permutation approach leads to false detections in the presence of correlations
+
+> [!danger]- Main result
+> ![[Attachments/Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.webp]]
+
+[[Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.pdf#page=4&rect=100,155,509,443&color=red|Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations, p.4]]
 
 # Discussion (blue)
 
