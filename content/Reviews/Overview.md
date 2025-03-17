@@ -11,7 +11,8 @@ type:
 TABLE
 	deadline,
 	cycle,
-	project
+	project,
+	originalReviewer
 FROM "Reviews"
 WHERE contains(type, "review")
 AND reviewStatus = "to do"
