@@ -13,7 +13,7 @@ project:
 tags:
   - FeatureImportance
 status: read
-progress: to annotate
+progress: annotated
 ---
 # Annotation for [Chamma et al. 2023 - Statistically](Papers/References/Chamma%20et%20al.%202023%20-%20Statistically)
 
@@ -31,6 +31,7 @@ progress: to annotate
 
 # Highlights 
 
+⚠️<font color="#ff0000"> Only for MSE score ! C.f. main result</font>
 
 # Goal (yellow)
 
@@ -61,8 +62,7 @@ progress: to annotate
 
 > [!danger]- Main result
 > ![[Attachments/Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.webp]]
-
-[[Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.pdf#page=4&rect=100,155,509,443&color=red|Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations, p.4]]
+> [[Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations.pdf#page=4&rect=100,155,509,443&color=red|Chamma et al. 2023 - Statistically Valid Variable Importance Assessment through Conditional Permutations, p.4]]
 
 # Discussion (blue)
 
