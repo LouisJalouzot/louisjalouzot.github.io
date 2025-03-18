@@ -11,7 +11,7 @@ type:
 project:
   - MLEM
 tags: 
-status: reading
+status: read
 progress: to annotate
 ---
 # Annotation for [Salle et al. 2024 - What](Papers/References/Salle%20et%20al.%202024%20-%20What)
