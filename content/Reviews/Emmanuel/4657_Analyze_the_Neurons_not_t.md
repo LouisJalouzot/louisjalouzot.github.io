@@ -6,7 +6,7 @@ project:
 type:
   - review
 originalReviewer: Emmanuel Chemla
-cycle: 
+cycle: ACL2025
 deadline: 2025-03-23
 reviewStatus: to do
 ---
