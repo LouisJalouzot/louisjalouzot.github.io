@@ -38,6 +38,9 @@ progress: to annotate
 ![[Attachments/Lee et al. 2025 - Programming Refusal with Conditional Activation Steering.webp]]
 
 [[Lee et al. 2025 - Programming Refusal with Conditional Activation Steering.pdf#page=3&rect=103,634,507,670|Lee et al. 2025 - Programming Refusal with Conditional Activation Steering, p.3]]
+![[Attachments/Lee et al. 2025 - Programming Refusal with Conditional Activation Steering 1.webp]]
+
+[[Lee et al. 2025 - Programming Refusal with Conditional Activation Steering.pdf#page=3&rect=101,306,510,473|Lee et al. 2025 - Programming Refusal with Conditional Activation Steering, p.3]]
 
 # Goal (yellow)
 
