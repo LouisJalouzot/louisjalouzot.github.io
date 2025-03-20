@@ -1,10 +1,11 @@
 {
 	"nodes":[
+		{"id":"97330031e645f934","type":"group","x":-960,"y":560,"width":1220,"height":1560,"color":"5","label":"SGD with PyTorch"},
 		{"id":"e205e3650a52fc9a","type":"group","x":-960,"y":-360,"width":1220,"height":840,"color":"6","label":"Direct optimization"},
-		{"id":"97330031e645f934","type":"group","x":-960,"y":560,"width":1220,"height":840,"color":"5","label":"SGD with PyTorch"},
 		{"id":"dd47d741616d9bf2","type":"file","file":"PhD/MLEM/SPD Optimization/CVXPY's Semidefinite program.md","x":-920,"y":-305,"width":520,"height":745},
-		{"id":"ad3522ca58510804","type":"file","file":"PhD/MLEM/SPD matrices.md","x":-960,"y":-1640,"width":1220,"height":1200},
-		{"id":"560283973d6c97fc","type":"file","file":"PhD/MLEM/SPD Optimization/Pymanopt's SPD manifold.md","x":-350,"y":-305,"width":580,"height":745}
+		{"id":"560283973d6c97fc","type":"file","file":"PhD/MLEM/SPD Optimization/Pymanopt's SPD manifold.md","x":-350,"y":-305,"width":580,"height":745},
+		{"id":"8883d464dd56cede","type":"file","file":"PhD/MLEM/SPD Optimization/PyTorch parametrization.md","x":-920,"y":600,"width":1150,"height":1480},
+		{"id":"ad3522ca58510804","type":"file","file":"PhD/MLEM/SPD matrices.md","x":-960,"y":-1660,"width":1220,"height":1220}
 	],
 	"edges":[]
 }
