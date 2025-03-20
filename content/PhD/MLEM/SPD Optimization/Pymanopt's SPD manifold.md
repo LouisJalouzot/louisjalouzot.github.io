@@ -39,3 +39,6 @@ result = optimizer.run(problem)
 
 ### Dirty (?) solution
 I figured that you don't need all the data to optimize so few parameters (14 * 15 / 2 = 105 for the relative clause dataset)
+So I try to fit on more and more data (selected at random) until *convergence*
+Convergence = rho train ~ rho test and $||W - W_{prev}|| < 0.05 ||W||$
+![[Pasted image 20250320124247.png]]
