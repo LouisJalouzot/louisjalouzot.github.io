@@ -24,8 +24,30 @@ We have a set of $n$ stimuli $s_i$ for $i$ in $[1,n]$.
 
 > [!example] Neural distances
 > We have $h$-dimensional *neural representations* of each stimuli, $R_i \in \mathbb{R}^h$ is the neural representation of $s_i$
-> We define the <font color="#ff0000">pairwise neural distance</font> $D^n_{ij}$ between stimuli $s_i$ and $s_j$ as $D^n_{ij} := d(R_i,R_j)$ for $d$ being for instance the euclidean or cosine distance
+> We define the <font color="#ff0000">pairwise neural distance</font> $D^n_{ij}$ between stimuli $s_i$ and $s_j$ as $D^N_{ij} := d(R_i,R_j)$ for $d$ being for instance the euclidean or cosine distance
 
 > [!important] Optimization problem
-> We want to learn a weighted norm $||\bullet ||_W$ that brings 
+> We want to learn a weighted norm $||\bullet ||_W$ that *brings feature distances as close as possible to neural distances*: $|| \Delta_{ij} ||_W :=  \Delta_{ij}^T W \Delta_{ij} \sim D^N_{ij}$
+> We can optimize the MSE or Spearman, for MSE our optimization problem is
+> $$\min_{W \in \mathbb{S}_F^{++}} \sum_{ij} \left(\Delta_{ij}^T W \Delta_{ij} - D^N_{ij}\right) ^ 2$$
 
+## Issues
+- <font color="#ff0000">Main issue:</font> the number of points can get very large, for 7k stimuli (e.g. the Relative Clause dataset), we have $\sim 2.10^7$ pairs (size of the sum for the MSE)
+- Optimizing over the manifold of SPD matrices is not trivial nor stable
+
+## Potential directions
+
+### 
+
+> [!success] Pros
+> - *Exact* solution
+
+ >[!missing] Cons
+ > - No GPU support
+ > - No batching
+
+
+| Solution | Implementation | Pros           | Cons                          | Results |
+| -------- | -------------- | -------------- | ----------------------------- | ------- |
+|          |                | Exact solution | No GPU support<br>No batching |         |
+|          |                |                |                               |         |
