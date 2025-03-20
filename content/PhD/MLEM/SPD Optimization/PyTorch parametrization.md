@@ -49,7 +49,44 @@ def forward(self, W):
 	return self.param.reals1d_to_params(W[*self.indices])
 ```
 
-Here
+`MatrixSymPosDef` comes from [parametrization-cookbook](https://gitlab.com/jbleger/parametrization-cookbook) (paper to cite)
+Here the view is:
+- $L = \text{tril}(W)$
+- Apply positive function to diagonal coefficients of $L$
+- $W' = LL^T$ -> SPD
+The positive function is (lookup origin in paper)
+```python
+def log1pexp(x):
+    return torch.log1p(torch.exp(-torch.abs(x))) + torch.relu(x)
+```
 
 # Results
-Convergence rate very sensitive to initial parameters
+
+Both parametrization work well but the convergence speed is very sensitive to initial parameters
+Using batch computation is not feasible because there are too many points
+![[Pasted image 20250320130100.png|800]]
+1 min 30 epoch with batch size of 4096
+*Luckily* all the data can easily fit on the GPU (no more batches, ~~S~~GD)
+In this case, epoch = 0.24 s
+Here 0.18 (need more epochs) test Spearman compared to 0.5 with Pymanopt
+![[Pasted image 20250320130343.png]]
+
+# Bonus: Spearman on GPU
+Takes 3 min to compute Spearman for $1e7$ points with Scipy implementation (on CPU)
+Instantaneous (0.05 s) with a simple implementation with PyTorch that runs on GPU (why not already implemented in PyTorch?)
+```python
+def spearman(x, y, dim=0):
+	"""
+	Calculates Spearman's rank correlation coefficient between two tensors.
+	Args:
+		x (torch.Tensor): First tensor.
+		y (torch.Tensor): Second tensor.
+		dim (int): Dimension along which to compute the correlation. Default: 0.
+	Returns:
+		float: Spearman's rank correlation coefficient.
+	"""
+	x_rank = x.argsort(dim=dim).argsort(dim=dim)
+	y_rank = y.argsort(dim=dim).argsort(dim=dim)
+	
+	return torch.corrcoef(torch.stack([x_rank, y_rank], dim=dim))[0, 1].item()
+```
