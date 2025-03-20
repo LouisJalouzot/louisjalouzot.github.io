@@ -12,6 +12,7 @@ type:
 
 # Questions
 - [ ] PyTorch with all data on GPU or increasing data size with Pymanopt for SPD matrices?
+	- [ ] PyTorch: better initial parameters? For now, random or Id
 - [ ] Stick with Permutation Importance?
 - [ ] Ideas for applying Conditional Permutation Importance?
 	- [ ] Permuting before applying distances?
