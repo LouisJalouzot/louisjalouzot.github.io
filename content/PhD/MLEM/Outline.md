@@ -7,7 +7,14 @@ project:
 type:
   - Outline
 ---
-# Feature Importance
+```dataview
+LIST
+FROM "PhD/MLEM"
+WHERE contains(type, "Outline"
+```
+
+
+
 ## Conditional Permutation Importance
 [[Papers/Notes/Chamma et al. 2023 - Statistically|Chamma et al. 2023 - Statistically]] but only for MSE
 [[Papers/Notes/Lobo et al. 2025 - Sobol-CPI|Lobo et al. 2025 - Sobol-CPI]] maybe better suited
