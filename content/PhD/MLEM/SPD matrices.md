@@ -33,21 +33,9 @@ We have a set of $n$ stimuli $s_i$ for $i$ in $[1,n]$.
 
 ## Issues
 - <font color="#ff0000">Main issue:</font> the number of points can get very large, for 7k stimuli (e.g. the Relative Clause dataset), we have $\sim 2.10^7$ pairs (size of the sum for the MSE)
+	- Even computing Spearman correlation on that many points is very slow (without GPU)
 - Optimizing over the manifold of SPD matrices is not trivial nor stable
 
 ## Potential directions
 
-### 
-
-> [!success] Pros
-> - *Exact* solution
-
- >[!missing] Cons
- > - No GPU support
- > - No batching
-
-
-| Solution | Implementation | Pros           | Cons                          | Results |
-| -------- | -------------- | -------------- | ----------------------------- | ------- |
-|          |                | Exact solution | No GPU support<br>No batching |         |
-|          |                |                |                               |         |
+[[Directions.canvas|Directions]]

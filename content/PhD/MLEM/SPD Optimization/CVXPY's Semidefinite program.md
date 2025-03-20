@@ -11,6 +11,8 @@ type:
 ---
 [CVXPY's Semidefinite program](https://www.cvxpy.org/examples/basic/sdp.html)
 
+Similar to [[Pymanopt's SPD manifold]]
+
 ```python
 # Create a symmetric matrix variable.
 X = cp.Variable((n,n), symmetric=True)
@@ -21,7 +23,7 @@ prob.solve()
 ```
 
 > [!success] Pros
-> - Exact solution
+> - *Exact* solution
 
 > [!failure] Cons
 > - No GPU support
