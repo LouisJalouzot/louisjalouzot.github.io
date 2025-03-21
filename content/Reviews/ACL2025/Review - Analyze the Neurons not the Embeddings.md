@@ -55,3 +55,33 @@ filename: Reviews/ACL2025/Analyze the Neurons not the Embeddings.pdf
 6. The text in figure 6 should be bigger.
 7. In figure 7.b, it is hard to distinguish between early checkpoints with the current color scale.
 8. On appendix A for the Mistral model, the example of answer to the *fact prompt* seems more like a story and vice-versa, the answer to the *story prompt* seems more factual. Can you check if they have been swapped?
+
+
+# Confidence
+4 = Quite sure. I tried to check the important points carefully. It's unlikely, though conceivable, that I missed something that should affect my ratings.
+# Soundness
+3 = Acceptable: This study provides sufficient support for its main claims. Some minor points may need extra support or details.
+# Excitement
+3 = Interesting: I might mention some points of this paper to others and/or attend its presentation in a conference if there's time.
+# Overall Assessment
+2 = Resubmit next cycle: I think this paper needs substantial revisions that can be completed by the next ARR cycle.
+# Ethical Concerns
+There are no concerns with this submission.
+# Needs Ethics Review
+No
+# Reproducibility
+3 = They could reproduce the results with some difficulty. The settings of parameters are underspecified or subjectively determined, and/or the training/evaluation data are not widely available.
+# Datasets
+1 = No usable datasets submitted.
+# Software
+1 = No usable software released.
+# Knowledge Of Or Educated Guess At Author Identity
+No
+# Knowledge Of Paper
+N/A, I do not know anything about the paper from outside sources
+# Knowledge Of Paper Source
+N/A, I do not know anything about the paper from outside sources
+# Impact Of Knowledge Of Paper
+N/A, I do not know anything about the paper from outside sources
+# Reviewer Certification
+I certify etc.
