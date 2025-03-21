@@ -24,14 +24,18 @@ reviewStatus: to do
 > What are the major reasons to publish this paper at a selective ACL venue? These could include novel and useful methodology, insightful empirical results or theoretical analysis, clear organization of related literature, or any other reason why interested readers of ACL papers may find the paper useful.
 > Maximum length 20000 characters.
 
+- The paper is very well written, the explanations of the sentence generation and the different experiment setups are clear.
+- 
 
 # Summary of weaknesses
 > What are the concerns that you have about the paper that would cause you to favor prioritizing other high-quality papers that are also under consideration for publication? These could include concerns about correctness of the results or argumentation, limited perceived impact of the methods or findings (note that impact can be significant both in broad or in narrow subfields), lack of clarity in exposition, or any other reason why interested readers of *ACL papers may gain less from this paper than they would from other papers under consideration. Where possible, please number your concerns so authors may respond to them individually.
 > Maximum length 20000 characters.
 
 1. The contributions of this paper are unclear. The abstract suggests that a novel approach is introduced even though all the methods used seem to be introduced in previous work, in particular Suau et al. (2023). The related work section should include a short paragraph clearly stating the contributions in this case.
-2. Furthermore, having neurons identified as *expert* for different
-3. The paper should include a few sentences in the method section to explain how are the token embeddings aggregated at the level of sentences and how is the activity of a neuron scaled, since it takes arbitrary values a priori.
+2. I don't see how the experiment of section 6 suggests hierarchical organization of concepts. On figure 4 we see overlap of experts neurons between concepts of the same category. This suggests only categorization of the concepts in the representations.
+3. In this work, neurons are studied individually. This assumes that the representation of concepts are locally encoded and aligned with the canonical basis induced by the neurons. Representations which are distributed or rotated compared to the canonical basis are harder to detect for this method. This would explain the overlap of expert neurons between different concepts. There should be a paragraph in the limitation section about this point.
+4. The method used to identify expert neurons does not ensure a causal role of those neurons in the processing of their concept. This seems to be what is addressed in the second paragraph of the limitation section but the sentence at lines 72-73 should be downplayed in this regard.
+5. The paper should include a few sentences in the method section to explain how are the token embeddings aggregated at the level of sentences and how is the activity of a neuron scaled, since it takes arbitrary values a priori.
 
 # Comments Suggestions And Typos
 > If you have any comments to the authors about how they may improve their paper, other than addressing the concerns above, please list them here.
