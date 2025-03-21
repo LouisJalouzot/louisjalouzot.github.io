@@ -17,6 +17,8 @@ reviewStatus: to do
 > Maximum length 20000 characters.
 
 The authors use a method from the literature to identify *expert neurons*, neurons that encode a specific concept. For a given concept, it consists in recording the activity of a neuron on sentences which are *positive* to the concept, i.e. related to or describing it, and *negative* ones. Then its activity is seen as a classifier for the positiveness of the sentences and the neuron is considered *expert* if it has performance above a chosen threshold $\tau$ as a classifier in terms of Area Under the Precision-Recall Curve.
+The sets of positive and negative sentences are LLM-generated. The prompts ask the sentences to be related to a given concept and to avoid another one. Diversity is ensured by having 2 types of prompts, one for factual sentences and another one for story-like ones.
+The first experiment aims at evaluating the stability of the method by measuring the overlap of identified expert neurons from GPT2 across different folds of generated sentences. They do so
 # Summary of strengths
 > What are the major reasons to publish this paper at a selective ACL venue? These could include novel and useful methodology, insightful empirical results or theoretical analysis, clear organization of related literature, or any other reason why interested readers of ACL papers may find the paper useful.
 > Maximum length 20000 characters.
@@ -31,8 +33,10 @@ The authors use a method from the literature to identify *expert neurons*, neuro
 > If you have any comments to the authors about how they may improve their paper, other than addressing the concerns above, please list them here.
 > Maximum length 20000 characters.
 
+- On figure 5 and 7.a, it is counter-intuitive to see more expert neurons for checkpoint 1 than later ones. Do you have an intuition on why it is like so? Could you add a baseline for comparison, e.g. a completely untrained/random model?
 - There seem a typo in the caption of figures 2 and 3: "statistically (p < 0.05)" -> "statistically **significant** (p < 0.05)"
 - The tick labels for the number of checkpoints on some figures would be easier to read with a more compact format, e.g. 143k instead of 143000 or even $10^5$
 - To improve the readability of figure 4, dropping the upper/lower triangle of the heatmap including the diagonal would result in a more relevant color scale
 - The text in figure 6 should be bigger
-- In figure 7, it is hard to distinguish between early checkpoints 
+- In figure 7.b, it is hard to distinguish between early checkpoints with the current color scale
+- On appendix A for the Mistral model, the example of answer to the *fact prompt* seems more like a story and vice-versa, the answer to the *story prompt* seems more factual. Can you check if they have been swapped?
