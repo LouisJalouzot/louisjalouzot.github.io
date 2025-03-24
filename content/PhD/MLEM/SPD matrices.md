@@ -20,6 +20,7 @@ We have a set of $n$ stimuli $s_i$ for $i$ in $[1,n]$.
 > We define the <font color="#ff0000">pairwise feature distance</font> $D^k_{ij}$ between stimuli $s_i$ and $s_j$ for feature $f_k$ as
 > - $D^k_{ij} := \mathbb{1}[f_k(s_i) = f_k(s_j)]$ if $f_k$ is nominal (unordered categories)
 > - $D^k_{ij} := |f_k(s_i) - f_k(s_j)|$ if $f_k$ is continuous or ordinal (ordered categories)
+> 
 > Then for each pair of stimuli $s_i, s_j$, we define a vector of differing features $\Delta_{ij} = [D^k_{ij}]_{k \in [1,F]} \in \mathbb{R}^F$
 
 > [!example] Neural distances
@@ -42,3 +43,7 @@ We have a set of $n$ stimuli $s_i$ for $i$ in $[1,n]$.
 [[CVXPY's Semidefinite program]]
 [[Pymanopt's SPD manifold]]
 [[PyTorch parametrization]]
+## Optimization algorithms
+SVRG (Stochastic Variance Reduced Gradient) [[Papers/Notes/Johnson and Zhang 2013 - Accelerating|Johnson and Zhang 2013 - Accelerating]]
+Newer, also for non-strongly convex problems: SAGA (Stochastic Average Gradient) [[Papers/Notes/Defazio et al. 2014 - SAGA|Defazio et al. 2014 - SAGA]]
+Both only for sum-like optimization objective
