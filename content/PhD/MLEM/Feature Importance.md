@@ -23,3 +23,6 @@ type:
 ## Shapley values
 c.f. [[Papers/Notes/Lundberg and Lee 2017 - A|Lundberg and Lee 2017 - A]]
 c.f. [Github](https://github.com/shap/shap)
+# Conclusion
+Discussion with Bertrand: CPI seems unsuited, should stick to classical Permutation Importance which are actually not bad
+Note: PI and CPI were designed for black-box models, with such a simple model we can actually just look at the weights
