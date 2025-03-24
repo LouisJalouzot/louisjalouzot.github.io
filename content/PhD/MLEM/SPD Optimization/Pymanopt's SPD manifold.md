@@ -4,7 +4,7 @@ publish: true
 tags:
   - Optimization
   - SPD
-  - python
+  - Python
 project:
   - MLEM
 type:

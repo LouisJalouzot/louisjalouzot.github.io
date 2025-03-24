@@ -1,7 +1,7 @@
 ---
 tags:
   - MEG
-  - Neural_tracking
+  - NeuralTracking
   - Speech
 ---
 

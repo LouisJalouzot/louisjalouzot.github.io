@@ -2,9 +2,9 @@
 createdDate: 2025-03-09
 publish: true
 tags:
-  - prompt
+  - Prompt
   - MLEM
-  - python
+  - Python
 project: 
 type: prompt
 ---
