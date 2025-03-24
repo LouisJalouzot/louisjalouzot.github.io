@@ -10,7 +10,7 @@ type:
   - annotation
 project: 
 tags:
-  - consciousness
+  - Consciousness
 status: urgent
 progress: to annotate
 ---

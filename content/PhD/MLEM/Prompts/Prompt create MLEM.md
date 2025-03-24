@@ -1,8 +1,8 @@
 ---
 project: MLEM
 tags:
-  - prompt
-  - python
+  - Prompt
+  - Python
   - MLEM
 ---
 I have datasets as csv files in the directory `datasets`. They contain a column `sentence` and other *feature* columns which are discrete or continuous and characterize the sentence. We will consider datasets at the *sentence-level* but also at the *word-level* when we have one row per word and columns `word` and `index` (indicating the index of the word in the sentence). The latter datasets still have a `sentence` column which is therefore duplicated.

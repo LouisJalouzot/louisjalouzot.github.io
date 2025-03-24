@@ -2,8 +2,6 @@
 Xavier Hinaut (read reservoir computing literature)
 Frédérique Alexandre
 Nathanaël Fijalkow
-Mail C/Y/B 
-Mail Nüsse + validation cours
 Leila Webbe
 Toneva?
 Wilhelm Zudema
