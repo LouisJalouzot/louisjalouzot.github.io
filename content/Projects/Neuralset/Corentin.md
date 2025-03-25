@@ -4,7 +4,6 @@ tags:
   - NeuralTracking
   - Speech
 ---
-
 # Neural tracking
 - Read literature to find how they compute audio enveloppe (= RMS intensity)
 	- keywords: Neural tracking, EEG, enveloppe, cocktail party
