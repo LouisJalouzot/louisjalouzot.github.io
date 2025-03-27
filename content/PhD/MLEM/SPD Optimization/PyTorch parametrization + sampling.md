@@ -23,10 +23,7 @@ Problem = different distribution
 ![[Pasted image 20250327135800.png]]
 ![[Pasted image 20250327135936.png|500]]
 Slightly different weights, cleaner than train/test
+
 #  Added
 Normalization of the matrix of parameters to have 1 Frobenius norm
 Optimization of a differentiable version of Spearman instead of MSE, reach much better Spearman
-
-# Next
-Feature Importance (need to)
-Train
