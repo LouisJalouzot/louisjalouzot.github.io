@@ -6,6 +6,8 @@ project:
   - Suffragists
 type:
 ---
+# VFW 26
+p8: 78
 # VfW 98
 Page 7
 ![[Pasted image 20250324140126.png]]
