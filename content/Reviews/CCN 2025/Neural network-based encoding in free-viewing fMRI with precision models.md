@@ -28,5 +28,9 @@ Adequate (understandable to an expert audience)
 - The very different number of features for the baseline and the precision models could be a confound. Therefore they have a second baseline called *reverse gaze* which is the same as the precision model but with eye-tracking data played in reverse, essentially randomizing the dimension reduction.
 - As opposed to the full-feature baseline, reverse gaze achieves statistically significant correlations in some voxels of the visual cortex but is still significantly outperformed by precision models.
 
+- The authors should elaborate more on the scaling applied, if any, both on the encoding features and the fMRI activity. Then they should specify which are the 5 candidate regularization values considered. The space of values explored should be large enough to be relevant for the very different numbers of features in baseline and precision models.
 - Figure 1.e is a triangle but what the 3 axes correspond to is unclear. I feel like a table would be easier to understand.
 - Line 359: classical ridge regression does not optimize the Pearson correlation. Did the author optimize the Pearson correlation through Gradient Descent?
+- The authors should elaborating on the choice of the CNN architecture. In particular CORnet (https://arxiv.org/pdf/1909.06161) is known to align better with the visual cortex, it could be used instead of VGG-19 to have slightly higher encoding correlations and maybe more important differences between the approaches.
+- It would be nice to quantify the claim that 
+- Line 496: typo "model ~~the~~ and"
