@@ -21,21 +21,10 @@ Fair (I have a good understanding of this work)
 Adequate (understandable to an expert audience)
 
 # Comments (unformatted)
-- Thanks to pretraining with masked autoencoding and data augmentation the authors successfully improved single word decoding performance for 3 out of the 4 subjects in the ECoG dataset of interest.
-- They used a transformer architecture and beat an RNN baseline from previous work on the same dataset.
-- They achieve better results by self-supervised/masked pretraining then supervised/classification fine-tuning than without the pretraining phase.
-- I find concerning that the authors observe that freezing the pretrained part of the model during supervised training (of only the classification head then) yields the same performance as only supervised training (without pretraining). Therefore the features learned during pretraining would not be useful for the classification task. It would probably require pretraining on orders of magnitude more data.
-- It should be made clear as early as the *Supervised Training* section that the primary approach taken is the non-freezing one.
-- I fear that model size could be a confounding variable in this work. It would be useful to show the number of parameters in the different models, including the baseline, and in the different parts (convolutions, transformer layers, linear classification head).
-- After the CNNs, the frequency of the signal if ~67Hz. After that it is not clear how the data is fed to the transformers. Are all the 67 points per second considered as tokens? Is there some pooling or windowing on the time dimension?
-- Training the classification head from the first and last layers of the transformer part might not be the best option. We know now that transformers compute more semantically rich representations in middle layers. Representations from the later layers are more tailored to the pretraining objective.
-- I think the addition of the `[CLS]` token is not useful and not motivated. In particular in the case of pretraining then freezing, the transformer has nothing to learn for it.
-- Line numbers are missing from the PDF
-- Typo in the related work section: "the all the"
-- On figure 4, there should be a legend for the colors in addition to the text. Also, it is not surprising to have such small standard errors of the mean with such a number of samples (30). 95% confidence intervals or standard deviations would be more informative.
-- Some references should be in parenthesis thanks to `\citep`:
-	- Hestness et al. (2017) in the *Data* section
-	- Oord et al. (2017) in the *Statistical Testing* section
-- Typos in the caption of figure 3:
-	- "Asterisks show indicate"
-	- "doecding"
+- On fMRI datasets with naturalistic vision stimuli, CNN representations align significantly better when participant are instructed to fixate. The later being unnatural and cognitively heavy the authors wanted to relax this constraint.
+- They consider an encoding baseline trained to predict fMRI activity from CNN features computed from the stimuli. The resulting predictions do not achieve statistically significant correlation in any voxel of the visual cortex across the 13 participants considered in the *Study Forrest* dataset (no fixation constraint).
+- Thanks to eye-tracking data, they reduce the dimension of the CNN features by keeping only the ones corresponding to the location on the movie the participant was fixating. They even refine this pixel selection by combining eye-tracking data with retinotopic maps. For each voxel they keep the CNN features in the receptive field of the voxel at the location of the gaze.
+- The resulting *precision models* significantly outperform
+- The very different number of features for the baseline and the precision models could be a confound. Therefore they have a second baseline called *reverse gaze* which is the same as the precision model but with eye-tracking data played in reverse, essentially randomizing the dimension reduction.
+- As opposed to the full-feature baseline, reverse gaze achieves statistically significant correlations in some voxels of the visual cortex but is still 
+- For the reverse gaze
