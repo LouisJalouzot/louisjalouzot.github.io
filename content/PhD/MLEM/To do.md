@@ -7,7 +7,8 @@ project:
 type:
   - TODO
 ---
-- [ ] Simple Permutation Importance on train
+- [x] Simple Permutation Importance on train
+- [ ] Required batch size computation: change check from CI to std in some way
 - [ ] Add lexical variability in datasets to allow for Stratified KFold on all features
 - [ ] Cross validated Permutation Importance with Stratified KFold
 - [ ] Cluster correlated (pairs of) features
