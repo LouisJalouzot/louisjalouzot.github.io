@@ -1,13 +1,20 @@
 ---
 title: Li et al. 2024 - The
 paperTitle: "The Geometry of Concepts: Sparse Autoencoder Feature Structure"
-authors: Li, Yuxiao,Michaud, Eric J.,Baek, David D.,Engels, Joshua,Sun, Xiaoqing,Tegmark, Max
+authors:
+  - Li, Yuxiao,Michaud, Eric J.,Baek, David D.,Engels, Joshua,Sun, Xiaoqing,Tegmark, Max
 publish: true
 cssclasses:
   - list-cards
-type: annotation
-project:
+type:
+  - annotation
+project: 
 tags:
+  - LDA
+  - SAE
+  - Gemma
+  - Representations
+  - Semantics
 status: to read
 progress: to annotate
 ---
@@ -29,6 +36,11 @@ progress: to annotate
 
 # Highlights
 
+> [!PDF|important] [[Li et al. 2024 - The Geometry of Concepts Sparse Autoencoder Feature Structure.pdf#page=3&selection=16,0,24,9&color=important|Li et al. 2024 - The Geometry of Concepts Sparse Autoencoder Feature Structure, p.3]]
+> > To eliminate such semantically irrelevant distractor vectors, we wish to project the data onto a lowerdimensional subspace orthogonal to them. For the (Todd et al., 2023) dataset, we do this with Linear Discriminant Analysis (LDA) (Xanthopoulos et al., 2013), which projects onto signal-tonoise eigenmodes where “signal” and “noise” are defined as the covariance matrices of inter-cluster variation and intra-cluster variation, respectively. Figure 1 illustrates that this dramatically improves the cluster and trapezoid/parallelogram quality, highlighting that distractor features can hide existing crystals.
+
+Method for reducing dimensions while discarding the effect of a (confounding) variable.
+#MLEM #LDA 
 
 # Goal (yellow)
 
