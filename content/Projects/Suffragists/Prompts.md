@@ -9,7 +9,7 @@ type:
 ---
 # Structured output for Gemini
 ```
-> {
+{
   "type": "object",
   "properties": {
     "Meetings": {

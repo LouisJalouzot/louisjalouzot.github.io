@@ -7,7 +7,9 @@
 - [x] Changed Gemini flash -> Gemini pro
 - [x] Test Mistral OCR
 # 2025-03-24
-- [ ] Switched temperature to 0 to remove randomness (should have done this since the beginning)
-- [ ] Current issue
-	- [ ] Gemini pro outputs duplicates (meetings from page 7 are outputted when prompting on page 8)
-	- [ ] Gemini flash versions don't have this issue but they still miss meetings on "big issues" (c.f. issue 100 with ~200 meetings)
+- Switched temperature to 0 to remove randomness (should have done this since the beginning)
+- [x] Issue: Gemini pro outputs duplicates (meetings from page 7 are outputted when prompting on page 8)
+- Seems fixed by refining the prompt, added
+`Don't include any meeting from the CONTEXT section, only from the TEXT one. It is possible that there are no valid meetings.`
+Note: Gemini flash versions don't have this issue but they miss meetings on "big issues" (c.f. issue 100 with ~200 meetings)
+- Switched to Gemini 2.5 (lower request per day: 100, but better: reasoning model)
