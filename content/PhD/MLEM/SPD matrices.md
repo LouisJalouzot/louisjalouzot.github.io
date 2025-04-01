@@ -33,7 +33,7 @@ We have a set of $n$ stimuli $s_i$ for $i$ in $[1,n]$.
 > $$\min_{W \in \mathbb{S}_F^{++}} \sum_{ij} \left(\Delta_{ij}^T W \Delta_{ij} - D^N_{ij}\right) ^ 2$$
 
 ## Issues
-- <font color="#ff0000">Main issue:</font> the number of points can get very large, for 7k stimuli (e.g. the Relative Clause dataset), we have $\sim 2.10^7$ pairs (size of the sum for the MSE)2
+- <font color="#ff0000">Main issue:</font> the number of points can get very large, for 7k stimuli (e.g. the Relative Clause dataset), we have $\sim 2.10^7$ pairs (size of the sum for the MSE)
 	- Even computing Spearman correlation on that many points is very slow (without GPU)
 - Optimizing over the manifold of SPD matrices is not trivial nor stable
 
