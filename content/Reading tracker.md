@@ -3,7 +3,7 @@ tags:
   - dataview
 cssclasses:
   - cards
-publish: true
+publish: false
 ---
 
 > [!multi-column]

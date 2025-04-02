@@ -31,6 +31,12 @@ Note: 5/10min per issue in current setup
 	- ~~Prompt Gemini 2.5~~
 	- ~~Refine prompt~~
 - [ ] Hard drop then soft drop: post process date/location/time to specific format then drop *similar* ones
+- Tried refining the prompt slightly and obtained less meetings (as expected) with
+```
+Include only meetings from TEXT.  
+There could be none, in which case output an empty list of meetings.  
+Meetings which can be found in CONTEXT should be ignored.
+```
 ### Gemini miss
 ![[Pasted image 20250402143852.png|800]]
 ### Actual duplicates
