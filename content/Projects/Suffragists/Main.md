@@ -25,11 +25,12 @@ Note: 5/10min per issue in current setup
 - Even with temperature = 0, model not deterministic throughout time (maybe modifs on Google side), rerun and duplicates seem to disappear
 - I coded a simple function to check duplicates and rerun corresponding scans
 ## Duplicates
-- [ ] Reprompt for completion is sometimes beneficial (26 p7) and sometimes harmful (192 p7)
-- [ ] Potential solutions
-- Hard drop duplicates, maybe while asking a specific format for date, location and time
-- Prompt Gemini 2.5
-- Refine prompt
+- [x] Reprompt for completion is sometimes beneficial (26 p7) and sometimes harmful (192 p7)
+- Potential solutions
+	- ~~Hard drop duplicates, maybe while asking a specific format for date, location and time~~
+	- ~~Prompt Gemini 2.5~~
+	- ~~Refine prompt~~
+- [ ] Hard drop then soft drop: post process date/location/time to specific format then drop *similar* ones
 ### Gemini miss
 ![[Pasted image 20250402143852.png|800]]
 ### Actual duplicates
