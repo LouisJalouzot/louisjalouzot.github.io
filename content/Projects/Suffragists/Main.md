@@ -9,13 +9,27 @@
 # 2025-03-24
 - Switched temperature to 0 to remove randomness (should have done this since the beginning)
 - [x] Issue: Gemini pro outputs duplicates (meetings from page 7 are outputted when prompting on page 8)
-- Seems fixed by refining the prompt, added
+- Mostly fixed by refining the prompt, added
 `Don't include any meeting from the CONTEXT section, only from the TEXT one. It is possible that there are no valid meetings.`
 Note: Gemini flash versions don't have this issue but they miss meetings on "big issues" (c.f. issue 100 with ~200 meetings)
-- Switched to Gemini 2.5 (lower request per day: 100, but better: reasoning model and max output tokens 8k -> 65k)
+- Switched to Gemini 2.5
+	- Lower request per day: 100 but seems not hard enforced
+	- Better: reasoning model
+	- Max output tokens 8k -> 65k (maybe no need to reprompt but seems usefull in practice, c.f. 26 p7)
+Note: 5/10min per issue in current setup
+# 2025-04-02
 - [x] I get annoying `list index out of range` errors using the Gemini 2.5 API (shared with other users, seems like some prompts are *blocked*, though not on the website)
 - Seems fixed
 - [ ] To check: maybe still some duplicates (26 page 8 has some events of 7 but very hard to spot for the model, actually kind of duplicated in the text), but also for the other ones
 - Even with temperature = 0, model not deterministic throughout time (maybe modifs on Google side), rerun and duplicates seem to disappear
 - I coded a simple function to check duplicates and rerun corresponding scans
-Note: 5/10min per issue in current setup
+## Duplicates
+- [ ] Reprompt for completion is sometimes beneficial (26 p7) and sometimes harmful (192 p7)
+- [ ] Potential solutions
+- Hard drop duplicates, maybe while asking a specific format for date, location and time
+- Prompt Gemini 2.5
+- Refine prompt
+### Gemini miss
+![[Pasted image 20250402143852.png|800]]
+### Actual duplicates
+![[Pasted image 20250402143805.png|800]]
