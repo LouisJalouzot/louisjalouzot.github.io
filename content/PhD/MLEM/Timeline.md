@@ -1,0 +1,12 @@
+---
+createdDate: 2025-04-02
+publish: true
+tags: 
+project:
+  - MLEM
+type:
+  - timeline
+---
+# 2025-04-02
+- Adding support for `exca` for easy configurations and caching
+- Spent a lot of time fixing a bug which was actually a problem in pydantic and opened an [issue](https://github.com/pydantic/pydantic/issues/11680)
