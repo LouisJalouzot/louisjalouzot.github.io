@@ -7,6 +7,7 @@
 - [x] Changed Gemini flash -> Gemini pro
 - [x] Test Mistral OCR
 # 2025-03-24
+- Olivia: 102 is actually *small*, thanks for flagging it, it made me see that it had duplicates
 - Switched temperature to 0 to remove randomness (should have done this since the beginning)
 - [x] Issue: Gemini pro outputs duplicates (meetings from page 7 are outputted when prompting on page 8)
 - Mostly fixed by refining the prompt, added
