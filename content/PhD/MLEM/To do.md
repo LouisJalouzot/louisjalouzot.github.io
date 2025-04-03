@@ -13,3 +13,4 @@ type:
 - [ ] Add lexical variability in datasets to allow for Stratified KFold on all features
 - [ ] Cross validated Permutation Importance with Stratified KFold
 - [ ] Cluster correlated (pairs of) features
+- [ ] LM2Vec
