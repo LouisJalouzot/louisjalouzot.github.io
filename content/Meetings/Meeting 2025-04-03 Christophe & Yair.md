@@ -7,6 +7,8 @@ project:
 type:
   - meeting
 ---
+- Last week: CCN reviews
 [[2025-04-02]]
 [[2025-04-03]]
 [[Results]]
+[[PhD/MLEM/To do|To do]]
