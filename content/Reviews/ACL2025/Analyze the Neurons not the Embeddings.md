@@ -85,3 +85,10 @@ N/A, I do not know anything about the paper from outside sources
 N/A, I do not know anything about the paper from outside sources
 # Reviewer Certification
 I certify etc.
+
+# My reply to *Author reply to Summary of Weaknesses (part 1)*
+I appreciate the comprehensive answers of the authors to the questions and suggestions of the reviewers. If the authors manage to make all the modifications mentioned in their answers then I think this submission becomes strong.
+ ```
+The purpose of Fig 4 is to further explore the internal structure of the concept domains, looking at how pairs of concepts within each domain relate to each other. For instance, is the overlap between a super-ordinate concept and a sub-ordinate one larger than the overlap between pairs of sub-ordinate concepts? We agree that Fig 4 may be misleading within Section 6, and will revise the manuscript to discuss Table 2 in more detail in main text and potentially move Figure 4 to an Appendix. We will replace Fig. 4 with a new visualisation that shows the organization of super-ordinate and sub-ordinate concepts as a concept network to better illustrate concept organization. Does this explanation address the reviewer's concern?
+ ```
+Actually I like Figure 4 more than Table 2, I find it easier to read and more informative.
