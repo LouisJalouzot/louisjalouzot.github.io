@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # CCN 2025 8-pager reviewer expectations
 
 Thank you once again for agreeing to review for CCN. As a reviewer, you carry the important responsibility of evaluating submissions, thereby identifying work that should be included and highlighted at CCN as well as giving the feedback to other’s work that is vital to the scientific process. In order to create a review process that yields the highest quality, as a grass-roots organization, we have adopted a system that is more common at machine learning conferences. 

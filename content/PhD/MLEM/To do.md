@@ -19,3 +19,5 @@ type:
 - [ ] Use later instead of crude estimation of batch size (pb = circular import)
 - [ ] Add lexical variability in datasets to allow for Stratified KFold on all features
 - [ ] Cross validated Permutation Importance with Stratified KFold
+- [ ] Models comparisons: for a given sentence $s$, predict $d(R_{BERT}(s),R_{GPT2}(s))$ from features of $s$ (need same hidden dim)
+	- Feature Importance on Random Forest or Metric Learning (on encoded features then) 
