@@ -1,13 +1,16 @@
 ---
 title: Sablé-Meyer et al. 2021 - Sensitivity
 paperTitle: "Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity"
-authors: Sablé-Meyer, Mathias,Fagot, Joël,Caparos, Serge,Van Kerkoerle, Timo,Amalric, Marie,Dehaene, Stanislas
+authors:
+  - Sablé-Meyer, Mathias,Fagot, Joël,Caparos, Serge,Van Kerkoerle, Timo,Amalric, Marie,Dehaene, Stanislas
 publish: true
 cssclasses:
   - list-cards
-type: annotation
-project:
+type:
+  - annotation
+project: 
 tags:
+  - NonHumanPrimate
 status: to read
 progress: to annotate
 ---

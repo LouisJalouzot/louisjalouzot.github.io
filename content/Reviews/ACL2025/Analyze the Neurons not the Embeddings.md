@@ -8,7 +8,7 @@ type:
 originalReviewer: Emmanuel Chemla
 cycle: ACL2025
 deadline: 2025-03-23
-reviewStatus: to do
+reviewStatus: done
 filename: Reviews/ACL2025/Analyze the Neurons not the Embeddings.pdf
 ---
 # Paper summary

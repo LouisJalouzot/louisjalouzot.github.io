@@ -12,7 +12,7 @@ type:
 originalReviewer: Alexis Thual
 cycle: CCN2025
 deadline: 2025-03-31
-reviewStatus: to do
+reviewStatus: done
 ---
 [[Pretraining with Masked Autoencoding Improves Speech Decoding from ECoG.pdf]]
 

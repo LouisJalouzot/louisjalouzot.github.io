@@ -1,11 +1,11 @@
 ---
 createdDate: 2025-03-16
 publish: true
-tags:
-  - dataview
+tags: 
 project: 
 type:
   - Overview
+  - dataview
 ---
 ```dataview
 TABLE
@@ -14,7 +14,7 @@ TABLE
 	project,
 	originalReviewer
 FROM "Reviews"
-WHERE contains(type, "review")
+WHERE contains(type, "review") or contains(type, "answer")
 AND reviewStatus = "to do"
 SORT deadline
 ```

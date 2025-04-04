@@ -1,9 +1,10 @@
 ---
-tags:
-  - dataview
+tags: []
 cssclasses:
   - cards
 publish: false
+type:
+  - dataview
 ---
 
 > [!multi-column]
