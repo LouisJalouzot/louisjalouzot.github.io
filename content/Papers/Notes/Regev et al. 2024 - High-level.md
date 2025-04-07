@@ -10,7 +10,7 @@ type:
   - annotation
 project: 
 tags: 
-status: urgent
+status: read
 progress: to annotate
 ---
 # Annotation for [Regev et al. 2024 - High-level](Papers/References/Regev%20et%20al.%202024%20-%20High-level)
