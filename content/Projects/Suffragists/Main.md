@@ -41,3 +41,4 @@ Meetings which can be found in CONTEXT should be ignored.
 ![[Pasted image 20250402143852.png|800]]
 ### Actual duplicates
 ![[Pasted image 20250402143805.png|800]]
+- [ ] What to do about rate limit? When enforced (not always), only 10 issues/day. Can switch to paying `gemini-2.5-pro-preview-03-25`: 
