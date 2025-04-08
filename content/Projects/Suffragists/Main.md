@@ -21,7 +21,7 @@ Note: 5/10min per issue in current setup
 # 2025-04-02
 - [x] I get annoying `list index out of range` errors using the Gemini 2.5 API (shared with other users, seems like some prompts are *blocked*, though not on the website)
 - Seems fixed
-- [ ] To check: maybe still some duplicates (26 page 8 has some events of 7 but very hard to spot for the model, actually kind of duplicated in the text), but also for the other ones
+- [x] To check: maybe still some duplicates (26 page 8 has some events of 7 but very hard to spot for the model, actually kind of duplicated in the text), but also for the other ones
 - Even with temperature = 0, model not deterministic throughout time (maybe modifs on Google side), rerun and duplicates seem to disappear
 - I coded a simple function to check duplicates and rerun corresponding scans
 ## Duplicates
