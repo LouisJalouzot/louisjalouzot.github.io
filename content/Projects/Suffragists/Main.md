@@ -44,4 +44,4 @@ Meetings which can be found in CONTEXT should be ignored.
 # Pricing
 - [ ] What to do about rate limit? When enforced (not always), only 10 issues/day. Can switch to paying `gemini-2.5-pro-preview-03-25`:
 ![[Screenshot_20250408_160134.png|400]]
-Issue 100 (~200 meetings): ~150k input tokens and ~20k output tokens -> 0.4$
+Issue 100 (~200 meetings): ~150k input tokens and ~20k output tokens -> $0.4
