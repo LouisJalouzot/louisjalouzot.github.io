@@ -21,3 +21,4 @@ type:
 - [ ] Cross validated Permutation Importance with Stratified KFold
 - [ ] Models comparisons: for a given sentence $s$, predict $d(R_{BERT}(s),R_{GPT2}(s))$ from features of $s$ (need same hidden dim)
 	- Feature Importance on Random Forest or Metric Learning (on encoded features then) 
+- [ ] [[Papers/Notes/King et al. 2020 - Back-to-back|King et al. 2020 - Back-to-back]] and [[Papers/Notes/Armitage et al. 2005 - Reduced|Armitage et al. 2005 - Reduced]] as *baselines*
