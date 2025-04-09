@@ -6,5 +6,6 @@ tags:
 project:
   - MLEM
 type:
+  - RelatedLiterature
 ---
 https://andrewcharlesjones.github.io/journal/reduced-rank-regression.html
