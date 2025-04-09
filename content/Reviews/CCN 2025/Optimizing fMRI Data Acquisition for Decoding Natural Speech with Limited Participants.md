@@ -41,7 +41,7 @@ c.f. general answer
 > [!PDF|yellow] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=2&selection=65,0,67,32&color=yellow|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.2]]
 > > The authors report differences in content and style between stories that are well and poorly decoded. It could potentially increase the impact if the authors made connections between this and the kind of data that would be helpful to collect in the future
 
-Our results suggest that simpler sentences with direct speech are easier to decode than narration with complex syntax. However this does not tell us which kind of sentences are the most useful to train on to reach good performance. We leave analyzing such an impact as future work, the data we have is not labeled to do training split of simple/complex sentences.****
+Our results suggest that simpler sentences with direct speech are easier to decode than narration with complex syntax. However this does not tell us which kind of sentences are the most useful to train on to reach good performance. We leave analyzing such an impact as future work, the data we have is not labeled to do training split of simple/complex sentences
 
 > [!PDF|note] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=2&selection=71,0,72,30&color=note|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.2]]
 > > Supplemental Figure 7 is not referenced in the main text, and I don’t completely follow what is shown. Some additional context here would be helpful.
