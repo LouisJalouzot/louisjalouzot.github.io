@@ -54,4 +54,32 @@ Indeed the choice of the pretrained LLM is critical to get the richest text repr
 
 # Reviewer 8RE5
 
+
+> [!PDF|red] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=3&selection=76,79,77,12&color=red|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.3]]
+> >  from fMRI data acquired from 4 participants
+
+4??
+
+> [!PDF|important] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=3&selection=80,94,82,22&color=important|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.3]]
+> >  it may be crucial to first evaluate the decoding performance by comparing the results with those of other models employing similar approaches or datasets
+
+
 # Reviewer MfAX
+
+> [!PDF|yellow] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=4&selection=55,0,58,38&color=yellow|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.4]]
+> > Despite normalization (and it might be useful to see this unnormalized results), this is still something of an apples-tooranges comparison, since it depends strongly on how cleanly GloVe and Levenshtein distance on PoS tagging, respectively, read out semantic and syntactic similarity. I would be reluctant to make any strong inferences from these plots, which anyway are quite similar.
+
+
+> [!PDF|yellow] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=4&selection=62,0,63,113&color=yellow|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.4]]
+> > Top-10 accuracy (the main metric in the paper) is arbitrary. It would be nice to see cross entropy (i.e., normalize the inner products to get probabilities; report -log p_model(correct chunk), averaged over all test data) in addition
+
+Should we? We don't have other models to compare to and top 10 accuracy is more interpretable.
+
+
+> [!PDF|yellow] [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf#page=4&selection=67,0,75,20&color=yellow|Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants, p.4]]
+> > I also find Fig. 7 (Supplement) somewhat surprising---and potentially very important. Nearly all (38/40) of the top four candidates for the ten consecutive text chunks shown are from among those ten text chunks. Indeed, the top four candidates are almost always within one or two chunks of the correct chunk. On the one hand, this example can't be very representative of the data, because even for this subject (3), the top-10 accuracy is only ~35% (Fig. 2), whereas in Fig. 7 the top-10 accuracy is 100%. But on the other hand, at least in this segment of the data, the errors all appear to be caused by the temporal smoothing of the data. After all, the semantic and syntactic content of these chunks are not terribly similar; what these chunks have in common is mostly that they are near each other.
+> 
+> 
+
+I'll look for other segments with hopefully more interesting chunks (e.g. candidates with high semantic/syntax similarities to the ground-truth without 100% top-10).
+@Alexis: As previously discussed, should we add to the limitations section that a potential confound of our metrics is the autocorrelation both on the input (brain images) and output (text embeddings) induced by the temporal fMRI smoothing and the text contextualization. Note that I observed decent performance when computing the representations only 
