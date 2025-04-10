@@ -56,6 +56,13 @@ Very related to [[Decoding]], could serve as baseline
 
 # Method (purple)
 
+![[Attachments/Ye et al. 2025 - Generative language reconstruction from brain recordings 1.webp]]
+
+[[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=2&rect=52,253,544,435&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.2]]
+
+![[Attachments/Ye et al. 2025 - Generative language reconstruction from brain recordings.webp]]
+
+[[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=5&rect=53,659,536,749&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.5]]
 
 > [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=2&selection=35,8,40,62&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.2]]
 > >  (1) brain data is collected and features are extracted; (2) a brain adapter learns an embedding from the brain recordings; (3) prompts are constructed from brain and text modalities; (4) language is generated in an auto-regressive manner based on a model of the prompt and an LLM. The brain adapter learns to map the space of brain representations onto a space with the same dimensionality as the text embeddings in the LLM
@@ -74,11 +81,29 @@ Very related to [[Decoding]], could serve as baseline
 
 > [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=2&selection=103,22,103,48&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.2]]
 > > split-by-stimuli protocol 
+> 
+
+> [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=7&selection=605,2,687,15&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.7]]
+> > The brain adapter is a deep neural network f b, with the brain recording B ¼ fb1; . . . ; bt g 2 Rt × c as input and the brain embedding V B ¼ fv B 1 ; . . . ; v B t g 2 Rt × d as output, where d is the LLM’s embedding size.
 
 
 # Data (purple)
 
+> [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=8&selection=154,22,159,12&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.8]]
+> > Pereira’s dataset collects participants’ BOLD signals
 
+> [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=8&selection=165,48,171,17&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.8]]
+> > The released beta coefficient brain images (see the original paper3 ) corresponding to each sentence are used in our study
+> 
+> 
+
+> [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=8&selection=171,19,174,10&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.8]]
+> > Huth’s dataset and the Narratives dataset contain BOLD responses 
+
+> [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=8&selection=208,0,221,5&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.8]]
+> > To efficiently manage and analyze the fMRI data, we consistently apply dimension reduction to c = 1000 dimensions across all datasets for the whole-brain BOLD features. The dimension reduction is obtained by applying principal component analysis65 to the preprocessed BOLD features
+> 
+> 
 # Results (red)
 
 
