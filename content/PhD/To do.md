@@ -2,12 +2,13 @@
 type: TODO
 ---
 # Urgent : reviews
-- [ ] Write email to confirm everything
+- [x] Write email to confirm everything
 ## [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants]]
 - [ ] Drop Fig 7
-- [ ] Leila Wehbe et al. 2014 fMRI decoding retrieval, baseline?
+- [x] Leila Wehbe et al. 2014 fMRI decoding retrieval, baseline? No, encoding paper
 - [ ] Fig 1: 0 at 100 + axis break
 - [ ] Fig 6: Switch to $\sigma$ + full candidates + raw values on plot (?)
+- [ ] Figure comparing multiple LLMs
 - [ ] Baseline "Ridge"
 - [ ] Pereira/Fedorenko 2018, background?
 
