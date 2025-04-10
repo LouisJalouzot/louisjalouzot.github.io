@@ -1,6 +1,21 @@
 ---
 type: TODO
 ---
+# Urgent : reviews
+## [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants]]
+- [ ] Write email to confirm everything
+- [ ] Drop Fig 7
+- [ ] Leila Weibe et al. 2014 fMRI decoding retrieval, baseline?
+- [ ] Fig 1: 0 at 100 + axis break
+- [ ] Fig 6: Switch to $\sigma$ + full candidates + raw values on plot (?)
+- [ ] Baseline "Ridge"
+- [ ] Pereira/Fedorenko 2018, background?
+
+## [[Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT’s Representations]]
+- [ ] For annoying points on writing, point to lines already answering the point
+- [ ] Figure with negligible weights out of the diagonal (since we crafted the dataset to include *interaction* features)
+- [ ] Tell that we tried GPT2, problem of sentence representations, bad with causal LLMs, tried on last token got weird results
+
 - Build diapo general outline of PhD
 # To read
 ## Brain dynamics/discreteness
