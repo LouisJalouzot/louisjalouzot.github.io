@@ -2,8 +2,8 @@
 type: TODO
 ---
 # Urgent : reviews
-## [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants]]
 - [ ] Write email to confirm everything
+## [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants]]
 - [ ] Drop Fig 7
 - [ ] Leila Wehbe et al. 2014 fMRI decoding retrieval, baseline?
 - [ ] Fig 1: 0 at 100 + axis break
