@@ -104,6 +104,11 @@ Very related to [[Decoding]], could serve as baseline
 > > To efficiently manage and analyze the fMRI data, we consistently apply dimension reduction to c = 1000 dimensions across all datasets for the whole-brain BOLD features. The dimension reduction is obtained by applying principal component analysis65 to the preprocessed BOLD features
 > 
 > 
+
+> [!PDF|important] [[Ye et al. 2025 - Generative language reconstruction from brain recordings.pdf#page=2&selection=108,7,111,59&color=important|Ye et al. 2025 - Generative language reconstruction from brain recordings, p.2]]
+> > we compare the language reconstruction performance of BrainLLM to a control model PerBrainLLM, which randomly assigns the brain recordings as inputs across different prediction tasks through a permutation, and breaks connections between the stimuli and brain responses 
+
+
 # Results (red)
 
 
