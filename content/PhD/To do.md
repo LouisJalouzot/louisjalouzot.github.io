@@ -15,8 +15,8 @@ type: TODO
 
 ## [[Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT’s Representations]]
 - [ ] For annoying points on writing, point to lines already answering the point
-- [ ] Figure with negligible weights out of the diagonal (since we crafted the dataset to include *interaction* features)
-- [ ] Tell that we tried GPT2, problem of sentence representations, bad with causal LLMs, tried on last token got weird results
+- [x] Figure with negligible weights out of the diagonal (since we crafted the dataset to include *interaction* features)
+- [x] Tell that we tried GPT2, problem of sentence representations, bad with causal LLMs, tried on last token got weird results
 
 - Build diapo general outline of PhD
 # To read
