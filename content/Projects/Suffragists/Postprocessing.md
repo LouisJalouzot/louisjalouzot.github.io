@@ -45,21 +45,34 @@ Your answer should have the JSON format specified in FORMAT.
 ```
 <INSTRUCTION>
 You are an assistant tasked to format raw locations which come out of an OCR process.
-If possible, format the location provided in LOCATION as
-	- CITY, STREET, NUMBER or CITY,  for complete adresses
-	- CITY, LOCATION when this is a public place.
+When multiple cities are provided, use the smallest, most precise one.
 Your answer should have the JSON format specified in FORMAT.
+Don't provide the fields which are not applicable.
+The location is provided as LOCATION.
 </INSTRUCTION>
 <FORMAT>
 {
-    "FormattedLocation":
-    {
-      "type": "string",
-      "description": "Formatted location",
-	}
+	"City": {
+		"type": "string",
+		"description": "Most precise city found in the raw data",
+	},
+	"Street": {
+		"type": "string",
+		"description": "When applicable, name of the street for addresses",
+	},
+	"StreetNumber": {
+		"type": "string",
+		"description": "When applicable, street number for complete addresses",
+	},
+	"PublicPlace": {
+		"type": "string",
+		"description": "When applicable, name of the public place",
+	},
+	required: ["City"],
 }
 </FORMAT>
 <LOCATION>
+Birmingham, Physical Training College, Erdington
 </LOCATION>
 ```
 ## Structured output
@@ -67,12 +80,53 @@ Your answer should have the JSON format specified in FORMAT.
 {
   "type": "object",
   "properties": {
-    "FormattedLocation": {
+    "City": {
+      "type": "string"
+    },
+    "Street": {
+      "type": "string"
+    },
+    "StreetNumber": {
+      "type": "string"
+    },
+    "PublicPlace": {
       "type": "string"
     }
   },
   "required": [
-    "FormattedLocation"
+    "City"
+  ]
+}
+```
+# Time
+## Prompt
+```
+<INSTRUCTION>
+You are an assistant tasked to format raw times of political meetings which come out of an OCR process.
+The time is provided as TIME and you return it in 24h format: HH:MM.
+Your answer should have the JSON format specified in FORMAT.
+</INSTRUCTION>
+<FORMAT>
+"FormattedTime": {
+	"type": "string",
+	"description": "24h formatted time",
+}
+</FORMAT>
+<TIME>
+3 and 8 p.m
+</TIME>
+```
+## Structured output
+```
+{
+  "type": "object",
+  "properties": {
+    "FormattedTime": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "FormattedTime"
   ]
 }
 ```
