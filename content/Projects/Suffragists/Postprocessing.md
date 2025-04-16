@@ -135,55 +135,68 @@ Your answer should have the JSON format specified in FORMAT.
 ```
 # Combined
 ## Prompt
+Works well with Gemini 2.0 flash (not flash-lite)
 ```
-<INSTRUCTION>
-You are an assistant tasked to format raw data which comes out of an OCR process.
-A date is provided in DATE and should be formatted as YYYY-MM-DD.
-A time is provided in TIME and should be formatted in 24h format: HH:MM.
-A location is provided in LOCATION and should be decomposed in a combination of "City", "Street", "StreeNumber", and "PublicPlace" as described in FORMAT.
-Populate as many fields as possible from the location but don't provide the fields which are not applicable.
-When multiple cities are provided, use the smallest, most precise one.
-Your answer should have the JSON format specified in FORMAT.
-</INSTRUCTION>
-<FORMAT>
-{
-    "FormattedDate":
-    {
-      "type": "string",
-      "description": "Formatted date",
-	},
-	"FormattedTime": {
-		"type": "string",
-		"description": "24h formatted time",
-	},
-	"City": {
-		"type": "string",
-		"description": "Most precise city found in the raw data",
-	},
-	"Street": {
-		"type": "string",
-		"description": "When applicable, name of the street for addresses",
-	},
-	"StreetNumber": {
-		"type": "string",
-		"description": "When applicable, street number for complete addresses",
-	},
-	"PublicPlace": {
-		"type": "string",
-		"description": "When applicable, name of the public place",
-	},
-	required: ["Date", "City"],
-}
-</FORMAT>
-<DATE>
-February 27 & 28, 1911
-</DATE>
-<TIME>
-3 and 8 p.m
-</TIME>
-<LOCATION>
-Birmingham, Physical Training College, Erdington
+<INSTRUCTIONS>  
+You are an assistant tasked to format raw data which comes out of an OCR process.  
+This data describes political meetings in the UK in early 20th century.  
+A date is provided in DATE and should be formatted as YYYY-MM-DD.  
+A time is provided in TIME and should be formatted in 24h format: HH:MM.  
+A location is provided in LOCATION and should be decomposed in a combination of "City", "Street", "StreeNumber", and "PublicPlace" as described in FORMAT.  
+Populate as many fields as possible from the location but don't provide the fields which are not applicable.  
+When multiple cities appear in LOCATION, keep the smallest one.  
+Your answer should have the JSON format specified in FORMAT.  
+Required fields are "FormattedDate" and "City".  
+</INSTRUCTION>  
+<FORMAT>  
+{  
+"FormattedDate":  
+{  
+"type": "string",  
+"description": "Formatted date",  
+},  
+"FormattedTime": {  
+"type": "string",  
+"description": "24h formatted time",  
+},  
+"City": {  
+"type": "string",  
+"description": "Smallest city found in the raw data",  
+},  
+"Street": {  
+"type": "string",  
+"description": "When applicable, name of the street for addresses",  
+},  
+"StreetNumber": {  
+"type": "string",  
+"description": "When applicable, street number for complete addresses",  
+},  
+"PublicPlace": {  
+"type": "string",  
+"description": "When applicable, name of the public place",  
+}  
+}  
+</FORMAT>  
+<DATE>  
+1910-04-28  
+</DATE>  
+<TIME>  
+3.30 and 8 p.m.  
+</TIME>  
+<LOCATION>  
+45, Marlborough Road, Sheffield  
 </LOCATION>
+```
+## Response
+Adding `This data describes political meetings in the UK in early 20th century.` to the prompt made it understand `3.30` as `15:30` instead of `03:30`.
+```
+{
+  "City": "Sheffield",
+  "FormattedDate": "1910-04-28",
+  "FormattedTime": "15:30",
+  "Street": "Marlborough Road",
+  "StreetNumber": "45"
+}
 ```
 ## Structured output
 ```json
@@ -215,3 +228,10 @@ Birmingham, Physical Training College, Erdington
   ]
 }
 ```
+# Results
+## Examples of formatting
+![[Pasted image 20250416121240.png]]
+## VfW 54
+### Hard duplicates
+### Soft duplicates
+~5s for prompting 142 entries in parallel
