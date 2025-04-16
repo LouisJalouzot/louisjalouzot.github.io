@@ -35,6 +35,9 @@ Note: 5/10min per issue in current setup
 - [ ] To merge duplicates, keep as much info as possible, if one entry as NaN in a field where this other as something, keep the latter
 - [ ] FormattedDate -> YYYY, MM, DD columns for cases like "Early January"
 - [ ] Plot of number of hard and soft duplicates against issue number
+- [ ] Get percentage of hard/soft duplicates and percentage of non-NaN values in each formatted field
+- [ ] Also run formatting and stats on the other issues
+- [ ] Prepare bill
 - Tried refining the prompt slightly and obtained less meetings (as expected) with
 ```
 Include only meetings from TEXT.  
