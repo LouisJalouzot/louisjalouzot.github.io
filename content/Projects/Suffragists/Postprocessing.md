@@ -233,5 +233,7 @@ Adding `This data describes political meetings in the UK in early 20th century.`
 ![[Pasted image 20250416121240.png]]
 ## VfW 54
 ### Hard duplicates
+![[Pasted image 20250416124004.png]]
 ### Soft duplicates
 ~5s for prompting 142 entries in parallel
+![[Pasted image 20250416124027.png]]

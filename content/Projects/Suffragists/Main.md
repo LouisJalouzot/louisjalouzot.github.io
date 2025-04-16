@@ -32,6 +32,7 @@ Note: 5/10min per issue in current setup
 	- ~~Refine prompt~~
 - [ ] Hard drop then soft drop: post process date/location/time to specific format then drop *similar* ones
 - [ ] What to do about multiple dates/times (e.g. "3 and 8pm", "Monday afternoons and Thursday evenings"), try to recreate one entry for each?
+- [ ] To merge duplicates, keep as much info as possible, if one entry as NaN in a field where this other as something, keep the latter
 - Tried refining the prompt slightly and obtained less meetings (as expected) with
 ```
 Include only meetings from TEXT.  
