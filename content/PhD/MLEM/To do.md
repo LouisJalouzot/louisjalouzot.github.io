@@ -8,7 +8,7 @@ type:
   - TODO
 ---
 - [x] Simple Permutation Importance on train
-- [ ] Paper: check if Stacked FI or Stacked FI / $\rho$
+- [x] Paper: check if Stacked FI or Stacked FI / $\rho$
 - [ ] Relative clause: remove interaction features
 - [ ] Word level dataset
 - [ ] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
