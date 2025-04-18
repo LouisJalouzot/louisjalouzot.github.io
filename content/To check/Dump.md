@@ -20,3 +20,4 @@ Devika Narain – Erasmus Medical University, Rotterdam, The Netherlands « Prio
 ![[20250317_113412.jpg|800]]
 ![[20250317_114029.jpg|800]]
 Language Models Are Implicitly Continuous
+MCMC https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
