@@ -114,3 +114,10 @@ I wonder what to say here. This would be even more arbitrary than top-10 and be 
 > > How much time does this correspond to? Is it 4 x 2 seconds = 8 seconds?
 
 Yes
+> [!cite] [Rebuttal comment to answer](https://openreview.net/forum?id=XGUOCN658E&noteId=GpDd09Hqh5)
+> Thanks for engaging with my review.
+> The new Fig. 6 is more convincing---thank you. And what about the other subjects? Are they all the same?
+> > Yet, we agree with the reviewer that it probably has an impact on our reported metrics, although we don’t know at this stage whether it virtually boosts or degrades top-10 accuracy. We think that studying this effect could be part of future work on the topic.
+>
+> I'm not sure I understand this---isn't this fundamental to the entire study? Was the now-deleted Figure 7 accurate? Does the model generally predict nearby chunks? In what way could this be biasing reported accuracies upward?
+

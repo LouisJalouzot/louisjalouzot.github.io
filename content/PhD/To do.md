@@ -11,12 +11,14 @@ type: TODO
 - [x] Fig 6: Switch to $\sigma$ + full candidates + raw values on plot (?)
 - [x] ~~Figure comparing multiple LLMs~~
 - [x] ~~Baseline "Ridge"~~
-- [ ] Pereira/Fedorenko 2018, background?
+- [x] ~~Pereira/Fedorenko 2018, background?~~
 
 ## [[Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT’s Representations]]
 - [x] For annoying points on writing, point to lines already answering the point
 - [x] Figure with negligible weights out of the diagonal (since we crafted the dataset to include *interaction* features)
 - [x] Tell that we tried GPT2, problem of sentence representations, bad with causal LLMs, tried on last token got weird results
+- [ ] Figure 6 for other subjects
+- [ ] 
 
 - Build diapo general outline of PhD
 # To read
