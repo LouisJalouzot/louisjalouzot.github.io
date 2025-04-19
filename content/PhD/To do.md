@@ -18,7 +18,8 @@ type: TODO
 - [x] Figure with negligible weights out of the diagonal (since we crafted the dataset to include *interaction* features)
 - [x] Tell that we tried GPT2, problem of sentence representations, bad with causal LLMs, tried on last token got weird results
 - [ ] Figure 6 for other subjects
-- [ ] 
+- [ ] Launch computation
+- [ ] Show that Figure 7 was cherry picked by showing plot of rank % tr
 
 - Build diapo general outline of PhD
 # To read
