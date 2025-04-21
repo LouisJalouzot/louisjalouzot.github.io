@@ -1,19 +1,21 @@
 ---
 title: Schlenker et al. 2023 - The
-paperTitle: "The <span style="font-variant:small-caps;">ABC‐D</span> of animal linguistics: are syntax and compositionality for real?"
-authors: Schlenker, Philippe,Coye, Camille,Leroux, Maël,Chemla, Emmanuel
+paperTitle: "The ABC‐D of animal linguistics: are syntax and compositionality for real?"
+authors:
+  - Schlenker, Philippe,Coye, Camille,Leroux, Maël,Chemla, Emmanuel
 publish: true
 cssclasses:
   - list-cards
-type: annotation
-project:
-tags:
+type:
+  - annotation
+project: 
+tags: 
 status: to read
 progress: to annotate
 ---
 # Annotation for [Schlenker et al. 2023 - The](Papers/References/Schlenker%20et%20al.%202023%20-%20The)
 
-> [!abstract] The <span style='font-variant:small-caps;">ABC‐D</span> of animal linguistics: are syntax and compositionality for real?
+> [!abstract] The ABC‐D of animal linguistics: are syntax and compositionality for real?
 
 > [!example]- Authors
 > - [Schlenker, Philippe](Schlenker%2C%20Philippe)

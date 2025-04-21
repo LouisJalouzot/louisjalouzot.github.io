@@ -3,15 +3,15 @@ year: 2023
 month: 8
 date: 2023-08-31
 authors:
-  - "Schlenker, Philippe"
-  - "Coye, Camille"
-  - "Leroux, Maël"
-  - "Chemla, Emmanuel"
+  - Schlenker, Philippe
+  - Coye, Camille
+  - Leroux, Maël
+  - Chemla, Emmanuel
 generated: true
 key: QKIL8QHQ
 version: 2545
 itemType: journalArticle
-paperTitle: "The <span style=\"font-variant:small-caps;\">ABC‐D</span> of animal linguistics: are syntax and compositionality for real?"
+paperTitle: "The ABC‐D of animal linguistics: are syntax and compositionality for real?"
 publicationTitle: Biological Reviews
 volume: 98
 issue: 4
@@ -19,17 +19,18 @@ pages: 1142-1159
 journalAbbreviation: Biological Reviews
 language: en
 DOI: 10.1111/brv.12944
-ISSN: "1464-7931, 1469-185X"
-shortTitle: "The <span style=\"font-variant"
-url: "https://onlinelibrary.wiley.com/doi/10.1111/brv.12944"
-accessDate: "2025-04-18T16:03:07Z"
+ISSN: 1464-7931, 1469-185X
+shortTitle: The ABC‐D of animal linguistics
+url: https://onlinelibrary.wiley.com/doi/10.1111/brv.12944
+accessDate: 2025-04-18T16:03:07Z
 libraryCatalog: Semantic Scholar
-dateAdded: "2025-04-18T16:03:07Z"
-dateModified: "2025-04-18T16:03:07Z"
+dateAdded: 2025-04-18T16:03:07Z
+dateModified: 2025-04-18T16:03:07Z
 filename: Schlenker et al. 2023 - The span stylefont-variantsmall-capsABC‐Dspan of animal linguistics are syntax and compositionality for real.pdf
 marker: "[🇿](zotero://select/library/items/QKIL8QHQ)"
 publish: true
-type: reference
+type:
+  - reference
 ---
 # The <span style="font-variant:small-caps;">ABC‐D</span> of animal linguistics: are syntax and compositionality for real?
 
