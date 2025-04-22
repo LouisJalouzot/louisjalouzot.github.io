@@ -258,11 +258,11 @@ Required fields are "Year" and "City".
 	},
     "Month": {
         "type": "string",
-        "description": "Formatted month",
+        "description": "When applicable, formatted month",
 	},
     "Day": {
         "type": "string",
-        "description": "Formatted day",
+        "description": "When applicable, formatted day",
 	},
 	"FormattedTime": {
 		"type": "string",
