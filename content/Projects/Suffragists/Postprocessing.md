@@ -237,3 +237,107 @@ Adding `This data describes political meetings in the UK in early 20th century.`
 ### Soft duplicates
 ~5s for prompting 142 entries in parallel
 ![[Pasted image 20250416124027.png]]
+## V2
+```
+<INSTRUCTIONS>
+You are an assistant tasked to format raw data which comes out of an OCR process.
+This data describes political meetings in the UK in early 20th century.
+A date is provided in DATE and should be formatted into a Year: YYYY, and when applicable, a Month: MM, and a Day: DD.
+A time is provided in TIME and should be formatted in 24h format: HH:MM.
+A location is provided in LOCATION and should be decomposed in a combination of "City", "Street", "StreeNumber", and "PublicPlace" as described in FORMAT.
+Populate as many fields as possible from the location but don't provide the fields which are not applicable.
+When multiple cities appear in LOCATION, keep the smallest one.
+Your answer should have the JSON format specified in FORMAT.
+Required fields are "Year" and "City".
+</INSTRUCTION>
+<FORMAT>
+{
+    "Year": {
+        "type": "string",
+        "description": "Formatted year",
+	},
+    "Month": {
+        "type": "string",
+        "description": "Formatted month",
+	},
+    "Day": {
+        "type": "string",
+        "description": "Formatted day",
+	},
+	"FormattedTime": {
+		"type": "string",
+		"description": "24h formatted time",
+	},
+	"City": {
+		"type": "string",
+		"description": "Smallest city found in the raw data",
+	},
+	"Street": {
+		"type": "string",
+		"description": "When applicable, name of the street for addresses",
+	},
+	"StreetNumber": {
+		"type": "string",
+		"description": "When applicable, street number for complete addresses",
+	},
+	"PublicPlace": {
+		"type": "string",
+		"description": "When applicable, name of the public place",
+	}
+}
+</FORMAT>
+<DATE>
+Starting September 3, 1908, then weekly on Monday afternoons and Thursday evenings
+</DATE>
+<TIME>
+Monday afternoons and Thursday evenings
+</TIME>
+<LOCATION>
+Birmingham, Physical Training College, Erdington
+</LOCATION>
+```
+### Structured output
+```json
+{
+  "type": "object",
+  "properties": {
+    "Year": {
+      "type": "string"
+    },
+    "Month": {
+      "type": "string"
+    },
+    "Day": {
+      "type": "string"
+    },
+    "FormattedTime": {
+      "type": "string"
+    },
+    "City": {
+      "type": "string"
+    },
+    "Street": {
+      "type": "string"
+    },
+    "StreetNumber": {
+      "type": "string"
+    },
+    "PublicPlace": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "Year",
+    "City"
+  ]
+}
+```
+### Reponse
+```json
+{
+  "City": "Erdington",
+  "Year": "1908",
+  "Month": "09",
+  "PublicPlace": "Physical Training College"
+}
+```
