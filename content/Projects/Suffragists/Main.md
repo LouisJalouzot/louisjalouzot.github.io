@@ -33,7 +33,7 @@ Note: 5/10min per issue in current setup
 - [x] Hard drop then soft drop: post process date/location/time to specific format then drop *similar* ones
 - [x] What to do about multiple dates/times (e.g. "3 and 8pm", "Monday afternoons and Thursday evenings"), try to recreate one entry for each?
 - [x] To merge duplicates, keep as much info as possible, if one entry as NaN in a field where this other as something, keep the latter
-- [ ] FormattedDate -> YYYY, MM, DD columns for cases like "Early January"
+- [x] FormattedDate -> YYYY, MM, DD columns for cases like "Early January"
 - [ ] Plot of number of hard and soft duplicates against issue number
 - [ ] Get percentage of hard/soft duplicates and percentage of non-NaN values in each formatted field
 - [ ] Also run formatting and stats on the other issues
