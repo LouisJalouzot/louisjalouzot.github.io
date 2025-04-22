@@ -237,13 +237,14 @@ Adding `This data describes political meetings in the UK in early 20th century.`
 ### Soft duplicates
 ~5s for prompting 142 entries in parallel
 ![[Pasted image 20250416124027.png]]
-## V2
+# V2
 ```
 <INSTRUCTIONS>
 You are an assistant tasked to format raw data which comes out of an OCR process.
 This data describes political meetings in the UK in early 20th century.
 A date is provided in DATE and should be formatted into a Year: YYYY, and when applicable, a Month: MM, and a Day: DD.
 A time is provided in TIME and should be formatted in 24h format: HH:MM.
+This this data is about political meetings, it is unlikely that they would happend very early in the morning.
 A location is provided in LOCATION and should be decomposed in a combination of "City", "Street", "StreeNumber", and "PublicPlace" as described in FORMAT.
 Populate as many fields as possible from the location but don't provide the fields which are not applicable.
 When multiple cities appear in LOCATION, keep the smallest one.
@@ -285,15 +286,15 @@ All the fields are required but should have an empty string when not applicable.
         "description": "Applicable, name of the public place",
     },
 }
-</FORMAT>
-<DATE>
-1909-03-13
-</DATE>
-<TIME>
-2 to 5 o'clock
-</TIME>
-<LOCATION>
-London, 24, Stafford Place Studios, Buckingham Palace Gate
+</FORMAT>  
+<DATE>  
+1909-03-13  
+</DATE>  
+<TIME>  
+2 to 5 o'clock  
+</TIME>  
+<LOCATION>  
+London, 24, Stafford Place Studios, Buckingham Palace Gate  
 </LOCATION>
 ```
 ### Structured output
@@ -342,4 +343,4 @@ London, 24, Stafford Place Studios, Buckingham Palace Gate
 }
 ```
 ### Sample
-![[Pasted image 20250422184645.png]]
+![[Pasted image 20250422191921.png]]
