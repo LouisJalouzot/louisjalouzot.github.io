@@ -248,52 +248,52 @@ A location is provided in LOCATION and should be decomposed in a combination of 
 Populate as many fields as possible from the location but don't provide the fields which are not applicable.
 When multiple cities appear in LOCATION, keep the smallest one.
 Your answer should have the JSON format specified in FORMAT.
-Required fields are "Year" and "City".
+All the fields are required but should have an empty string when not applicable.
 </INSTRUCTION>
 <FORMAT>
 {
     "Year": {
         "type": "string",
         "description": "Formatted year",
-	},
+    },
     "Month": {
         "type": "string",
-        "description": "When applicable, formatted month",
-	},
+        "description": "Formatted month",
+    },
     "Day": {
         "type": "string",
-        "description": "When applicable, formatted day",
-	},
-	"FormattedTime": {
-		"type": "string",
-		"description": "24h formatted time",
-	},
-	"City": {
-		"type": "string",
-		"description": "Smallest city found in the raw data",
-	},
-	"Street": {
-		"type": "string",
-		"description": "When applicable, name of the street for addresses",
-	},
-	"StreetNumber": {
-		"type": "string",
-		"description": "When applicable, street number for complete addresses",
-	},
-	"PublicPlace": {
-		"type": "string",
-		"description": "When applicable, name of the public place",
-	}
+        "description": "Formatted day",
+    },
+    "FormattedTime": {
+        "type": "string",
+        "description": "24h formatted time",
+    },
+    "City": {
+        "type": "string",
+        "description": "Smallest city found in the raw data",
+    },
+    "Street": {
+        "type": "string",
+        "description": "Name of the street for addresses",
+    },
+    "StreetNumber": {
+        "type": "string",
+        "description": "Street number for complete addresses",
+    },
+    "PublicPlace": {
+        "type": "string",
+        "description": "Applicable, name of the public place",
+    },
 }
 </FORMAT>
 <DATE>
-Starting September 3, 1908, then weekly on Monday afternoons and Thursday evenings
+1909-03-13
 </DATE>
 <TIME>
-Monday afternoons and Thursday evenings
+2 to 5 o'clock
 </TIME>
 <LOCATION>
-Birmingham, Physical Training College, Erdington
+London, 24, Stafford Place Studios, Buckingham Palace Gate
 </LOCATION>
 ```
 ### Structured output
@@ -341,3 +341,5 @@ Birmingham, Physical Training College, Erdington
   "PublicPlace": "Physical Training College"
 }
 ```
+### Sample
+![[Pasted image 20250422184645.png]]
