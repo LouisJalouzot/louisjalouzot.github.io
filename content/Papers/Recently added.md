@@ -6,6 +6,7 @@ project:
 type:
   - dataview
 ---
+
 ```dataview
 TABLE
 	paperTitle AS Title,
