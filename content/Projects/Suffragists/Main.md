@@ -34,10 +34,10 @@ Note: 5/10min per issue in current setup
 - [x] What to do about multiple dates/times (e.g. "3 and 8pm", "Monday afternoons and Thursday evenings"), try to recreate one entry for each?
 - [x] To merge duplicates, keep as much info as possible, if one entry as NaN in a field where this other as something, keep the latter
 - [x] FormattedDate -> YYYY, MM, DD columns for cases like "Early January"
-- [ ] Plot of number of hard and soft duplicates against issue number
-- [ ] Get percentage of hard/soft duplicates and percentage of non-NaN values in each formatted field
-- [ ] Also run formatting and stats on the other issues
-- [ ] Prepare bill
+- [x] Plot of number of hard and soft duplicates against issue number
+- [x] Get percentage of hard/soft duplicates and percentage of non-NaN values in each formatted field
+- [x] Also run formatting and stats on the other issues
+- [x] Prepare bill
 - Tried refining the prompt slightly and obtained less meetings (as expected) with
 ```
 Include only meetings from TEXT.  
@@ -55,3 +55,10 @@ Issue 100 (~200 meetings): ~150k input tokens and ~20k output tokens -> $0.4
 ~100€ spent for all of VfW
 - [ ] Add postprocessing stats to repo (csv + figures) + layout from Google OCR
 - [ ] Run new prompt/model on CC and Suffr, keep old results as meetings_old.csv
+> [!multi-column]
+>
+>> **Common Cause**: 477 new meetings for 31 issues, ~15/issue, not lost any
+>> ![[Pasted image 20250424114058.png|200]]
+>
+>> **Suffragette**: 1802 new meetings for 31 issues, ~58/issue, not lost any
+>> ![[Pasted image 20250424114423.png|165]]
