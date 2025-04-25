@@ -11,6 +11,7 @@ type:
 - [x] Paper: check if Stacked FI or Stacked FI / $\rho$
 - [x] Word level dataset
 - [ ] Cluster correlated (pairs of) features
+- [ ] Unit tests
 - [ ] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
 - [ ] Required batch size computation: change check from CI to std in some way
