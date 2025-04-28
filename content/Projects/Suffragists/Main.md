@@ -53,7 +53,7 @@ Meetings which can be found in CONTEXT should be ignored.
 ![[Screenshot_20250408_160134.png|400]]
 Issue 100 (~200 meetings): ~150k input tokens and ~20k output tokens -> $0.4
 ~100€ spent for all of VfW
-- [ ] Add postprocessing stats to repo (csv + figures) + layout from Google OCR
+- [x] Add postprocessing stats to repo (csv + figures) + layout from Google OCR
 - [x] Run new prompt/model on CC and Suffr, keep old results as meetings_old.csv
 > [!multi-column]
 >
