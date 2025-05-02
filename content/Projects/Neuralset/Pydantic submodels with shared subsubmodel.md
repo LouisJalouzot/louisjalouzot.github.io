@@ -1,8 +1,12 @@
 ---
 createdDate: 2025-04-30
 publish: true
-tags: 
-project: 
+tags:
+  - Python
+  - Pydantic
+project:
+  - MLEM
+  - neuralset
 type:
 ---
 # Problem
