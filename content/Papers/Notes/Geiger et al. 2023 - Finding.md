@@ -10,8 +10,9 @@ type:
   - annotation
 project:
   - MLEM
-tags: 
-status: urgent
+tags:
+  - Representations/Distributed
+status: read
 progress: to annotate
 ---
 # Annotation for [Geiger et al. 2023 - Finding](Papers/References/Geiger%20et%20al.%202023%20-%20Finding)

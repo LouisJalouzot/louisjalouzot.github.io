@@ -7,6 +7,7 @@ project:
 type:
   - TODO
 ---
+- [ ] Min max false 
 - [x] Simple Permutation Importance on train
 - [x] Paper: check if Stacked FI or Stacked FI / $\rho$
 - [x] Word level dataset
