@@ -15,8 +15,8 @@ type:
 - [x] Use later instead of crude estimation of batch size (pb = circular import)
 - [x] ~~Relative clause: remove interaction features~~ inter_NUM = interaction of 3 features
 - [x] Cluster correlated (pairs of) features
+- [x] HOW TO NOT LOG DEBUG IN TERMINAL
 - [ ] Check correlation def in Jeanne's paper
-- [ ] HOW TO NOT LOG DEBUG IN TERMINAL
 - [ ] Mistral 7B bugged
 - [ ] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
