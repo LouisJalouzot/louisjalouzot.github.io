@@ -18,6 +18,8 @@ type:
 - [x] HOW TO NOT LOG DEBUG IN TERMINAL
 - [ ] Check correlation def in Jeanne's paper
 - [ ] Mistral 7B bugged
+- [ ] Offset mapping for LLama/Mistral models
+- [ ] Make again what makes 2 language models think alike
 - [ ] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
 - [ ] Unit tests
