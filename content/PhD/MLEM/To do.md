@@ -11,16 +11,17 @@ type:
 - [x] Simple Permutation Importance on train
 - [x] Paper: check if Stacked FI or Stacked FI / $\rho$
 - [x] Word level dataset
+- [x] Required batch size computation: change check from CI to std in some way
+- [x] Use later instead of crude estimation of batch size (pb = circular import)
+- [x] ~~Relative clause: remove interaction features~~ inter_NUM = interaction of 3 features
 - [ ] Cluster correlated (pairs of) features
-- [ ] Unit tests
 - [ ] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
-- [ ] Required batch size computation: change check from CI to std in some way
-- [ ] Use later instead of crude estimation of batch size (pb = circular import)
+- [ ] Unit tests
+- [ ] Fix `model_post_init` called by exca for caching
 - [ ] Baseline encoding RandomForest
 - [ ] Baseline decoding classical LogisticRegression AUC
 - [ ] Baseline decoding pairwise
-- [ ] ~~Relative clause: remove interaction features~~ inter_NUM = interaction of 3 features
 - [ ] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
 - [ ] LLM2Vec
