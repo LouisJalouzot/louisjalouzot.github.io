@@ -19,7 +19,6 @@ const config: QuartzConfig = {
     baseUrl: "louisjalouzot.github.io",
     ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -91,7 +90,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }
