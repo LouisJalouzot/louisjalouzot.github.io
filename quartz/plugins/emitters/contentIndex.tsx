@@ -11,6 +11,7 @@ import { i18n } from "../../i18n"
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
   slug: FullSlug
+  filePath: FilePath
   title: string
   links: SimpleSlug[]
   tags: string[]

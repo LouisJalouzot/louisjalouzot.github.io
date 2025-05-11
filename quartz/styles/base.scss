@@ -562,7 +562,6 @@ video {
 }
 
 div:has(> .overflow) {
-  display: flex;
   max-height: 100%;
   overflow-y: hidden;
 }
@@ -572,6 +571,7 @@ ol.overflow {
   max-height: 100%;
   overflow-y: auto;
   width: 100%;
+  margin-bottom: 0;
 
   // clearfix
   content: "";
@@ -579,15 +579,6 @@ ol.overflow {
 
   & > li.overflow-end {
     height: 0.5rem;
-    margin: 0;
-  }
-
-  &.gradient-active {
-    mask-image: linear-gradient(to bottom, black calc(100% - 50px), transparent 100%);
-  }
-
-  & > li.overflow-end {
-    height: 4px;
     margin: 0;
   }
 
