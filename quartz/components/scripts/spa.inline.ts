@@ -30,6 +30,10 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   const a = target.closest("a")
   if (!a) return
   if ("routerIgnore" in a.dataset) return
+  // allow full page load for HTML assets
+  try {
+    if (new URL(a.href).pathname.endsWith('.html')) return
+  } catch {}
   const { href } = a
   if (!isLocalUrl(href)) return
   return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
