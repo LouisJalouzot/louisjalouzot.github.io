@@ -7,4 +7,5 @@ type:
 ---
 ![[PhD/MLEM/Figures/spearman_param.html]]
 ![[PhD/MLEM/Figures/fi.html]]
-![[PhD/MLEM/Figures/spearman.html]]![[feature_importance.html]]
+![[PhD/MLEM/Figures/spearman.html]]
+![[feature_importance.html]]
