@@ -19,3 +19,4 @@ Devika Narain – Erasmus Medical University, Rotterdam, The Netherlands « Prio
 Language Models Are Implicitly Continuous
 MCMC https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 [SD suspend then hibernate](https://github.com/nazar256/publications/blob/main/guides/steam-deck-hibernation.md)
+Voyager: An Open-Ended Embodied Agent with Large Language Models
