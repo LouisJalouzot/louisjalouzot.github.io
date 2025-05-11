@@ -72,7 +72,8 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
   fp = stripSlashes(fp) as FilePath
   let ext = getFileExtension(fp)
   const withoutFileExt = fp.replace(new RegExp(ext + "$"), "")
-  if (excludeExt || [".md", ".html", undefined].includes(ext)) {
+  // only strip extension for markdown or when explicitly excluded
+  if (excludeExt || ext === ".md" || ext === undefined) {
     ext = ""
   }
 
