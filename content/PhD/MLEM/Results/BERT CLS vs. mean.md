@@ -6,9 +6,10 @@ tags:
   - FeatureImportance
 project:
   - MLEM
-type: []
+type:
+  - figures
 ---
 # Spearman
-![[Attachments/spearman.html]]
+![[PhD/MLEM/Results/BERT CLS vs. mean/spearman.html]]
 # Feature importances
-![[fi.html]]
+![[PhD/MLEM/Results/BERT CLS vs. mean/fi.html]]

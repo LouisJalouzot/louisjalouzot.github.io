@@ -6,5 +6,5 @@ project:
 type:
 ---
 ![[PhD/MLEM/Results/spearman_param.html]]
-![[fi_param.html]]
+![[PhD/MLEM/Results/fi.html]]
 ![[spearman.html]]![[feature_importance.html]]
