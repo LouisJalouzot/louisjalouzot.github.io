@@ -13,5 +13,8 @@ type:
 Comparing encoding Spearman and FIs for `bert-base-uncased` when taking representations from the `[CLS]` token (`token_aggregation=first`) or by averaging the tokens (`token_aggregation=mean`).
 # Encoding Spearman
 ![[PhD/MLEM/Results/BERT CLS vs. mean/spearman.html]]
+[[PhD/MLEM/Results/BERT CLS vs. mean/spearman.html]]
+[[PhD/MLEM/Results/BERT CLS vs. mean/spearman.html|Encoding Spearman]]
+[Encoding Spearman](PhD/MLEM/Results/BERT%20CLS%20vs.%20mean/spearman.html)
 # Feature Importance
 ![[PhD/MLEM/Results/BERT CLS vs. mean/fi.html]]
