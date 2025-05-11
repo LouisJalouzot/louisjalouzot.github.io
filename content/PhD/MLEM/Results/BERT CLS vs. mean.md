@@ -6,8 +6,7 @@ tags:
   - FeatureImportance
 project:
   - MLEM
-type:
-  - figures
+type: []
 ---
 # Spearman
 ![[Attachments/spearman.html]]

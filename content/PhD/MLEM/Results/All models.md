@@ -4,7 +4,6 @@ publish: true
 tags: 
 project:
   - MLEM
-type:
-  - figures
+type: []
 ---
 # WIP
