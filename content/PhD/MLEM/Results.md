@@ -5,6 +5,6 @@ tags:
 project: 
 type:
 ---
-![[PhD/MLEM/Results/spearman_param.html]]
-![[PhD/MLEM/Results/fi.html]]
-![[spearman.html]]![[feature_importance.html]]
+![[PhD/MLEM/Figures/spearman_param.html]]
+![[PhD/MLEM/Figures/fi.html]]
+![[PhD/MLEM/Figures/spearman.html]]![[feature_importance.html]]
