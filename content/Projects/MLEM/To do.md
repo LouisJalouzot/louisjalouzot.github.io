@@ -16,9 +16,11 @@ type:
 - [x] ~~Relative clause: remove interaction features~~ inter_NUM = interaction of 3 features
 - [x] Cluster correlated (pairs of) features
 - [x] HOW TO NOT LOG DEBUG IN TERMINAL
+- [x] Mistral 7B bugged
+- [x] Offset mapping for LLama/Mistral models
+- [x] LLM2Vec
+- [ ] Check features clustering
 - [ ] Check correlation def in Jeanne's paper
-- [ ] Mistral 7B bugged
-- [ ] Offset mapping for LLama/Mistral models
 - [ ] Make again what makes 2 language models think alike
 - [ ] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
@@ -29,7 +31,6 @@ type:
 - [ ] Baseline decoding pairwise
 - [ ] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
-- [ ] LLM2Vec
 - [ ] Add lexical variability in datasets to allow for Stratified KFold on all features
 - [ ] Cross validated Permutation Importance with Stratified KFold
 - [ ] Models comparisons: for a given sentence $s$, predict $d(R_{BERT}(s),R_{GPT2}(s))$ from features of $s$ (need same hidden dim)
