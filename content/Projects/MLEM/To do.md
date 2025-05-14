@@ -19,10 +19,10 @@ type:
 - [x] Mistral 7B bugged
 - [x] Offset mapping for LLama/Mistral models
 - [x] LLM2Vec
-- [ ] Check features clustering
+- [x] Check features clustering
 - [ ] Check correlation def in Jeanne's paper
 - [ ] Make again what makes 2 language models think alike
-- [ ] Correlations between approaches across layers/models/datasets
+- [x] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
 - [ ] Unit tests
 - [ ] Fix `model_post_init` called by exca for caching
