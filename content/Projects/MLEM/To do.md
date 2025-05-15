@@ -26,8 +26,8 @@ type:
 	- Approaches = different parametrizations
 - [ ] Unit tests
 - [ ] Fix `model_post_init` called by exca for caching
-- [ ] Baseline encoding RandomForest
-- [ ] Baseline decoding classical LogisticRegression AUC
+- [x] Baseline encoding RandomForest
+- [x] Baseline decoding classical LogisticRegression AUC
 - [ ] Baseline decoding pairwise
 - [ ] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
