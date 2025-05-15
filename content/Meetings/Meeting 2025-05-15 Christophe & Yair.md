@@ -8,7 +8,7 @@ type:
   - meeting
 ---
 # Figures to show
-- FI + correlations for BERT/GPT2 on SVO word level
+- FI + correlations + MDS for BERT/GPT2 on SVO word level
 - Baselines (explain them)
 	- Question: encoding performance or baseline?
 - FI BERT mean vs. CLS
