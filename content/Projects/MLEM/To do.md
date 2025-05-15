@@ -20,17 +20,19 @@ type:
 - [x] Offset mapping for LLama/Mistral models
 - [x] LLM2Vec
 - [x] Check features clustering
-- [ ] Check correlation def in Jeanne's paper
+- [x] Check correlation def in Jeanne's paper
+- [x] Baseline encoding RandomForest
+- [x] Baseline decoding classical LogisticRegression AUC
+- [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
+- [ ] Simulation, show the superiority of MLEM over FR-RSA for interactions
+- [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering
 - [ ] Make again what makes 2 language models think alike
+	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
 - [x] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
 - [ ] Unit tests
 - [ ] Fix `model_post_init` called by exca for caching
-- [x] Baseline encoding RandomForest
-- [x] Baseline decoding classical LogisticRegression AUC
 - [ ] Baseline decoding pairwise
-- [ ] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
-	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
 - [ ] Add lexical variability in datasets to allow for Stratified KFold on all features
 - [ ] Cross validated Permutation Importance with Stratified KFold
 - [ ] Models comparisons: for a given sentence $s$, predict $d(R_{BERT}(s),R_{GPT2}(s))$ from features of $s$ (need same hidden dim)

@@ -7,12 +7,13 @@ project:
 type:
   - meeting
 ---
-# Figures to show
+# [[MLEM]]
+## Figures to show
 - FI + correlations + MDS for BERT/GPT2 on SVO word level
 - Baselines (explain them)
 	- Question: encoding performance or baseline?
 - FI BERT mean vs. CLS
-# Next-up
+## Next-up
 - Remake correlation plot between methods (params)
 	- Question: FR-RSA = diag params, with our training setup (more conservative comparison)?
 	- Question: RSA = id params, do we care?
