@@ -26,6 +26,7 @@ type:
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [ ] Simulation, show the superiority of MLEM over FR-RSA for interactions
 - [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering
+	- See [UD English GUM](https://universaldependencies.org/treebanks/en_gum/index.html)
 - [ ] Make again what makes 2 language models think alike
 	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
 - [x] Correlations between approaches across layers/models/datasets
