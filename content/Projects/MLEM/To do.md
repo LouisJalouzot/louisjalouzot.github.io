@@ -24,7 +24,9 @@ type:
 - [x] Baseline encoding RandomForest
 - [x] Baseline decoding classical LogisticRegression AUC
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
-- [ ] Simulation, show the superiority of MLEM over FR-RSA for interactions 
+- [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
+- [ ] Try again weight decay, in particular with high correlations
+- [ ] Cross validation?
 - [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering
 	- See [UD English GUM](https://universaldependencies.org/treebanks/en_gum/index.html)
 - [ ] Make again what makes 2 language models think alike
