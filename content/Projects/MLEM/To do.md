@@ -42,3 +42,4 @@ type:
 	- Feature Importance on Random Forest or Metric Learning (on encoded features then) 
 - [ ] [[Papers/Notes/King et al. 2020 - Back-to-back|King et al. 2020 - Back-to-back]] and [[Papers/Notes/Armitage et al. 2005 - Reduced|Armitage et al. 2005 - Reduced]] as *baselines*
 - [ ] There seem to be a bug with `EstimateCorrelation` (increasing std between estimates with larger batch sizes, contre-intuitive), bug fixed by running on GPU but would deserve investigating
+- [ ] Multi-linear form to allow for interactions between any number of features
