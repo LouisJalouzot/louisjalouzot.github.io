@@ -25,7 +25,8 @@ type:
 - [x] Baseline decoding classical LogisticRegression AUC
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
-- [ ] Try again weight decay, in particular with high correlations
+- [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
+- [ ] Make a simulated dataset that would give negative weights in FR-RSA
 - [ ] Cross validation?
 - [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering
 	- See [UD English GUM](https://universaldependencies.org/treebanks/en_gum/index.html)
