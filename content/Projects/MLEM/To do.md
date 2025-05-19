@@ -26,7 +26,20 @@ type:
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
+- [ ] Ground-truth weights on simulation
+- [ ] Emmanuel's experiment:
+```
+- sample values for effect sizes of Encoded1, Encoded2, interaction
+- run 
+-- MLEM, FR-RSA with dummy-coded interaction, FR-RSA without dummy-coded interaction
+-- on two datasets one sampled without the interaction term, one with the interaction term added
+-- [optional] with different amounts of data from the sample
+This should provide
+- the rates of false positive and false negative for the method (treat the method as a classifier), and optionally its statistical power
+- the correlations between inferred values and underlying values
+```
 - [ ] Make a simulated dataset that would give negative weights in FR-RSA
+- [ ] Mean of univariate as another baseline
 - [ ] Cross validation?
 - [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering
 	- See [UD English GUM](https://universaldependencies.org/treebanks/en_gum/index.html)
