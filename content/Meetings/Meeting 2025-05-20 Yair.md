@@ -7,6 +7,6 @@ project:
 type:
   - meeting
 ---
-- [ ] Affiliations
+- [x] Affiliations
 - [ ] Simulations dataset
 - [ ] CCN

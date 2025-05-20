@@ -6,8 +6,8 @@ project:
 type:
 ---
 # Data
-- 2 sEEG recording machines:
-- Neuralink
+2 sEEG recording machines:
+- Neuralynx
 - Blackrock
 One tool/Python pipeline to read from any (maybe MNE python, interfaces with sklearn, originally for MEG/EEG but can now be used with intracranial, viz tools from nilearn)
 - Single cell activity: use Yair's tool to read
