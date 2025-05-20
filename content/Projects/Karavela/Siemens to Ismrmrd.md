@@ -14,7 +14,7 @@ srun --cpus-per-task=6 --hint=nomultithread --partition=compil --account=ioj@cpu
 ```
 2. Load necessary modules
 ```bash
-module load cmake
+module load cmake/3.25.2 hdf5
 ```
 3. Build `ismrmrd`
 ```bash
@@ -22,6 +22,6 @@ git clone https://github.com/ismrmrd/ismrmrd.git
 cd ismrmrd
 mkdir build
 cd build
-cmake ..
+CC=icc CXX=icpc cmake ..
 make
 ```
