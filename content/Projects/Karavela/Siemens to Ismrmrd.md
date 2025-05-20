@@ -6,22 +6,11 @@ project:
   - Karavela
 type:
 ---
-# Building Siemens to Ismrmrd on JZ
+# Using Siemens to Ismrmrd on JZ
 [Repo](https://github.com/ismrmrd/siemens_to_ismrmrd)
-1. Start an interactive session on the `compil` partition of JZ
-```bash
-srun --cpus-per-task=6 --hint=nomultithread --partition=compil --account=ioj@cpu --qos=qos_cpu-dev --pty bash -i
-```
-2. Load necessary modules
-```bash
-module load cmake/3.25.2 hdf5
-```
-3. Build `ismrmrd`
-```bash
-git clone https://github.com/ismrmrd/ismrmrd.git
-cd ismrmrd
-mkdir build
-cd build
-CC=icc CXX=icpc cmake ..
-make
-```
+1. Install Miniconda: c.f. [here](https://www.anaconda.com/docs/getting-started/miniconda/install#linux-terminal-installer)
+2.  Create and activate virtual environment:
+	- `conda create --name siemens_to_ismrmrd`
+	- `conda activate siemens_to_ismrmrd`
+3. Install `siemens_to_ismrmrd`: `conda install inati::siemens_to_ismrmrd`
+4. Run with 
