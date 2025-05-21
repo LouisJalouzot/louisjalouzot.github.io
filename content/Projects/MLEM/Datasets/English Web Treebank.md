@@ -9,6 +9,8 @@ project:
 type:
 ---
 Using the 12 544 annotated sentences from [EN EWT UD train](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/refs/heads/master/en_ewt-ud-train.conllu) -> 204 427 words
+Features that could be interesting to incorporate:
+- Reflex
 # v1
 Explore on [HuggingFace](https://huggingface.co/datasets/ljalouzot/EN-EWT-UD)
 Correlations:
@@ -22,10 +24,26 @@ Correlations:
 - Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers (649 affected).
 - Had to change `’` for `'`
 - ~~Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them (150 dropped).~~
-- ~~Got rid of sentences with at least one word labeled as Typo (860 words in 726 sentences) or abbreviations (399 words in 314 sentences) or CorrectSpaceAfter (e.g. "I'ma", 80 words in 70 sentences) because split not aligned with tokenizer. Deprel "goeswith" seems similarly problematic but dropped by following filtering.~~
+- Got rid of sentences with at least one word labeled as Typo (860 words in 726 sentences) or abbreviations (399 words in 314 sentences) or CorrectSpaceAfter (e.g. "I'ma", 80 words in 70 sentences) because split not aligned with tokenizer.
+- Deprel "goeswith" seems similarly problematic but dropped by following filtering.
 - ~~Manually drop sentences with "gotta" in them which is not labeled as an abbreviation (3 sentences).~~
 Change for a tokenizer check with GPT2
 
+- All filters:
+	- Abbr = None
+	- FlatType = None
+	- Typo = None
+	- CorrectForm = None
+	- Foreign = None
+	- Style = None
+	- ModernForm = None
+	- Mentioned = None
+	- CorrectSpaceAfter = None
+	- CorrectNumber = None
+	- MissingWordAfter = None
+	- CorrectVerbForm = None
+	- SpecialEncoding = None
+	- CorrectTense = None
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
 ### Feature: `upos` (Universal Part of Speech)
