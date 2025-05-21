@@ -7,6 +7,10 @@ project:
 type:
 ---
 # V1
+Explore on [HuggingFace](https://huggingface.co/datasets/ljalouzot/EN-EWT-UD)
+Correlations:
+- [[EWT_v1_correlations.html|Between features]]
+- [[EWT_v1_feature_pairs_correlations.html|Between feature pairs]]
 ## Filtering features
 
 ### `upos` (Universal Part of Speech)
