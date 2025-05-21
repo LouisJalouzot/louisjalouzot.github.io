@@ -23,6 +23,7 @@ Correlations:
 - Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them (150 dropped).
 - Had to change `’` for `'`
 - Got rid of sentences with at least one word labeled as Typo (860 words in 726 sentences) or abbreviations (399 words in 314 sentences) or CorrectSpaceAfter (e.g. "I'ma", 80 words in 70 sentences) because split not aligned with tokenizer. Deprel "goeswith" seems similarly problematic but dropped by following filtering.
+- Manually drop sentences with "gotta" in them which is not labeled as an abbreviation (3 sentences).
 
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
