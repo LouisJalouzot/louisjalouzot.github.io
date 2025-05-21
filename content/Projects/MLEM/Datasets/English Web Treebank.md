@@ -24,26 +24,17 @@ Correlations:
 - Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers (649 affected).
 - Had to change `’` for `'`
 - ~~Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them (150 dropped).~~
-- Got rid of sentences with at least one word labeled as Typo (860 words in 726 sentences) or abbreviations (399 words in 314 sentences) or CorrectSpaceAfter (e.g. "I'ma", 80 words in 70 sentences) because split not aligned with tokenizer.
+- ~~Got rid of sentences with at least one word labeled as Typo (860 words in 726 sentences) or abbreviations (399 words in 314 sentences) or CorrectSpaceAfter (e.g. "I'ma", 80 words in 70 sentences) because split not aligned with tokenizer.~~
 - Deprel "goeswith" seems similarly problematic but dropped by following filtering.
-- ~~Manually drop sentences with "gotta" in them which is not labeled as an abbreviation (3 sentences).~~
-Change for a tokenizer check with GPT2
+- ~~Manually drop sentences with "gotta" in them which is not labeled as an abbreviation (3 sentences)~~
+- Manually remove sentences with "gotta" or "cannot" since they are split in the annotated data and not by the tokenizers
 
-- All filters:
-	- Abbr = None
-	- FlatType = None
-	- Typo = None
-	- CorrectForm = None
-	- Foreign = None
-	- Style = None
-	- ModernForm = None
-	- Mentioned = None
-	- CorrectSpaceAfter = None
-	- CorrectNumber = None
-	- MissingWordAfter = None
-	- CorrectVerbForm = None
-	- SpecialEncoding = None
-	- CorrectTense = None
+- Fields indicating errors to keep at `None` sentence-wide:
+```
+Abbr, FlatType, Typo, CorrectForm, Foreign, Style, ModernForm, Mentioned, CorrectSpaceAfter, CorrectNumber, MissingWordAfter, CorrectVerbForm, SpecialEncoding, CorrectTense
+```
+12544 -> 10334 sentences
+
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
 ### Feature: `upos` (Universal Part of Speech)
