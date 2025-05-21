@@ -12,7 +12,7 @@ Correlations:
 - [[EWT_v1_correlations.html|Between features]]
 - [[EWT_v1_feature_pairs_correlations.html|Between feature pairs]]
 ## Filtering features
-
+Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
 ### `upos` (Universal Part of Speech)
 |       |   NOUN |   PUNCT |   VERB |   PRON |   ADP |   DET |   ADJ |   AUX |   PROPN |   ADV |   CCONJ |   PART |   NUM |   SCONJ |   SYM |   INTJ |   X |
