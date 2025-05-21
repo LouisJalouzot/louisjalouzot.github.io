@@ -39,6 +39,7 @@ This should provide
 - the correlations between inferred values and underlying values
 ```
 - [ ] Make a simulated dataset that would give negative weights in FR-RSA
+- [ ] [ConceptNet](https://conceptnet.io/) to add semantic features to the syntactic ones and see which ones are picked up by the model
 - [ ] Mean of univariate as another baseline
 - [ ] Cross validation?
 - [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering

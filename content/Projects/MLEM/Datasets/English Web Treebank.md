@@ -13,6 +13,7 @@ Explore on [HuggingFace](https://huggingface.co/datasets/ljalouzot/EN-EWT-UD)
 Correlations:
 - [[EWT_v1_correlations.html|Between features]]
 - [[EWT_v1_feature_pairs_correlations.html|Between feature pairs]]
+
 ## Filtering features
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
@@ -28,7 +29,8 @@ Drop < 1000: X, INTJ, SYM
 |:------|--------:|-------:|--------:|------:|-------:|---------:|------:|-------:|------:|-------:|-----------:|-------:|-------:|-----:|------:|------:|--------:|------------:|--------:|--------:|------------:|-------:|------------:|---------:|--------:|------:|-----------:|-------------:|---------------:|----------------:|------------:|---------------:|------:|-------:|-------:|--------:|------------:|------------:|--------:|--------------:|-------------:|-----------:|-----------:|--------------:|-------------:|-------------:|---------:|-------------:|-------------:|------:|--------------:|
 | count |   23556 |  17444 |   15981 | 15725 |  12544 |    11301 |  9896 |   9587 |  8803 |   7614 |       7210 |   7124 |   6874 | 6756 |  6501 |  4728 |    3814 |        3688 |    3085 |    2110 |        1922 |   1829 |        1552 |     1544 |    1544 |  1493 |       1358 |         1183 |           1016 |             998 |         812 |            749 |    649 |    616 |    601 |     523 |         318 |         312 |     277 |           213 |          177 |        139 |        131 |           121 |           81 |           35 |       26 |            7 |            5 |     3 |             2 |
 
-Drop < 1000: nmod:unmarked, discourse, compound:prt, iobj, list, expl, fixed, nmod:desc, obl:agent, csubj, nsubj:outer, det:predet, vocative, goeswith, advcl:relcl, cc:preconj, reparandum, orphan, csubj:pass, dislocated, dep, csubj:outer
+~~Drop < 1000: nmod:unmarked, discourse, compound:prt, iobj, list, expl, fixed, nmod:desc, obl:agent, csubj, nsubj:outer, det:predet, vocative, goeswith, advcl:relcl, cc:preconj, reparandum, orphan, csubj:pass, dislocated, dep, csubj:outer~~
+Drop feature: not word level
 
 ### Feature: `Number`
 |       |   Sing |   Plur |   Ptan |
