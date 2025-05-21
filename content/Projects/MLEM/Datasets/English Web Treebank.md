@@ -8,12 +8,15 @@ project:
   - MLEM
 type:
 ---
-# V1
+# v1
 Explore on [HuggingFace](https://huggingface.co/datasets/ljalouzot/EN-EWT-UD)
 Correlations:
-- [[EWT_v1_correlations.html|Between features]]
-- [[EWT_v1_feature_pairs_correlations.html|Between feature pairs]]
-
+- v1
+	- [[EWT_v1_correlations.html|Between features]]
+	- [[EWT_v1_feature_pairs_correlations.html|Between feature pairs]]
+- v1 tiny (at most 5 samples for each combination of feature that exists)
+	- [[EWT_v1_tiny_correlations.html|Between features]]
+	- [[EWT_v1_tiny_feature_pairs_correlations.html|Between feature pairs]]
 ## Filtering features
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
