@@ -18,6 +18,7 @@ Correlations:
 	- [[EWT_v1_tiny_correlations.html|Between features]]
 	- [[EWT_v1_tiny_feature_pairs_correlations.html|Between feature pairs]]
 ## Filtering features
+Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers. Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them.
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
 ### Feature: `upos` (Universal Part of Speech)
