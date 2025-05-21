@@ -8,6 +8,7 @@ project:
   - MLEM
 type:
 ---
+Using the 12 544 annotated sentences from [EN EWT UD train](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/refs/heads/master/en_ewt-ud-train.conllu) -> 204 427 words
 # v1
 Explore on [HuggingFace](https://huggingface.co/datasets/ljalouzot/EN-EWT-UD)
 Correlations:
@@ -18,7 +19,11 @@ Correlations:
 	- [[EWT_v1_tiny_correlations.html|Between features]]
 	- [[EWT_v1_tiny_feature_pairs_correlations.html|Between feature pairs]]
 ## Filtering features
-Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers. Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them.
+- Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers (649 affected).
+- Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them (150 dropped).
+- Had to change `’` for `'`
+- Got rid of words labeled as typos (860) and abbreviations (399) because split not aligned with tokenizer. Deprel "goeswith" seems similarly problematic but dropped by following filtering.
+
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
 ### Feature: `upos` (Universal Part of Speech)
