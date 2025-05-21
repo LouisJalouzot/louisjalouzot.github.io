@@ -22,7 +22,7 @@ Correlations:
 - Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers (649 affected).
 - Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them (150 dropped).
 - Had to change `’` for `'`
-- Got rid of words labeled as typos (860) and abbreviations (399) because split not aligned with tokenizer. Deprel "goeswith" seems similarly problematic but dropped by following filtering.
+- Got rid of sentences with at least one word labeled as Typo (860 words in 726 sentences) or abbreviations (399 words in 314 sentences) or CorrectSpaceAfter (e.g. "I'ma", 80 words in 70 sentences) because split not aligned with tokenizer. Deprel "goeswith" seems similarly problematic but dropped by following filtering.
 
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
