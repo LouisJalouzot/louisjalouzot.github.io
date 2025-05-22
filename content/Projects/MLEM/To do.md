@@ -26,6 +26,7 @@ type:
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
+- [ ] Drop POS
 - [ ] GTE/GTR models
 - [ ] Ground-truth weights on simulation
 - [ ] Emmanuel's experiment:
