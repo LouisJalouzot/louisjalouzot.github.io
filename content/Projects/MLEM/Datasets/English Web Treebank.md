@@ -9,7 +9,7 @@ project:
 type:
 ---
 Using the 12 544 annotated sentences from [EN EWT UD train](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/refs/heads/master/en_ewt-ud-train.conllu) -> 204 427 words
-URGENT: add index confound feature
+URGENT: add index confound feature, GENDER
 Features that could be interesting to incorporate:
 - Reflex
 # v1
