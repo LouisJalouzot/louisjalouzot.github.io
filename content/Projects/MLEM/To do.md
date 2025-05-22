@@ -26,10 +26,11 @@ type:
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
-- [ ] Try simulated
 - [ ] Drop POS and maybe depth if too correlated with position
+- [ ] Make simulated dataset in higher dimension with effects not aligned with the canonical basis
+- [ ] Try to make a dataset out of ground-truth W (MDS or analytical) or try to find ground-truth from dataset
+- [ ] Make plot MLEM/FR-RSA dummy (with $\delta f_1 \delta f_2$ in regressor)/FR-RSA dummy (with feature $\mathbb{1}[f_1==f_2]$ as feature of the dataset)/FR-RSA (if 2nd as strong as MLEM, maybe less robust to different types of noise)
 - [ ] GTE/GTR models
-- [ ] Ground-truth weights on simulation
 - [ ] Emmanuel's experiment:
 ```
 - sample values for effect sizes of Encoded1, Encoded2, interaction
