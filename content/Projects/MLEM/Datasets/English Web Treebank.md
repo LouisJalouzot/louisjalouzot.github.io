@@ -9,7 +9,6 @@ project:
 type:
 ---
 Using the 12 544 annotated sentences from [EN EWT UD train](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/refs/heads/master/en_ewt-ud-train.conllu) -> 204 427 words
-URGENT: add index confound feature, GENDER
 Features that could be interesting to incorporate:
 - Reflex
 # v1
@@ -21,7 +20,7 @@ Correlations:
 - v1 tiny (at most 5 samples for each combination of feature that exists)
 	- [[EWT_v1_tiny_correlations.html|Between features]]
 	- [[EWT_v1_tiny_feature_pairs_correlations.html|Between feature pairs]]
-## Filtering features
+## Filtering
 - Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers (649 affected).
 - Had to change `’` for `'`
 - ~~Furthermore they don't split "dont" and "didnt" and we can't merge so I drop them (150 dropped).~~
@@ -36,6 +35,32 @@ Abbr, FlatType, Typo, CorrectForm, Foreign, Style, ModernForm, Mentioned, Correc
 ```
 12544 -> 10334 sentences
 
+Features kept: Position, Number, Person, Tense, Mood, Gender, VerbForm, Definite, Case
+Filter categories with < 400 words
+```
+Position: keeping [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+dropping [42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 68, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 97, 96, 98, 99, 100, 102, 101, 104, 103]
+
+Number: keeping ['Sing', 'Plur']
+dropping ['Ptan']
+
+Person: keeping ['3', '1', '2']
+
+Tense: keeping ['Pres', 'Past']
+
+Mood: keeping ['Ind', 'Imp']
+dropping ['Sub']
+
+Gender: keeping ['Neut', 'Masc', 'Fem']
+
+VerbForm: keeping ['Fin', 'Inf', 'Part', 'Ger']
+
+Definite: keeping ['Def', 'Ind']
+
+Case: keeping ['Nom', 'Gen', 'Acc']
+```
+
+## Old:
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 
 ### Feature: `upos` (Universal Part of Speech)
