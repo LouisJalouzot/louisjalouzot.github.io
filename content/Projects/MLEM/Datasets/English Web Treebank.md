@@ -48,9 +48,6 @@ Person: keeping ['3', '1', '2']
 
 Tense: keeping ['Pres', 'Past']
 
-Mood: keeping ['Ind', 'Imp']
-dropping ['Sub']
-
 Gender: keeping ['Neut', 'Masc', 'Fem']
 
 VerbForm: keeping ['Fin', 'Inf', 'Part', 'Ger']
