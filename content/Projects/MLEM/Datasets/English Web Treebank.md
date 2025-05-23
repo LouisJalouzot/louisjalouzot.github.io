@@ -13,13 +13,6 @@ Features that could be interesting to incorporate:
 - Reflex
 # v1
 Explore on [HuggingFace](https://huggingface.co/datasets/ljalouzot/EN-EWT-UD)
-Correlations:
-- v1
-	- [[EWT_v1_correlations.html|Between features]]
-	- [[EWT_v1_feature_pairs_correlations.html|Between feature pairs]]
-- v1 tiny (at most 5 samples for each combination of feature that exists)
-	- [[EWT_v1_tiny_correlations.html|Between features]]
-	- [[EWT_v1_tiny_feature_pairs_correlations.html|Between feature pairs]]
 ## Filtering
 - Had to change the pairs "Do", "n't" to "Don", "'t" to align with tokenizers (649 affected).
 - Had to change `’` for `'`
@@ -57,6 +50,10 @@ Definite: keeping ['Def', 'Ind']
 Case: keeping ['Nom', 'Gen', 'Acc']
 ```
 
+## v1 small
+- Drop words with Position < 5 (not interesting embeddings with causal LLMs)
+- *All* combinations of features present in the data had between 13 and 74k samples, kept at most 100 for each combinations (170k -> 2.6k words)
+- Correlations [[EWT_v1_small_correlations.html|between features]] and [[EWT_v1_small_feature_pairs_correlations.html|between feature pairs]]
 ## Old:
 Counts of values for each feature in the raw dataset and corresponding filtering applied.
 

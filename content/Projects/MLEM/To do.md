@@ -26,6 +26,7 @@ type:
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
+- [ ] Check `word in sentence[start_idx:end_idx+1]`
 - [ ] Drop POS and maybe depth if too correlated with position
 - [ ] Make simulated dataset in higher dimension with effects not aligned with the canonical basis
 - [ ] Try to make a dataset out of ground-truth W (MDS or analytical) or try to find ground-truth from dataset
@@ -50,7 +51,7 @@ This should provide
 	- See [UD English GUM](https://universaldependencies.org/treebanks/en_gum/index.html)
 - [ ] Make again what makes 2 language models think alike
 	- ~~MDS on reduced version of a dataset: no lexical variability, one sample by condition~~ bad
-- [x] Correlations between approaches across layers/models/datasets
+- [ ] Correlations between approaches across layers/models/datasets
 	- Approaches = different parametrizations
 - [ ] Unit tests
 - [ ] Fix `model_post_init` called by exca for caching

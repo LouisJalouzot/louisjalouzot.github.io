@@ -8,5 +8,5 @@ type:
   - meeting
 ---
 - [x] Affiliations
-- [ ] Simulations dataset
-- [ ] CCN
+- [x] Simulations dataset
+- [x] CCN
