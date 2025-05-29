@@ -26,6 +26,7 @@ type:
 - [x] PCA/TSNE/UMAP/MDS (unfeasible)/Stochastic MDS
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
+- [ ] Word dataset, PCA on attention KV or Q and color by dependency relation
 - [ ] Check `word in sentence[start_idx:end_idx+1]`
 - [ ] Drop POS and maybe depth if too correlated with position
 - [ ] Make simulated dataset in higher dimension with effects not aligned with the canonical basis
