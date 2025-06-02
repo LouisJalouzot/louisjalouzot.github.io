@@ -18,6 +18,7 @@ Then have 4 points with two 2-level features:
 | A       | B       |
 | B       | A       |
 | B       | B       |
+
 We compute ground-truth pairwise distances with $W$ and the features and generate 1/2 or 3D (the one giving lowest stress) representations for each point using MDS
 
 ## Results
@@ -47,7 +48,7 @@ FI and weights obtained
 | Feat. 2             |         0.38 |     0.61 |
 | (Feat. 1 x Feat. 2) |        -0.04 |    -0.71 |
 
-Ratio: $-.71 / .62 = -1.14$
+Ratio:  $-.71 / .62 = -1.14$
 - With MLEM
 
 | Feature             | Importance | Weight |
@@ -56,4 +57,5 @@ Ratio: $-.71 / .62 = -1.14$
 | Feat. 2             |       0.29 |   0.63 |
 | (Feat. 1 x Feat. 2) |       0.07 |  -0.60 |
 
-Ratio: $-.60 / .65 = -0.92$ slightly closer to $-1$ than $-1.14$ is
+Ratio:  $-.60 / .65 = -0.92$
+slightly closer to $-1$ than $-1.14$ is
