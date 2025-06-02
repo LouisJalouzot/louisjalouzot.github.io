@@ -39,7 +39,9 @@ Dimension: 2, Stress: 0.17260975609478924
 Dimension: 3, Stress: 0.0011906061055877368
 ![[Pasted image 20250602152629.png|500]]
 FI and weights obtained
-"Ground-truth ratio": $(W[1,0] + W[0,1]) / W[0, 0] = (-.5 + -.5) / 1 = -1$  
+"Ground-truth ratio": $(W[1,0] + W[0,1]) / W[0, 0] = (-.5 + -.5) / 1 = -1$ 
+
+### Weights obtained
 - With FR-RSA + dummies
 
 | Feature             |   Importance |   Weight |
@@ -58,4 +60,4 @@ Ratio:  $-.71 / .62 = -1.14$
 | (Feat. 1 x Feat. 2) |       0.07 |  -0.60 |
 
 Ratio:  $-.60 / .65 = -0.92$
-slightly closer to $-1$ than $-1.14$ is
+Slightly closer to $-1$ than $-1.14$ is
