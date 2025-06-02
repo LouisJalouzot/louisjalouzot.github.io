@@ -12,12 +12,12 @@ type:
 We want to start from a given/ground-truth matrix $W$
 Then have 4 points with two 2-level features:
 
-|Feat. 1|Feat. 2|
-|-------|-------|
-|A      |A      |
-|A      |B      |
-|B      |A      |
-|B      |B      |
+| Feat. 1 | Feat. 2 |
+| :------ | ------: |
+| A       | A       |
+| A       | B       |
+| B       | A       |
+| B       | B       |
 We compute ground-truth pairwise distances with $W$ and the features and generate 1/2 or 3D (the one giving lowest stress) representations for each point using MDS
 
 ## Results
@@ -46,6 +46,7 @@ FI and weights obtained
 | Feat. 1             |         0.85 |     0.62 |
 | Feat. 2             |         0.38 |     0.61 |
 | (Feat. 1 x Feat. 2) |        -0.04 |    -0.71 |
+
 Ratio: $-.71 / .62 = -1.14$
 - With MLEM
 
@@ -54,4 +55,5 @@ Ratio: $-.71 / .62 = -1.14$
 | Feat. 1             |       0.83 |   0.65 |
 | Feat. 2             |       0.29 |   0.63 |
 | (Feat. 1 x Feat. 2) |       0.07 |  -0.60 |
+
 Ratio: $-.60 / .65 = -0.92$ slightly closer to $-1$ than $-1.14$ is
