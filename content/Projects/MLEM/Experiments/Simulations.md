@@ -37,3 +37,18 @@ Dimension: 1, Stress: 0.9999999999999998
 Dimension: 2, Stress: 0.17260975609478924
 Dimension: 3, Stress: 0.0011906061055877368
 ![[Pasted image 20250602152629.png|500]]
+FI and weights obtained
+- With MLEM
+
+| Feature             | Importance | Weight |
+| :------------------ | ---------: | -----: |
+| Feat. 1             |       0.83 |   0.65 |
+| Feat. 2             |       0.29 |   0.63 |
+| (Feat. 1 x Feat. 2) |       0.07 |  -0.60 |
+- With FR-RSA + dummies
+
+| Feature             |   Importance |   Weight |
+|:--------------------|-------------:|---------:|
+| Feat. 1             |         0.85 |     0.62 |
+| Feat. 2             |         0.38 |     0.61 |
+| (Feat. 1 x Feat. 2) |        -0.04 |    -0.71 |
