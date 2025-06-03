@@ -65,7 +65,6 @@ Slightly closer to $-1$ than $-1.14$ is
 
 With cross validation and Gaussian noise:
 ![[Pasted image 20250603142729.png|600]]
-![[Pasted image 20250603150659.png]]
 - [ ] Add other not-encoded features
 - [ ] Try adding a few outliers
 - [ ] Try MSE (remove fro scaling)
