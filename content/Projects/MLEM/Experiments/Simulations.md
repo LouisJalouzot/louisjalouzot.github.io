@@ -62,5 +62,6 @@ Ratio:  $-.71 / .62 = -1.14$
 
 Ratio:  $-.60 / .65 = -0.92$
 Slightly closer to $-1$ than $-1.14$ is
-![[Pasted image 20250602183716.png|600]]
-TODO: rerun with cross validation
+
+With cross validation and Gaussian noise:
+![[Pasted image 20250603135905.png|600]]
