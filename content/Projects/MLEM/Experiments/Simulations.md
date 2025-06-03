@@ -64,4 +64,4 @@ Ratio:  $-.60 / .65 = -0.92$
 Slightly closer to $-1$ than $-1.14$ is
 
 With cross validation and Gaussian noise:
-![[Pasted image 20250603135905.png|600]]
+![[Pasted image 20250603142729.png|600]]
