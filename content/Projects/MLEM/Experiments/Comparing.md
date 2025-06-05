@@ -9,3 +9,5 @@ type:
 ---
 [[short_sentence_correlation.html|First plot of FI correlations]]
 # MLEM vs. FR-RSA on relative clause BERT
+![[Pasted image 20250605112832.png]]
+![[Pasted image 20250605112842.png]]
