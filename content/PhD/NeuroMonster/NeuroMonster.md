@@ -6,3 +6,6 @@ project:
 type:
   - hub
 ---
+Context Fund = a VC of the conf, incline to fund research
+
+# Wolfgang Maass
