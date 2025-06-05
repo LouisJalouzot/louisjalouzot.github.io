@@ -68,3 +68,5 @@ With cross validation and Gaussian noise:
 - [ ] Add other not-encoded features
 - [ ] Try adding a few outliers
 - [ ] Try MSE (remove fro scaling)
+
+ ![[Pasted image 20250605134159.png|800]]

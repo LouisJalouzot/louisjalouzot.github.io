@@ -9,5 +9,16 @@ type:
 ---
 - [ ] NeuroMonster conf feedback
 - [ ] CSI?
-- [ ] MLEM vs. FR-RSA + dummies simulation and relative clause convergence
 - [ ] Transfer intracranial NS -> oberon ok?
+- [ ] MLEM vs. FR-RSA + dummies simulation and relative clause convergence
+
+# Simulation
+---
+ ![[Pasted image 20250605134159.png|800]]
+
+# Relative clause BERT
+---
+![[Pasted image 20250605134523.png]]
+
+---
+![[Pasted image 20250605134558.png]]
