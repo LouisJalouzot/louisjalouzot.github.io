@@ -11,7 +11,11 @@ type:
 - [ ] CSI?
 - [ ] Transfer intracranial NS -> oberon ok?
 - [ ] MLEM vs. FR-RSA + dummies simulation and relative clause convergence
-- [ ] More epochs/svo
+- [ ] More epochs
+- [ ] exp > FR-RSA?
+- [ ] non-uniform noise/gaussian
+- [ ] outliers
+- [ ] svo
 
 # Simulation
 ---
