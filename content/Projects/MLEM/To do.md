@@ -27,7 +27,7 @@ type:
 - [x] Simulation, show the superiority of MLEM over FR-RSA for interactions 
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
 - [x] Drop POS and maybe depth if too correlated with position
-- [ ] Look at Yair's simulation code
+- [x] Look at Yair's simulation code
 - [ ] Word dataset, PCA on attention KV or Q and color by dependency relation
 - [ ] Check `word in sentence[start_idx:end_idx+1]`
 - [ ] Make simulated dataset in higher dimension with effects not aligned with the canonical basis

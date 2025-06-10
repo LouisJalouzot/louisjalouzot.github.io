@@ -7,9 +7,9 @@ project:
 type:
   - meeting
 ---
-- [ ] NeuroMonster conf feedback
+- [x] NeuroMonster conf feedback
 - [ ] CSI?
-- [ ] Transfer intracranial NS -> oberon ok?
+- [x] Transfer intracranial NS -> oberon ok?
 - [ ] MLEM vs. FR-RSA + dummies simulation and relative clause convergence
 - [ ] More epochs
 - [ ] exp > FR-RSA?
