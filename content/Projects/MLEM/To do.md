@@ -31,8 +31,8 @@ type:
 - [ ] Word dataset, PCA on attention KV or Q and color by dependency relation
 - [ ] Check `word in sentence[start_idx:end_idx+1]`
 - [ ] Make simulated dataset in higher dimension with effects not aligned with the canonical basis
-- [ ] Try to make a dataset out of ground-truth W (MDS or analytical) or try to find ground-truth from dataset
-- [ ] Make plot MLEM/FR-RSA dummy (with $\delta f_1 \delta f_2$ in regressor)/FR-RSA dummy (with feature $\mathbb{1}[f_1==f_2]$ as feature of the dataset)/FR-RSA (if 2nd as strong as MLEM, maybe less robust to different types of noise)
+- [x] Try to make a dataset out of ground-truth W (MDS or analytical) or try to find ground-truth from dataset
+- [x] Make plot MLEM/FR-RSA dummy (with $\delta f_1 \delta f_2$ in regressor)/FR-RSA dummy (with feature $\mathbb{1}[f_1==f_2]$ as feature of the dataset)/FR-RSA (if 2nd as strong as MLEM, maybe less robust to different types of noise)
 - [ ] GTE/GTR models
 - [ ] Emmanuel's experiment:
 ```
@@ -45,10 +45,10 @@ This should provide
 - the rates of false positive and false negative for the method (treat the method as a classifier), and optionally its statistical power
 - the correlations between inferred values and underlying values
 ```
-- [ ] Make a simulated dataset that would give negative weights in FR-RSA
+- [x] Make a simulated dataset that would give negative weights in FR-RSA
 - [ ] [ConceptNet](https://conceptnet.io/) to add semantic features to the syntactic ones and see which ones are picked up by the model
 - [ ] Mean of univariate as another baseline
-- [ ] Cross validation?
+- [x] Cross validation?
 - [ ] Build comprehensive and balanced word level dataset from PTB to drop feature clustering
 	- See [UD English GUM](https://universaldependencies.org/treebanks/en_gum/index.html)
 - [ ] Make again what makes 2 language models think alike

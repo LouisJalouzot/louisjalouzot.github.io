@@ -7,9 +7,8 @@ project:
 type:
   - experiment
 ---
-[[short_sentence_correlation.html|First plot of FI correlations]]
-
-# Simulated dataset with ground-truth (g.t.)
+Comparing the convergence speed of different parametrizations on $W$. I choose different numbers of optimization steps and plot the training duration.
+# Simulated dataset with ground-truth (g.t.) $W$
 
 Aggregated version of the plot below
 ![[Pasted image 20250612121713.png|400]]
