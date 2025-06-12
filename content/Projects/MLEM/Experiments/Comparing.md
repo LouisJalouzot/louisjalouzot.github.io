@@ -13,3 +13,9 @@ type:
 ![[Pasted image 20250605134523.png]]
 
 ![[Pasted image 20250605134558.png]]
+# More refined convergence experiment
+
+> [!multi-column]
+>> ![[Pasted image 20250612112812.png]]
+>
+>> ![[Pasted image 20250612113857.png]]
