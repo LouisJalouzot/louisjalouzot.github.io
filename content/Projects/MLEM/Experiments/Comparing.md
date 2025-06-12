@@ -8,14 +8,24 @@ type:
   - experiment
 ---
 [[short_sentence_correlation.html|First plot of FI correlations]]
-# MLEM vs. FR-RSA on relative clause BERT
 
-![[Pasted image 20250605134523.png]]
+# Simulated dataset with ground-truth (g.t.)
 
-![[Pasted image 20250605134558.png]]
-# More refined convergence experiment
+> [!multi-column]
+>> ![[Pasted image 20250612121713.png]]
+>
+>> ![[Pasted image 20250612121713.png]]
+
+# MLEM vs. FR-RSA on relative clause BERT layer 7
 
 > [!multi-column]
 >> ![[Pasted image 20250612112812.png]]
 >
->> ![[Pasted image 20250612113857.png]]
+>> ![[Pasted image 20250612120114.png]]
+
+## Old
+
+![[Pasted image 20250605134523.png]]
+
+![[Pasted image 20250605134558.png]]
+
