@@ -16,6 +16,10 @@ type:
 >
 >> ![[Pasted image 20250612121713.png]]
 
+![[Pasted image 20250612134417.png]]
+
+![[Pasted image 20250612134722.png]]
+
 # MLEM vs. FR-RSA on relative clause BERT layer 7
 
 > [!multi-column]

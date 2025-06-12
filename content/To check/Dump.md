@@ -23,3 +23,4 @@ Voyager: An Open-Ended Embodied Agent with Large Language Models
 Harnessing the Universal Geometry of Embeddings
 Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning
 Integrated Ising Model with global inhibition for decision making
+Hypersteer
