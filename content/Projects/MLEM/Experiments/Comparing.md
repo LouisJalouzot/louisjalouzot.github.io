@@ -11,10 +11,8 @@ type:
 
 # Simulated dataset with ground-truth (g.t.)
 
-> [!multi-column]
->> ![[Pasted image 20250612121713.png]]
->
->> ![[Pasted image 20250612121713.png]]
+Aggregated version of the plot below
+![[Pasted image 20250612121713.png|400]]
 
 ![[Pasted image 20250612134417.png]]
 
@@ -26,10 +24,3 @@ type:
 >> ![[Pasted image 20250612112812.png]]
 >
 >> ![[Pasted image 20250612120114.png]]
-
-## Old
-
-![[Pasted image 20250605134523.png]]
-
-![[Pasted image 20250605134558.png]]
-
