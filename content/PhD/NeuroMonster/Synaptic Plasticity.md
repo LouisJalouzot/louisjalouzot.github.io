@@ -16,3 +16,5 @@ Other study, crazy good video
 [[Papers/Notes/Wright et al. 2025 - Distinct|Wright et al. 2025 - Distinct]]
 [[Papers/Notes/Lee et al. 2024 - Biophysical|Lee et al. 2024 - Biophysical]]
 [[Papers/Notes/Madar et al. 2025 - Synaptic|Madar et al. 2025 - Synaptic]]
+[[Papers/Notes/Bittner et al. 2017 - Behavioral|Bittner et al. 2017 - Behavioral]]
+[[Papers/Notes/Yang et al. 2025 - A|Yang et al. 2025 - A]]
