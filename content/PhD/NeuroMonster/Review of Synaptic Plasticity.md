@@ -44,22 +44,22 @@ A pervasive theme across many forms of synaptic plasticity is the central role o
 
 **Table 1: Timeline of Key Discoveries in Synaptic Plasticity**
 
-|Year|Discovery/Concept|Key Researchers/Institutions|Pointer/Publication|
-|---|---|---|---|
-|1894|Ramón y Cajal's Synaptic Strengthening Hypothesis|Santiago Ramón y Cajal|_The Croonian Lecture_|
-|1949|Hebbian Learning ("Neurons that fire together...")|Donald Hebb|_The Organization of Behaviour_|
-|1964|Kandel's LTP in _Aplysia_|Eric Kandel and associates|Work with sea slug _Aplysia_|
-|1966|Lømo's LTP Discovery (abstract)|Terje Lømo|_Acta Physiologica Scandinavica_|
-|1973|Bliss & Lømo's LTP Characterization|Timothy Bliss, Terje Lømo|_Journal of Physiology_|
-|1973|Gardner-Medwin's LTP in Awake Animals|Tony Gardner-Medwin|_Journal of Physiology_|
-|1975|"Long-Term Potentiation" coined|Douglas & Goddard|Formal proposal of the term|
-|1982|Ito's LTD Discovery|Masao Ito et al.|_Neuroscience Letters_, _Journal of Physiology_|
-|Late 1990s|Spike-Timing Dependent Plasticity (STDP)|Henry Markram and colleagues|Initial demonstrations in rat neocortical neurons|
-|2016|Neuromorphic Computing (Magnetic Tunnel Junctions)|Research on MTJs|_Physical Review Applied_|
-|2024|Biophysical Modeling Advancements|Lee, Bell, Bonilla-Quintana, Rangamani|_Annual Review of Biophysics_ (published Feb 2024)|
-|March 2025|Behavioral Timescale Synaptic Plasticity (BTSP)|Antoine D. Madar, Mark E. J. Sheffield (UChicago)|_Nature Neuroscience_|
-|June 2025|Distinct Synaptic Transmission Sites|Oliver Schlüter, Yue Yang (University of Pittsburgh)|_Science Advances_ (published June 2025)|
-|2025|Compartment-Specific Plasticity Rules|Study on mouse motor cortex|_PubMed_ (published April 2025)|
+| Year       | Discovery/Concept                                  | Key Researchers/Institutions                         | Pointer/Publication                                |
+| ---------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| 1894       | Ramón y Cajal's Synaptic Strengthening Hypothesis  | Santiago Ramón y Cajal                               | _The Croonian Lecture_                             |
+| 1949       | Hebbian Learning ("Neurons that fire together...") | Donald Hebb                                          | _The Organization of Behaviour_                    |
+| 1964       | Kandel's LTP in _Aplysia_                          | Eric Kandel and associates                           | Work with sea slug _Aplysia_                       |
+| 1966       | Lømo's LTP Discovery (abstract)                    | Terje Lømo                                           | _Acta Physiologica Scandinavica_                   |
+| 1973       | Bliss & Lømo's LTP Characterization                | Timothy Bliss, Terje Lømo                            | _Journal of Physiology_                            |
+| 1973       | Gardner-Medwin's LTP in Awake Animals              | Tony Gardner-Medwin                                  | _Journal of Physiology_                            |
+| 1975       | "Long-Term Potentiation" coined                    | Douglas & Goddard                                    | Formal proposal of the term                        |
+| 1982       | Ito's LTD Discovery                                | Masao Ito et al.                                     | _Neuroscience Letters_, _Journal of Physiology_    |
+| Late 1990s | Spike-Timing Dependent Plasticity (STDP)           | Henry Markram and colleagues                         | Initial demonstrations in rat neocortical neurons  |
+| 2016       | Neuromorphic Computing (Magnetic Tunnel Junctions) | Research on MTJs                                     | _Physical Review Applied_                          |
+| 2024       | Biophysical Modeling Advancements                  | Lee, Bell, Bonilla-Quintana, Rangamani               | _Annual Review of Biophysics_ (published Feb 2024) |
+| March 2025 | Behavioral Timescale Synaptic Plasticity (BTSP)    | Antoine D. Madar, Mark E. J. Sheffield (UChicago)    | _Nature Neuroscience_                              |
+| June 2025  | Distinct Synaptic Transmission Sites               | Oliver Schlüter, Yue Yang (University of Pittsburgh) | _Science Advances_ (published June 2025)           |
+| 2025       | Compartment-Specific Plasticity Rules              | Study on mouse motor cortex                          | _PubMed_ (published April 2025)                    |
 
 **3. Beyond Simple Coincidence: Spike-Timing-Dependent Plasticity (STDP)**
 
