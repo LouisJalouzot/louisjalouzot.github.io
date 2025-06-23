@@ -1,13 +1,16 @@
 ---
 title: Wu and Maass 2025 - A
-paperTitle: "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning"
-authors: Wu, Yujie,Maass, Wolfgang
+paperTitle: A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning
+authors:
+  - Wu, Yujie,Maass, Wolfgang
 publish: true
 cssclasses:
   - list-cards
-type: annotation
-project:
+type:
+  - annotation
+project: 
 tags:
+  - SynapticPlasticity/BTSP
 status: to read
 progress: to annotate
 ---

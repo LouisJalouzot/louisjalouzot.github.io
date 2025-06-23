@@ -1,13 +1,16 @@
 ---
 title: Wright et al. 2025 - Distinct
-paperTitle: "Distinct synaptic plasticity rules operate across dendritic compartments in vivo during learning"
-authors: Wright, William J.,Hedrick, Nathan G.,Komiyama, Takaki
+paperTitle: Distinct synaptic plasticity rules operate across dendritic compartments in vivo during learning
+authors:
+  - Wright, William J.,Hedrick, Nathan G.,Komiyama, Takaki
 publish: true
 cssclasses:
   - list-cards
-type: annotation
-project:
+type:
+  - annotation
+project: 
 tags:
+  - SynapticPlasticity/LTP
 status: to read
 progress: to annotate
 ---
