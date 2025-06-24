@@ -58,9 +58,9 @@ This should provide
 - [ ] Unit tests
 - [ ] Fix `model_post_init` called by exca for caching
 - [ ] Baseline decoding pairwise
-- [ ] Add lexical variability in datasets to allow for Stratified KFold on all features
-- [ ] Cross validated Permutation Importance with Stratified KFold
-- [ ] Models comparisons: for a given sentence $s$, predict $d(R_{BERT}(s),R_{GPT2}(s))$ from features of $s$ (need same hidden dim)
+- [x] Add lexical variability in datasets to allow for Stratified KFold on all features
+- [x] Cross validated Permutation Importance with Stratified KFold
+- [x] Models comparisons: for a given sentence $s$, predict $d(R_{BERT}(s),R_{GPT2}(s))$ from features of $s$ (need same hidden dim)
 	- Feature Importance on Random Forest or Metric Learning (on encoded features then) 
 - [ ] [[Papers/Notes/King et al. 2020 - Back-to-back|King et al. 2020 - Back-to-back]] and [[Papers/Notes/Armitage et al. 2005 - Reduced|Armitage et al. 2005 - Reduced]] as *baselines*
 - [ ] There seem to be a bug with `EstimateCorrelation` (increasing std between estimates with larger batch sizes, contre-intuitive), bug fixed by running on GPU but would deserve investigating
