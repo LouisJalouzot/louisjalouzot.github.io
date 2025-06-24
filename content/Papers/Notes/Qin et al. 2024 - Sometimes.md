@@ -33,6 +33,9 @@ progress: annotated
 
 # Highlights
 
+> [!error] Bad paper
+> [Rejected](https://openreview.net/forum?id=juxbsQEuTZ) from ICLR 2024
+> Unclear contributions + unsupported claims
 
 # Goal (yellow)
 
