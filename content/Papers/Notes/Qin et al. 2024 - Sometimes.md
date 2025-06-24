@@ -1,15 +1,21 @@
 ---
 title: Qin et al. 2024 - Sometimes
 paperTitle: "Sometimes I am a Tree: Data Drives Unstable Hierarchical Generalization"
-authors: Qin, Tian,Saphra, Naomi,Alvarez-Melis, David
+authors:
+  - Qin, Tian,Saphra, Naomi,Alvarez-Melis, David
 publish: true
 cssclasses:
   - list-cards
-type: annotation
-project:
+type:
+  - annotation
+project: 
 tags:
-status: to read
-progress: to annotate
+  - LLM/BERT
+  - Syntax
+  - Generalization
+  - LanguageAcquisition/Hierarchical
+status: read
+progress: annotated
 ---
 # Annotation for [Qin et al. 2024 - Sometimes](Papers/References/Qin%20et%20al.%202024%20-%20Sometimes)
 
