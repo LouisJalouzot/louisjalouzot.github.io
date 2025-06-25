@@ -28,6 +28,8 @@ type:
 - [x] ~~Try again weight decay, in particular with high correlations~~ Makes the FI distribute on neighbor features (in terms of correlations) even though not relevant
 - [x] Drop POS and maybe depth if too correlated with position
 - [x] Look at Yair's simulation code
+- [ ] [Correlation-Driven Stopping Criterion](https://www.researchgate.net/publication/375733963_Surpassing_early_stopping_A_novel_correlation-based_stopping_criterion_for_neural_networks?hl=en-US)
+- [ ] Investigate stopping rule
 - [ ] Word dataset, PCA on attention KV or Q and color by dependency relation
 - [ ] Check `word in sentence[start_idx:end_idx+1]`
 - [ ] Make simulated dataset in higher dimension with effects not aligned with the canonical basis
