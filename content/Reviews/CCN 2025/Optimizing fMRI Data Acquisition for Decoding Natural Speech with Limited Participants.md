@@ -9,7 +9,7 @@ type:
 originalReviewer: 
 cycle: CCN2025
 deadline: 2025-04-14
-reviewStatus: to do
+reviewStatus: done
 ---
 [[Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants.pdf]]
 
